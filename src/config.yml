@@ -2,11 +2,39 @@ csv:
   base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-csv/
   path:
     texts: ./assets/csv_client/texts.csv
-    spells_buildings: ./assets/csv_logic/spells_buildings.csv
-    spells_characters: ./assets/csv_logic/spells_characters.csv
-    spells_other: ./assets/csv_logic/spells_other.csv
     arenas: ./assets/csv_logic/arenas.csv
 
 json:
   base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-api-data/dst/
   cards: ./cards.json
+
+cards:
+  base:
+  types:
+    - type: Buildings
+      sckey: 270000{0:02d}
+      csv: ./assets/csv_logic/spells_buildings.csv
+    - type: Troops
+      sckey: 260000{0:02d}
+      csv: ./assets/csv_logic/spells_characters.csv
+    - type: Spells
+      sckey: 280000{0:02d}
+      csv: ./assets/csv_logic/spells_other.csv
+
+quests:
+  base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-csv/assets/csv_logic/quests
+  types:
+    - type: attack
+      csv: attack.csv
+    - type: cast
+      csv: cast.csv
+    - type: collect
+      csv: collect.csv
+    - type: daily
+      csv: daily.csv
+    - type: donate
+      csv: donate.csv
+    - type: play
+      csv: play.csv
+    - type: pve
+      csv: pve.csv

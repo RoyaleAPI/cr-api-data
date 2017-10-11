@@ -22,8 +22,6 @@ class App:
         with open(config_path) as f:
             self.config = Box(yaml.load(f))
 
-        self.cards = {}
-
     def text(self, tid, lang):
         """Return field by TID and Language
 
@@ -39,8 +37,7 @@ class App:
         return None
 
     def arena_id(self, key):
-        """Return arena integer id by arena key
-        """
+        """Return arena integer id by arena key."""
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
         with open(csv_path) as f:
             texts_reader = csv.DictReader(f)
@@ -58,27 +55,10 @@ class App:
 
         cards = []
 
-        def card_type(type):
+        def card_type(card_config):
             """make card dicts by type."""
-            spells = {
-                'buildings': {
-                    'path': self.config.csv.path.spells_buildings,
-                    'type': 'Buildings',
-                    'sckey': '270000{0:02d}'
-                },
-                'characters': {
-                    'path': self.config.csv.path.spells_characters,
-                    'type': 'Troops',
-                    'sckey': '260000{0:02d}'
-                },
-                'other': {
-                    'path': self.config.csv.path.spells_other,
-                    'type': 'Spells',
-                    'sckey': '280000{0:02d}'
-                },
-            }
+            csv_path = os.path.join(self.config.csv.base, card_config.csv)
 
-            csv_path = os.path.join(self.config.csv.base, spells[type]['path'])
             with open(csv_path) as f:
                 reader = csv.DictReader(f)
                 for i, row in enumerate(reader):
@@ -87,12 +67,12 @@ class App:
                         name_strip = name.replace('.', '')
                         ccs = camelcase_split(name_strip)
                         key = '-'.join(s.lower() for s in ccs)
-                        decklink = spells[type]['sckey'].format(i - 1)
+                        decklink = card_config.sckey.format(i - 1)
                         card = {
                             'key': key,
                             'name': name,
                             'elixir': int(row['ManaCost']),
-                            'type': spells[type]['type'],
+                            'type': card_config.type,
                             'rarity': row['Rarity'],
                             'arena': self.arena_id(row['UnlockArena']),
                             'description': self.text(row['TID_INFO'], 'EN'),
@@ -101,9 +81,9 @@ class App:
 
                         cards.append(card)
 
-        card_type('buildings')
-        card_type('characters')
-        card_type('other')
+        for card_config in self.config.cards.types:
+            card_type(card_config)
+
 
         json_path = os.path.join(self.config.json.base, self.config.json.cards)
         with open(json_path, 'w') as f:
