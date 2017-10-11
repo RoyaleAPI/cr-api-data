@@ -63,15 +63,18 @@ class App:
             spells = {
                 'buildings': {
                     'path': self.config.csv.path.spells_buildings,
-                    'type': 'Buildings'
+                    'type': 'Buildings',
+                    'sckey': '270000{0:02d}'
                 },
                 'characters': {
                     'path': self.config.csv.path.spells_characters,
-                    'type': 'Troops'
+                    'type': 'Troops',
+                    'sckey': '260000{0:02d}'
                 },
                 'other': {
                     'path': self.config.csv.path.spells_other,
-                    'type': 'Spells'
+                    'type': 'Spells',
+                    'sckey': '280000{0:02d}'
                 },
             }
 
@@ -79,10 +82,12 @@ class App:
             with open(csv_path) as f:
                 reader = csv.DictReader(f)
                 for i, row in enumerate(reader):
-                    if i > 0:
+                    if i > 0 and 'NOTINUSE' not in row['Name']:
                         name = self.text(row['TID'], 'EN')
-                        ccs = camelcase_split(name)
+                        name_strip = name.replace('.', '')
+                        ccs = camelcase_split(name_strip)
                         key = '-'.join(s.lower() for s in ccs)
+                        decklink = spells[type]['sckey'].format(i - 1)
                         card = {
                             'key': key,
                             'name': name,
@@ -90,11 +95,11 @@ class App:
                             'type': spells[type]['type'],
                             'rarity': row['Rarity'],
                             'arena': self.arena_id(row['UnlockArena']),
-                            'description': self.text(row['TID_INFO'], 'EN')
+                            'description': self.text(row['TID_INFO'], 'EN'),
+                            'decklink': decklink
                         }
+
                         cards.append(card)
-                    else:
-                        print(row.keys())
 
         card_type('buildings')
         card_type('characters')
