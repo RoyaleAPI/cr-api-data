@@ -1,7 +1,11 @@
-cards:
-  urlbase: https://smlbiobot.github.io/cr-csv
-  csv:
-    - texts: /assets/csv_client/texts.csv
-    - spells_buildings: /assets/csv_logic/spells_buildings.csv
-    - spells_characters: /assets/csv_logic/spells_characters.csv
-    - spells_other: /assets/csv_logic/spells_other.csv
+csv:
+  base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-csv/
+  path:
+    texts: ./assets/csv_client/texts.csv
+    spells_buildings: ./assets/csv_logic/spells_buildings.csv
+    spells_characters: ./assets/csv_logic/spells_characters.csv
+    spells_other: ./assets/csv_logic/spells_other.csv
+
+json:
+  base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-api-data/dst/
+  cards: ./cards.json
