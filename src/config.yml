@@ -1,0 +1,7 @@
+url:
+  base: https://smlbiobot.github.io/cr-csv
+  paths:
+    - texts: /assets/csv_client/texts.csv
+    - spells_buildings: /assets/csv_logic/spells_buildings.csv
+    - spells_characters: /assets/csv_logic/spells_characters.csv
+    - spells_other: /assets/csv_logic/spells_other.csv
