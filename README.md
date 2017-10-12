@@ -1,6 +1,6 @@
 # cr-api-data
 
-Static data parsing using CSV source.
+The Python scripts inside `/src` combines columns inside several csv files to generate a collection of JSON files to be used for Clash Royale application development.
 
 # Generate JSON from source
 
