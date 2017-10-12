@@ -62,24 +62,25 @@ class App:
             with open(csv_path) as f:
                 reader = csv.DictReader(f)
                 for i, row in enumerate(reader):
-                    if i > 0 and 'NOTINUSE' not in row['Name']:
-                        name = self.text(row['TID'], 'EN')
-                        name_strip = name.replace('.', '')
-                        ccs = camelcase_split(name_strip)
-                        key = '-'.join(s.lower() for s in ccs)
-                        decklink = card_config.sckey.format(i - 1)
-                        card = {
-                            'key': key,
-                            'name': name,
-                            'elixir': int(row['ManaCost']),
-                            'type': card_config.type,
-                            'rarity': row['Rarity'],
-                            'arena': self.arena_id(row['UnlockArena']),
-                            'description': self.text(row['TID_INFO'], 'EN'),
-                            'decklink': decklink
-                        }
+                    if i > 0:
+                        if not row['NotInUse']:
+                            name = self.text(row['TID'], 'EN')
+                            name_strip = name.replace('.', '')
+                            ccs = camelcase_split(name_strip)
+                            key = '-'.join(s.lower() for s in ccs)
+                            decklink = card_config.sckey.format(i - 1)
+                            card = {
+                                'key': key,
+                                'name': name,
+                                'elixir': int(row['ManaCost']),
+                                'type': card_config.type,
+                                'rarity': row['Rarity'],
+                                'arena': self.arena_id(row['UnlockArena']),
+                                'description': self.text(row['TID_INFO'], 'EN'),
+                                'decklink': decklink
+                            }
 
-                        cards.append(card)
+                            cards.append(card)
 
         for card_config in self.config.cards.types:
             card_type(card_config)

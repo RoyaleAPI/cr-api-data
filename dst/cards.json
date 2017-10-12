@@ -590,16 +590,6 @@
         "decklink": "26000049"
     },
     {
-        "key": "knight",
-        "name": "Knight",
-        "elixir": 3,
-        "type": "Troops",
-        "rarity": "Common",
-        "arena": 0,
-        "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-        "decklink": "26000050"
-    },
-    {
         "key": "cannon-cart",
         "name": "Cannon Cart",
         "elixir": 5,
@@ -638,16 +628,6 @@
         "arena": 9,
         "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
         "decklink": "26000057"
-    },
-    {
-        "key": "knight",
-        "name": "Knight",
-        "elixir": 3,
-        "type": "Troops",
-        "rarity": "Common",
-        "arena": 0,
-        "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-        "decklink": "26000062"
     },
     {
         "key": "fireball",
@@ -788,16 +768,6 @@
         "arena": 8,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
         "decklink": "28000013"
-    },
-    {
-        "key": "fireball",
-        "name": "Fireball",
-        "elixir": 4,
-        "type": "Spells",
-        "rarity": "Rare",
-        "arena": 0,
-        "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
-        "decklink": "28000015"
     },
     {
         "key": "heal",
