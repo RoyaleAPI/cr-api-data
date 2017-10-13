@@ -1,6 +1,8 @@
 certifi==2017.7.27.1
 chardet==3.0.4
 idna==2.6
+python-box==3.1.1
 PyYAML==3.12
 requests==2.18.4
+tabulate==0.8.1
 urllib3==1.22
