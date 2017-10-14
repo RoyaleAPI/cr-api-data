@@ -46,6 +46,11 @@ class App:
             "UpgradeMaterialCount", "UpgradeCost", "PowerLevelMultiplier", "RefundGems"
         ]
 
+        def value(v):
+            if str(v).isdigit():
+                return int(v)
+            return v
+
         with open(csv_path) as f:
             reader = csv.DictReader(f)
             rarity = None
@@ -55,12 +60,12 @@ class App:
                     if name != '':
                         if rarity is not None:
                             rarities.append(rarity)
-                        rarity = {'_'.join(camelcase_split(k)).lower(): v for k, v in row.items() if k in fields}
+                        rarity = {'_'.join(camelcase_split(k)).lower(): value(v) for k, v in row.items() if k in fields}
                     else:
-                        vals = {'_'.join(camelcase_split(k)).lower(): v for k, v in row.items() if k in fields and v != ''}
+                        vals = {'_'.join(camelcase_split(k)).lower(): value(v) for k, v in row.items() if k in fields and v != ''}
                         for k, v in vals.items():
-                            if isinstance(rarity[k], str):
-                                rarity[k] = list(rarity[k])
+                            if not isinstance(rarity[k], list):
+                                rarity[k] = [rarity[k]]
                             rarity[k].append(v)
 
         json_path = os.path.join(self.config.json.base, self.config.json.rarities)
