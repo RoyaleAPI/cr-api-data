@@ -1,11 +1,11 @@
 csv:
-  base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-csv/
+  base: ../lib/cr-csv/
   path:
     texts: ./assets/csv_client/texts.csv
     arenas: ./assets/csv_logic/arenas.csv
 
 json:
-  base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-api-data/dst/
+  base: ../dst/
   cards: ./cards.json
 
 cards:
