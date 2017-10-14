@@ -82,7 +82,7 @@ class App:
 
                             cards.append(card)
 
-        for card_config in self.config.cards.types:
+        for card_config in self.config.cards:
             card_type(card_config)
 
 

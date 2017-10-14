@@ -3,23 +3,23 @@ csv:
   path:
     texts: ./assets/csv_client/texts.csv
     arenas: ./assets/csv_logic/arenas.csv
+    rarities: ./assets/csv_logic/rarities.csv
 
 json:
   base: ../dst/
   cards: ./cards.json
+  rarities: ./rarities.json
 
 cards:
-  base:
-  types:
-    - type: Buildings
-      sckey: 270000{0:02d}
-      csv: ./assets/csv_logic/spells_buildings.csv
-    - type: Troops
-      sckey: 260000{0:02d}
-      csv: ./assets/csv_logic/spells_characters.csv
-    - type: Spells
-      sckey: 280000{0:02d}
-      csv: ./assets/csv_logic/spells_other.csv
+  - type: Buildings
+    sckey: 270000{0:02d}
+    csv: ./assets/csv_logic/spells_buildings.csv
+  - type: Troops
+    sckey: 260000{0:02d}
+    csv: ./assets/csv_logic/spells_characters.csv
+  - type: Spells
+    sckey: 280000{0:02d}
+    csv: ./assets/csv_logic/spells_other.csv
 
 quests:
   base: ../lib/cr-csv/assets/csv_logic/quests
