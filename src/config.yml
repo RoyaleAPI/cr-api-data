@@ -22,7 +22,7 @@ cards:
       csv: ./assets/csv_logic/spells_other.csv
 
 quests:
-  base: /Users/sml/Dropbox/_Projects/ClashRoyale/git/cr-csv/assets/csv_logic/quests
+  base: ../lib/cr-csv/assets/csv_logic/quests
   types:
     - type: attack
       csv: attack.csv
