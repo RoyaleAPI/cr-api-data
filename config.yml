@@ -11,13 +11,13 @@ json:
   rarities: ./rarities.json
 
 cards:
-  - type: Troops
+  - type: Troop
     sckey: 260000{0:02d}
     csv: ./assets/csv_logic/spells_characters.csv
-  - type: Buildings
+  - type: Building
     sckey: 270000{0:02d}
     csv: ./assets/csv_logic/spells_buildings.csv
-  - type: Spells
+  - type: Spell
     sckey: 280000{0:02d}
     csv: ./assets/csv_logic/spells_other.csv
 
