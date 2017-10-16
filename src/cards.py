@@ -53,9 +53,10 @@ class App:
     def make_cards(self):
         """Generate cards.json"""
 
-        cards = []
+        cards = {}
+        card_num = 0
 
-        def card_type(card_config):
+        def card_type(card_config, card_num):
             """make card dicts by type."""
             csv_path = os.path.join(self.config.csv.base, card_config.csv)
 
@@ -63,15 +64,20 @@ class App:
                 reader = csv.DictReader(f)
                 for i, row in enumerate(reader):
                     if i > 0:
+                        card_num += 1
                         if not row['NotInUse']:
-                            name = self.text(row['TID'], 'EN')
-                            name_strip = re.sub('[\.\-]', '', name)
+                            card_id = card_num
+                            name_en = self.text(row['TID'], 'EN')
+                            name_strip = re.sub('[\.\-]', '', name_en)
                             ccs = camelcase_split(name_strip)
                             key = '-'.join(s.lower() for s in ccs)
+                            card_key = '_'.join(s.lower() for s in ccs)
                             decklink = card_config.sckey.format(i - 1)
                             card = {
+                                'card_id': card_id,
                                 'key': key,
-                                'name': name,
+                                'card_key': card_key,
+                                'name': name_en,
                                 'elixir': int(row['ManaCost']),
                                 'type': card_config.type,
                                 'rarity': row['Rarity'],
@@ -80,10 +86,11 @@ class App:
                                 'decklink': decklink
                             }
 
-                            cards.append(card)
+                            cards[card_id] = card
+            return card_num
 
         for card_config in self.config.cards:
-            card_type(card_config)
+            card_num = card_type(card_config, card_num)
 
 
         json_path = os.path.join(self.config.json.base, self.config.json.cards)
