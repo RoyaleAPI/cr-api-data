@@ -80,7 +80,7 @@
         "decklink": "27000007"
     },
     {
-        "key": "bow",
+        "key": "x-bow",
         "name": "X-Bow",
         "elixir": 6,
         "type": "Buildings",

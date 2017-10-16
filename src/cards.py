@@ -65,7 +65,7 @@ class App:
                     if i > 0:
                         if not row['NotInUse']:
                             name = self.text(row['TID'], 'EN')
-                            name_strip = name.replace('.', '')
+                            name_strip = re.sub('[\.\-]', '', name)
                             ccs = camelcase_split(name_strip)
                             key = '-'.join(s.lower() for s in ccs)
                             decklink = card_config.sckey.format(i - 1)
