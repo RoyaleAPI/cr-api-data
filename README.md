@@ -1,6 +1,6 @@
 # cr-api-data
 
-The Python scripts inside `/src` combines columns inside several csv files to generate a collection of JSON files to be used for Clash Royale application development.
+The Python scripts inside `/cr` combines columns inside several csv files to generate a collection of JSON files to be used for Clash Royale application development.
 
 ## Submodules
 
@@ -22,13 +22,6 @@ You will need to clone the repo with the submodules downloaded.
 
 Change folder to /src
 
-```cd src```
-
-Runnable scripts:
-
-`./cards.py`
-`./rarities.py`
-
-These will output to /dst
+Run `./run.py`
 
 

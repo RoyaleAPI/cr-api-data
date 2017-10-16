@@ -1,26 +1,18 @@
-#!/usr/bin/env python
 """
 Generate cards JSON from APK CSV source.
 """
 
 import csv
+import json
 import os
 import re
-import json
 
-import yaml
-from box import Box
+from .util import camelcase_split
 
 
-def camelcase_split(s):
-    """Split camel case into list of strings"""
-    return re.findall(r'[A-Z](?:[a-z]+|[A-Z]*(?=[A-Z]|$))', s)
-
-
-class App:
-    def __init__(self, config_path=None):
-        with open(config_path) as f:
-            self.config = Box(yaml.load(f))
+class Cards:
+    def __init__(self, config):
+        self.config = config
 
     def text(self, tid, lang):
         """Return field by TID and Language
@@ -92,16 +84,10 @@ class App:
         for card_config in self.config.cards:
             card_num = card_type(card_config, card_num)
 
-
         json_path = os.path.join(self.config.json.base, self.config.json.cards)
         with open(json_path, 'w') as f:
             json.dump(cards, f, indent=4)
 
-
-def test():
-    pass
+        print(json_path)
 
 
-if __name__ == '__main__':
-    app = App(config_path='./config.yml')
-    app.run()

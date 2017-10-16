@@ -1,12 +1,12 @@
 csv:
-  base: ../lib/cr-csv/
+  base: ./lib/cr-csv/
   path:
     texts: ./assets/csv_client/texts.csv
     arenas: ./assets/csv_logic/arenas.csv
     rarities: ./assets/csv_logic/rarities.csv
 
 json:
-  base: ../dst/
+  base: ./dst/
   cards: ./cards.json
   rarities: ./rarities.json
 
@@ -22,7 +22,7 @@ cards:
     csv: ./assets/csv_logic/spells_other.csv
 
 quests:
-  base: ../lib/cr-csv/assets/csv_logic/quests
+  base: ./lib/cr-csv/assets/csv_logic/quests
   types:
     - type: attack
       csv: attack.csv

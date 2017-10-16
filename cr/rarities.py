@@ -1,26 +1,17 @@
-#!/usr/bin/env python
 """
-Generate rarity JSON from APK CSV source.
+Generate rarities JSON from APK CSV source.
 """
 
 import csv
 import json
 import os
-import re
 
-import yaml
-from box import Box
+from .util import camelcase_split
 
 
-def camelcase_split(s):
-    """Split camel case into list of strings"""
-    return re.findall(r'[A-Z](?:[a-z]+|[A-Z]*(?=[A-Z]|$))', s)
-
-
-class App:
-    def __init__(self, config_path=None):
-        with open(config_path) as f:
-            self.config = Box(yaml.load(f))
+class Rarities:
+    def __init__(self, config):
+        self.config = config
 
     def text(self, tid, lang):
         """Return field by TID and Language
@@ -41,7 +32,8 @@ class App:
         rarities = []
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.rarities)
         fields = [
-            "Name","LevelCount","RelativeLevel","MirrorRelativeLevel","CloneRelativeLevel","DonateCapacity","SortCapacity",
+            "Name", "LevelCount", "RelativeLevel", "MirrorRelativeLevel", "CloneRelativeLevel", "DonateCapacity",
+            "SortCapacity",
             "DonateReward", "DonateXP", "GoldConversionValue", "ChanceWeight", "BalanceMultiplier", "UpgradeExp",
             "UpgradeMaterialCount", "UpgradeCost", "PowerLevelMultiplier", "RefundGems"
         ]
@@ -62,7 +54,8 @@ class App:
                             rarities.append(rarity)
                         rarity = {'_'.join(camelcase_split(k)).lower(): value(v) for k, v in row.items() if k in fields}
                     else:
-                        vals = {'_'.join(camelcase_split(k)).lower(): value(v) for k, v in row.items() if k in fields and v != ''}
+                        vals = {'_'.join(camelcase_split(k)).lower(): value(v) for k, v in row.items() if
+                                k in fields and v != ''}
                         for k, v in vals.items():
                             if not isinstance(rarity[k], list):
                                 rarity[k] = [rarity[k]]
@@ -72,7 +65,6 @@ class App:
         with open(json_path, 'w') as f:
             json.dump(rarities, f, indent=4)
 
+        print(json_path)
 
-if __name__ == '__main__':
-    app = App(config_path='./config.yml')
-    app.run()
+
