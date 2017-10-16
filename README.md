@@ -2,8 +2,12 @@
 
 The Python scripts inside `/src` combines columns inside several csv files to generate a collection of JSON files to be used for Clash Royale application development.
 
-# Generate JSON from source
+## Submodules
 
-1. Clone the [cr-csv](https://github.com/smlbiobot/cr-csv) repo
-2. Edit paths `/src/config.yml` to reflect your environment.
-3. Run `./cards.py` to generate cards.json
+You will need to clone the repo with the submodules downloaded.
+
+```git clone --recursive https://github.com/cr-api/cr-api-data```
+
+## Generate JSON from source
+
+Run `./cards.py` in /src to generate /dst/cards.json
