@@ -5,12 +5,14 @@ csv:
     arenas: ./assets/csv_logic/arenas.csv
     rarities: ./assets/csv_logic/rarities.csv
     chest_order: ./assets/csv_logic/chest_order.csv
+    clan_chest: ./assets/csv_logic/globals.csv
 
 json:
   base: ./dst/
   cards: ./cards.json
   rarities: ./rarities.json
   chest_order: ./chest_order.json
+  clan_chest: ./clan_chest.json
 
 cards:
   - type: Troop

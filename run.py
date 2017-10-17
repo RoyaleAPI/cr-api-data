@@ -6,6 +6,7 @@ Generate data JSON from APK CSV source.
 from cr.cards import Cards
 from cr.rarities import Rarities
 from cr.chests import Chests
+from cr.clan_chest import ClanChest
 from box import Box
 import yaml
 
@@ -15,12 +16,8 @@ if __name__ == '__main__':
     with open(config_path) as f:
         config = Box(yaml.load(f))
 
-    app = Cards(config=config)
-    app.run()
+    for cls in [Cards, Rarities, Chests, ClanChest]:
+        app = cls(config=config)
+        app.run()
 
-    app = Rarities(config=config)
-    app.run()
-
-    app = Chests(config=config)
-    app.run()
 

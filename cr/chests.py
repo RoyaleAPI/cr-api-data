@@ -4,10 +4,9 @@ Generate chest cycle
 import csv
 import json
 import os
-import re
+
 
 class Chests:
-
     def __init__(self, config):
         self.config = config
 
