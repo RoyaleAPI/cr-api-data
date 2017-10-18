@@ -30,7 +30,7 @@ class ClanChest:
             'CLAN_TEAM_VS_TEAM_CHEST_CARDS': tvt_cards
         }
 
-        with open(csv_path) as f:
+        with open(csv_path, encoding="utf8") as f:
             reader = csv.DictReader(f)
 
             current_name = ''

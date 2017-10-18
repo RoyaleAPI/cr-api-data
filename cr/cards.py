@@ -52,7 +52,7 @@ class Cards:
             """make card dicts by type."""
             csv_path = os.path.join(self.config.csv.base, card_config.csv)
 
-            with open(csv_path) as f:
+            with open(csv_path, encoding="utf8") as f:
                 reader = csv.DictReader(f)
                 for i, row in enumerate(reader):
                     if i > 0:

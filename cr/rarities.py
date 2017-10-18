@@ -43,7 +43,7 @@ class Rarities:
                 return int(v)
             return v
 
-        with open(csv_path) as f:
+        with open(csv_path, encoding="utf8") as f:
             reader = csv.DictReader(f)
             rarity = None
             for i, row in enumerate(reader):

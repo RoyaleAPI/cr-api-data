@@ -40,7 +40,7 @@ class App:
         """Return arena integer id by arena key
         """
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
-        with open(csv_path) as f:
+        with open(csv_path, encoding="utf8") as f:
             texts_reader = csv.DictReader(f)
             for row in texts_reader:
                 if row['Name'] == key:
