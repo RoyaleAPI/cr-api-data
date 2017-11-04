@@ -3,10 +3,7 @@
 Generate data JSON from APK CSV source.
 """
 
-from cr.cards import Cards
-from cr.rarities import Rarities
-from cr.chests import Chests
-from cr.clan_chest import ClanChest
+from cr import Cards, Rarities, Chests, ClanChest
 from box import Box
 import yaml
 

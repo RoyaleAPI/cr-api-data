@@ -8,11 +8,12 @@ import os
 import re
 
 from .util import camelcase_split
+from .base import BaseGen
 
 
-class Cards:
+class Cards(BaseGen):
     def __init__(self, config):
-        self.config = config
+        super().__init__(config)
 
     def text(self, tid, lang):
         """Return field by TID and Language

@@ -5,10 +5,12 @@ import csv
 import json
 import os
 
+from .base import BaseGen
 
-class Chests:
+
+class Chests(BaseGen):
     def __init__(self, config):
-        self.config = config
+        super().__init__(config)
 
     def run(self):
         """Generate chests.json"""

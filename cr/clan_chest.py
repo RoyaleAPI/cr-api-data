@@ -5,10 +5,11 @@ Clan Chest
 import json
 import csv
 import os
+from .base import BaseGen
 
-class ClanChest:
+class ClanChest(BaseGen):
     def __init__(self, config):
-        self.config = config
+        super().__init__(config)
 
     def run(self):
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.clan_chest)
