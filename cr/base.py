@@ -4,6 +4,7 @@ Base generator
 
 import csv
 import os
+import json
 
 
 class BaseGen:
@@ -23,3 +24,10 @@ class BaseGen:
                     s = row[lang]
                     return s.replace('\q', '\"')
         return None
+
+    def save_json(self, data, json_path):
+        """Save path to json."""
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+
+        print(json_path)

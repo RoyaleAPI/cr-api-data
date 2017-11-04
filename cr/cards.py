@@ -86,9 +86,9 @@ class Cards(BaseGen):
             card_num = card_type(card_config, card_num)
 
         json_path = os.path.join(self.config.json.base, self.config.json.cards)
-        with open(json_path, 'w') as f:
-            json.dump(cards, f, indent=4)
 
-        print(json_path)
+        self.save_json(cards, json_path)
+
+
 
 
