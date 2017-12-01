@@ -8,7 +8,7 @@ import os
 from .base import BaseGen
 
 
-class Chests(BaseGen):
+class ChestOrder(BaseGen):
     def __init__(self, config):
         super().__init__(config)
 
