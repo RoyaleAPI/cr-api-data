@@ -34,7 +34,6 @@ class ChestOrder(BaseGen):
                     else:
                         chests[current_name].append({
                             "chest": row["Chest"],
-                            "quest_threshold": int(row["QuestThreshold"]),
                             "arena_threshold": row["ArenaThreshold"],
                             "one_time": bool(row["OneTime"])
                         })

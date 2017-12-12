@@ -527,6 +527,18 @@
         "description": "Spawns a pair of leveled up Barbarians. They're like regular Barbarians, only harder, better, faster and stronger.",
         "decklink": "26000043"
     },
+    "45": {
+        "card_id": 45,
+        "key": "hunter",
+        "card_key": "hunter",
+        "name": "Hunter",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 9,
+        "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
+        "decklink": "26000044"
+    },
     "46": {
         "card_id": 46,
         "key": "executioner",
@@ -574,6 +586,30 @@
         "arena": 8,
         "description": "Spawns a handful of tiny flying creatures with big ears. Having big ears doesn't mean they're good listeners.",
         "decklink": "26000049"
+    },
+    "51": {
+        "card_id": 51,
+        "key": "royal-ghost",
+        "card_key": "royal_ghost",
+        "name": "Royal Ghost",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 10,
+        "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
+        "decklink": "26000050"
+    },
+    "53": {
+        "card_id": 53,
+        "key": "zappies",
+        "card_key": "zappies",
+        "name": "Zappies",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Rare",
+        "arena": 11,
+        "description": "Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.",
+        "decklink": "26000052"
     },
     "55": {
         "card_id": 55,

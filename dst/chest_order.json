@@ -244,25 +244,21 @@
     "Quest_earlygame_1": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "TrainingCamp",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -270,25 +266,21 @@
     "Quest_earlygame_2": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "TrainingCamp",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -296,73 +288,61 @@
     "Quest_lategame_1": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         }
@@ -370,73 +350,61 @@
     "Quest_lategame_2": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -444,73 +412,61 @@
     "Quest_lategame_3": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -518,73 +474,61 @@
     "Quest_lategame_4": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -592,73 +536,61 @@
     "Quest_lategame_5": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -666,73 +598,61 @@
     "Quest_lategame_6": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -740,73 +660,61 @@
     "Quest_lategame_7": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         }
@@ -814,73 +722,61 @@
     "Quest_lategame_8": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -888,73 +784,61 @@
     "Quest_lategame_9": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -962,73 +846,61 @@
     "Quest_lategame_10": [
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "Arena5",
             "one_time": false
         },
         {
             "chest": "Legendary",
-            "quest_threshold": 400,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Epic",
-            "quest_threshold": 350,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Gold",
-            "quest_threshold": 50,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Magic",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         },
         {
             "chest": "Giant",
-            "quest_threshold": 300,
             "arena_threshold": "",
             "one_time": false
         }
@@ -1036,7 +908,6 @@
     "Quest_arena3_super": [
         {
             "chest": "Super",
-            "quest_threshold": 500,
             "arena_threshold": "Arena3",
             "one_time": true
         }
