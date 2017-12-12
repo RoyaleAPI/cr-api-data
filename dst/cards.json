@@ -1,5 +1,5 @@
-{
-    "1": {
+[
+    {
         "card_id": 1,
         "key": "knight",
         "card_key": "knight",
@@ -9,9 +9,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-        "decklink": "26000000"
+        "decklink": 26000000
     },
-    "2": {
+    {
         "card_id": 2,
         "key": "archers",
         "card_key": "archers",
@@ -21,9 +21,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
-        "decklink": "26000001"
+        "decklink": 26000001
     },
-    "3": {
+    {
         "card_id": 3,
         "key": "goblins",
         "card_key": "goblins",
@@ -33,9 +33,9 @@
         "rarity": "Common",
         "arena": 1,
         "description": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
-        "decklink": "26000002"
+        "decklink": 26000002
     },
-    "4": {
+    {
         "card_id": 4,
         "key": "giant",
         "card_key": "giant",
@@ -45,9 +45,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
-        "decklink": "26000003"
+        "decklink": 26000003
     },
-    "5": {
+    {
         "card_id": 5,
         "key": "pekka",
         "card_key": "pekka",
@@ -57,9 +57,9 @@
         "rarity": "Epic",
         "arena": 4,
         "description": "A heavily armored, slow melee fighter. Swings from the hip but packs a huge punch.",
-        "decklink": "26000004"
+        "decklink": 26000004
     },
-    "6": {
+    {
         "card_id": 6,
         "key": "minions",
         "card_key": "minions",
@@ -69,9 +69,9 @@
         "rarity": "Common",
         "arena": 2,
         "description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
-        "decklink": "26000005"
+        "decklink": 26000005
     },
-    "7": {
+    {
         "card_id": 7,
         "key": "balloon",
         "card_key": "balloon",
@@ -81,9 +81,9 @@
         "rarity": "Epic",
         "arena": 2,
         "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
-        "decklink": "26000006"
+        "decklink": 26000006
     },
-    "8": {
+    {
         "card_id": 8,
         "key": "witch",
         "card_key": "witch",
@@ -93,9 +93,9 @@
         "rarity": "Epic",
         "arena": 0,
         "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
-        "decklink": "26000007"
+        "decklink": 26000007
     },
-    "9": {
+    {
         "card_id": 9,
         "key": "barbarians",
         "card_key": "barbarians",
@@ -105,9 +105,9 @@
         "rarity": "Common",
         "arena": 3,
         "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
-        "decklink": "26000008"
+        "decklink": 26000008
     },
-    "10": {
+    {
         "card_id": 10,
         "key": "golem",
         "card_key": "golem",
@@ -117,9 +117,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
-        "decklink": "26000009"
+        "decklink": 26000009
     },
-    "11": {
+    {
         "card_id": 11,
         "key": "skeletons",
         "card_key": "skeletons",
@@ -129,9 +129,9 @@
         "rarity": "Common",
         "arena": 2,
         "description": "Three fast, very weak melee fighters. Surround your enemies with this pile of bones!",
-        "decklink": "26000010"
+        "decklink": 26000010
     },
-    "12": {
+    {
         "card_id": 12,
         "key": "valkyrie",
         "card_key": "valkyrie",
@@ -141,9 +141,9 @@
         "rarity": "Rare",
         "arena": 1,
         "description": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
-        "decklink": "26000011"
+        "decklink": 26000011
     },
-    "13": {
+    {
         "card_id": 13,
         "key": "skeleton-army",
         "card_key": "skeleton_army",
@@ -153,9 +153,9 @@
         "rarity": "Epic",
         "arena": 0,
         "description": "Spawns an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
-        "decklink": "26000012"
+        "decklink": 26000012
     },
-    "14": {
+    {
         "card_id": 14,
         "key": "bomber",
         "card_key": "bomber",
@@ -165,9 +165,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.",
-        "decklink": "26000013"
+        "decklink": 26000013
     },
-    "15": {
+    {
         "card_id": 15,
         "key": "musketeer",
         "card_key": "musketeer",
@@ -177,9 +177,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
-        "decklink": "26000014"
+        "decklink": 26000014
     },
-    "16": {
+    {
         "card_id": 16,
         "key": "baby-dragon",
         "card_key": "baby_dragon",
@@ -189,9 +189,9 @@
         "rarity": "Epic",
         "arena": 0,
         "description": "Flying troop that deals area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
-        "decklink": "26000015"
+        "decklink": 26000015
     },
-    "17": {
+    {
         "card_id": 17,
         "key": "prince",
         "card_key": "prince",
@@ -201,9 +201,9 @@
         "rarity": "Epic",
         "arena": 0,
         "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
-        "decklink": "26000016"
+        "decklink": 26000016
     },
-    "18": {
+    {
         "card_id": 18,
         "key": "wizard",
         "card_key": "wizard",
@@ -213,9 +213,9 @@
         "rarity": "Rare",
         "arena": 5,
         "description": "The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
-        "decklink": "26000017"
+        "decklink": 26000017
     },
-    "19": {
+    {
         "card_id": 19,
         "key": "mini-pekka",
         "card_key": "mini_pekka",
@@ -225,9 +225,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
-        "decklink": "26000018"
+        "decklink": 26000018
     },
-    "20": {
+    {
         "card_id": 20,
         "key": "spear-goblins",
         "card_key": "spear_goblins",
@@ -237,9 +237,9 @@
         "rarity": "Common",
         "arena": 1,
         "description": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!?! Who thought that was a good idea?!",
-        "decklink": "26000019"
+        "decklink": 26000019
     },
-    "21": {
+    {
         "card_id": 21,
         "key": "giant-skeleton",
         "card_key": "giant_skeleton",
@@ -249,9 +249,9 @@
         "rarity": "Epic",
         "arena": 2,
         "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
-        "decklink": "26000020"
+        "decklink": 26000020
     },
-    "22": {
+    {
         "card_id": 22,
         "key": "hog-rider",
         "card_key": "hog_rider",
@@ -261,9 +261,9 @@
         "rarity": "Rare",
         "arena": 4,
         "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
-        "decklink": "26000021"
+        "decklink": 26000021
     },
-    "23": {
+    {
         "card_id": 23,
         "key": "minion-horde",
         "card_key": "minion_horde",
@@ -273,9 +273,9 @@
         "rarity": "Common",
         "arena": 4,
         "description": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
-        "decklink": "26000022"
+        "decklink": 26000022
     },
-    "24": {
+    {
         "card_id": 24,
         "key": "ice-wizard",
         "card_key": "ice_wizard",
@@ -285,9 +285,9 @@
         "rarity": "Legendary",
         "arena": 5,
         "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
-        "decklink": "26000023"
+        "decklink": 26000023
     },
-    "25": {
+    {
         "card_id": 25,
         "key": "royal-giant",
         "card_key": "royal_giant",
@@ -297,9 +297,9 @@
         "rarity": "Common",
         "arena": 7,
         "description": "Destroying enemy buildings with his massive cannon is his job; making a raggedy blond beard look good is his passion.",
-        "decklink": "26000024"
+        "decklink": 26000024
     },
-    "26": {
+    {
         "card_id": 26,
         "key": "guards",
         "card_key": "guards",
@@ -309,9 +309,9 @@
         "rarity": "Epic",
         "arena": 7,
         "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
-        "decklink": "26000025"
+        "decklink": 26000025
     },
-    "27": {
+    {
         "card_id": 27,
         "key": "princess",
         "card_key": "princess",
@@ -321,9 +321,9 @@
         "rarity": "Legendary",
         "arena": 7,
         "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
-        "decklink": "26000026"
+        "decklink": 26000026
     },
-    "28": {
+    {
         "card_id": 28,
         "key": "dark-prince",
         "card_key": "dark_prince",
@@ -333,9 +333,9 @@
         "rarity": "Epic",
         "arena": 7,
         "description": "The Dark Prince deals area damage and lets his spiked club do the talking for him - because when he does talk, it sounds like he has a bucket on his head.",
-        "decklink": "26000027"
+        "decklink": 26000027
     },
-    "29": {
+    {
         "card_id": 29,
         "key": "three-musketeers",
         "card_key": "three_musketeers",
@@ -345,9 +345,9 @@
         "rarity": "Rare",
         "arena": 7,
         "description": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!",
-        "decklink": "26000028"
+        "decklink": 26000028
     },
-    "30": {
+    {
         "card_id": 30,
         "key": "lava-hound",
         "card_key": "lava_hound",
@@ -357,9 +357,9 @@
         "rarity": "Legendary",
         "arena": 4,
         "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
-        "decklink": "26000029"
+        "decklink": 26000029
     },
-    "31": {
+    {
         "card_id": 31,
         "key": "ice-spirit",
         "card_key": "ice_spirit",
@@ -369,9 +369,9 @@
         "rarity": "Common",
         "arena": 8,
         "description": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
-        "decklink": "26000030"
+        "decklink": 26000030
     },
-    "32": {
+    {
         "card_id": 32,
         "key": "fire-spirits",
         "card_key": "fire_spirits",
@@ -381,9 +381,9 @@
         "rarity": "Common",
         "arena": 5,
         "description": "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.",
-        "decklink": "26000031"
+        "decklink": 26000031
     },
-    "33": {
+    {
         "card_id": 33,
         "key": "miner",
         "card_key": "miner",
@@ -393,9 +393,9 @@
         "rarity": "Legendary",
         "arena": 6,
         "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
-        "decklink": "26000032"
+        "decklink": 26000032
     },
-    "34": {
+    {
         "card_id": 34,
         "key": "sparky",
         "card_key": "sparky",
@@ -405,9 +405,9 @@
         "rarity": "Legendary",
         "arena": 6,
         "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
-        "decklink": "26000033"
+        "decklink": 26000033
     },
-    "35": {
+    {
         "card_id": 35,
         "key": "bowler",
         "card_key": "bowler",
@@ -417,9 +417,9 @@
         "rarity": "Epic",
         "arena": 8,
         "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
-        "decklink": "26000034"
+        "decklink": 26000034
     },
-    "36": {
+    {
         "card_id": 36,
         "key": "lumberjack",
         "card_key": "lumberjack",
@@ -429,9 +429,9 @@
         "rarity": "Legendary",
         "arena": 8,
         "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he dies.",
-        "decklink": "26000035"
+        "decklink": 26000035
     },
-    "37": {
+    {
         "card_id": 37,
         "key": "battle-ram",
         "card_key": "battle_ram",
@@ -441,9 +441,9 @@
         "rarity": "Rare",
         "arena": 6,
         "description": "Two Barbarians holding a big log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!",
-        "decklink": "26000036"
+        "decklink": 26000036
     },
-    "38": {
+    {
         "card_id": 38,
         "key": "inferno-dragon",
         "card_key": "inferno_dragon",
@@ -453,9 +453,9 @@
         "rarity": "Legendary",
         "arena": 4,
         "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
-        "decklink": "26000037"
+        "decklink": 26000037
     },
-    "39": {
+    {
         "card_id": 39,
         "key": "ice-golem",
         "card_key": "ice_golem",
@@ -465,9 +465,9 @@
         "rarity": "Rare",
         "arena": 8,
         "description": "He's tough, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
-        "decklink": "26000038"
+        "decklink": 26000038
     },
-    "40": {
+    {
         "card_id": 40,
         "key": "mega-minion",
         "card_key": "mega_minion",
@@ -477,9 +477,9 @@
         "rarity": "Rare",
         "arena": 7,
         "description": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
-        "decklink": "26000039"
+        "decklink": 26000039
     },
-    "41": {
+    {
         "card_id": 41,
         "key": "dart-goblin",
         "card_key": "dart_goblin",
@@ -489,9 +489,9 @@
         "rarity": "Rare",
         "arena": 9,
         "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouth full of gum? Years of didgeridoo lessons.",
-        "decklink": "26000040"
+        "decklink": 26000040
     },
-    "42": {
+    {
         "card_id": 42,
         "key": "goblin-gang",
         "card_key": "goblin_gang",
@@ -501,9 +501,9 @@
         "rarity": "Common",
         "arena": 9,
         "description": "Spawns five Goblins - three with knives, two with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
-        "decklink": "26000041"
+        "decklink": 26000041
     },
-    "43": {
+    {
         "card_id": 43,
         "key": "electro-wizard",
         "card_key": "electro_wizard",
@@ -513,9 +513,9 @@
         "rarity": "Legendary",
         "arena": 7,
         "description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
-        "decklink": "26000042"
+        "decklink": 26000042
     },
-    "44": {
+    {
         "card_id": 44,
         "key": "elite-barbarians",
         "card_key": "elite_barbarians",
@@ -525,9 +525,9 @@
         "rarity": "Common",
         "arena": 7,
         "description": "Spawns a pair of leveled up Barbarians. They're like regular Barbarians, only harder, better, faster and stronger.",
-        "decklink": "26000043"
+        "decklink": 26000043
     },
-    "45": {
+    {
         "card_id": 45,
         "key": "hunter",
         "card_key": "hunter",
@@ -537,9 +537,9 @@
         "rarity": "Epic",
         "arena": 9,
         "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
-        "decklink": "26000044"
+        "decklink": 26000044
     },
-    "46": {
+    {
         "card_id": 46,
         "key": "executioner",
         "card_key": "executioner",
@@ -549,9 +549,9 @@
         "rarity": "Epic",
         "arena": 9,
         "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose an arm.",
-        "decklink": "26000045"
+        "decklink": 26000045
     },
-    "47": {
+    {
         "card_id": 47,
         "key": "bandit",
         "card_key": "bandit",
@@ -561,9 +561,9 @@
         "rarity": "Legendary",
         "arena": 9,
         "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe... and gives her bonus cool points!",
-        "decklink": "26000046"
+        "decklink": 26000046
     },
-    "49": {
+    {
         "card_id": 49,
         "key": "night-witch",
         "card_key": "night_witch",
@@ -573,9 +573,9 @@
         "rarity": "Legendary",
         "arena": 8,
         "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
-        "decklink": "26000048"
+        "decklink": 26000048
     },
-    "50": {
+    {
         "card_id": 50,
         "key": "bats",
         "card_key": "bats",
@@ -585,9 +585,9 @@
         "rarity": "Common",
         "arena": 8,
         "description": "Spawns a handful of tiny flying creatures with big ears. Having big ears doesn't mean they're good listeners.",
-        "decklink": "26000049"
+        "decklink": 26000049
     },
-    "51": {
+    {
         "card_id": 51,
         "key": "royal-ghost",
         "card_key": "royal_ghost",
@@ -597,9 +597,9 @@
         "rarity": "Legendary",
         "arena": 10,
         "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
-        "decklink": "26000050"
+        "decklink": 26000050
     },
-    "53": {
+    {
         "card_id": 53,
         "key": "zappies",
         "card_key": "zappies",
@@ -609,9 +609,9 @@
         "rarity": "Rare",
         "arena": 11,
         "description": "Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.",
-        "decklink": "26000052"
+        "decklink": 26000052
     },
-    "55": {
+    {
         "card_id": 55,
         "key": "cannon-cart",
         "card_key": "cannon_cart",
@@ -621,9 +621,9 @@
         "rarity": "Epic",
         "arena": 10,
         "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
-        "decklink": "26000054"
+        "decklink": 26000054
     },
-    "56": {
+    {
         "card_id": 56,
         "key": "mega-knight",
         "card_key": "mega_knight",
@@ -633,9 +633,9 @@
         "rarity": "Legendary",
         "arena": 10,
         "description": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
-        "decklink": "26000055"
+        "decklink": 26000055
     },
-    "57": {
+    {
         "card_id": 57,
         "key": "skeleton-barrel",
         "card_key": "skeleton_barrel",
@@ -645,9 +645,9 @@
         "rarity": "Common",
         "arena": 6,
         "description": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
-        "decklink": "26000056"
+        "decklink": 26000056
     },
-    "58": {
+    {
         "card_id": 58,
         "key": "flying-machine",
         "card_key": "flying_machine",
@@ -657,9 +657,9 @@
         "rarity": "Rare",
         "arena": 9,
         "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
-        "decklink": "26000057"
+        "decklink": 26000057
     },
-    "64": {
+    {
         "card_id": 64,
         "key": "cannon",
         "card_key": "cannon",
@@ -669,9 +669,9 @@
         "rarity": "Common",
         "arena": 3,
         "description": "Defensive building. Shoots cannonballs with deadly effect, but cannot target flying troops.",
-        "decklink": "27000000"
+        "decklink": 27000000
     },
-    "65": {
+    {
         "card_id": 65,
         "key": "goblin-hut",
         "card_key": "goblin_hut",
@@ -681,9 +681,9 @@
         "rarity": "Rare",
         "arena": 1,
         "description": "Building that spawns Spear Goblins. But don't look inside. You don't want to see how they are made.",
-        "decklink": "27000001"
+        "decklink": 27000001
     },
-    "66": {
+    {
         "card_id": 66,
         "key": "mortar",
         "card_key": "mortar",
@@ -693,9 +693,9 @@
         "rarity": "Common",
         "arena": 6,
         "description": "Defensive building with a long range. Shoots exploding boulders that deal area damage. Cannot shoot at targets that get very close!",
-        "decklink": "27000002"
+        "decklink": 27000002
     },
-    "67": {
+    {
         "card_id": 67,
         "key": "inferno-tower",
         "card_key": "inferno_tower",
@@ -705,9 +705,9 @@
         "rarity": "Rare",
         "arena": 4,
         "description": "Defensive building, roasts targets for damage that increases over time. Burns through even the biggest and toughest enemies!",
-        "decklink": "27000003"
+        "decklink": 27000003
     },
-    "68": {
+    {
         "card_id": 68,
         "key": "bomb-tower",
         "card_key": "bomb_tower",
@@ -717,9 +717,9 @@
         "rarity": "Rare",
         "arena": 2,
         "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
-        "decklink": "27000004"
+        "decklink": 27000004
     },
-    "69": {
+    {
         "card_id": 69,
         "key": "barbarian-hut",
         "card_key": "barbarian_hut",
@@ -729,9 +729,9 @@
         "rarity": "Rare",
         "arena": 3,
         "description": "Troop building that periodically deploys Barbarians to fight the enemy. Time to make the Barbarians.",
-        "decklink": "27000005"
+        "decklink": 27000005
     },
-    "70": {
+    {
         "card_id": 70,
         "key": "tesla",
         "card_key": "tesla",
@@ -741,9 +741,9 @@
         "rarity": "Common",
         "arena": 4,
         "description": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
-        "decklink": "27000006"
+        "decklink": 27000006
     },
-    "71": {
+    {
         "card_id": 71,
         "key": "elixir-collector",
         "card_key": "elixir_collector",
@@ -753,9 +753,9 @@
         "rarity": "Rare",
         "arena": 6,
         "description": "You gotta spend Elixir to make Elixir.",
-        "decklink": "27000007"
+        "decklink": 27000007
     },
-    "72": {
+    {
         "card_id": 72,
         "key": "x-bow",
         "card_key": "x_bow",
@@ -765,9 +765,9 @@
         "rarity": "Epic",
         "arena": 3,
         "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
-        "decklink": "27000008"
+        "decklink": 27000008
     },
-    "73": {
+    {
         "card_id": 73,
         "key": "tombstone",
         "card_key": "tombstone",
@@ -777,9 +777,9 @@
         "rarity": "Rare",
         "arena": 2,
         "description": "Troop building that periodically deploys Skeletons to fight the enemy. When destroyed, spawns 4 Skeletons. Creepy!",
-        "decklink": "27000009"
+        "decklink": 27000009
     },
-    "74": {
+    {
         "card_id": 74,
         "key": "furnace",
         "card_key": "furnace",
@@ -789,9 +789,9 @@
         "rarity": "Rare",
         "arena": 5,
         "description": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
-        "decklink": "27000010"
+        "decklink": 27000010
     },
-    "78": {
+    {
         "card_id": 78,
         "key": "fireball",
         "card_key": "fireball",
@@ -801,9 +801,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
-        "decklink": "28000000"
+        "decklink": 28000000
     },
-    "79": {
+    {
         "card_id": 79,
         "key": "arrows",
         "card_key": "arrows",
@@ -813,9 +813,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.",
-        "decklink": "28000001"
+        "decklink": 28000001
     },
-    "80": {
+    {
         "card_id": 80,
         "key": "rage",
         "card_key": "rage",
@@ -825,9 +825,9 @@
         "rarity": "Epic",
         "arena": 3,
         "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
-        "decklink": "28000002"
+        "decklink": 28000002
     },
-    "81": {
+    {
         "card_id": 81,
         "key": "rocket",
         "card_key": "rocket",
@@ -837,9 +837,9 @@
         "rarity": "Rare",
         "arena": 3,
         "description": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
-        "decklink": "28000003"
+        "decklink": 28000003
     },
-    "82": {
+    {
         "card_id": 82,
         "key": "goblin-barrel",
         "card_key": "goblin_barrel",
@@ -849,9 +849,9 @@
         "rarity": "Epic",
         "arena": 1,
         "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
-        "decklink": "28000004"
+        "decklink": 28000004
     },
-    "83": {
+    {
         "card_id": 83,
         "key": "freeze",
         "card_key": "freeze",
@@ -861,9 +861,9 @@
         "rarity": "Epic",
         "arena": 4,
         "description": "Freezes troops and buildings, making them unable to move or attack. Everybody chill.",
-        "decklink": "28000005"
+        "decklink": 28000005
     },
-    "84": {
+    {
         "card_id": 84,
         "key": "mirror",
         "card_key": "mirror",
@@ -873,9 +873,9 @@
         "rarity": "Epic",
         "arena": 5,
         "description": "Mirrors your last card played for +1 Elixir.",
-        "decklink": "28000006"
+        "decklink": 28000006
     },
-    "85": {
+    {
         "card_id": 85,
         "key": "lightning",
         "card_key": "lightning",
@@ -885,9 +885,9 @@
         "rarity": "Epic",
         "arena": 1,
         "description": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
-        "decklink": "28000007"
+        "decklink": 28000007
     },
-    "86": {
+    {
         "card_id": 86,
         "key": "zap",
         "card_key": "zap",
@@ -897,9 +897,9 @@
         "rarity": "Common",
         "arena": 5,
         "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
-        "decklink": "28000008"
+        "decklink": 28000008
     },
-    "87": {
+    {
         "card_id": 87,
         "key": "poison",
         "card_key": "poison",
@@ -909,9 +909,9 @@
         "rarity": "Epic",
         "arena": 5,
         "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!",
-        "decklink": "28000009"
+        "decklink": 28000009
     },
-    "88": {
+    {
         "card_id": 88,
         "key": "graveyard",
         "card_key": "graveyard",
@@ -921,9 +921,9 @@
         "rarity": "Legendary",
         "arena": 5,
         "description": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
-        "decklink": "28000010"
+        "decklink": 28000010
     },
-    "89": {
+    {
         "card_id": 89,
         "key": "the-log",
         "card_key": "the_log",
@@ -933,9 +933,9 @@
         "rarity": "Legendary",
         "arena": 6,
         "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path!",
-        "decklink": "28000011"
+        "decklink": 28000011
     },
-    "90": {
+    {
         "card_id": 90,
         "key": "tornado",
         "card_key": "tornado",
@@ -945,9 +945,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
-        "decklink": "28000012"
+        "decklink": 28000012
     },
-    "91": {
+    {
         "card_id": 91,
         "key": "clone",
         "card_key": "clone",
@@ -957,9 +957,9 @@
         "rarity": "Epic",
         "arena": 8,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
-        "decklink": "28000013"
+        "decklink": 28000013
     },
-    "94": {
+    {
         "card_id": 94,
         "key": "heal",
         "card_key": "heal",
@@ -969,6 +969,6 @@
         "rarity": "Rare",
         "arena": 10,
         "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
-        "decklink": "28000016"
+        "decklink": 28000016
     }
-}
+]

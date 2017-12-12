@@ -46,7 +46,7 @@ class Cards(BaseGen):
     def make_cards(self):
         """Generate cards.json"""
 
-        cards = {}
+        cards = []
         card_num = 0
 
         def card_type(card_config, card_num):
@@ -76,10 +76,10 @@ class Cards(BaseGen):
                                 'rarity': row['Rarity'],
                                 'arena': self.arena_id(row['UnlockArena']),
                                 'description': self.text(row['TID_INFO'], 'EN'),
-                                'decklink': decklink
+                                'decklink': int(decklink)
                             }
 
-                            cards[card_id] = card
+                            cards.append(card)
             return card_num
 
         for card_config in self.config.cards:
