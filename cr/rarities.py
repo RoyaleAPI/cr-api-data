@@ -5,6 +5,7 @@ Generate rarities JSON from APK CSV source.
 import csv
 import json
 import os
+
 from .base import BaseGen
 from .util import camelcase_split
 

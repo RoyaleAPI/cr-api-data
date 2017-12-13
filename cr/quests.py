@@ -4,9 +4,9 @@ Generate quests JSON from APK CSV source.
 """
 
 import csv
+import json
 import os
 import re
-import json
 
 import yaml
 from box import Box

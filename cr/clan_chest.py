@@ -2,10 +2,12 @@
 Clan Chest
 """
 
-import json
 import csv
+import json
 import os
+
 from .base import BaseGen
+
 
 class ClanChest(BaseGen):
     def __init__(self, config):
@@ -63,5 +65,3 @@ class ClanChest(BaseGen):
             json.dump(out, f, indent=4)
 
         print(json_path)
-
-

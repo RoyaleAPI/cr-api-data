@@ -3,12 +3,11 @@ Generate cards JSON from APK CSV source.
 """
 
 import csv
-import json
 import os
 import re
 
-from .util import camelcase_split
 from .base import BaseGen
+from .util import camelcase_split
 
 
 class Cards(BaseGen):
@@ -74,7 +73,3 @@ class Cards(BaseGen):
         json_path = os.path.join(self.config.json.base, self.config.json.cards)
 
         self.save_json(cards, json_path)
-
-
-
-

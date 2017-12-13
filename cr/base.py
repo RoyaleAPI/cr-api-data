@@ -3,8 +3,8 @@ Base generator
 """
 
 import csv
-import os
 import json
+import os
 
 
 class BaseGen:
@@ -24,6 +24,23 @@ class BaseGen:
                     s = row[lang]
                     return s.replace('\q', '\"')
         return None
+
+    def row_value(self, row, field, types):
+        """Row value cast with field type.
+
+        SC’s CSVs uses the second row as type in the CSV.
+        """
+        value = row.get(field)
+        if value == '':
+            return None
+        elif types[field] == 'string':
+            return str(row[field])
+        elif types[field] == 'Int':
+            return int(row[field])
+        elif types[field] == 'boolean':
+            return row[field] == 'TRUE'
+        else:
+            return row[field]
 
     def save_json(self, data, json_path):
         """Save path to json."""
