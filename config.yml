@@ -10,7 +10,7 @@ csv:
 
 json:
   arenas: ./arenas.json
-  base: ./docs/
+  base: ./json/
   cards: ./cards.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
