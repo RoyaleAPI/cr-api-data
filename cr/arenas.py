@@ -3,7 +3,6 @@ Generate arenas JSON from APK CSV source.
 """
 
 import csv
-import json
 import os
 
 from .base import BaseGen
@@ -58,8 +57,6 @@ class Arenas(BaseGen):
                         arenas.append(arena)
 
         arenas = sorted(arenas, key=lambda x: x["arena"])
-        json_path = os.path.join(self.config.json.base, self.config.json.arenas)
-        with open(json_path, 'w') as f:
-            json.dump(arenas, f, indent=4)
 
-        print(json_path)
+        json_path = os.path.join(self.config.json.base, self.config.json.arenas)
+        self.save_json(arenas, json_path)
