@@ -23,21 +23,15 @@ class Arenas(BaseGen):
 
     def run(self):
         """Generate rarities jsons"""
-        rarities = []
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
         fields = [
             "Name", "Arena", "ChestArena", "TvArena", "IsInUse", "TrainingCamp", "PVEArena", "TrophyLimit",
             "DemoteTrophyLimit", "SeasonTrophyReset", "ChestRewardMultiplier", "ShopChestRewardMultiplier",
             "RequestSize", "MaxDonationCountCommon", "MaxDonationCountRare", "MaxDonationCountEpic",
             "MatchmakingMinTrophyDelta", "MatchmakingMaxTrophyDelta", "MatchmakingMaxSeconds", "PvpLocation",
-            "TeamVsTeamLocation", "DailyDonationCapacityLimit", "BattleRewardGold", "ReleaseDate", "SeasonRewardChest",
+            "TeamVsTeamLocation", "DailyDonationCapacityLimit", "BattleRewardGold", "SeasonRewardChest",
             "QuestCycle", "ForceQuestChestCycle"
         ]
-
-        def value(v):
-            if str(v).isdigit():
-                return int(v)
-            return v
 
         arenas = []
         types = {}
