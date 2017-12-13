@@ -1,3 +1,4 @@
+from .arenas import Arenas
 from .cards import Cards
 from .chest_order import ChestOrder
 from .clan_chest import ClanChest

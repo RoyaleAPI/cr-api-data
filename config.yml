@@ -9,6 +9,7 @@ csv:
     texts: ./assets/csv_client/texts.csv
 
 json:
+  arenas: ./arenas.json
   base: ./dst/
   cards: ./cards.json
   chest_order: ./chest_order.json

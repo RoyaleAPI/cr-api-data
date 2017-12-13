@@ -15,20 +15,6 @@ class Cards(BaseGen):
     def __init__(self, config):
         super().__init__(config)
 
-    def text(self, tid, lang):
-        """Return field by TID and Language
-
-        quests_hint = self.text('TID_HINT_QUESTS', 'EN')
-        """
-        csv_path = os.path.join(self.config.csv.base, self.config.csv.path.texts)
-        with open(csv_path) as f:
-            texts_reader = csv.DictReader(f)
-            for row in texts_reader:
-                if row[' '] == tid:
-                    s = row[lang]
-                    return s.replace('\q', '\"')
-        return None
-
     def arena_id(self, key):
         """Return arena integer id by arena key."""
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
