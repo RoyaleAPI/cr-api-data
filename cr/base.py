@@ -31,14 +31,14 @@ class BaseGen:
         SC’s CSVs uses the second row as type in the CSV.
         """
         value = row.get(field)
-        if value == '':
+        if types[field] == 'boolean':
+            return row[field] == 'TRUE'
+        elif value == '':
             return None
         elif types[field] == 'string':
             return str(row[field])
         elif types[field] == 'Int':
             return int(row[field])
-        elif types[field] == 'boolean':
-            return row[field] == 'TRUE'
         else:
             return row[field]
 
