@@ -48,3 +48,7 @@ class BaseGen:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
         print(json_path)
+
+    def run(self):
+        """Abstract method."""
+        pass

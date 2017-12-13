@@ -21,7 +21,7 @@ class Arenas(BaseGen):
             return "league{}".format(row["Name"][-1])
 
     def run(self):
-        """Generate rarities jsons"""
+        """Generate json"""
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
         fields = [
             "Name", "Arena", "ChestArena", "TvArena", "IsInUse", "TrainingCamp", "PVEArena", "TrophyLimit",
