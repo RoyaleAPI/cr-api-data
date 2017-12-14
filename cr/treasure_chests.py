@@ -51,7 +51,7 @@ class TreasureChests(BaseGen):
             return 20
 
         # don’t scale draft chest rewards
-        if name.startswith("Draft"):
+        if name.startswith("Draft") or name.startswith("SeasonReward"):
             return random_spells
 
         if chest_reward_multiplier:
