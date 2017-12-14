@@ -14,10 +14,17 @@ class BaseGen:
         self.csv_path = None
         self.json_path = None
         if id is not None:
-            self.csv_path = os.path.join(self.config.csv.base, self.config.csv.path[id])
-            self.json_path = os.path.join(self.config.json.base, self.config.json[id])
+            self.csv_path = self.csv_path_by_id(id)
+            self.json_path = self.json_path_by_id(id)
 
         self._field_types = None
+        self._arenas = None
+
+    def csv_path_by_id(self, id):
+        return os.path.join(self.config.csv.base, self.config.csv.path[id])
+
+    def json_path_by_id(self, id):
+        return os.path.join(self.config.json.base, self.config.json[id])
 
     @property
     def field_types(self):
@@ -30,6 +37,19 @@ class BaseGen:
                         self._field_types = {k: v for k, v in row.items()}
         return self._field_types
 
+    @property
+    def arenas(self):
+        """Arenas dict from json."""
+        if self._arenas is None:
+            self._arenas = self.load_json(self.json_path_by_id("arenas"))
+        return self._arenas
+
+    def get_arena(self, name):
+        """Return arena dict by name."""
+        for arena in self.arenas:
+            if arena["name"] == name:
+                return arena
+        return None
 
     def text(self, tid, lang):
         """Return field by TID and Language
@@ -54,19 +74,27 @@ class BaseGen:
         if field not in self.field_types:
             return None
         elif self.field_types[field].lower() == 'boolean':
-            return row[field] == 'TRUE'
+            return value == 'TRUE'
+        elif self.field_types[field].lower() == 'int':
+            if value == '':
+                return 0
+            return int(value)
         elif value == '':
             return None
         elif self.field_types[field].lower() == 'string':
-            return str(row[field])
-        elif self.field_types[field].lower() == 'int':
-            return int(row[field])
+            return str(value)
         else:
-            return row[field]
+            return value
+
+    def load_json(self, json_path):
+        """Load json from path."""
+        with open(json_path, encoding='utf-8', mode='r') as f:
+            data = json.load(f)
+        return data
 
     def save_json(self, data, json_path):
         """Save path to json."""
-        with open(json_path, 'w', encoding='utf-8') as f:
+        with open(json_path, encoding='utf-8', mode='w') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
         print(json_path)
