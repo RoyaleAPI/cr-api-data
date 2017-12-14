@@ -34,7 +34,8 @@ class TreasureChests(BaseGen):
             "random_spells", "different_spells",
             "chest_count_in_chest_cycle",
             "rare_chance", "epic_chance", "legendary_chance", "skin_chance",
-            "min_gold_per_card", "max_gold_per_card"
+            "min_gold_per_card", "max_gold_per_card",
+            "sort_value"
         ]
         for item in self.items:
             if name == item["name"]:
@@ -88,7 +89,7 @@ class TreasureChests(BaseGen):
                             "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier"
                         ]
                         if arena_dict is not None:
-                            arena =  {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
+                            arena = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
                             item.update({
                                 "arena": arena
                             })
@@ -105,7 +106,8 @@ class TreasureChests(BaseGen):
                             # area affects total card chance
                             card_count_rare = self.card_count_by_type(card_count_by_arena, item["rare_chance"])
                             card_count_epic = self.card_count_by_type(card_count_by_arena, item["epic_chance"])
-                            card_count_legendary = self.card_count_by_type(card_count_by_arena, item["legendary_chance"])
+                            card_count_legendary = self.card_count_by_type(card_count_by_arena,
+                                                                           item["legendary_chance"])
                             card_count_common = card_count_by_arena - card_count_rare - card_count_epic - card_count_legendary
 
                             item.update({
@@ -115,18 +117,7 @@ class TreasureChests(BaseGen):
                                 "card_count_common": card_count_common
                             })
 
-
-
-
                         self.items.append(item)
 
-        chests_order = [
-            None,
-            'Free',
-            'Silver', 'Gold', 'Giant', 'Magic', 'Star', 'Epic',
-            'Tournament1st', 'Tournament2nd', 'Tournament3rd', 'TournamentOther',
-            'Tournament1st_2', 'Tournament2nd_2', 'Tournament3rd_2', 'TournamentOther_2',
-            'Survival_Bronze', 'Survival_Gold']
-
-        self.items = sorted(self.items, key=lambda x: (x["arena"]["arena"], chests_order.index(item.get("base_chest"))))
+        self.items = sorted(self.items, key=lambda x: (x["arena"]["arena"], x["sort_value"]))
         self.save_json(self.items, self.json_path)
