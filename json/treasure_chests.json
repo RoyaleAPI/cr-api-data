@@ -4318,13 +4318,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 229,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 45.800000000000004,
-        "card_count_epic": 7.633333333333333,
-        "card_count_legendary": 0.3816666666666667,
-        "card_count_common": 175.185
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena3",
@@ -5498,13 +5498,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 289,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 57.800000000000004,
-        "card_count_epic": 9.633333333333333,
-        "card_count_legendary": 0.4816666666666667,
-        "card_count_common": 221.085
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena4",
@@ -6678,13 +6678,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 340,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 68.0,
-        "card_count_epic": 11.333333333333334,
-        "card_count_legendary": 0.5666666666666667,
-        "card_count_common": 260.1
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena5",
@@ -7810,13 +7810,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 390,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 78.0,
-        "card_count_epic": 13.0,
-        "card_count_legendary": 0.65,
-        "card_count_common": 298.35
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena6",
@@ -8942,13 +8942,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 442,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 88.4,
-        "card_count_epic": 14.733333333333333,
-        "card_count_legendary": 0.7366666666666667,
-        "card_count_common": 338.13
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena7",
@@ -10074,13 +10074,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 493,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 98.60000000000001,
-        "card_count_epic": 16.433333333333334,
-        "card_count_legendary": 0.8216666666666668,
-        "card_count_common": 377.145
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena8",
@@ -11206,13 +11206,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 544,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 108.80000000000001,
-        "card_count_epic": 18.133333333333333,
-        "card_count_legendary": 0.9066666666666667,
-        "card_count_common": 416.15999999999997
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Epic_Arena9",
@@ -12338,13 +12338,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 595,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 119.0,
-        "card_count_epic": 19.833333333333332,
-        "card_count_legendary": 0.9916666666666667,
-        "card_count_common": 455.175
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Tournament1st_Arena_L",
@@ -13568,13 +13568,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 646,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 129.20000000000002,
-        "card_count_epic": 21.53333333333333,
-        "card_count_legendary": 1.0766666666666667,
-        "card_count_common": 494.19
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Epic_Arena_Electric",
@@ -14748,13 +14748,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 696,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 139.20000000000002,
-        "card_count_epic": 23.2,
-        "card_count_legendary": 1.1600000000000001,
-        "card_count_common": 532.4399999999999
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Epic_Arena_T",
@@ -15880,13 +15880,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 170,
-        "card_count_by_arena": 748,
+        "card_count_by_arena": 170,
         "min_gold": 1190,
         "max_gold": 1360,
-        "card_count_rare": 149.6,
-        "card_count_epic": 24.933333333333334,
-        "card_count_legendary": 1.2466666666666668,
-        "card_count_common": 572.22
+        "card_count_rare": 34.0,
+        "card_count_epic": 5.666666666666667,
+        "card_count_legendary": 0.2833333333333333,
+        "card_count_common": 130.05
     },
     {
         "name": "Draft_StarterPack_T",
@@ -15928,13 +15928,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 501,
-        "card_count_by_arena": 2204,
+        "card_count_by_arena": 501,
         "min_gold": 9519,
         "max_gold": 10521,
-        "card_count_rare": 1102.0,
-        "card_count_epic": 220.4,
-        "card_count_legendary": 11.02,
-        "card_count_common": 870.58
+        "card_count_rare": 250.5,
+        "card_count_epic": 50.1,
+        "card_count_legendary": 2.505,
+        "card_count_common": 197.895
     },
     {
         "name": "SeasonReward_L1",
@@ -15976,13 +15976,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 101,
-        "card_count_by_arena": 101,
+        "card_count_by_arena": 444,
         "min_gold": 1919,
         "max_gold": 2121,
-        "card_count_rare": 50.5,
-        "card_count_epic": 10.100000000000001,
-        "card_count_legendary": 0.505,
-        "card_count_common": 39.894999999999996
+        "card_count_rare": 222.0,
+        "card_count_epic": 44.400000000000006,
+        "card_count_legendary": 2.22,
+        "card_count_common": 175.38
     },
     {
         "name": "SeasonReward_L2",
@@ -16024,13 +16024,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 151,
-        "card_count_by_arena": 151,
+        "card_count_by_arena": 664,
         "min_gold": 2869,
         "max_gold": 3171,
-        "card_count_rare": 75.5,
-        "card_count_epic": 15.100000000000001,
-        "card_count_legendary": 0.755,
-        "card_count_common": 59.644999999999996
+        "card_count_rare": 332.0,
+        "card_count_epic": 66.4,
+        "card_count_legendary": 3.3200000000000003,
+        "card_count_common": 262.28000000000003
     },
     {
         "name": "SeasonReward_L3",
@@ -16072,13 +16072,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 201,
-        "card_count_by_arena": 201,
+        "card_count_by_arena": 884,
         "min_gold": 3819,
         "max_gold": 4221,
-        "card_count_rare": 100.5,
-        "card_count_epic": 20.1,
-        "card_count_legendary": 1.0050000000000001,
-        "card_count_common": 79.39500000000001
+        "card_count_rare": 442.0,
+        "card_count_epic": 88.4,
+        "card_count_legendary": 4.42,
+        "card_count_common": 349.18
     },
     {
         "name": "SeasonReward_L4",
@@ -16120,13 +16120,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 251,
-        "card_count_by_arena": 251,
+        "card_count_by_arena": 1104,
         "min_gold": 4769,
         "max_gold": 5271,
-        "card_count_rare": 125.5,
-        "card_count_epic": 25.1,
-        "card_count_legendary": 1.2550000000000001,
-        "card_count_common": 99.14500000000001
+        "card_count_rare": 552.0,
+        "card_count_epic": 110.4,
+        "card_count_legendary": 5.5200000000000005,
+        "card_count_common": 436.08000000000004
     },
     {
         "name": "SeasonReward_L5",
@@ -16168,13 +16168,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 301,
-        "card_count_by_arena": 301,
+        "card_count_by_arena": 1324,
         "min_gold": 5719,
         "max_gold": 6321,
-        "card_count_rare": 150.5,
-        "card_count_epic": 30.1,
-        "card_count_legendary": 1.5050000000000001,
-        "card_count_common": 118.89500000000001
+        "card_count_rare": 662.0,
+        "card_count_epic": 132.4,
+        "card_count_legendary": 6.62,
+        "card_count_common": 522.98
     },
     {
         "name": "SeasonReward_L6",
@@ -16216,13 +16216,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 351,
-        "card_count_by_arena": 351,
+        "card_count_by_arena": 1544,
         "min_gold": 6669,
         "max_gold": 7371,
-        "card_count_rare": 175.5,
-        "card_count_epic": 35.1,
-        "card_count_legendary": 1.7550000000000001,
-        "card_count_common": 138.645
+        "card_count_rare": 772.0,
+        "card_count_epic": 154.4,
+        "card_count_legendary": 7.72,
+        "card_count_common": 609.88
     },
     {
         "name": "SeasonReward_L7",
@@ -16264,13 +16264,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 401,
-        "card_count_by_arena": 401,
+        "card_count_by_arena": 1764,
         "min_gold": 7619,
         "max_gold": 8421,
-        "card_count_rare": 200.5,
-        "card_count_epic": 40.1,
-        "card_count_legendary": 2.005,
-        "card_count_common": 158.395
+        "card_count_rare": 882.0,
+        "card_count_epic": 176.4,
+        "card_count_legendary": 8.82,
+        "card_count_common": 696.78
     },
     {
         "name": "SeasonReward_L8",
@@ -16312,13 +16312,13 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 451,
-        "card_count_by_arena": 451,
+        "card_count_by_arena": 1984,
         "min_gold": 8569,
         "max_gold": 9471,
-        "card_count_rare": 225.5,
-        "card_count_epic": 45.1,
-        "card_count_legendary": 2.255,
-        "card_count_common": 178.145
+        "card_count_rare": 992.0,
+        "card_count_epic": 198.4,
+        "card_count_legendary": 9.92,
+        "card_count_common": 783.6800000000001
     },
     {
         "name": "SeasonReward_L9",
@@ -16360,12 +16360,12 @@
         "legendary_override_chance": 0,
         "description": "Draft Chest",
         "card_count": 501,
-        "card_count_by_arena": 501,
+        "card_count_by_arena": 2204,
         "min_gold": 9519,
         "max_gold": 10521,
-        "card_count_rare": 250.5,
-        "card_count_epic": 50.1,
-        "card_count_legendary": 2.505,
-        "card_count_common": 197.895
+        "card_count_rare": 1102.0,
+        "card_count_epic": 220.4,
+        "card_count_legendary": 11.02,
+        "card_count_common": 870.58
     }
 ]
