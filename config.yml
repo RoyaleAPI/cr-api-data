@@ -7,15 +7,17 @@ csv:
     rarities: ./assets/csv_logic/rarities.csv
     regions: ./assets/csv_logic/regions.csv
     texts: ./assets/csv_client/texts.csv
+    treasure_chests: ./assets/csv_logic/treasure_chests.csv
 
 json:
-  arenas: ./arenas.json
   base: ./json/
+  arenas: ./arenas.json
   cards: ./cards.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
   rarities: ./rarities.json
   regions: ./regions.json
+  treasure_chests: ./treasure_chests.json
 
 cards:
   - type: Troop

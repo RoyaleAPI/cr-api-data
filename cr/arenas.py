@@ -11,7 +11,7 @@ from .util import camelcase_split
 
 class Arenas(BaseGen):
     def __init__(self, config):
-        super().__init__(config)
+        super().__init__(config, id="arenas")
 
     def arena_key(self, row):
         """unique key of the arena. Used for image assets."""
@@ -33,14 +33,12 @@ class Arenas(BaseGen):
         ]
 
         arenas = []
-        types = {}
+
         with open(csv_path, encoding="utf8") as f:
             reader = csv.DictReader(f)
             for i, row in enumerate(reader):
-                if i == 0:
-                    types = {k: v for k, v in row.items() if k in fields}
                 if i > 0:
-                    arena = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k, types) for k, v in row.items()
+                    arena = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k) for k, v in row.items()
                              if k in fields}
                     arena.update({
                         "key": self.arena_key(row),

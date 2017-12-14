@@ -8,8 +8,28 @@ import os
 
 
 class BaseGen:
-    def __init__(self, config):
+    def __init__(self, config, id=None):
         self.config = config
+
+        self.csv_path = None
+        self.json_path = None
+        if id is not None:
+            self.csv_path = os.path.join(self.config.csv.base, self.config.csv.path[id])
+            self.json_path = os.path.join(self.config.json.base, self.config.json[id])
+
+        self._field_types = None
+
+    @property
+    def field_types(self):
+        """Dict of type by field name"""
+        if self._field_types is None:
+            with open(self.csv_path, encoding="utf8") as f:
+                reader = csv.DictReader(f)
+                for i, row in enumerate(reader):
+                    if i == 0:
+                        self._field_types = {k: v for k, v in row.items()}
+        return self._field_types
+
 
     def text(self, tid, lang):
         """Return field by TID and Language
@@ -25,19 +45,21 @@ class BaseGen:
                     return s.replace('\q', '\"')
         return None
 
-    def row_value(self, row, field, types):
+    def row_value(self, row, field):
         """Row value cast with field type.
 
         SC’s CSVs uses the second row as type in the CSV.
         """
         value = row.get(field)
-        if types[field] == 'boolean':
+        if field not in self.field_types:
+            return None
+        elif self.field_types[field].lower() == 'boolean':
             return row[field] == 'TRUE'
         elif value == '':
             return None
-        elif types[field] == 'string':
+        elif self.field_types[field].lower() == 'string':
             return str(row[field])
-        elif types[field] == 'Int':
+        elif self.field_types[field].lower() == 'int':
             return int(row[field])
         else:
             return row[field]
