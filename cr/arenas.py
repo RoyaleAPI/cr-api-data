@@ -11,7 +11,7 @@ from .util import camelcase_split
 
 class Arenas(BaseGen):
     def __init__(self, config):
-        super().__init__(config, id="arenas")
+        super().__init__(config, id="arenas", null_int=True)
 
     def arena_key(self, row):
         """unique key of the arena. Used for image assets."""

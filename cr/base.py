@@ -8,7 +8,14 @@ import os
 
 
 class BaseGen:
-    def __init__(self, config, id=None):
+    """Base generator.
+
+    Args:
+        config: config.yaml
+        id: csv / json id, e.g. arenas
+        null_int: if null value for int fields should be null of 0. Default: False, i.e. 0
+    """
+    def __init__(self, config, id=None, null_int=False):
         self.config = config
 
         self.csv_path = None
@@ -19,6 +26,8 @@ class BaseGen:
 
         self._field_types = None
         self._arenas = None
+
+        self.null_int = null_int
 
     def csv_path_by_id(self, id):
         return os.path.join(self.config.csv.base, self.config.csv.path[id])
@@ -77,7 +86,10 @@ class BaseGen:
             return value == 'TRUE'
         elif self.field_types[field].lower() == 'int':
             if value == '':
-                return 0
+                if self.null_int:
+                    return None
+                else:
+                    return 0
             return int(value)
         elif value == '':
             return None
