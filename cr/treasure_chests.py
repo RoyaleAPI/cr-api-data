@@ -86,7 +86,8 @@ class TreasureChests(BaseGen):
 
                         arena_dict = self.get_arena(item["arena"])
                         arena_dict_keys = [
-                            "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier"
+                            "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier",
+                            "title", "subtitle"
                         ]
                         if arena_dict is not None:
                             arena = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
