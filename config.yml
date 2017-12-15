@@ -2,6 +2,7 @@ csv:
   base: ./lib/cr-csv/
   path:
     arenas: ./assets/csv_logic/arenas.csv
+    buildings: ./assets/csv_logic/buildings.csv
     chest_order: ./assets/csv_logic/chest_order.csv
     clan_chest: ./assets/csv_logic/globals.csv
     rarities: ./assets/csv_logic/rarities.csv
@@ -12,7 +13,9 @@ csv:
 json:
   base: ./json/
   arenas: ./arenas.json
+  buildings: ./buildings.json
   cards: ./cards.json
+  cards_stats: ./cards_stats.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
   rarities: ./rarities.json

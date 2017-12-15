@@ -6,6 +6,8 @@ import csv
 import json
 import os
 
+from .util import camelcase_split
+
 
 class BaseGen:
     """Base generator.
@@ -15,15 +17,23 @@ class BaseGen:
         id: csv / json id, e.g. arenas
         null_int: if null value for int fields should be null of 0. Default: False, i.e. 0
     """
-    def __init__(self, config, id=None, null_int=False):
+    def __init__(self, config, id=None, json_id=None, null_int=False):
         self.config = config
 
         self.csv_path = None
         self.json_path = None
         if id is not None:
             self.csv_path = self.csv_path_by_id(id)
-            self.json_path = self.json_path_by_id(id)
 
+            if json_id is None:
+                self.json_path = self.json_path_by_id(id)
+
+        if json_id is not None:
+            self.json_path = self.json_path_by_id(json_id)
+
+
+        self.include_fields = []
+        self.tid_fields = []
         self._field_types = None
         self._arenas = None
 
@@ -97,6 +107,37 @@ class BaseGen:
             return str(value)
         else:
             return value
+
+    def load_csv(self, exclude_empty=False, tid_fields=None):
+        if tid_fields is None:
+            tid_fields = []
+        if self.csv_path is None:
+            return None
+        items = []
+        with open(self.csv_path, encoding="utf8")  as f:
+            reader = csv.DictReader(f)
+            for i, row in  enumerate(reader):
+                if i > 0:
+
+                    item = {}
+                    for k, v in row.items():
+                        if exclude_empty and row[k] == '':
+                            continue
+
+                        if k in self.include_fields:
+                            item['_'.join(camelcase_split(k)).lower()] = self.row_value(row, k)
+
+                    # item = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k) for k, v in row.items()
+                    #             if k in self.include_fields}
+
+                    for tf in tid_fields:
+                        print(tf)
+                        if row.get(tf["field"]):
+                            item[tf["output_field"]] = self.text(row[tf["field"]], "EN")
+
+                    items.append(item)
+
+        return items
 
     def load_json(self, json_path):
         """Load json from path."""
