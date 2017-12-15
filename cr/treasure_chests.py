@@ -2,6 +2,7 @@
 Treasure chests generator
 """
 import csv
+import re
 
 from .base import BaseGen
 from .util import camelcase_split
@@ -63,13 +64,24 @@ class TreasureChests(BaseGen):
             return 0
         return 1 / chance * card_count_by_arena
 
+    def include_name(self, name):
+        """Return true if chest shoule be included."""
+        if name is None:
+            return False
+        if len(name) == 0:
+            return False
+        # don’t include old chests
+        if re.match('.+_old', name):
+            return False
+        return True
+
     def run(self):
         """Generate treasure chests."""
         with open(self.csv_path, encoding="utf8") as f:
             reader = csv.DictReader(f)
             for i, row in enumerate(reader):
                 if i > 0:
-                    if row.get("Name") != '':
+                    if self.include_name(row.get('Name')):
                         item = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k) for k, v in row.items()
                                 if k in self.fields}
 
