@@ -43,7 +43,7 @@ class TreasureChests(BaseGen):
                 return {k: v for k, v in item.items() if k in props}
         return {}
 
-    def card_count_by_arena(self, name, arena_id, random_spells, chest_reward_multiplier):
+    def card_count_by_arena(self, name, random_spells, chest_reward_multiplier):
         # don’t scale legendary chests
         if name.startswith('Legendary'):
             return int(random_spells)
@@ -125,7 +125,6 @@ class TreasureChests(BaseGen):
                             # arena affects these fields
                             card_count_by_arena = self.card_count_by_arena(
                                 item["name"],
-                                item["arena"]["arena"],
                                 item["card_count"],
                                 arena.get("chest_reward_multiplier")
                             )
