@@ -44,16 +44,18 @@ class TreasureChests(BaseGen):
         return {}
 
     def card_count_by_arena(self, name, arena_id, random_spells, chest_reward_multiplier):
-        if name == 'Legendary':
-            return 1
-        if name == 'Epic':
-            if arena_id < 9:
-                return int(random_spells)
-            return 20
-
+        # don’t scale legendary chests
+        if name.startswith('Legendary'):
+            return int(random_spells)
+        # don’t scale epic chests
+        if name.startswith('Epic'):
+            return int(random_spells)
         # don’t scale draft chest rewards
-        if name.startswith("Draft") or name.startswith("SeasonReward"):
-            return random_spells
+        if name.startswith("Draft"):
+            return int(random_spells)
+        # don’t scale season rewards
+        if name.startswith("SeasonReward"):
+            return int(random_spells)
 
         if chest_reward_multiplier:
             return int(chest_reward_multiplier / 100 * random_spells)
@@ -70,8 +72,17 @@ class TreasureChests(BaseGen):
             return False
         if len(name) == 0:
             return False
-        # don’t include old chests
+        # Exclude old chests
         if re.match('.+_old', name):
+            return False
+        # Exclude clan chest
+        if name.startswith('ClanCrownChest'):
+            return False
+        # Exclude tournament chests
+        if name.startswith('Tournament'):
+            return False
+        # Exclude challenge chests
+        if name.startswith('Survival'):
             return False
         return True
 
