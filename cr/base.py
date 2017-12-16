@@ -8,6 +8,12 @@ import os
 
 from .util import camelcase_split
 
+class TextField:
+    def __init__(self, input, output):
+        self.input = input
+        self.output = output
+
+
 
 class BaseGen:
     """Base generator.
@@ -31,8 +37,8 @@ class BaseGen:
         if json_id is not None:
             self.json_path = self.json_path_by_id(json_id)
 
-
         self.include_fields = []
+        self.exclude_fields = []
         self.tid_fields = []
         self._field_types = None
         self._arenas = None
@@ -43,7 +49,9 @@ class BaseGen:
         return os.path.join(self.config.csv.base, self.config.csv.path[id])
 
     def json_path_by_id(self, id):
-        return os.path.join(self.config.json.base, self.config.json[id])
+        if id in self.config.json:
+            return os.path.join(self.config.json.base, self.config.json[id])
+        return None
 
     @property
     def field_types(self):
@@ -110,7 +118,7 @@ class BaseGen:
 
     def load_csv(self, exclude_empty=False, tid_fields=None):
         if tid_fields is None:
-            tid_fields = []
+            tid_fields = [{"field": "TID", "output_field": "name_en"}]
         if self.csv_path is None:
             return None
         items = []
@@ -124,14 +132,34 @@ class BaseGen:
                         if exclude_empty and row[k] == '':
                             continue
 
-                        if k in self.include_fields:
-                            item['_'.join(camelcase_split(k)).lower()] = self.row_value(row, k)
+                        # Include all fields unless it is set
+                        if len(self.include_fields) and k not in self.include_fields:
+                            continue
 
-                    # item = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k) for k, v in row.items()
-                    #             if k in self.include_fields}
+                        # Don’t include if in exclude fields
+                        if k in self.exclude_fields:
+                            continue
 
+                        # Exclude fields with _effects int it
+                        if k.endswith('Effect'):
+                            continue
+
+                        # Exclude shadows
+                        if k.startswith('Shadow'):
+                            continue
+
+                        if k.lower().endswith('exportname'):
+                            continue
+
+                        # Exclude known non-stat fileds
+                        if k.lower() in [
+                                "filename", "useanimator", "iconswf", "tid"]:
+                            continue
+
+                        item['_'.join(camelcase_split(k)).lower()] = self.row_value(row, k)
+
+                    # text fields
                     for tf in tid_fields:
-                        print(tf)
                         if row.get(tf["field"]):
                             item[tf["output_field"]] = self.text(row[tf["field"]], "EN")
 
@@ -139,14 +167,18 @@ class BaseGen:
 
         return items
 
-    def load_json(self, json_path):
+    def load_json(self, json_path=None):
         """Load json from path."""
+        if json_path is None:
+            json_path = self.json_path
         with open(json_path, encoding='utf-8', mode='r') as f:
             data = json.load(f)
         return data
 
-    def save_json(self, data, json_path):
+    def save_json(self, data, json_path=None):
         """Save path to json."""
+        if json_path is None:
+            json_path = self.json_path
         with open(json_path, encoding='utf-8', mode='w') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 

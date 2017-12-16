@@ -6,64 +6,103 @@ Combine multiple CSVs for a unified json file.
 from .base import BaseGen
 
 
+class Card:
+    """Data about a single card."""
+    def __init__(self):
+        pass
+
+class TroopCard(Card):
+    """Troops, aka characters in CSVs.
+
+    Params:
+        :data: a dictionary of fields from a row in CSV.
+    """
+    def __init__(self, data):
+        self._data = data
+
+    @property
+    def speed_en(self):
+        speed = self._data.get('speed')
+        if speed is None:
+            return None
+        speed = int(speed)
+        if speed <= 45:
+            return 'slow'
+        if speed <= 60:
+            return 'medium'
+        if speed <= 90:
+            return 'fast'
+        if speed <= 120:
+            return 'very fast'
+        return None
+
+    @property
+    def dps(self):
+        if not self._data.get('hit_speed'):
+            return None
+        if not self._data.get('damage'):
+            return None
+        if self._data.get('hit_speed') == 0:
+            return None
+        return self._data.get('damage') / self._data.get('hit_speed') * 1000
+
+    def to_dict(self):
+        data = self._data
+        props = ['speed_en', 'dps']
+        for prop in props:
+            data[prop] = getattr(self, prop)
+        return data
+
+
+
+
 class Buildings(BaseGen):
     def __init__(self, config):
         super().__init__(config, id="buildings", json_id="cards_stats")
 
-        self.include_fields = [
-            "Name", "Rarity", "SightRange", "DeployTime", "ChargeRange", "Speed", "Hitpoints", "HitSpeed", "LoadTime",
-            "Damage", "DamageSpecial", "CrownTowerDamagePercent", "LoadFirstHit", "LoadAfterRetarget",
-            "StopTimeAfterAttack", "StopTimeAfterSpecialAttack", "Projectile", "CustomFirstProjectile",
-            "MultipleProjectiles", "MultipleTargets", "AllTargetsHit", "Range", "MinimumRange", "SpecialMinRange",
-            "SpecialRange", "SpecialLoadTime", "SpecialReadyEffect", "AttacksGround", "AttacksAir", "DeathDamageRadius",
-            "DeathDamage", "DeathPushBack", "AttackPushBack", "LifeTime", "ProjectileSpecial", "ProjectileEffect",
-            "ProjectileEffectSpecial", "AreaDamageRadius", "TargetOnlyBuildings", "SpecialAttackInterval",
-            "BuffOnDamage", "BuffOnDamageTime", "StartingBuff", "StartingBuffTime", "FileName", "BlueExportName",
-            "BlueTopExportName", "RedExportName", "RedTopExportName", "UseAnimator", "AttachedCharacter",
-            "AttachedCharacterHeight", "DamageEffect", "DamageEffectSpecial", "DeathEffect", "MoveEffect",
-            "LoopMoveEffect", "SpawnEffect", "CrowdEffects", "ShadowScaleX", "ShadowScaleY", "ShadowX", "ShadowY",
-            "ShadowSkew", "ShadowCustom", "ShadowCustomLow", "Pushback", "IgnorePushback", "Scale", "CollisionRadius",
-            "Mass", "TileSizeOverride", "AreaBuff", "AreaBuffTime", "AreaBuffRadius", "HealthBar", "HealthBarOffsetY",
-            "ShowHealthNumber", "FlyingHeight", "FlyDirectPaths", "FlyFromGround", "DamageExportName", "GrowTime",
-            "GrowSize", "MorphCharacter", "MorphEffect", "HealOnMorph", "AreaEffectOnMorph", "MorphTime",
-            "MorphKeepTarget", "AttackStartEffect", "AttackStartEffectSpecial", "DashImmuneToDamageTime",
-            "DashStartEffect", "DashEffect", "DashCooldown", "JumpHeight", "DashPushBack", "DashRadius", "DashDamage",
-            "DashFilter", "DashConstantTime", "DashLandingTime", "LandingEffect", "DashMinRange", "DashMaxRange",
-            "JumpSpeed", "ContinuousEffect", "SpawnStartTime", "SpawnInterval", "SpawnNumber", "SpawnLimit",
-            "DestroyAtLimit", "SpawnPauseTime", "SpawnCharacterLevelIndex", "SpawnCharacter", "SpawnProjectile",
-            "SpawnCharacterEffect", "SpawnDeployBaseAnim", "SpawnRadius", "DeathSpawnCount", "DeathSpawnCharacter",
-            "DeathSpawnProjectile", "DeathSpawnRadius", "DeathSpawnMinRadius", "SpawnAngleShift",
-            "DeathSpawnDeployTime", "DeathSpawnPushback", "DeathAreaEffect", "DeathInheritIgnoreList", "Kamikaze",
-            "KamikazeTime", "KamikazeEffect", "SpawnPathfindSpeed", "SpawnPathfindEffect", "SpawnPathfindMorph",
-            "SpawnPushback", "SpawnPushbackRadius", "SpawnAreaObject", "SpawnAreaObjectLevelIndex", "ChargeEffect",
-            "TakeDamageEffect", "ProjectileStartRadius", "ProjectileStartZ", "StopMovementAfterMS", "WaitMS",
-            "DontStopMoveAnim", "IsSummonerTower", "NoDeploySizeW", "NoDeploySizeH", "TID", "VariableDamage2",
-            "VariableDamageTime1", "VariableDamage3", "VariableDamageTime2", "TargettedDamageEffect1",
-            "TargettedDamageEffect2", "TargettedDamageEffect3", "DamageLevelTransitionEffect12",
-            "DamageLevelTransitionEffect23", "FlameEffect1", "FlameEffect2", "FlameEffect3", "TargetEffectY",
-            "SelfAsAoeCenter", "HidesWhenNotAttacking", "HideTimeMs", "HideBeforeFirstHit", "SpecialAttackWhenHidden",
-            "TargetedHitEffect", "TargetedHitEffectSpecial", "TargetedEffectVisualPushback", "UpTimeMs", "HideEffect",
-            "AppearEffect", "AppearPushbackRadius", "AppearPushback", "AppearAreaObject", "ManaCollectAmount",
-            "ManaGenerateTimeMs", "ManaGenerateLimit", "HasRotationOnTimeline", "TurretMovement", "ProjectileYOffset",
-            "ChargeSpeedMultiplier", "DeployDelay", "DeployBaseAnimExportName", "JumpEnabled", "SightClip",
-            "AreaEffectOnDash", "SightClipSide", "WalkingSpeedTweakPercentage", "ShieldHitpoints", "ShieldDiePushback",
-            "ShieldLostEffect", "BlueShieldExportName", "RedShieldExportName", "LoadAttackEffect1", "LoadAttackEffect2",
-            "LoadAttackEffect3", "LoadAttackEffectReady", "RotateAngleSpeed", "DeployTimerDelay", "RetargetAfterAttack",
-            "AttackShakeTime", "VisualHitSpeed", "Burst", "BurstDelay", "BurstKeepTarget", "BurstAffectAnimation",
-            "ActivationTime", "AttackDashTime", "LoopingFilter", "BuildingTarget", "SpawnConstPriority",
-            "BuffWhenNotAttacking", "BuffWhenNotAttackingTime", "BuffWhenNotAttackingEffect",
-            "BuffWhenNotAttackingRemoveEffect", "AreaEffectOnHit"
 
-        ]
+class AreaEffectsObjects(BaseGen):
+    """Spells."""
+    def __init__(self, config):
+        super().__init__(config, id="area_effect_objects")
 
-        self.tid_fields = [
-            dict(field="TID", output_field="name_en"),
+class Characters(BaseGen):
+    """Characters."""
+    def __init__(self, config):
+        super().__init__(config, id="characters")
+
+
+class CardStats(BaseGen):
+    """Card stats"""
+    def __init__(self, config):
+        super().__init__(config, json_id="cards_stats")
+        self.config = config
+        self.exclude_fields = [
+            "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback",
+            "PushbackAll", "MinPushback", "MaximumTargets",
+            "ProjectileStartHeight",
+            "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone", "AttractPercentage"
+
         ]
 
     def run(self):
-        items = self.load_csv(exclude_empty=True, tid_fields=self.tid_fields)
+        buildings = Buildings(self.config)
+        buildings_data = buildings.load_csv(exclude_empty=True)
 
-        # remove fields with null values
-        # items = [{k: v for k, v in item.items() if v is not None} for item in items]
+        area_effect_objects = AreaEffectsObjects(self.config)
+        area_effect_objects_data = area_effect_objects.load_csv()
 
-        self.save_json(items, self.json_path)
+        characters = Characters(self.config)
+        characters_data = characters.load_csv(exclude_empty=True)
+        troops = []
+        for character_data in characters_data:
+            troop = TroopCard(character_data)
+            troops.append(troop.to_dict())
+
+        self.save_json({
+            "troop": characters_data,
+            "building": buildings_data,
+            "spell": area_effect_objects_data
+        })
+
+

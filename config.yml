@@ -1,8 +1,10 @@
 csv:
   base: ./lib/cr-csv/
   path:
+    area_effect_objects: ./assets/csv_logic/area_effect_objects.csv
     arenas: ./assets/csv_logic/arenas.csv
     buildings: ./assets/csv_logic/buildings.csv
+    characters: ./assets/csv_logic/characters.csv
     chest_order: ./assets/csv_logic/chest_order.csv
     clan_chest: ./assets/csv_logic/globals.csv
     rarities: ./assets/csv_logic/rarities.csv
