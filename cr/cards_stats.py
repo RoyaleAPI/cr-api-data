@@ -85,6 +85,16 @@ class CardStats(BaseGen):
 
         ]
 
+    def include_item(self, item):
+        """Determine if item should be included in output."""
+        if item['name'].startswith('NOTINUSE'):
+            return False
+        return True
+
+    def included_items(self, items):
+        """List of included items."""
+        return [item for item in items if self.include_item(item)]
+
     def run(self):
         buildings = Buildings(self.config)
         buildings_data = buildings.load_csv(exclude_empty=True)
@@ -100,9 +110,9 @@ class CardStats(BaseGen):
             troops.append(troop.to_dict())
 
         self.save_json({
-            "troop": characters_data,
-            "building": buildings_data,
-            "spell": area_effect_objects_data
+            "troop": self.included_items(characters_data),
+            "building": self.included_items(buildings_data),
+            "spell": self.included_items(area_effect_objects_data)
         })
 
 
