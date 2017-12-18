@@ -91,6 +91,9 @@ class TreasureChests(BaseGen):
         # Exclude rows with base
         if item['base_chest']:
             return False
+        # Exclude if not in shop nor in cycle: e.g. arena 1 draft chest
+        if not item['in_shop'] and item['chest_count_in_chest_cycle'] == 0:
+            return False
         return True
 
     def run(self):
