@@ -1,11 +1,9 @@
 """
 Treasure chests generator
 """
-import csv
 import re
 
 from .base import BaseGen
-from .util import camelcase_split
 
 
 class TreasureChests(BaseGen):
@@ -169,66 +167,3 @@ class TreasureChests(BaseGen):
 
         items = sorted(items, key=lambda x: x["sort_value"])
         self.save_json(items, self.json_path)
-
-
-
-        # with open(self.csv_path, encoding="utf8") as f:
-        #     reader = csv.DictReader(f)
-        #     for i, row in enumerate(reader):
-        #         if i > 0:
-        #             if self.include_name(row.get('Name')):
-        #                 item = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k) for k, v in row.items()
-        #                         if k in self.fields}
-        #
-        #                 if item.get("base_chest"):
-        #                     item.update(self.get_base_chest_stats(item["base_chest"]))
-        #
-        #                 for tf in self.tid_fields:
-        #                     if row.get(tf["field"]):
-        #                         item[tf["output_field"]] = self.text(row[tf["field"]], "EN")
-        #
-        #                 # Card count = random spells
-        #                 item["card_count"] = item["random_spells"]
-        #                 item["card_count_by_arena"] = item["card_count"]
-        #
-        #                 # Gold output is affected by card count
-        #                 item["min_gold"] = item["card_count"] * item["min_gold_per_card"]
-        #                 item["max_gold"] = item["card_count"] * item["max_gold_per_card"]
-        #
-        #                 arena_dict = self.get_arena(item["arena"])
-        #                 arena_dict_keys = [
-        #                     "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier",
-        #                     "title", "subtitle"
-        #                 ]
-        #                 if arena_dict is not None:
-        #                     arena = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
-        #                     item.update({
-        #                         "arena": arena
-        #                     })
-        #
-        #                     # arena affects these fields
-        #                     card_count_by_arena = self.card_count_by_arena(
-        #                         item["name"],
-        #                         item["card_count"],
-        #                         arena.get("chest_reward_multiplier")
-        #                     )
-        #                     item["card_count_by_arena"] = card_count_by_arena
-        #
-        #                     # area affects total card chance
-        #                     card_count_rare = self.card_count_by_type(card_count_by_arena, item["rare_chance"])
-        #                     card_count_epic = self.card_count_by_type(card_count_by_arena, item["epic_chance"])
-        #                     card_count_legendary = self.card_count_by_type(card_count_by_arena,
-        #                                                                    item["legendary_chance"])
-        #                     card_count_common = card_count_by_arena - card_count_rare - card_count_epic - card_count_legendary
-        #
-        #                     item.update({
-        #                         "card_count_rare": card_count_rare,
-        #                         "card_count_epic": card_count_epic,
-        #                         "card_count_legendary": card_count_legendary,
-        #                         "card_count_common": card_count_common
-        #                     })
-        #
-        #                 self.items.append(item)
-
-        # self.items = sorted(self.items, key=lambda x: (x["arena"]["arena"], x["sort_value"]))
-        # self.save_json(self.items, self.json_path)
