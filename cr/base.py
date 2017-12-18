@@ -100,9 +100,15 @@ class BaseGen:
         value = row.get(field)
         if field not in self.field_types:
             return None
-        elif self.field_types[field].lower() == 'boolean':
-            return value == 'TRUE'
-        elif self.field_types[field].lower() == 'int':
+
+        field_type = self.field_types.get(field)
+        if not field_type:
+            return None
+
+        if field_type.lower() == 'boolean':
+            return value.lower() == 'true'
+
+        if field_type.lower() == 'int':
             if value == '':
                 if self.null_int:
                     return None
@@ -129,7 +135,7 @@ class BaseGen:
 
                     item = {}
                     for k, v in row.items():
-                        if exclude_empty and row[k] == '':
+                        if exclude_empty and row[k] == '' and self.field_types.get(k).lower() != 'boolean':
                             continue
 
                         # Include all fields unless it is set

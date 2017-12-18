@@ -3,8 +3,9 @@ Card Stats
 Combine multiple CSVs for a unified json file.
 """
 
-from .base import BaseGen
 import os
+
+from .base import BaseGen
 
 
 class Card:
@@ -55,19 +56,27 @@ class TroopCard(Card):
         return data
 
 
+class CardTypes(BaseGen):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
 
+        self.exclude_fields = [
+            "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback", "PushbackAll", "MinPushback",
+            "MaximumTargets", "ProjectileStartHeight", "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone",
+            "AttractPercentage", "HealthBar", "HealthBarOffsetY"
+        ]
 
-class Buildings(BaseGen):
+class Buildings(CardTypes):
     def __init__(self, config):
         super().__init__(config, id="buildings", json_id="cards_stats")
 
 
-class AreaEffectsObjects(BaseGen):
+class AreaEffectsObjects(CardTypes):
     """Spells."""
     def __init__(self, config):
         super().__init__(config, id="area_effect_objects")
 
-class Characters(BaseGen):
+class Characters(CardTypes):
     """Characters."""
     def __init__(self, config):
         super().__init__(config, id="characters")
@@ -79,11 +88,9 @@ class CardStats(BaseGen):
         super().__init__(config, json_id="cards_stats")
         self.config = config
         self.exclude_fields = [
-            "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback",
-            "PushbackAll", "MinPushback", "MaximumTargets",
-            "ProjectileStartHeight",
-            "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone", "AttractPercentage"
-
+            "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback", "PushbackAll", "MinPushback",
+            "MaximumTargets", "ProjectileStartHeight", "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone",
+            "AttractPercentage", "HealthBar"
         ]
         self._cards_json = self.load_json(os.path.join(self.config.json.base, self.config.json.cards))
 

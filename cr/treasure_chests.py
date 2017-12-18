@@ -111,8 +111,9 @@ class TreasureChests(BaseGen):
                         "title", "subtitle"
                     ]
                     arena_dict = self.get_arena(arena)
-                    arena_dict = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
-                    item['arena'] = arena_dict
+                    if arena_dict is not None:
+                        arena_dict = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
+                        item['arena'] = arena_dict
 
                 # Card count = random spells
                 item["card_count"] = item["random_spells"]
