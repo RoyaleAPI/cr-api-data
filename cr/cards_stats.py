@@ -4,6 +4,7 @@ Combine multiple CSVs for a unified json file.
 """
 
 from .base import BaseGen
+import os
 
 
 class Card:
@@ -84,6 +85,7 @@ class CardStats(BaseGen):
             "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone", "AttractPercentage"
 
         ]
+        self._cards_json = self.load_json(os.path.join(self.config.json.base, self.config.json.cards))
 
     def include_item(self, item):
         """Determine if item should be included in output."""
@@ -95,15 +97,32 @@ class CardStats(BaseGen):
         """List of included items."""
         return [item for item in items if self.include_item(item)]
 
+    def card_props(self, card_key):
+        for card in self._cards_json:
+            if card['name'] == card_key:
+                return card
+        return {}
+
+    def inject_card_props(self, items):
+        cards = []
+        for item in items.copy():
+            item.update(self.card_props(item['name']))
+            cards.append(item)
+        return cards
+
     def run(self):
         buildings = Buildings(self.config)
         buildings_data = buildings.load_csv(exclude_empty=True)
+        buildings_data = self.inject_card_props(buildings_data)
 
         area_effect_objects = AreaEffectsObjects(self.config)
         area_effect_objects_data = area_effect_objects.load_csv()
+        area_effect_objects_data = self.inject_card_props(area_effect_objects_data)
 
         characters = Characters(self.config)
         characters_data = characters.load_csv(exclude_empty=True)
+        characters_data = self.inject_card_props(characters_data)
+
         troops = []
         for character_data in characters_data:
             troop = TroopCard(character_data)
