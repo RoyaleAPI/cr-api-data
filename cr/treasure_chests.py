@@ -155,6 +155,7 @@ class TreasureChests(BaseGen):
                             card_count_common = card_count_by_arena - card_count_rare - card_count_epic - card_count_legendary
 
                             arena.update({
+                                "card_count_by_arena": card_count_by_arena,
                                 "card_count_common": card_count_common,
                                 "card_count_rare": card_count_rare,
                                 "card_count_epic": card_count_epic,
