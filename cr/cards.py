@@ -52,16 +52,16 @@ class Cards(BaseGen):
                             card_key = '_'.join(s.lower() for s in ccs)
                             decklink = card_config.sckey.format(i - 1)
                             card = {
-                                'card_id': card_id,
+                                # 'card_id': card_id,
                                 'key': key,
-                                'card_key': card_key,
+                                # 'card_key': card_key,
                                 'name': name_en,
                                 'elixir': int(row['ManaCost']),
                                 'type': card_config.type,
                                 'rarity': row['Rarity'],
                                 'arena': self.arena_id(row['UnlockArena']),
                                 'description': self.text(row['TID_INFO'], 'EN'),
-                                'decklink': int(decklink)
+                                'id': int(decklink)
                             }
 
                             cards.append(card)
