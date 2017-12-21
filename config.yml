@@ -1,6 +1,7 @@
 csv:
   base: ./lib/cr-csv/
   path:
+    alliance_badges: ./assets/csv_logic/alliance_badges.csv
     area_effect_objects: ./assets/csv_logic/area_effect_objects.csv
     arenas: ./assets/csv_logic/arenas.csv
     buildings: ./assets/csv_logic/buildings.csv
@@ -14,6 +15,7 @@ csv:
 
 json:
   base: ./json/
+  alliance_badges: ./alliance_badges.json
   arenas: ./arenas.json
   buildings: ./buildings.json
   cards: ./cards.json

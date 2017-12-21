@@ -92,8 +92,8 @@ class TreasureChests(BaseGen):
         if item['base_chest']:
             return False
         # Exclude if not in shop nor in cycle: e.g. arena 1 draft chest
-        if not item['in_shop'] and item['chest_count_in_chest_cycle'] == 0:
-            return False
+        # if not item['in_shop'] and item['chest_count_in_chest_cycle'] == 0:
+        #     return False
         return True
 
     def run(self):
@@ -120,7 +120,6 @@ class TreasureChests(BaseGen):
 
                 # Card count = random spells
                 item["card_count"] = item["random_spells"]
-                item["card_count_by_arena"] = item["card_count"]
 
                 # Gold output is affected by card count
                 item["min_gold"] = item["card_count"] * item["min_gold_per_card"]
@@ -130,45 +129,97 @@ class TreasureChests(BaseGen):
 
                 items.append(item)
 
+        # chests in shop
+        shop_chests = [item for item in items if item['in_shop']]
+        shop_chests = sorted(shop_chests, key=lambda x: x['sort_value'])
+
+        # crown chests
+        crown_chests = [item for item in items if item['name'].startswith('Star')]
+        crown_chests = sorted(crown_chests, key=lambda x: x['sort_value'])
+
+        # chests in cycle
+        cycle_chests = [item for item in items if item['chest_count_in_chest_cycle']]
+        cycle_chests = sorted(cycle_chests, key=lambda x: x['sort_value'])
+
+        for chest in [c for c in cycle_chests if c['name'] != 'Legendary']:
+            chest['arenas'] = []
+            for arena in self.arenas:
+                arena_dict = arena.copy()
+                arena_dict_keys = [
+                    "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier",
+                    "title", "subtitle"
+                ]
+                if arena_dict is not None:
+                    arena = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
+
+                    # arena affects these fields
+                    card_count_by_arena = self.card_count_by_arena(
+                        item["name"],
+                        item["card_count"],
+                        arena.get("chest_reward_multiplier")
+                    )
+                    card_count_rare = self.card_count_by_type(card_count_by_arena, item["rare_chance"])
+                    card_count_epic = self.card_count_by_type(card_count_by_arena, item["epic_chance"])
+                    card_count_legendary = self.card_count_by_type(card_count_by_arena,
+                                                                   item["legendary_chance"])
+                    card_count_common = card_count_by_arena - card_count_rare - card_count_epic - card_count_legendary
+
+                    arena.update({
+                        "card_count_by_arena": card_count_by_arena,
+                        "card_count_common": card_count_common,
+                        "card_count_rare": card_count_rare,
+                        "card_count_epic": card_count_epic,
+                        "card_count_legendary": card_count_legendary,
+                    })
+
+                    chest['arenas'].append(arena)
+
+
+
+
         # add arena cards to base chests
-        for item in items:
-            if item['name'] in ['Free', 'Silver', 'Gold', 'Magic', 'Giant', 'Super', 'Star', 'StarBoosted']:
-                for d in data:
-                    if d['base_chest'] == item['name']:
-                        arena_dict = self.get_arena(d["arena"])
-                        arena_dict_keys = [
-                            "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier",
-                            "title", "subtitle"
-                        ]
-                        if arena_dict is not None:
-                            arena = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
-
-                            # arena affects these fields
-                            card_count_by_arena = self.card_count_by_arena(
-                                item["name"],
-                                item["card_count"],
-                                arena.get("chest_reward_multiplier")
-                            )
-                            item["card_count_by_arena"] = card_count_by_arena
-
-                            # area affects total card chance
-                            card_count_rare = self.card_count_by_type(card_count_by_arena, item["rare_chance"])
-                            card_count_epic = self.card_count_by_type(card_count_by_arena, item["epic_chance"])
-                            card_count_legendary = self.card_count_by_type(card_count_by_arena,
-                                                                           item["legendary_chance"])
-                            card_count_common = card_count_by_arena - card_count_rare - card_count_epic - card_count_legendary
-
-                            arena.update({
-                                "card_count_by_arena": card_count_by_arena,
-                                "card_count_common": card_count_common,
-                                "card_count_rare": card_count_rare,
-                                "card_count_epic": card_count_epic,
-                                "card_count_legendary": card_count_legendary,
-                            })
-
-                        item['arenas'].append(arena)
-
-            item['arenas'] = sorted(item['arenas'], key=lambda x: x['arena'])
+        # for item in items:
+        #     if item['name'] in ['Free', 'Silver', 'Gold', 'Magic', 'Giant', 'Super', 'Star', 'StarBoosted']:
+        #         for d in data:
+        #             if d['base_chest'] == item['name']:
+        #                 arena_dict = self.get_arena(d["arena"])
+        #                 arena_dict_keys = [
+        #                     "name", "arena", "key", "chest_reward_multiplier", "shop_chest_reward_multiplier",
+        #                     "title", "subtitle"
+        #                 ]
+        #                 if arena_dict is not None:
+        #                     arena = {k: v for k, v in arena_dict.items() if k in arena_dict_keys}
+        #
+        #                     # arena affects these fields
+        #                     card_count_by_arena = self.card_count_by_arena(
+        #                         item["name"],
+        #                         item["card_count"],
+        #                         arena.get("chest_reward_multiplier")
+        #                     )
+        #                     item["card_count_by_arena"] = card_count_by_arena
+        #
+        #                     # area affects total card chance
+        #                     card_count_rare = self.card_count_by_type(card_count_by_arena, item["rare_chance"])
+        #                     card_count_epic = self.card_count_by_type(card_count_by_arena, item["epic_chance"])
+        #                     card_count_legendary = self.card_count_by_type(card_count_by_arena,
+        #                                                                    item["legendary_chance"])
+        #                     card_count_common = card_count_by_arena - card_count_rare - card_count_epic - card_count_legendary
+        #
+        #                     arena.update({
+        #                         "card_count_by_arena": card_count_by_arena,
+        #                         "card_count_common": card_count_common,
+        #                         "card_count_rare": card_count_rare,
+        #                         "card_count_epic": card_count_epic,
+        #                         "card_count_legendary": card_count_legendary,
+        #                     })
+        #
+        #                 item['arenas'].append(arena)
+        #
+        #     item['arenas'] = sorted(item['arenas'], key=lambda x: x['arena'])
 
         items = sorted(items, key=lambda x: x["sort_value"])
-        self.save_json(items, self.json_path)
+        self.save_json({
+            "cycle": cycle_chests,
+            "crown": crown_chests,
+            "shop": shop_chests,
+        }, self.json_path)

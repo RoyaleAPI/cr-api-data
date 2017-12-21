@@ -1,3 +1,4 @@
+from .alliance_badges import AllianceBadges
 from .arenas import Arenas
 from .cards import Cards
 from .cards_stats import CardStats

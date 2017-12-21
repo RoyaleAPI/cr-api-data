@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Flame_01",
+        "category": "01_Symbol",
+        "badge_id": 16000000
+    },
+    {
+        "name": "Flame_02",
+        "category": "01_Symbol",
+        "badge_id": 16000001
+    },
+    {
+        "name": "Flame_03",
+        "category": "01_Symbol",
+        "badge_id": 16000002
+    },
+    {
+        "name": "Flame_04",
+        "category": "01_Symbol",
+        "badge_id": 16000003
+    },
+    {
+        "name": "Sword_01",
+        "category": "01_Symbol",
+        "badge_id": 16000004
+    },
+    {
+        "name": "Sword_02",
+        "category": "01_Symbol",
+        "badge_id": 16000005
+    },
+    {
+        "name": "Sword_03",
+        "category": "01_Symbol",
+        "badge_id": 16000006
+    },
+    {
+        "name": "Sword_04",
+        "category": "01_Symbol",
+        "badge_id": 16000007
+    },
+    {
+        "name": "Bolt_01",
+        "category": "01_Symbol",
+        "badge_id": 16000008
+    },
+    {
+        "name": "Bolt_02",
+        "category": "01_Symbol",
+        "badge_id": 16000009
+    },
+    {
+        "name": "Bolt_03",
+        "category": "01_Symbol",
+        "badge_id": 16000010
+    },
+    {
+        "name": "Bolt_04",
+        "category": "01_Symbol",
+        "badge_id": 16000011
+    },
+    {
+        "name": "Crown_01",
+        "category": "01_Symbol",
+        "badge_id": 16000012
+    },
+    {
+        "name": "Crown_02",
+        "category": "01_Symbol",
+        "badge_id": 16000013
+    },
+    {
+        "name": "Crown_03",
+        "category": "01_Symbol",
+        "badge_id": 16000014
+    },
+    {
+        "name": "Crown_04",
+        "category": "01_Symbol",
+        "badge_id": 16000015
+    },
+    {
+        "name": "Arrow_01",
+        "category": "01_Symbol",
+        "badge_id": 16000016
+    },
+    {
+        "name": "Arrow_02",
+        "category": "01_Symbol",
+        "badge_id": 16000017
+    },
+    {
+        "name": "Arrow_03",
+        "category": "01_Symbol",
+        "badge_id": 16000018
+    },
+    {
+        "name": "Arrow_04",
+        "category": "01_Symbol",
+        "badge_id": 16000019
+    },
+    {
+        "name": "Diamond_Star_01",
+        "category": "01_Symbol",
+        "badge_id": 16000020
+    },
+    {
+        "name": "Diamond_Star_02",
+        "category": "01_Symbol",
+        "badge_id": 16000021
+    },
+    {
+        "name": "Diamond_Star_03",
+        "category": "01_Symbol",
+        "badge_id": 16000022
+    },
+    {
+        "name": "Diamond_Star_04",
+        "category": "01_Symbol",
+        "badge_id": 16000023
+    },
+    {
+        "name": "Skull_01",
+        "category": "01_Symbol",
+        "badge_id": 16000024
+    },
+    {
+        "name": "Skull_02",
+        "category": "01_Symbol",
+        "badge_id": 16000025
+    },
+    {
+        "name": "Skull_03",
+        "category": "01_Symbol",
+        "badge_id": 16000026
+    },
+    {
+        "name": "Skull_04",
+        "category": "01_Symbol",
+        "badge_id": 16000027
+    },
+    {
+        "name": "Skull_05",
+        "category": "01_Symbol",
+        "badge_id": 16000028
+    },
+    {
+        "name": "Skull_06",
+        "category": "01_Symbol",
+        "badge_id": 16000029
+    },
+    {
+        "name": "Moon_01",
+        "category": "01_Symbol",
+        "badge_id": 16000030
+    },
+    {
+        "name": "Moon_02",
+        "category": "01_Symbol",
+        "badge_id": 16000031
+    },
+    {
+        "name": "Moon_03",
+        "category": "01_Symbol",
+        "badge_id": 16000032
+    },
+    {
+        "name": "Pine_01",
+        "category": "01_Symbol",
+        "badge_id": 16000033
+    },
+    {
+        "name": "Pine_02",
+        "category": "01_Symbol",
+        "badge_id": 16000034
+    },
+    {
+        "name": "Pine_03",
+        "category": "01_Symbol",
+        "badge_id": 16000035
+    },
+    {
+        "name": "Traditional_Star_01",
+        "category": "01_Symbol",
+        "badge_id": 16000036
+    },
+    {
+        "name": "Traditional_Star_02",
+        "category": "01_Symbol",
+        "badge_id": 16000037
+    },
+    {
+        "name": "Traditional_Star_03",
+        "category": "01_Symbol",
+        "badge_id": 16000038
+    },
+    {
+        "name": "Traditional_Star_04",
+        "category": "01_Symbol",
+        "badge_id": 16000039
+    },
+    {
+        "name": "Traditional_Star_05",
+        "category": "01_Symbol",
+        "badge_id": 16000040
+    },
+    {
+        "name": "Traditional_Star_06",
+        "category": "01_Symbol",
+        "badge_id": 16000041
+    },
+    {
+        "name": "Star_Shine_01",
+        "category": "01_Symbol",
+        "badge_id": 16000042
+    },
+    {
+        "name": "Star_Shine_02",
+        "category": "01_Symbol",
+        "badge_id": 16000043
+    },
+    {
+        "name": "Star_Shine_03",
+        "category": "01_Symbol",
+        "badge_id": 16000044
+    },
+    {
+        "name": "Diamond_01",
+        "category": "01_Symbol",
+        "badge_id": 16000045
+    },
+    {
+        "name": "Diamond_02",
+        "category": "01_Symbol",
+        "badge_id": 16000046
+    },
+    {
+        "name": "Diamond_03",
+        "category": "01_Symbol",
+        "badge_id": 16000047
+    },
+    {
+        "name": "flag_a_01",
+        "category": "02_Flag",
+        "badge_id": 16000048
+    },
+    {
+        "name": "flag_a_02",
+        "category": "02_Flag",
+        "badge_id": 16000049
+    },
+    {
+        "name": "flag_a_03",
+        "category": "02_Flag",
+        "badge_id": 16000050
+    },
+    {
+        "name": "flag_b_01",
+        "category": "02_Flag",
+        "badge_id": 16000051
+    },
+    {
+        "name": "flag_b_02",
+        "category": "02_Flag",
+        "badge_id": 16000052
+    },
+    {
+        "name": "flag_b_03",
+        "category": "02_Flag",
+        "badge_id": 16000053
+    },
+    {
+        "name": "flag_c_03",
+        "category": "02_Flag",
+        "badge_id": 16000054
+    },
+    {
+        "name": "flag_c_04",
+        "category": "02_Flag",
+        "badge_id": 16000055
+    },
+    {
+        "name": "flag_c_05",
+        "category": "02_Flag",
+        "badge_id": 16000056
+    },
+    {
+        "name": "flag_c_06",
+        "category": "02_Flag",
+        "badge_id": 16000057
+    },
+    {
+        "name": "flag_c_07",
+        "category": "02_Flag",
+        "badge_id": 16000058
+    },
+    {
+        "name": "flag_c_08",
+        "category": "02_Flag",
+        "badge_id": 16000059
+    },
+    {
+        "name": "flag_d_01",
+        "category": "02_Flag",
+        "badge_id": 16000060
+    },
+    {
+        "name": "flag_d_02",
+        "category": "02_Flag",
+        "badge_id": 16000061
+    },
+    {
+        "name": "flag_d_03",
+        "category": "02_Flag",
+        "badge_id": 16000062
+    },
+    {
+        "name": "flag_d_04",
+        "category": "02_Flag",
+        "badge_id": 16000063
+    },
+    {
+        "name": "flag_d_05",
+        "category": "02_Flag",
+        "badge_id": 16000064
+    },
+    {
+        "name": "flag_d_06",
+        "category": "02_Flag",
+        "badge_id": 16000065
+    },
+    {
+        "name": "flag_f_01",
+        "category": "02_Flag",
+        "badge_id": 16000066
+    },
+    {
+        "name": "flag_f_02",
+        "category": "02_Flag",
+        "badge_id": 16000067
+    },
+    {
+        "name": "flag_g_01",
+        "category": "02_Flag",
+        "badge_id": 16000068
+    },
+    {
+        "name": "flag_g_02",
+        "category": "02_Flag",
+        "badge_id": 16000069
+    },
+    {
+        "name": "flag_i_01",
+        "category": "02_Flag",
+        "badge_id": 16000070
+    },
+    {
+        "name": "flag_i_02",
+        "category": "02_Flag",
+        "badge_id": 16000071
+    },
+    {
+        "name": "flag_h_01",
+        "category": "02_Flag",
+        "badge_id": 16000072
+    },
+    {
+        "name": "flag_h_02",
+        "category": "02_Flag",
+        "badge_id": 16000073
+    },
+    {
+        "name": "flag_h_03",
+        "category": "02_Flag",
+        "badge_id": 16000074
+    },
+    {
+        "name": "flag_j_01",
+        "category": "02_Flag",
+        "badge_id": 16000075
+    },
+    {
+        "name": "flag_j_02",
+        "category": "02_Flag",
+        "badge_id": 16000076
+    },
+    {
+        "name": "flag_j_03",
+        "category": "02_Flag",
+        "badge_id": 16000077
+    },
+    {
+        "name": "flag_k_01",
+        "category": "02_Flag",
+        "badge_id": 16000078
+    },
+    {
+        "name": "flag_k_02",
+        "category": "02_Flag",
+        "badge_id": 16000079
+    },
+    {
+        "name": "flag_k_03",
+        "category": "02_Flag",
+        "badge_id": 16000080
+    },
+    {
+        "name": "flag_k_04",
+        "category": "02_Flag",
+        "badge_id": 16000081
+    },
+    {
+        "name": "flag_k_05",
+        "category": "02_Flag",
+        "badge_id": 16000082
+    },
+    {
+        "name": "flag_k_06",
+        "category": "02_Flag",
+        "badge_id": 16000083
+    },
+    {
+        "name": "flag_l_01",
+        "category": "02_Flag",
+        "badge_id": 16000084
+    },
+    {
+        "name": "flag_l_02",
+        "category": "02_Flag",
+        "badge_id": 16000085
+    },
+    {
+        "name": "flag_l_03",
+        "category": "02_Flag",
+        "badge_id": 16000086
+    },
+    {
+        "name": "flag_m_01",
+        "category": "02_Flag",
+        "badge_id": 16000087
+    },
+    {
+        "name": "flag_m_02",
+        "category": "02_Flag",
+        "badge_id": 16000088
+    },
+    {
+        "name": "flag_m_03",
+        "category": "02_Flag",
+        "badge_id": 16000089
+    },
+    {
+        "name": "flag_n_01",
+        "category": "02_Flag",
+        "badge_id": 16000090
+    },
+    {
+        "name": "flag_n_02",
+        "category": "02_Flag",
+        "badge_id": 16000091
+    },
+    {
+        "name": "flag_n_03",
+        "category": "02_Flag",
+        "badge_id": 16000092
+    },
+    {
+        "name": "flag_n_04",
+        "category": "02_Flag",
+        "badge_id": 16000093
+    },
+    {
+        "name": "flag_n_05",
+        "category": "02_Flag",
+        "badge_id": 16000094
+    },
+    {
+        "name": "flag_n_06",
+        "category": "02_Flag",
+        "badge_id": 16000095
+    },
+    {
+        "name": "Twin_Peaks_01",
+        "category": "01_Symbol",
+        "badge_id": 16000096
+    },
+    {
+        "name": "Twin_Peaks_02",
+        "category": "01_Symbol",
+        "badge_id": 16000097
+    },
+    {
+        "name": "Gem_01",
+        "category": "03_Royale",
+        "badge_id": 16000098
+    },
+    {
+        "name": "Gem_02",
+        "category": "03_Royale",
+        "badge_id": 16000099
+    },
+    {
+        "name": "Gem_03",
+        "category": "03_Royale",
+        "badge_id": 16000100
+    },
+    {
+        "name": "Gem_04",
+        "category": "03_Royale",
+        "badge_id": 16000101
+    },
+    {
+        "name": "Coin_01",
+        "category": "03_Royale",
+        "badge_id": 16000102
+    },
+    {
+        "name": "Coin_02",
+        "category": "03_Royale",
+        "badge_id": 16000103
+    },
+    {
+        "name": "Coin_03",
+        "category": "03_Royale",
+        "badge_id": 16000104
+    },
+    {
+        "name": "Coin_04",
+        "category": "03_Royale",
+        "badge_id": 16000105
+    },
+    {
+        "name": "Elixir_01",
+        "category": "03_Royale",
+        "badge_id": 16000106
+    },
+    {
+        "name": "Elixir_02",
+        "category": "03_Royale",
+        "badge_id": 16000107
+    },
+    {
+        "name": "Heart_01",
+        "category": "01_Symbol",
+        "badge_id": 16000108
+    },
+    {
+        "name": "Heart_02",
+        "category": "01_Symbol",
+        "badge_id": 16000109
+    },
+    {
+        "name": "Heart_04",
+        "category": "01_Symbol",
+        "badge_id": 16000110
+    },
+    {
+        "name": "Heart_03",
+        "category": "01_Symbol",
+        "badge_id": 16000111
+    },
+    {
+        "name": "Tower_01",
+        "category": "03_Royale",
+        "badge_id": 16000112
+    },
+    {
+        "name": "Tower_02",
+        "category": "03_Royale",
+        "badge_id": 16000113
+    },
+    {
+        "name": "Tower_03",
+        "category": "03_Royale",
+        "badge_id": 16000114
+    },
+    {
+        "name": "Tower_04",
+        "category": "03_Royale",
+        "badge_id": 16000115
+    },
+    {
+        "name": "Fan_01",
+        "category": "01_Symbol",
+        "badge_id": 16000116
+    },
+    {
+        "name": "Fan_02",
+        "category": "01_Symbol",
+        "badge_id": 16000117
+    },
+    {
+        "name": "Fan_03",
+        "category": "01_Symbol",
+        "badge_id": 16000118
+    },
+    {
+        "name": "Fan_04",
+        "category": "01_Symbol",
+        "badge_id": 16000119
+    },
+    {
+        "name": "Fugi_01",
+        "category": "01_Symbol",
+        "badge_id": 16000120
+    },
+    {
+        "name": "Fugi_02",
+        "category": "01_Symbol",
+        "badge_id": 16000121
+    },
+    {
+        "name": "Fugi_03",
+        "category": "01_Symbol",
+        "badge_id": 16000122
+    },
+    {
+        "name": "Fugi_04",
+        "category": "01_Symbol",
+        "badge_id": 16000123
+    },
+    {
+        "name": "YingYang_01",
+        "category": "01_Symbol",
+        "badge_id": 16000124
+    },
+    {
+        "name": "YingYang_02",
+        "category": "01_Symbol",
+        "badge_id": 16000125
+    },
+    {
+        "name": "flag_c_01",
+        "category": "02_Flag",
+        "badge_id": 16000126
+    },
+    {
+        "name": "flag_c_02",
+        "category": "02_Flag",
+        "badge_id": 16000127
+    },
+    {
+        "name": "Cherry_Blossom_01",
+        "category": "01_Symbol",
+        "badge_id": 16000128
+    },
+    {
+        "name": "Cherry_Blossom_02",
+        "category": "01_Symbol",
+        "badge_id": 16000129
+    },
+    {
+        "name": "Cherry_Blossom_03",
+        "category": "01_Symbol",
+        "badge_id": 16000130
+    },
+    {
+        "name": "Cherry_Blossom_04",
+        "category": "01_Symbol",
+        "badge_id": 16000131
+    },
+    {
+        "name": "Cherry_Blossom_06",
+        "category": "01_Symbol",
+        "badge_id": 16000132
+    },
+    {
+        "name": "Cherry_Blossom_05",
+        "category": "01_Symbol",
+        "badge_id": 16000133
+    },
+    {
+        "name": "Cherry_Blossom_07",
+        "category": "01_Symbol",
+        "badge_id": 16000134
+    },
+    {
+        "name": "Cherry_Blossom_08",
+        "category": "01_Symbol",
+        "badge_id": 16000135
+    },
+    {
+        "name": "Bamboo_01",
+        "category": "01_Symbol",
+        "badge_id": 16000136
+    },
+    {
+        "name": "Bamboo_02",
+        "category": "01_Symbol",
+        "badge_id": 16000137
+    },
+    {
+        "name": "Bamboo_03",
+        "category": "01_Symbol",
+        "badge_id": 16000138
+    },
+    {
+        "name": "Bamboo_04",
+        "category": "01_Symbol",
+        "badge_id": 16000139
+    },
+    {
+        "name": "Orange_01",
+        "category": "01_Symbol",
+        "badge_id": 16000140
+    },
+    {
+        "name": "Orange_02",
+        "category": "01_Symbol",
+        "badge_id": 16000141
+    },
+    {
+        "name": "Lotus_01",
+        "category": "01_Symbol",
+        "badge_id": 16000142
+    },
+    {
+        "name": "Lotus_02",
+        "category": "01_Symbol",
+        "badge_id": 16000143
+    },
+    {
+        "name": "A_Char_King_01",
+        "category": "03_Royale",
+        "badge_id": 16000144
+    },
+    {
+        "name": "A_Char_King_02",
+        "category": "03_Royale",
+        "badge_id": 16000145
+    },
+    {
+        "name": "A_Char_King_03",
+        "category": "03_Royale",
+        "badge_id": 16000146
+    },
+    {
+        "name": "A_Char_King_04",
+        "category": "03_Royale",
+        "badge_id": 16000147
+    },
+    {
+        "name": "A_Char_Barbarian_01",
+        "category": "03_Royale",
+        "badge_id": 16000148
+    },
+    {
+        "name": "A_Char_Barbarian_02",
+        "category": "03_Royale",
+        "badge_id": 16000149
+    },
+    {
+        "name": "A_Char_Prince_01",
+        "category": "03_Royale",
+        "badge_id": 16000150
+    },
+    {
+        "name": "A_Char_Prince_02",
+        "category": "03_Royale",
+        "badge_id": 16000151
+    },
+    {
+        "name": "A_Char_Knight_01",
+        "category": "03_Royale",
+        "badge_id": 16000152
+    },
+    {
+        "name": "A_Char_Knight_02",
+        "category": "03_Royale",
+        "badge_id": 16000153
+    },
+    {
+        "name": "A_Char_Goblin_01",
+        "category": "03_Royale",
+        "badge_id": 16000154
+    },
+    {
+        "name": "A_Char_Goblin_02",
+        "category": "03_Royale",
+        "badge_id": 16000155
+    },
+    {
+        "name": "A_Char_DarkPrince_01",
+        "category": "03_Royale",
+        "badge_id": 16000156
+    },
+    {
+        "name": "A_Char_DarkPrince_02",
+        "category": "03_Royale",
+        "badge_id": 16000157
+    },
+    {
+        "name": "A_Char_DarkPrince_03",
+        "category": "03_Royale",
+        "badge_id": 16000158
+    },
+    {
+        "name": "A_Char_DarkPrince_04",
+        "category": "03_Royale",
+        "badge_id": 16000159
+    },
+    {
+        "name": "A_Char_MiniPekka_01",
+        "category": "03_Royale",
+        "badge_id": 16000160
+    },
+    {
+        "name": "A_Char_MiniPekka_02",
+        "category": "03_Royale",
+        "badge_id": 16000161
+    },
+    {
+        "name": "A_Char_Pekka_01",
+        "category": "03_Royale",
+        "badge_id": 16000162
+    },
+    {
+        "name": "A_Char_Pekka_02",
+        "category": "03_Royale",
+        "badge_id": 16000163
+    },
+    {
+        "name": "A_Char_Hammer_01",
+        "category": "03_Royale",
+        "badge_id": 16000164
+    },
+    {
+        "name": "A_Char_Hammer_02",
+        "category": "03_Royale",
+        "badge_id": 16000165
+    },
+    {
+        "name": "A_Char_Rocket_01",
+        "category": "03_Royale",
+        "badge_id": 16000166
+    },
+    {
+        "name": "A_Char_Rocket_02",
+        "category": "03_Royale",
+        "badge_id": 16000167
+    },
+    {
+        "name": "Freeze_01",
+        "category": "01_Symbol",
+        "badge_id": 16000168
+    },
+    {
+        "name": "Freeze_02",
+        "category": "01_Symbol",
+        "badge_id": 16000169
+    },
+    {
+        "name": "Clover_01",
+        "category": "01_Symbol",
+        "badge_id": 16000170
+    },
+    {
+        "name": "Clover_02",
+        "category": "01_Symbol",
+        "badge_id": 16000171
+    },
+    {
+        "name": "flag_h_04",
+        "category": "02_Flag",
+        "badge_id": 16000172
+    },
+    {
+        "name": "flag_e_02",
+        "category": "02_Flag",
+        "badge_id": 16000173
+    },
+    {
+        "name": "flag_i_03",
+        "category": "02_Flag",
+        "badge_id": 16000174
+    },
+    {
+        "name": "flag_e_01",
+        "category": "02_Flag",
+        "badge_id": 16000175
+    },
+    {
+        "name": "A_Char_Barbarian_03",
+        "category": "03_Royale",
+        "badge_id": 16000176
+    },
+    {
+        "name": "A_Char_Prince_03",
+        "category": "03_Royale",
+        "badge_id": 16000177
+    },
+    {
+        "name": "A_Char_Bomb_01",
+        "category": "03_Royale",
+        "badge_id": 16000178
+    },
+    {
+        "name": "A_Char_Bomb_02",
+        "category": "03_Royale",
+        "badge_id": 16000179
+    }
+]
