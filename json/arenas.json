@@ -6,7 +6,6 @@
         "tv_arena": "TrainingCamp",
         "is_in_use": true,
         "training_camp": true,
-        "pve_arena": false,
         "trophy_limit": 0,
         "demote_trophy_limit": 0,
         "season_trophy_reset": null,
@@ -19,8 +18,6 @@
         "matchmaking_min_trophy_delta": 0,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "TrainingCamp",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 60,
         "battle_reward_gold": 5,
         "season_reward_chest": null,
@@ -30,7 +27,8 @@
         "title": "Training Camp",
         "subtitle": "",
         "arena_id": 0,
-        "league_id": "p"
+        "league_id": "p",
+        "id": 54000000
     },
     {
         "name": "Arena1",
@@ -39,7 +37,6 @@
         "tv_arena": "Arena1",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 0,
         "demote_trophy_limit": 0,
         "season_trophy_reset": null,
@@ -52,8 +49,6 @@
         "matchmaking_min_trophy_delta": 20,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_goblin",
-        "team_vs_team_location": "TeamVsTeam_goblin",
         "daily_donation_capacity_limit": 60,
         "battle_reward_gold": 5,
         "season_reward_chest": null,
@@ -63,7 +58,8 @@
         "title": "Arena 1",
         "subtitle": "Goblin Stadium",
         "arena_id": 1,
-        "league_id": 1
+        "league_id": 1,
+        "id": 54000001
     },
     {
         "name": "Arena2",
@@ -72,7 +68,6 @@
         "tv_arena": "Arena2",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 400,
         "demote_trophy_limit": 350,
         "season_trophy_reset": null,
@@ -85,8 +80,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_bone",
-        "team_vs_team_location": "TeamVsTeam_bone",
         "daily_donation_capacity_limit": 60,
         "battle_reward_gold": 7,
         "season_reward_chest": null,
@@ -96,7 +89,8 @@
         "title": "Arena 2",
         "subtitle": "Bone Pit",
         "arena_id": 2,
-        "league_id": 2
+        "league_id": 2,
+        "id": 54000002
     },
     {
         "name": "Arena3",
@@ -105,7 +99,6 @@
         "tv_arena": "Arena3",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 800,
         "demote_trophy_limit": 750,
         "season_trophy_reset": null,
@@ -118,8 +111,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_barbarian",
-        "team_vs_team_location": "TeamVsTeam_barbarian",
         "daily_donation_capacity_limit": 60,
         "battle_reward_gold": 9,
         "season_reward_chest": null,
@@ -129,7 +120,8 @@
         "title": "Arena 3",
         "subtitle": "Barbarian Bowl",
         "arena_id": 3,
-        "league_id": 3
+        "league_id": 3,
+        "id": 54000003
     },
     {
         "name": "Arena4",
@@ -138,7 +130,6 @@
         "tv_arena": "Arena4",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 1100,
         "demote_trophy_limit": 1050,
         "season_trophy_reset": null,
@@ -151,8 +142,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_dark",
-        "team_vs_team_location": "TeamVsTeam_dark",
         "daily_donation_capacity_limit": 120,
         "battle_reward_gold": 11,
         "season_reward_chest": null,
@@ -162,7 +151,8 @@
         "title": "Arena 4",
         "subtitle": "P.E.K.K.A's Playhouse",
         "arena_id": 4,
-        "league_id": 4
+        "league_id": 4,
+        "id": 54000004
     },
     {
         "name": "Arena5",
@@ -171,7 +161,6 @@
         "tv_arena": "Arena5",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 1400,
         "demote_trophy_limit": 1350,
         "season_trophy_reset": null,
@@ -184,8 +173,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_spell",
-        "team_vs_team_location": "TeamVsTeam_spell",
         "daily_donation_capacity_limit": 120,
         "battle_reward_gold": 12,
         "season_reward_chest": null,
@@ -195,7 +182,8 @@
         "title": "Arena 5",
         "subtitle": "Spell Valley",
         "arena_id": 5,
-        "league_id": 5
+        "league_id": 5,
+        "id": 54000005
     },
     {
         "name": "Arena6",
@@ -204,7 +192,6 @@
         "tv_arena": "Arena6",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 1700,
         "demote_trophy_limit": 1650,
         "season_trophy_reset": null,
@@ -217,8 +204,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_builder",
-        "team_vs_team_location": "TeamVsTeam_builder",
         "daily_donation_capacity_limit": 120,
         "battle_reward_gold": 14,
         "season_reward_chest": null,
@@ -228,7 +213,8 @@
         "title": "Arena 6",
         "subtitle": "Builder's Workshop",
         "arena_id": 6,
-        "league_id": 6
+        "league_id": 6,
+        "id": 54000006
     },
     {
         "name": "Arena7",
@@ -237,7 +223,6 @@
         "tv_arena": "Arena7",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 2000,
         "demote_trophy_limit": 1950,
         "season_trophy_reset": null,
@@ -250,8 +235,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_royal",
-        "team_vs_team_location": "TeamVsTeam_royal",
         "daily_donation_capacity_limit": 180,
         "battle_reward_gold": 15,
         "season_reward_chest": null,
@@ -261,7 +244,8 @@
         "title": "Arena 7",
         "subtitle": "Royal Arena",
         "arena_id": 7,
-        "league_id": 7
+        "league_id": 7,
+        "id": 54000008
     },
     {
         "name": "Arena8",
@@ -270,7 +254,6 @@
         "tv_arena": "Arena8",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 2300,
         "demote_trophy_limit": 2250,
         "season_trophy_reset": null,
@@ -283,8 +266,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_ice",
-        "team_vs_team_location": "TeamVsTeam_ice",
         "daily_donation_capacity_limit": 200,
         "battle_reward_gold": 16,
         "season_reward_chest": null,
@@ -294,7 +275,8 @@
         "title": "Arena 8",
         "subtitle": "Frozen Peak",
         "arena_id": 8,
-        "league_id": 8
+        "league_id": 8,
+        "id": 54000009
     },
     {
         "name": "Arena9",
@@ -303,7 +285,6 @@
         "tv_arena": "Arena9",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 2600,
         "demote_trophy_limit": 2550,
         "season_trophy_reset": null,
@@ -316,8 +297,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_jungle",
-        "team_vs_team_location": "TeamVsTeam_jungle",
         "daily_donation_capacity_limit": 220,
         "battle_reward_gold": 18,
         "season_reward_chest": null,
@@ -327,7 +306,8 @@
         "title": "Arena 9",
         "subtitle": "Jungle Arena",
         "arena_id": 9,
-        "league_id": 9
+        "league_id": 9,
+        "id": 54000010
     },
     {
         "name": "Arena_L",
@@ -336,7 +316,6 @@
         "tv_arena": "Arena_L",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 3000,
         "demote_trophy_limit": 2950,
         "season_trophy_reset": null,
@@ -349,8 +328,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_legendary",
-        "team_vs_team_location": "TeamVsTeam_legendary",
         "daily_donation_capacity_limit": 240,
         "battle_reward_gold": 20,
         "season_reward_chest": null,
@@ -360,7 +337,8 @@
         "title": "Arena 10",
         "subtitle": "Hog Mountain",
         "arena_id": 10,
-        "league_id": "L"
+        "league_id": "L",
+        "id": 54000007
     },
     {
         "name": "Arena_Electric",
@@ -369,7 +347,6 @@
         "tv_arena": "Arena_Electric",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 3400,
         "demote_trophy_limit": 3350,
         "season_trophy_reset": null,
@@ -382,8 +359,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 100,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_electric",
-        "team_vs_team_location": "TeamVsTeam_electric",
         "daily_donation_capacity_limit": 240,
         "battle_reward_gold": 22,
         "season_reward_chest": null,
@@ -393,7 +368,8 @@
         "title": "Arena 11",
         "subtitle": "Electro Valley",
         "arena_id": 11,
-        "league_id": "c"
+        "league_id": "c",
+        "id": 54000024
     },
     {
         "name": "Arena_T",
@@ -402,7 +378,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 3800,
         "demote_trophy_limit": 3750,
         "season_trophy_reset": null,
@@ -415,8 +390,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": "TeamVsTeam_champion",
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 24,
         "season_reward_chest": null,
@@ -426,7 +399,8 @@
         "title": "Arena 12",
         "subtitle": "Legendary Arena",
         "arena_id": 12,
-        "league_id": "T"
+        "league_id": "T",
+        "id": 54000011
     },
     {
         "name": "Arena_L1",
@@ -435,7 +409,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 4000,
         "demote_trophy_limit": 4000,
         "season_trophy_reset": 4000,
@@ -448,8 +421,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 26,
         "season_reward_chest": "SeasonReward_L1",
@@ -459,7 +430,8 @@
         "title": "League 1",
         "subtitle": "Challenger I",
         "arena_id": 12,
-        "league_id": 1
+        "league_id": 1,
+        "id": 54000012
     },
     {
         "name": "Arena_L2",
@@ -468,7 +440,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 4300,
         "demote_trophy_limit": 4300,
         "season_trophy_reset": 4000,
@@ -481,8 +452,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 28,
         "season_reward_chest": "SeasonReward_L2",
@@ -492,7 +461,8 @@
         "title": "League 2",
         "subtitle": "Challenger II",
         "arena_id": 12,
-        "league_id": 2
+        "league_id": 2,
+        "id": 54000013
     },
     {
         "name": "Arena_L3",
@@ -501,7 +471,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 4600,
         "demote_trophy_limit": 4600,
         "season_trophy_reset": 4000,
@@ -514,8 +483,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 30,
         "season_reward_chest": "SeasonReward_L3",
@@ -525,7 +492,8 @@
         "title": "League 3",
         "subtitle": "Challenger III",
         "arena_id": 12,
-        "league_id": 3
+        "league_id": 3,
+        "id": 54000014
     },
     {
         "name": "Arena_L4",
@@ -534,7 +502,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 4900,
         "demote_trophy_limit": 4900,
         "season_trophy_reset": 4300,
@@ -547,8 +514,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 32,
         "season_reward_chest": "SeasonReward_L4",
@@ -558,7 +523,8 @@
         "title": "League 4",
         "subtitle": "Master I",
         "arena_id": 12,
-        "league_id": 4
+        "league_id": 4,
+        "id": 54000015
     },
     {
         "name": "Arena_L5",
@@ -567,7 +533,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 5200,
         "demote_trophy_limit": 5200,
         "season_trophy_reset": 4300,
@@ -580,8 +545,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 34,
         "season_reward_chest": "SeasonReward_L5",
@@ -591,7 +554,8 @@
         "title": "League 5",
         "subtitle": "Master II",
         "arena_id": 12,
-        "league_id": 5
+        "league_id": 5,
+        "id": 54000016
     },
     {
         "name": "Arena_L6",
@@ -600,7 +564,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 5500,
         "demote_trophy_limit": 5500,
         "season_trophy_reset": 4300,
@@ -613,8 +576,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 36,
         "season_reward_chest": "SeasonReward_L6",
@@ -624,7 +585,8 @@
         "title": "League 6",
         "subtitle": "Master III",
         "arena_id": 12,
-        "league_id": 6
+        "league_id": 6,
+        "id": 54000017
     },
     {
         "name": "Arena_L7",
@@ -633,7 +595,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 5800,
         "demote_trophy_limit": 5800,
         "season_trophy_reset": 4600,
@@ -646,8 +607,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 38,
         "season_reward_chest": "SeasonReward_L7",
@@ -657,7 +616,8 @@
         "title": "League 7",
         "subtitle": "Champion",
         "arena_id": 12,
-        "league_id": 7
+        "league_id": 7,
+        "id": 54000018
     },
     {
         "name": "Arena_L8",
@@ -666,7 +626,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 6100,
         "demote_trophy_limit": 6100,
         "season_trophy_reset": 4600,
@@ -679,8 +638,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 40,
         "season_reward_chest": "SeasonReward_L8",
@@ -690,7 +647,8 @@
         "title": "League 8",
         "subtitle": "Grand Champion",
         "arena_id": 12,
-        "league_id": 8
+        "league_id": 8,
+        "id": 54000019
     },
     {
         "name": "Arena_L9",
@@ -699,7 +657,6 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "training_camp": false,
-        "pve_arena": false,
         "trophy_limit": 6400,
         "demote_trophy_limit": 6400,
         "season_trophy_reset": 4600,
@@ -712,8 +669,6 @@
         "matchmaking_min_trophy_delta": 40,
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
-        "pvp_location": "PvP_champion",
-        "team_vs_team_location": null,
         "daily_donation_capacity_limit": 260,
         "battle_reward_gold": 42,
         "season_reward_chest": "SeasonReward_L9",
@@ -723,6 +678,7 @@
         "title": "League 9",
         "subtitle": "Ultimate Champion",
         "arena_id": 12,
-        "league_id": 9
+        "league_id": 9,
+        "id": 54000020
     }
 ]

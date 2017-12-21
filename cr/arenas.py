@@ -24,13 +24,11 @@ class Arenas(BaseGen):
         """Generate json"""
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
         fields = [
-            "Name", "Arena", "ChestArena", "TvArena", "IsInUse", "TrainingCamp", "PVEArena", "TrophyLimit",
-            "DemoteTrophyLimit", "SeasonTrophyReset", "ChestRewardMultiplier", "ShopChestRewardMultiplier",
-            "RequestSize", "MaxDonationCountCommon", "MaxDonationCountRare", "MaxDonationCountEpic",
-            "MatchmakingMinTrophyDelta", "MatchmakingMaxTrophyDelta", "MatchmakingMaxSeconds", "PvpLocation",
-            "TeamVsTeamLocation", "DailyDonationCapacityLimit", "BattleRewardGold", "SeasonRewardChest",
-            "QuestCycle", "ForceQuestChestCycle"
-        ]
+            "Name", "Arena", "ChestArena", "TvArena", "IsInUse", "TrainingCamp", "TrophyLimit", "DemoteTrophyLimit",
+            "SeasonTrophyReset", "ChestRewardMultiplier", "ShopChestRewardMultiplier", "RequestSize",
+            "MaxDonationCountCommon", "MaxDonationCountRare", "MaxDonationCountEpic", "MatchmakingMinTrophyDelta",
+            "MatchmakingMaxTrophyDelta", "MatchmakingMaxSeconds", "DailyDonationCapacityLimit", "BattleRewardGold",
+            "SeasonRewardChest", "QuestCycle", "ForceQuestChestCycle"]
 
         arenas = []
 
@@ -45,7 +43,8 @@ class Arenas(BaseGen):
                         "title": self.text(row["TID"], "EN"),
                         "subtitle": self.text(row["SubtitleTID"], "EN"),
                         "arena_id": min(12, arena["arena"]),
-                        "league_id": arena["name"][-1]
+                        "league_id": arena["name"][-1],
+                        "id": 54000000 + i - 1
                     })
                     for k, v in arena.copy().items():
                         if isinstance(v, str) and v.isdigit():
