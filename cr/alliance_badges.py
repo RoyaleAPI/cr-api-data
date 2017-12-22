@@ -1,12 +1,8 @@
 """
-Generate arenas JSON from APK CSV source.
+Clan badges
 """
 
-import csv
-import os
-
 from .base import BaseGen
-from .util import camelcase_split
 
 
 class AllianceBadges(BaseGen):
@@ -18,8 +14,3 @@ class AllianceBadges(BaseGen):
         for id, row in enumerate(data):
             row['badge_id'] = 16000000 + id
         self.save_json(data)
-
-
-
-
-

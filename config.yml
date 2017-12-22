@@ -1,17 +1,18 @@
 csv:
-  base: ./lib/cr-csv/
+  base: ./lib/cr-csv/assets/
   path:
-    alliance_badges: ./assets/csv_logic/alliance_badges.csv
-    area_effect_objects: ./assets/csv_logic/area_effect_objects.csv
-    arenas: ./assets/csv_logic/arenas.csv
-    buildings: ./assets/csv_logic/buildings.csv
-    characters: ./assets/csv_logic/characters.csv
-    chest_order: ./assets/csv_logic/chest_order.csv
-    clan_chest: ./assets/csv_logic/globals.csv
-    rarities: ./assets/csv_logic/rarities.csv
-    regions: ./assets/csv_logic/regions.csv
-    texts: ./assets/csv_client/texts.csv
-    treasure_chests: ./assets/csv_logic/treasure_chests.csv
+    alliance_badges: ./csv_logic/alliance_badges.csv
+    area_effect_objects: ./csv_logic/area_effect_objects.csv
+    arenas: ./csv_logic/arenas.csv
+    buildings: ./csv_logic/buildings.csv
+    characters: ./csv_logic/characters.csv
+    chest_order: ./csv_logic/chest_order.csv
+    clan_chest: ./csv_logic/globals.csv
+    game_modes: ./csv_logic/game_modes.csv
+    rarities: ./csv_logic/rarities.csv
+    regions: ./csv_logic/regions.csv
+    texts: ./csv_client/texts.csv
+    treasure_chests: ./csv_logic/treasure_chests.csv
 
 json:
   base: ./json/
@@ -22,6 +23,7 @@ json:
   cards_stats: ./cards_stats.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
+  game_modes: ./game_modes.json
   rarities: ./rarities.json
   regions: ./regions.json
   treasure_chests: ./treasure_chests.json
@@ -29,13 +31,28 @@ json:
 cards:
   - type: Troop
     sckey: 260000{0:02d}
-    csv: ./assets/csv_logic/spells_characters.csv
+    csv: ./csv_logic/spells_characters.csv
   - type: Building
     sckey: 270000{0:02d}
-    csv: ./assets/csv_logic/spells_buildings.csv
+    csv: ./csv_logic/spells_buildings.csv
   - type: Spell
     sckey: 280000{0:02d}
-    csv: ./assets/csv_logic/spells_other.csv
+    csv: ./csv_logic/spells_other.csv
+
+scid:
+  resources: 500000{0:02d}
+  badge: 160000{0:02d}
+  chest_type: 190000{0:02d}
+  troops: 260000{0:02d}
+  buildinggs: 270000{0:02d}
+  spells: 280000{0:02d}
+  arena: 540000{0:02d}
+  region: 570000{0:02d}
+  achievements: 600000{0:02d}
+  challenge: 650000{0:02d}
+  game_modes: 720000{0:02d}
+  skin: 830000{0:02d}
+
 
 quests:
   base: ./lib/cr-csv/assets/csv_logic/quests
