@@ -2,11 +2,7 @@
 Game modes
 """
 
-import csv
-import os
-
 from .base import BaseGen
-from .util import camelcase_split
 
 
 class GameModes(BaseGen):
@@ -18,7 +14,10 @@ class GameModes(BaseGen):
             "InProgressTID",
             "Icon",
             "EndConfetti1",
-            "EndConfetti2"
+            "EndConfetti2",
+            "ForcedDeckCardsUsingCardTheme",
+            "PrincessSkin",
+            "KingSkin"
         ]
 
     def run(self):
@@ -34,8 +33,3 @@ class GameModes(BaseGen):
 
         out = [o for o in out if o['id']]
         self.save_json(out)
-
-
-
-
-
