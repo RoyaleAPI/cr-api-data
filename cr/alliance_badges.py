@@ -12,5 +12,5 @@ class AllianceBadges(BaseGen):
     def run(self):
         data = self.load_csv(exclude_empty=True)
         for id, row in enumerate(data):
-            row['badge_id'] = 16000000 + id
+            row['id'] = 16000000 + id
         self.save_json(data)
