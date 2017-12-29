@@ -31,6 +31,17 @@ class Tournaments(BaseGen):
                         row.pop(k)
                 row['prizes'] = prizes
 
+                # add card count as list
+                cards = []
+                for rank in range(row['max_players']):
+                    rank_cards = 0
+                    for prize in prizes:
+                        if rank + 1 <= prize['rank']:
+                            rank_cards = prize['cards']
+                            break
+                    cards.append(rank_cards)
+                row['cards'] = cards
+
                 # remove non-data fields
                 row.pop('disabled')
                 row.pop('version')
