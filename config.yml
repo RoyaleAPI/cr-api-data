@@ -12,6 +12,7 @@ csv:
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
     texts: ./csv_client/texts.csv
+    tournaments: ./csv_logic/tournament_tiers.csv
     treasure_chests: ./csv_logic/treasure_chests.csv
 
 json:
@@ -26,6 +27,7 @@ json:
   game_modes: ./game_modes.json
   rarities: ./rarities.json
   regions: ./regions.json
+  tournaments: ./tournaments.json
   treasure_chests: ./treasure_chests.json
 
 cards:

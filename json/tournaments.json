@@ -1,0 +1,185 @@
+[
+    {
+        "create_cost": 100,
+        "max_players": 50,
+        "key": "tier1_2",
+        "prizes": [
+            {
+                "rank": 1,
+                "cards": 25,
+                "tier": 1
+            },
+            {
+                "rank": 2,
+                "cards": 15,
+                "tier": 2
+            },
+            {
+                "rank": 3,
+                "cards": 10,
+                "tier": 3
+            },
+            {
+                "rank": 10,
+                "cards": 4,
+                "tier": 4
+            }
+        ]
+    },
+    {
+        "create_cost": 500,
+        "max_players": 100,
+        "key": "tier2_2",
+        "prizes": [
+            {
+                "rank": 1,
+                "cards": 100,
+                "tier": 1
+            },
+            {
+                "rank": 2,
+                "cards": 60,
+                "tier": 2
+            },
+            {
+                "rank": 3,
+                "cards": 40,
+                "tier": 3
+            },
+            {
+                "rank": 10,
+                "cards": 15,
+                "tier": 4
+            },
+            {
+                "rank": 20,
+                "cards": 10,
+                "tier": 5
+            }
+        ]
+    },
+    {
+        "create_cost": 2000,
+        "max_players": 200,
+        "key": "tier3_2",
+        "prizes": [
+            {
+                "rank": 1,
+                "cards": 400,
+                "tier": 1
+            },
+            {
+                "rank": 2,
+                "cards": 240,
+                "tier": 2
+            },
+            {
+                "rank": 3,
+                "cards": 160,
+                "tier": 3
+            },
+            {
+                "rank": 10,
+                "cards": 50,
+                "tier": 4
+            },
+            {
+                "rank": 20,
+                "cards": 25,
+                "tier": 5
+            },
+            {
+                "rank": 30,
+                "cards": 15,
+                "tier": 6
+            },
+            {
+                "rank": 40,
+                "cards": 10,
+                "tier": 7
+            }
+        ]
+    },
+    {
+        "create_cost": 10000,
+        "max_players": 1000,
+        "key": "tier4_2",
+        "prizes": [
+            {
+                "rank": 1,
+                "cards": 2000,
+                "tier": 1
+            },
+            {
+                "rank": 2,
+                "cards": 1200,
+                "tier": 2
+            },
+            {
+                "rank": 3,
+                "cards": 800,
+                "tier": 3
+            },
+            {
+                "rank": 10,
+                "cards": 150,
+                "tier": 4
+            },
+            {
+                "rank": 20,
+                "cards": 80,
+                "tier": 5
+            },
+            {
+                "rank": 30,
+                "cards": 50,
+                "tier": 6
+            },
+            {
+                "rank": 40,
+                "cards": 35,
+                "tier": 7
+            },
+            {
+                "rank": 50,
+                "cards": 30,
+                "tier": 8
+            },
+            {
+                "rank": 60,
+                "cards": 25,
+                "tier": 9
+            },
+            {
+                "rank": 70,
+                "cards": 20,
+                "tier": 10
+            },
+            {
+                "rank": 80,
+                "cards": 18,
+                "tier": 11
+            },
+            {
+                "rank": 90,
+                "cards": 15,
+                "tier": 12
+            },
+            {
+                "rank": 100,
+                "cards": 12,
+                "tier": 13
+            },
+            {
+                "rank": 150,
+                "cards": 10,
+                "tier": 14
+            },
+            {
+                "rank": 200,
+                "cards": 5,
+                "tier": 15
+            }
+        ]
+    }
+]

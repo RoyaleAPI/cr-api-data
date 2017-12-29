@@ -6,7 +6,7 @@ import csv
 import json
 import os
 
-from .util import camelcase_split
+from .util import camelcase_split, camelcase_to_snakecase
 
 class TextField:
     def __init__(self, input, output):
@@ -162,7 +162,9 @@ class BaseGen:
                                 "filename", "useanimator", "iconswf", "tid"]:
                             continue
 
-                        item['_'.join(camelcase_split(k)).lower()] = self.row_value(row, k)
+                        # camelcase split, keep digits at end
+
+                        item[camelcase_to_snakecase(k)] = self.row_value(row, k)
 
                     # text fields
                     for tf in tid_fields:

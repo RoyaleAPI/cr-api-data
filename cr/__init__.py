@@ -8,3 +8,4 @@ from .game_mode import GameModes
 from .rarities import Rarities
 from .regions import Regions
 from .treasure_chests import TreasureChests
+from .tournaments import Tournaments
