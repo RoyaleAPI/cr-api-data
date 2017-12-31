@@ -5,6 +5,7 @@ csv:
     area_effect_objects: ./csv_logic/area_effect_objects.csv
     arenas: ./csv_logic/arenas.csv
     buildings: ./csv_logic/buildings.csv
+    challenges: ./csv_logic/survival_modes.csv
     characters: ./csv_logic/characters.csv
     chest_order: ./csv_logic/chest_order.csv
     clan_chest: ./csv_logic/globals.csv
@@ -22,6 +23,7 @@ json:
   buildings: ./buildings.json
   cards: ./cards.json
   cards_stats: ./cards_stats.json
+  challenges: ./challenges.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
   game_modes: ./game_modes.json

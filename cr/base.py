@@ -122,7 +122,15 @@ class BaseGen:
         else:
             return value
 
-    def load_csv(self, exclude_empty=False, tid_fields=None):
+    def load_csv(self, exclude_empty=False, tid_fields=None, inherit_previous=False):
+        """Load CSV into dict.
+
+        Params:
+            exclude_empty:     ignore empty fields
+            tid_fields:        list of fields to convert using the TID csv
+                               [{"field": "TID", "output_field": "name_en"}]
+            inherit_previous:  copy the previou row’s value if field is empty.
+        """
         if tid_fields is None:
             tid_fields = [{"field": "TID", "output_field": "name_en"}]
         if self.csv_path is None:
