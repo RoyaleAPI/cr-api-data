@@ -89,7 +89,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000006
+        "id": 72000006,
+        "name_en": "Ladder"
     },
     {
         "name": "Friendly",
@@ -118,7 +119,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000008
+        "id": 72000008,
+        "name_en": "Training"
     },
     {
         "name": "Tournament",
@@ -132,7 +134,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000009
+        "id": 72000009,
+        "name_en": "Tournament"
     },
     {
         "name": "Challenge",
@@ -146,7 +149,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000010
+        "id": 72000010,
+        "name_en": "Challenge"
     },
     {
         "name": "DoubleElixir_Friendly",
@@ -242,7 +246,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000016
+        "id": 72000016,
+        "name_en": "CardRelease"
     },
     {
         "name": "CardReleaseDraft",
@@ -660,7 +665,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000041
+        "id": 72000041,
+        "name_en": "Invalid"
     },
     {
         "name": "PickMode",

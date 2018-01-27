@@ -28,6 +28,7 @@ class GameModes(BaseGen):
             if id_ > 0:
                 row.update({
                     'id': int(self.config.scid.game_modes.format(id_)),
+                    'name_en':  row.get('name_en') or row.get('name')
                 })
                 out.append(row)
 
