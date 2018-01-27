@@ -19,6 +19,8 @@ class Challenges(BaseGen):
         out = []
         item = None
 
+        item_count = 0
+
         for i, row in enumerate(data):
             row_name = row.get('name')
             if row_name is not None:
@@ -26,12 +28,15 @@ class Challenges(BaseGen):
                     out.append(item)
                 item = row.copy()
                 item['key'] = item['name']
+                item['id'] = 65000000 + item_count
+                item_count += 1
             else:
                 for field in ['reward_cards', 'reward_gold']:
                     if row.get(field):
                         if not isinstance(item.get(field), list):
                             item[field] = [item[field]]
                         item[field].append(row[field])
+
 
         # include last row
         out.append(item)

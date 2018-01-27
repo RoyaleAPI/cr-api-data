@@ -40,7 +40,8 @@
         "reward_spell": null,
         "reward_spell_max_count": 0,
         "name_en": "Grand Challenge",
-        "key": "Gold"
+        "key": "Gold",
+        "id": 65000000
     },
     {
         "name": "Bronze",
@@ -83,7 +84,8 @@
         "reward_spell": null,
         "reward_spell_max_count": 0,
         "name_en": "Classic Challenge",
-        "key": "Bronze"
+        "key": "Bronze",
+        "id": 65000001
     },
     {
         "name": "KingsCup",
@@ -125,7 +127,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "KingsCup"
+        "key": "KingsCup",
+        "id": 65000002
     },
     {
         "name": "DoubleElixir",
@@ -167,7 +170,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "DoubleElixir"
+        "key": "DoubleElixir",
+        "id": 65000003
     },
     {
         "name": "BlindDeck",
@@ -209,7 +213,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "BlindDeck"
+        "key": "BlindDeck",
+        "id": 65000004
     },
     {
         "name": "DraftMode",
@@ -251,7 +256,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "DraftMode"
+        "key": "DraftMode",
+        "id": 65000005
     },
     {
         "name": "ThreeBridges",
@@ -293,7 +299,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "ThreeBridges"
+        "key": "ThreeBridges",
+        "id": 65000006
     },
     {
         "name": "HeroChallenge",
@@ -335,7 +342,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "HeroChallenge"
+        "key": "HeroChallenge",
+        "id": 65000007
     },
     {
         "name": "ElectroWiz",
@@ -377,7 +385,8 @@
         ],
         "reward_spell": "ElectroWizard",
         "reward_spell_max_count": 1,
-        "key": "ElectroWiz"
+        "key": "ElectroWiz",
+        "id": 65000008
     },
     {
         "name": "DraftMode2",
@@ -419,7 +428,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "DraftMode2"
+        "key": "DraftMode2",
+        "id": 65000009
     },
     {
         "name": "BattleRamClassic",
@@ -461,7 +471,8 @@
         ],
         "reward_spell": "BattleRam",
         "reward_spell_max_count": 0,
-        "key": "BattleRamClassic"
+        "key": "BattleRamClassic",
+        "id": 65000010
     },
     {
         "name": "BattleRamGrand",
@@ -503,7 +514,8 @@
         ],
         "reward_spell": "BattleRam",
         "reward_spell_max_count": 0,
-        "key": "BattleRamGrand"
+        "key": "BattleRamGrand",
+        "id": 65000011
     },
     {
         "name": "DraftModeInsane",
@@ -545,7 +557,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "DraftModeInsane"
+        "key": "DraftModeInsane",
+        "id": 65000012
     },
     {
         "name": "Team",
@@ -587,7 +600,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "Team"
+        "key": "Team",
+        "id": 65000013
     },
     {
         "name": "RetroRoyale",
@@ -629,7 +643,8 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "RetroRoyale"
+        "key": "RetroRoyale",
+        "id": 65000014
     },
     {
         "name": "TeamVsEnemy",
@@ -671,6 +686,7 @@
         ],
         "reward_spell": null,
         "reward_spell_max_count": 0,
-        "key": "TeamVsEnemy"
+        "key": "TeamVsEnemy",
+        "id": 65000015
     }
 ]
