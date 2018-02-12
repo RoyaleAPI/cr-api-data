@@ -1,5 +1,27 @@
 [
     {
+        "predefined_decks": "YTCHA_Flakespower",
+        "same_deck_on_both": false,
+        "separate_team_decks": false,
+        "use_starting_elixir": false,
+        "heroes": false,
+        "gives_clan_score": false,
+        "fixed_deck_order": false,
+        "id": 72000001,
+        "name_en": null
+    },
+    {
+        "predefined_decks": "YTCHA_Yarn",
+        "same_deck_on_both": false,
+        "separate_team_decks": false,
+        "use_starting_elixir": false,
+        "heroes": false,
+        "gives_clan_score": false,
+        "fixed_deck_order": false,
+        "id": 72000002,
+        "name_en": null
+    },
+    {
         "name": "DoubleElixir",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
@@ -14,7 +36,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Double Elixir Challenge",
-        "id": 72000001
+        "id": 72000003
     },
     {
         "name": "ThreeBridges",
@@ -29,7 +51,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Three Bridges Challenge",
-        "id": 72000002
+        "id": 72000004
     },
     {
         "name": "HeroChallenge",
@@ -44,7 +66,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Heroes Challenge",
-        "id": 72000003
+        "id": 72000005
     },
     {
         "name": "ElectroWiz",
@@ -60,7 +82,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Electro Wizard Challenge",
-        "id": 72000004
+        "id": 72000006
     },
     {
         "name": "DraftMode",
@@ -75,7 +97,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Draft Battle",
-        "id": 72000005
+        "id": 72000007
     },
     {
         "name": "Ladder",
@@ -89,7 +111,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000006,
+        "id": 72000008,
         "name_en": "Ladder"
     },
     {
@@ -105,7 +127,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "1v1 Battle",
-        "id": 72000007
+        "id": 72000009
     },
     {
         "name": "Training",
@@ -119,7 +141,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000008,
+        "id": 72000010,
         "name_en": "Training"
     },
     {
@@ -134,7 +156,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000009,
+        "id": 72000011,
         "name_en": "Tournament"
     },
     {
@@ -149,7 +171,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000010,
+        "id": 72000012,
         "name_en": "Challenge"
     },
     {
@@ -167,7 +189,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Double Elixir Challenge",
-        "id": 72000011
+        "id": 72000013
     },
     {
         "name": "BattleRam",
@@ -182,7 +204,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Electro Wizard Challenge",
-        "id": 72000012
+        "id": 72000014
     },
     {
         "name": "DraftModeInsane",
@@ -199,7 +221,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Double Elixir Draft",
-        "id": 72000013
+        "id": 72000015
     },
     {
         "name": "TeamVsTeam",
@@ -216,7 +238,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Battle",
-        "id": 72000014
+        "id": 72000016
     },
     {
         "name": "RetroRoyale",
@@ -232,7 +254,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Retro Royale Challenge",
-        "id": 72000015
+        "id": 72000017
     },
     {
         "name": "CardRelease",
@@ -246,7 +268,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000016,
+        "id": 72000018,
         "name_en": "CardRelease"
     },
     {
@@ -262,7 +284,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Draft Battle",
-        "id": 72000017
+        "id": 72000019
     },
     {
         "name": "PvE",
@@ -279,7 +301,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Puzzle Royale",
-        "id": 72000018
+        "id": 72000020
     },
     {
         "name": "TvE",
@@ -297,7 +319,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Clan vs Enemy",
-        "id": 72000019
+        "id": 72000021
     },
     {
         "name": "PvE_Boss",
@@ -313,7 +335,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Puzzle Royale",
-        "id": 72000020
+        "id": 72000022
     },
     {
         "name": "PvE_Tutorial",
@@ -328,7 +350,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Puzzle Royale",
-        "id": 72000021
+        "id": 72000023
     },
     {
         "name": "TeamVsTeamDraft",
@@ -345,7 +367,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Draft Battle",
-        "id": 72000022
+        "id": 72000024
     },
     {
         "name": "TeamVsTeamLadder",
@@ -362,7 +384,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Ladder",
-        "id": 72000023
+        "id": 72000025
     },
     {
         "name": "Overtime_Tournament",
@@ -378,7 +400,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Sudden Death Battle",
-        "id": 72000024
+        "id": 72000026
     },
     {
         "name": "GoldRush_Tournament",
@@ -396,7 +418,7 @@
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
         "name_en": "Gold Rush",
-        "id": 72000025
+        "id": 72000027
     },
     {
         "name": "TeamVsTeamChallenge",
@@ -413,7 +435,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Challenge",
-        "id": 72000026
+        "id": 72000028
     },
     {
         "name": "TripleElixir_Tournament",
@@ -431,7 +453,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Triple Elixir Battle",
-        "id": 72000027
+        "id": 72000029
     },
     {
         "name": "RampUpElixir_Tournament",
@@ -446,7 +468,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Ramp Up Battle",
-        "id": 72000028
+        "id": 72000030
     },
     {
         "name": "TeamVsTeamCrowns",
@@ -463,7 +485,7 @@
         "gives_clan_score": true,
         "fixed_deck_order": false,
         "name_en": "2v2 Battle",
-        "id": 72000029
+        "id": 72000031
     },
     {
         "name": "TeamVsTeamDraftChallenge",
@@ -480,7 +502,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Draft Battle",
-        "id": 72000030
+        "id": 72000032
     },
     {
         "name": "Overtime_Friendly",
@@ -496,7 +518,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Sudden Death Battle",
-        "id": 72000031
+        "id": 72000033
     },
     {
         "name": "TripleElixir_Friendly",
@@ -514,7 +536,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Triple Elixir Battle",
-        "id": 72000032
+        "id": 72000034
     },
     {
         "name": "RampUpElixir_Friendly",
@@ -529,7 +551,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Ramp Up Battle",
-        "id": 72000033
+        "id": 72000035
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Friendly",
@@ -547,7 +569,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Double Elixir",
-        "id": 72000034
+        "id": 72000036
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Tournament",
@@ -565,7 +587,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Double Elixir",
-        "id": 72000035
+        "id": 72000037
     },
     {
         "name": "TeamVsTeam_Overtime_Friendly",
@@ -582,7 +604,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Sudden Death",
-        "id": 72000036
+        "id": 72000038
     },
     {
         "name": "TeamVsTeam_Overtime_Tournament",
@@ -599,7 +621,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Sudden Death",
-        "id": 72000037
+        "id": 72000039
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Friendly",
@@ -616,7 +638,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Ramp Up",
-        "id": 72000038
+        "id": 72000040
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Tournament",
@@ -633,7 +655,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Ramp Up",
-        "id": 72000039
+        "id": 72000041
     },
     {
         "name": "TeamVsTeam_DraftModeInsane_Friendly",
@@ -651,7 +673,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Double Elixir Draft",
-        "id": 72000040
+        "id": 72000042
     },
     {
         "name": "Invalid",
@@ -665,7 +687,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "id": 72000041,
+        "id": 72000043,
         "name_en": "Invalid"
     },
     {
@@ -681,7 +703,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Draft Pick Challenge",
-        "id": 72000042
+        "id": 72000044
     },
     {
         "name": "TeamVsTeamLadder_GoldRush",
@@ -701,7 +723,7 @@
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
         "name_en": "Gold Rush",
-        "id": 72000043
+        "id": 72000045
     },
     {
         "name": "Ladder_GoldRush",
@@ -719,7 +741,7 @@
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
         "name_en": "Gold Rush",
-        "id": 72000044
+        "id": 72000046
     },
     {
         "name": "Touchdown",
@@ -736,7 +758,7 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "name_en": "Touchdown",
-        "id": 72000045
+        "id": 72000047
     },
     {
         "name": "TeamVsTeamLadder_GemRush",
@@ -756,7 +778,7 @@
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
         "name_en": "Gem Rush",
-        "id": 72000046
+        "id": 72000048
     },
     {
         "name": "Ladder_GemRush",
@@ -774,7 +796,7 @@
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
         "name_en": "Gem Rush",
-        "id": 72000047
+        "id": 72000049
     },
     {
         "name": "GemRush_Tournament",
@@ -792,7 +814,7 @@
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
         "name_en": "Gem Rush",
-        "id": 72000048
+        "id": 72000050
     },
     {
         "name": "TeamVsTeam_Touchdown",
@@ -811,7 +833,7 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "name_en": "2v2 Touchdown",
-        "id": 72000049
+        "id": 72000051
     },
     {
         "name": "Touchdown_Draft",
@@ -828,7 +850,7 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "name_en": "Touchdown Draft",
-        "id": 72000050
+        "id": 72000052
     },
     {
         "name": "TeamVsTeam_Touchdown_Draft",
@@ -847,7 +869,7 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "name_en": "2v2 Touchdown Draft",
-        "id": 72000051
+        "id": 72000053
     },
     {
         "name": "MirrorDeck",
@@ -863,7 +885,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Mirror Battle",
-        "id": 72000052
+        "id": 72000054
     },
     {
         "name": "TeamVsTeam_MirrorDeck",
@@ -879,7 +901,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Mirror Battle",
-        "id": 72000053
+        "id": 72000055
     },
     {
         "name": "Friendly_FixedDeckOrder",
@@ -894,7 +916,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": true,
         "name_en": "1v1 Fixed Deck Battle",
-        "id": 72000054
+        "id": 72000056
     },
     {
         "name": "TeamVsTeam_FixedDeckOrder",
@@ -911,7 +933,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": true,
         "name_en": "2v2 Fixed Deck Battle",
-        "id": 72000055
+        "id": 72000057
     },
     {
         "name": "MirrorDeck_H",
@@ -927,7 +949,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Mirror Battle",
-        "id": 72000056
+        "id": 72000058
     },
     {
         "name": "TeamVsTeam_MirrorDeck_H",
@@ -943,7 +965,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "2v2 Mirror Battle",
-        "id": 72000057
+        "id": 72000059
     },
     {
         "name": "KingOfTheHill",
@@ -960,7 +982,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "King of the Hill",
-        "id": 72000058
+        "id": 72000060
     },
     {
         "name": "ModernRoyale",
@@ -976,6 +998,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "name_en": "Modern Royale",
-        "id": 72000059
+        "id": 72000061
     }
 ]
