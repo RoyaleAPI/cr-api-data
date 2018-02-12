@@ -1,27 +1,5 @@
 [
     {
-        "predefined_decks": "YTCHA_Flakespower",
-        "same_deck_on_both": false,
-        "separate_team_decks": false,
-        "use_starting_elixir": false,
-        "heroes": false,
-        "gives_clan_score": false,
-        "fixed_deck_order": false,
-        "id": 72000001,
-        "name_en": null
-    },
-    {
-        "predefined_decks": "YTCHA_Yarn",
-        "same_deck_on_both": false,
-        "separate_team_decks": false,
-        "use_starting_elixir": false,
-        "heroes": false,
-        "gives_clan_score": false,
-        "fixed_deck_order": false,
-        "id": 72000002,
-        "name_en": null
-    },
-    {
         "name": "DoubleElixir",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",

@@ -26,11 +26,12 @@ class GameModes(BaseGen):
         for i, row in enumerate(data):
             id_ = i + 2 - 9
             if id_ > 0:
-                row.update({
-                    'id': int(self.config.scid.game_modes.format(id_)),
-                    'name_en':  row.get('name_en') or row.get('name')
-                })
-                out.append(row)
+                if row.get('name') is not None:
+                    row.update({
+                        'id': int(self.config.scid.game_modes.format(id_)),
+                        'name_en':  row.get('name_en') or row.get('name')
+                    })
+                    out.append(row)
 
         out = [o for o in out if o['id']]
         self.save_json(out)
