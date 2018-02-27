@@ -84,7 +84,7 @@ class BaseGen:
         quests_hint = self.text('TID_HINT_QUESTS', 'EN')
         """
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.texts)
-        with open(csv_path) as f:
+        with open(csv_path, encoding="utf8") as f:
             texts_reader = csv.DictReader(f)
             for row in texts_reader:
                 if row[' '] == tid:
