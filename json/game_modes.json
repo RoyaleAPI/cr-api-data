@@ -4,7 +4,7 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "YTCHA_Trymacs",
+        "predefined_decks": "CCGS_Berin",
         "same_deck_on_both": false,
         "separate_team_decks": true,
         "use_starting_elixir": false,

@@ -810,6 +810,16 @@
         "id": 28000013
     },
     {
+        "key": "barbarian-barrel",
+        "name": "Barbarian Barrel",
+        "elixir": 3,
+        "type": "Spell",
+        "rarity": "Epic",
+        "arena": 10,
+        "description": "It rolls, knocks back and damages anything in the way - then breaks and out pops a Barbarian! How did he get inside?!",
+        "id": 28000015
+    },
+    {
         "key": "heal",
         "name": "Heal",
         "elixir": 3,
