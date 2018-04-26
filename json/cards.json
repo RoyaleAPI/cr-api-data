@@ -46,7 +46,7 @@
         "type": "Troop",
         "rarity": "Epic",
         "arena": 4,
-        "description": "A heavily armored, slow melee fighter. Swings from the hip but packs a huge punch.",
+        "description": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
         "id": 26000004
     },
     {
@@ -176,7 +176,7 @@
         "type": "Troop",
         "rarity": "Rare",
         "arena": 5,
-        "description": "The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
+        "description": "The most awesome man to ever set foot in the Arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
         "id": 26000017
     },
     {
@@ -196,7 +196,7 @@
         "type": "Troop",
         "rarity": "Common",
         "arena": 1,
-        "description": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!?! Who thought that was a good idea?!",
+        "description": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!? Who thought that was a good idea?!",
         "id": 26000019
     },
     {
@@ -406,7 +406,7 @@
         "type": "Troop",
         "rarity": "Rare",
         "arena": 9,
-        "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouth full of gum? Years of didgeridoo lessons.",
+        "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouthful of Double Trouble Gum? Years of didgeridoo lessons.",
         "id": 26000040
     },
     {
@@ -466,7 +466,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 9,
-        "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe... and gives her bonus cool points!",
+        "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe, and gives her bonus cool points!",
         "id": 26000046
     },
     {
@@ -486,7 +486,7 @@
         "type": "Troop",
         "rarity": "Common",
         "arena": 8,
-        "description": "Spawns a handful of tiny flying creatures with big ears. Having big ears doesn't mean they're good listeners.",
+        "description": "Spawns a handful of tiny flying creatures. Think of them as sweet, purple... balls of DESTRUCTION!",
         "id": 26000049
     },
     {
@@ -576,7 +576,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 1,
-        "description": "Building that spawns Spear Goblins. But don't look inside. You don't want to see how they are made.",
+        "description": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
         "id": 27000001
     },
     {
@@ -586,7 +586,7 @@
         "type": "Building",
         "rarity": "Common",
         "arena": 6,
-        "description": "Defensive building with a long range. Shoots exploding boulders that deal area damage. Cannot shoot at targets that get very close!",
+        "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
         "id": 27000002
     },
     {
@@ -616,7 +616,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 3,
-        "description": "Troop building that periodically deploys Barbarians to fight the enemy. Time to make the Barbarians.",
+        "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
         "id": 27000005
     },
     {
@@ -816,7 +816,7 @@
         "type": "Spell",
         "rarity": "Epic",
         "arena": 10,
-        "description": "It rolls, knocks back and damages anything in the way - then breaks and out pops a Barbarian! How did he get inside?!",
+        "description": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
         "id": 28000015
     },
     {

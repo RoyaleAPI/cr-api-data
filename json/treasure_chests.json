@@ -97,11 +97,11 @@
                     "key": "arena0",
                     "title": "Training Camp",
                     "subtitle": "",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena1",
@@ -111,11 +111,11 @@
                     "key": "arena1",
                     "title": "Arena 1",
                     "subtitle": "Goblin Stadium",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena2",
@@ -125,11 +125,11 @@
                     "key": "arena2",
                     "title": "Arena 2",
                     "subtitle": "Bone Pit",
-                    "card_count_by_arena": 251,
-                    "card_count_common": 192.27645833333332,
-                    "card_count_rare": 50.2,
-                    "card_count_epic": 8.366666666666667,
-                    "card_count_legendary": 0.15687500000000001
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
                 },
                 {
                     "name": "Arena3",
@@ -139,11 +139,11 @@
                     "key": "arena3",
                     "title": "Arena 3",
                     "subtitle": "Barbarian Bowl",
-                    "card_count_by_arena": 316,
-                    "card_count_common": 242.0691666666667,
-                    "card_count_rare": 63.2,
-                    "card_count_epic": 10.533333333333333,
-                    "card_count_legendary": 0.1975
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
                 },
                 {
                     "name": "Arena4",
@@ -153,11 +153,11 @@
                     "key": "arena4",
                     "title": "Arena 4",
                     "subtitle": "P.E.K.K.A's Playhouse",
-                    "card_count_by_arena": 372,
-                    "card_count_common": 284.96750000000003,
-                    "card_count_rare": 74.4,
-                    "card_count_epic": 12.4,
-                    "card_count_legendary": 0.2325
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
                 },
                 {
                     "name": "Arena5",
@@ -167,11 +167,11 @@
                     "key": "arena5",
                     "title": "Arena 5",
                     "subtitle": "Spell Valley",
-                    "card_count_by_arena": 427,
-                    "card_count_common": 327.09979166666665,
-                    "card_count_rare": 85.4,
-                    "card_count_epic": 14.233333333333333,
-                    "card_count_legendary": 0.26687500000000003
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
                 },
                 {
                     "name": "Arena6",
@@ -181,11 +181,11 @@
                     "key": "arena6",
                     "title": "Arena 6",
                     "subtitle": "Builder's Workshop",
-                    "card_count_by_arena": 483,
-                    "card_count_common": 369.99812499999996,
-                    "card_count_rare": 96.60000000000001,
-                    "card_count_epic": 16.1,
-                    "card_count_legendary": 0.301875
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
                 },
                 {
                     "name": "Arena7",
@@ -195,11 +195,11 @@
                     "key": "arena7",
                     "title": "Arena 7",
                     "subtitle": "Royal Arena",
-                    "card_count_by_arena": 539,
-                    "card_count_common": 412.8964583333333,
-                    "card_count_rare": 107.80000000000001,
-                    "card_count_epic": 17.966666666666665,
-                    "card_count_legendary": 0.336875
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
                 },
                 {
                     "name": "Arena8",
@@ -209,11 +209,11 @@
                     "key": "arena8",
                     "title": "Arena 8",
                     "subtitle": "Frozen Peak",
-                    "card_count_by_arena": 595,
-                    "card_count_common": 455.7947916666667,
-                    "card_count_rare": 119.0,
-                    "card_count_epic": 19.833333333333332,
-                    "card_count_legendary": 0.371875
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
                 },
                 {
                     "name": "Arena9",
@@ -223,11 +223,11 @@
                     "key": "arena9",
                     "title": "Arena 9",
                     "subtitle": "Jungle Arena",
-                    "card_count_by_arena": 651,
-                    "card_count_common": 498.69312499999995,
-                    "card_count_rare": 130.20000000000002,
-                    "card_count_epic": 21.7,
-                    "card_count_legendary": 0.406875
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
                 },
                 {
                     "name": "Arena_L",
@@ -237,11 +237,11 @@
                     "key": "arena10",
                     "title": "Arena 10",
                     "subtitle": "Hog Mountain",
-                    "card_count_by_arena": 706,
-                    "card_count_common": 540.8254166666667,
-                    "card_count_rare": 141.20000000000002,
-                    "card_count_epic": 23.53333333333333,
-                    "card_count_legendary": 0.44125000000000003
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
                 },
                 {
                     "name": "Arena_Electric",
@@ -251,11 +251,11 @@
                     "key": "arena11",
                     "title": "Arena 11",
                     "subtitle": "Electro Valley",
-                    "card_count_by_arena": 762,
-                    "card_count_common": 583.72375,
-                    "card_count_rare": 152.4,
-                    "card_count_epic": 25.4,
-                    "card_count_legendary": 0.47625
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
                 },
                 {
                     "name": "Arena_T",
@@ -265,11 +265,11 @@
                     "key": "arena12",
                     "title": "Arena 12",
                     "subtitle": "Legendary Arena",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L1",
@@ -279,11 +279,11 @@
                     "key": "league1",
                     "title": "League 1",
                     "subtitle": "Challenger I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L2",
@@ -293,11 +293,11 @@
                     "key": "league2",
                     "title": "League 2",
                     "subtitle": "Challenger II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L3",
@@ -307,11 +307,11 @@
                     "key": "league3",
                     "title": "League 3",
                     "subtitle": "Challenger III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L4",
@@ -321,11 +321,11 @@
                     "key": "league4",
                     "title": "League 4",
                     "subtitle": "Master I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L5",
@@ -335,11 +335,11 @@
                     "key": "league5",
                     "title": "League 5",
                     "subtitle": "Master II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L6",
@@ -349,11 +349,11 @@
                     "key": "league6",
                     "title": "League 6",
                     "subtitle": "Master III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L7",
@@ -363,11 +363,11 @@
                     "key": "league7",
                     "title": "League 7",
                     "subtitle": "Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L8",
@@ -377,11 +377,11 @@
                     "key": "league8",
                     "title": "League 8",
                     "subtitle": "Grand Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L9",
@@ -391,11 +391,719 @@
                     "key": "league9",
                     "title": "League 9",
                     "subtitle": "Ultimate Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                }
+            ]
+        },
+        {
+            "name": "CollectionDayWin",
+            "base_chest": null,
+            "arena": {
+                "name": "TrainingCamp",
+                "arena": 0,
+                "chest_reward_multiplier": 100,
+                "shop_chest_reward_multiplier": 100,
+                "key": "arena0",
+                "title": "Training Camp",
+                "subtitle": ""
+            },
+            "in_shop": false,
+            "in_arena_info": false,
+            "tournament_chest": false,
+            "survival_chest": false,
+            "shop_price_without_speed_up": 7,
+            "time_taken_days": 0,
+            "time_taken_hours": 3,
+            "time_taken_minutes": 0,
+            "time_taken_seconds": 0,
+            "random_spells": 3,
+            "different_spells": 3,
+            "chest_count_in_chest_cycle": 60,
+            "rare_chance": 12,
+            "epic_chance": 500,
+            "legendary_chance": 10000,
+            "skin_chance": 0,
+            "guaranteed_spells": null,
+            "min_gold_per_card": 5,
+            "max_gold_per_card": 7,
+            "spell_set": null,
+            "exp": 0,
+            "sort_value": 2,
+            "special_offer": false,
+            "draft_chest": false,
+            "boosted_chest": false,
+            "legendary_override_chance": 0,
+            "description": "Clan Cards Chest",
+            "notification": "Silver Chest unlocked!",
+            "card_count": 3,
+            "min_gold": 15,
+            "max_gold": 21,
+            "arenas": [
+                {
+                    "name": "TrainingCamp",
+                    "arena": 0,
+                    "chest_reward_multiplier": 100,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena0",
+                    "title": "Training Camp",
+                    "subtitle": "",
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
+                },
+                {
+                    "name": "Arena1",
+                    "arena": 1,
+                    "chest_reward_multiplier": 100,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena1",
+                    "title": "Arena 1",
+                    "subtitle": "Goblin Stadium",
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
+                },
+                {
+                    "name": "Arena2",
+                    "arena": 2,
+                    "chest_reward_multiplier": 135,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena2",
+                    "title": "Arena 2",
+                    "subtitle": "Bone Pit",
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
+                },
+                {
+                    "name": "Arena3",
+                    "arena": 3,
+                    "chest_reward_multiplier": 170,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena3",
+                    "title": "Arena 3",
+                    "subtitle": "Barbarian Bowl",
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
+                },
+                {
+                    "name": "Arena4",
+                    "arena": 4,
+                    "chest_reward_multiplier": 200,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena4",
+                    "title": "Arena 4",
+                    "subtitle": "P.E.K.K.A's Playhouse",
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
+                },
+                {
+                    "name": "Arena5",
+                    "arena": 5,
+                    "chest_reward_multiplier": 230,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena5",
+                    "title": "Arena 5",
+                    "subtitle": "Spell Valley",
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
+                },
+                {
+                    "name": "Arena6",
+                    "arena": 6,
+                    "chest_reward_multiplier": 260,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena6",
+                    "title": "Arena 6",
+                    "subtitle": "Builder's Workshop",
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
+                },
+                {
+                    "name": "Arena7",
+                    "arena": 7,
+                    "chest_reward_multiplier": 290,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena7",
+                    "title": "Arena 7",
+                    "subtitle": "Royal Arena",
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
+                },
+                {
+                    "name": "Arena8",
+                    "arena": 8,
+                    "chest_reward_multiplier": 320,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena8",
+                    "title": "Arena 8",
+                    "subtitle": "Frozen Peak",
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
+                },
+                {
+                    "name": "Arena9",
+                    "arena": 9,
+                    "chest_reward_multiplier": 350,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena9",
+                    "title": "Arena 9",
+                    "subtitle": "Jungle Arena",
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
+                },
+                {
+                    "name": "Arena_L",
+                    "arena": 10,
+                    "chest_reward_multiplier": 380,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena10",
+                    "title": "Arena 10",
+                    "subtitle": "Hog Mountain",
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
+                },
+                {
+                    "name": "Arena_Electric",
+                    "arena": 11,
+                    "chest_reward_multiplier": 410,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena11",
+                    "title": "Arena 11",
+                    "subtitle": "Electro Valley",
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
+                },
+                {
+                    "name": "Arena_T",
+                    "arena": 12,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena12",
+                    "title": "Arena 12",
+                    "subtitle": "Legendary Arena",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L1",
+                    "arena": 13,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league1",
+                    "title": "League 1",
+                    "subtitle": "Challenger I",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L2",
+                    "arena": 14,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league2",
+                    "title": "League 2",
+                    "subtitle": "Challenger II",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L3",
+                    "arena": 15,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league3",
+                    "title": "League 3",
+                    "subtitle": "Challenger III",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L4",
+                    "arena": 16,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league4",
+                    "title": "League 4",
+                    "subtitle": "Master I",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L5",
+                    "arena": 17,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league5",
+                    "title": "League 5",
+                    "subtitle": "Master II",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L6",
+                    "arena": 18,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league6",
+                    "title": "League 6",
+                    "subtitle": "Master III",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L7",
+                    "arena": 19,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league7",
+                    "title": "League 7",
+                    "subtitle": "Champion",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L8",
+                    "arena": 20,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league8",
+                    "title": "League 8",
+                    "subtitle": "Grand Champion",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L9",
+                    "arena": 21,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league9",
+                    "title": "League 9",
+                    "subtitle": "Ultimate Champion",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                }
+            ]
+        },
+        {
+            "name": "CollectionDayLose",
+            "base_chest": null,
+            "arena": {
+                "name": "TrainingCamp",
+                "arena": 0,
+                "chest_reward_multiplier": 100,
+                "shop_chest_reward_multiplier": 100,
+                "key": "arena0",
+                "title": "Training Camp",
+                "subtitle": ""
+            },
+            "in_shop": false,
+            "in_arena_info": false,
+            "tournament_chest": false,
+            "survival_chest": false,
+            "shop_price_without_speed_up": 7,
+            "time_taken_days": 0,
+            "time_taken_hours": 3,
+            "time_taken_minutes": 0,
+            "time_taken_seconds": 0,
+            "random_spells": 3,
+            "different_spells": 3,
+            "chest_count_in_chest_cycle": 60,
+            "rare_chance": 12,
+            "epic_chance": 500,
+            "legendary_chance": 10000,
+            "skin_chance": 0,
+            "guaranteed_spells": null,
+            "min_gold_per_card": 5,
+            "max_gold_per_card": 7,
+            "spell_set": null,
+            "exp": 0,
+            "sort_value": 2,
+            "special_offer": false,
+            "draft_chest": false,
+            "boosted_chest": false,
+            "legendary_override_chance": 0,
+            "description": "Clan Cards Chest",
+            "notification": "Silver Chest unlocked!",
+            "card_count": 3,
+            "min_gold": 15,
+            "max_gold": 21,
+            "arenas": [
+                {
+                    "name": "TrainingCamp",
+                    "arena": 0,
+                    "chest_reward_multiplier": 100,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena0",
+                    "title": "Training Camp",
+                    "subtitle": "",
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
+                },
+                {
+                    "name": "Arena1",
+                    "arena": 1,
+                    "chest_reward_multiplier": 100,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena1",
+                    "title": "Arena 1",
+                    "subtitle": "Goblin Stadium",
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
+                },
+                {
+                    "name": "Arena2",
+                    "arena": 2,
+                    "chest_reward_multiplier": 135,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena2",
+                    "title": "Arena 2",
+                    "subtitle": "Bone Pit",
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
+                },
+                {
+                    "name": "Arena3",
+                    "arena": 3,
+                    "chest_reward_multiplier": 170,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena3",
+                    "title": "Arena 3",
+                    "subtitle": "Barbarian Bowl",
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
+                },
+                {
+                    "name": "Arena4",
+                    "arena": 4,
+                    "chest_reward_multiplier": 200,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena4",
+                    "title": "Arena 4",
+                    "subtitle": "P.E.K.K.A's Playhouse",
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
+                },
+                {
+                    "name": "Arena5",
+                    "arena": 5,
+                    "chest_reward_multiplier": 230,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena5",
+                    "title": "Arena 5",
+                    "subtitle": "Spell Valley",
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
+                },
+                {
+                    "name": "Arena6",
+                    "arena": 6,
+                    "chest_reward_multiplier": 260,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena6",
+                    "title": "Arena 6",
+                    "subtitle": "Builder's Workshop",
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
+                },
+                {
+                    "name": "Arena7",
+                    "arena": 7,
+                    "chest_reward_multiplier": 290,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena7",
+                    "title": "Arena 7",
+                    "subtitle": "Royal Arena",
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
+                },
+                {
+                    "name": "Arena8",
+                    "arena": 8,
+                    "chest_reward_multiplier": 320,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena8",
+                    "title": "Arena 8",
+                    "subtitle": "Frozen Peak",
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
+                },
+                {
+                    "name": "Arena9",
+                    "arena": 9,
+                    "chest_reward_multiplier": 350,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena9",
+                    "title": "Arena 9",
+                    "subtitle": "Jungle Arena",
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
+                },
+                {
+                    "name": "Arena_L",
+                    "arena": 10,
+                    "chest_reward_multiplier": 380,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena10",
+                    "title": "Arena 10",
+                    "subtitle": "Hog Mountain",
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
+                },
+                {
+                    "name": "Arena_Electric",
+                    "arena": 11,
+                    "chest_reward_multiplier": 410,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena11",
+                    "title": "Arena 11",
+                    "subtitle": "Electro Valley",
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
+                },
+                {
+                    "name": "Arena_T",
+                    "arena": 12,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "arena12",
+                    "title": "Arena 12",
+                    "subtitle": "Legendary Arena",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L1",
+                    "arena": 13,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league1",
+                    "title": "League 1",
+                    "subtitle": "Challenger I",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L2",
+                    "arena": 14,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league2",
+                    "title": "League 2",
+                    "subtitle": "Challenger II",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L3",
+                    "arena": 15,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league3",
+                    "title": "League 3",
+                    "subtitle": "Challenger III",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L4",
+                    "arena": 16,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league4",
+                    "title": "League 4",
+                    "subtitle": "Master I",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L5",
+                    "arena": 17,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league5",
+                    "title": "League 5",
+                    "subtitle": "Master II",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L6",
+                    "arena": 18,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league6",
+                    "title": "League 6",
+                    "subtitle": "Master III",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L7",
+                    "arena": 19,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league7",
+                    "title": "League 7",
+                    "subtitle": "Champion",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L8",
+                    "arena": 20,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league8",
+                    "title": "League 8",
+                    "subtitle": "Grand Champion",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
+                },
+                {
+                    "name": "Arena_L9",
+                    "arena": 21,
+                    "chest_reward_multiplier": 440,
+                    "shop_chest_reward_multiplier": 100,
+                    "key": "league9",
+                    "title": "League 9",
+                    "subtitle": "Ultimate Champion",
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 }
             ]
         },
@@ -451,11 +1159,11 @@
                     "key": "arena0",
                     "title": "Training Camp",
                     "subtitle": "",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena1",
@@ -465,11 +1173,11 @@
                     "key": "arena1",
                     "title": "Arena 1",
                     "subtitle": "Goblin Stadium",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena2",
@@ -479,11 +1187,11 @@
                     "key": "arena2",
                     "title": "Arena 2",
                     "subtitle": "Bone Pit",
-                    "card_count_by_arena": 251,
-                    "card_count_common": 192.27645833333332,
-                    "card_count_rare": 50.2,
-                    "card_count_epic": 8.366666666666667,
-                    "card_count_legendary": 0.15687500000000001
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
                 },
                 {
                     "name": "Arena3",
@@ -493,11 +1201,11 @@
                     "key": "arena3",
                     "title": "Arena 3",
                     "subtitle": "Barbarian Bowl",
-                    "card_count_by_arena": 316,
-                    "card_count_common": 242.0691666666667,
-                    "card_count_rare": 63.2,
-                    "card_count_epic": 10.533333333333333,
-                    "card_count_legendary": 0.1975
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
                 },
                 {
                     "name": "Arena4",
@@ -507,11 +1215,11 @@
                     "key": "arena4",
                     "title": "Arena 4",
                     "subtitle": "P.E.K.K.A's Playhouse",
-                    "card_count_by_arena": 372,
-                    "card_count_common": 284.96750000000003,
-                    "card_count_rare": 74.4,
-                    "card_count_epic": 12.4,
-                    "card_count_legendary": 0.2325
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
                 },
                 {
                     "name": "Arena5",
@@ -521,11 +1229,11 @@
                     "key": "arena5",
                     "title": "Arena 5",
                     "subtitle": "Spell Valley",
-                    "card_count_by_arena": 427,
-                    "card_count_common": 327.09979166666665,
-                    "card_count_rare": 85.4,
-                    "card_count_epic": 14.233333333333333,
-                    "card_count_legendary": 0.26687500000000003
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
                 },
                 {
                     "name": "Arena6",
@@ -535,11 +1243,11 @@
                     "key": "arena6",
                     "title": "Arena 6",
                     "subtitle": "Builder's Workshop",
-                    "card_count_by_arena": 483,
-                    "card_count_common": 369.99812499999996,
-                    "card_count_rare": 96.60000000000001,
-                    "card_count_epic": 16.1,
-                    "card_count_legendary": 0.301875
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
                 },
                 {
                     "name": "Arena7",
@@ -549,11 +1257,11 @@
                     "key": "arena7",
                     "title": "Arena 7",
                     "subtitle": "Royal Arena",
-                    "card_count_by_arena": 539,
-                    "card_count_common": 412.8964583333333,
-                    "card_count_rare": 107.80000000000001,
-                    "card_count_epic": 17.966666666666665,
-                    "card_count_legendary": 0.336875
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
                 },
                 {
                     "name": "Arena8",
@@ -563,11 +1271,11 @@
                     "key": "arena8",
                     "title": "Arena 8",
                     "subtitle": "Frozen Peak",
-                    "card_count_by_arena": 595,
-                    "card_count_common": 455.7947916666667,
-                    "card_count_rare": 119.0,
-                    "card_count_epic": 19.833333333333332,
-                    "card_count_legendary": 0.371875
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
                 },
                 {
                     "name": "Arena9",
@@ -577,11 +1285,11 @@
                     "key": "arena9",
                     "title": "Arena 9",
                     "subtitle": "Jungle Arena",
-                    "card_count_by_arena": 651,
-                    "card_count_common": 498.69312499999995,
-                    "card_count_rare": 130.20000000000002,
-                    "card_count_epic": 21.7,
-                    "card_count_legendary": 0.406875
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
                 },
                 {
                     "name": "Arena_L",
@@ -591,11 +1299,11 @@
                     "key": "arena10",
                     "title": "Arena 10",
                     "subtitle": "Hog Mountain",
-                    "card_count_by_arena": 706,
-                    "card_count_common": 540.8254166666667,
-                    "card_count_rare": 141.20000000000002,
-                    "card_count_epic": 23.53333333333333,
-                    "card_count_legendary": 0.44125000000000003
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
                 },
                 {
                     "name": "Arena_Electric",
@@ -605,11 +1313,11 @@
                     "key": "arena11",
                     "title": "Arena 11",
                     "subtitle": "Electro Valley",
-                    "card_count_by_arena": 762,
-                    "card_count_common": 583.72375,
-                    "card_count_rare": 152.4,
-                    "card_count_epic": 25.4,
-                    "card_count_legendary": 0.47625
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
                 },
                 {
                     "name": "Arena_T",
@@ -619,11 +1327,11 @@
                     "key": "arena12",
                     "title": "Arena 12",
                     "subtitle": "Legendary Arena",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L1",
@@ -633,11 +1341,11 @@
                     "key": "league1",
                     "title": "League 1",
                     "subtitle": "Challenger I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L2",
@@ -647,11 +1355,11 @@
                     "key": "league2",
                     "title": "League 2",
                     "subtitle": "Challenger II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L3",
@@ -661,11 +1369,11 @@
                     "key": "league3",
                     "title": "League 3",
                     "subtitle": "Challenger III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L4",
@@ -675,11 +1383,11 @@
                     "key": "league4",
                     "title": "League 4",
                     "subtitle": "Master I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L5",
@@ -689,11 +1397,11 @@
                     "key": "league5",
                     "title": "League 5",
                     "subtitle": "Master II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L6",
@@ -703,11 +1411,11 @@
                     "key": "league6",
                     "title": "League 6",
                     "subtitle": "Master III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L7",
@@ -717,11 +1425,11 @@
                     "key": "league7",
                     "title": "League 7",
                     "subtitle": "Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L8",
@@ -731,11 +1439,11 @@
                     "key": "league8",
                     "title": "League 8",
                     "subtitle": "Grand Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L9",
@@ -745,11 +1453,11 @@
                     "key": "league9",
                     "title": "League 9",
                     "subtitle": "Ultimate Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 }
             ]
         },
@@ -805,11 +1513,11 @@
                     "key": "arena0",
                     "title": "Training Camp",
                     "subtitle": "",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena1",
@@ -819,11 +1527,11 @@
                     "key": "arena1",
                     "title": "Arena 1",
                     "subtitle": "Goblin Stadium",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena2",
@@ -833,11 +1541,11 @@
                     "key": "arena2",
                     "title": "Arena 2",
                     "subtitle": "Bone Pit",
-                    "card_count_by_arena": 251,
-                    "card_count_common": 192.27645833333332,
-                    "card_count_rare": 50.2,
-                    "card_count_epic": 8.366666666666667,
-                    "card_count_legendary": 0.15687500000000001
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
                 },
                 {
                     "name": "Arena3",
@@ -847,11 +1555,11 @@
                     "key": "arena3",
                     "title": "Arena 3",
                     "subtitle": "Barbarian Bowl",
-                    "card_count_by_arena": 316,
-                    "card_count_common": 242.0691666666667,
-                    "card_count_rare": 63.2,
-                    "card_count_epic": 10.533333333333333,
-                    "card_count_legendary": 0.1975
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
                 },
                 {
                     "name": "Arena4",
@@ -861,11 +1569,11 @@
                     "key": "arena4",
                     "title": "Arena 4",
                     "subtitle": "P.E.K.K.A's Playhouse",
-                    "card_count_by_arena": 372,
-                    "card_count_common": 284.96750000000003,
-                    "card_count_rare": 74.4,
-                    "card_count_epic": 12.4,
-                    "card_count_legendary": 0.2325
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
                 },
                 {
                     "name": "Arena5",
@@ -875,11 +1583,11 @@
                     "key": "arena5",
                     "title": "Arena 5",
                     "subtitle": "Spell Valley",
-                    "card_count_by_arena": 427,
-                    "card_count_common": 327.09979166666665,
-                    "card_count_rare": 85.4,
-                    "card_count_epic": 14.233333333333333,
-                    "card_count_legendary": 0.26687500000000003
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
                 },
                 {
                     "name": "Arena6",
@@ -889,11 +1597,11 @@
                     "key": "arena6",
                     "title": "Arena 6",
                     "subtitle": "Builder's Workshop",
-                    "card_count_by_arena": 483,
-                    "card_count_common": 369.99812499999996,
-                    "card_count_rare": 96.60000000000001,
-                    "card_count_epic": 16.1,
-                    "card_count_legendary": 0.301875
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
                 },
                 {
                     "name": "Arena7",
@@ -903,11 +1611,11 @@
                     "key": "arena7",
                     "title": "Arena 7",
                     "subtitle": "Royal Arena",
-                    "card_count_by_arena": 539,
-                    "card_count_common": 412.8964583333333,
-                    "card_count_rare": 107.80000000000001,
-                    "card_count_epic": 17.966666666666665,
-                    "card_count_legendary": 0.336875
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
                 },
                 {
                     "name": "Arena8",
@@ -917,11 +1625,11 @@
                     "key": "arena8",
                     "title": "Arena 8",
                     "subtitle": "Frozen Peak",
-                    "card_count_by_arena": 595,
-                    "card_count_common": 455.7947916666667,
-                    "card_count_rare": 119.0,
-                    "card_count_epic": 19.833333333333332,
-                    "card_count_legendary": 0.371875
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
                 },
                 {
                     "name": "Arena9",
@@ -931,11 +1639,11 @@
                     "key": "arena9",
                     "title": "Arena 9",
                     "subtitle": "Jungle Arena",
-                    "card_count_by_arena": 651,
-                    "card_count_common": 498.69312499999995,
-                    "card_count_rare": 130.20000000000002,
-                    "card_count_epic": 21.7,
-                    "card_count_legendary": 0.406875
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
                 },
                 {
                     "name": "Arena_L",
@@ -945,11 +1653,11 @@
                     "key": "arena10",
                     "title": "Arena 10",
                     "subtitle": "Hog Mountain",
-                    "card_count_by_arena": 706,
-                    "card_count_common": 540.8254166666667,
-                    "card_count_rare": 141.20000000000002,
-                    "card_count_epic": 23.53333333333333,
-                    "card_count_legendary": 0.44125000000000003
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
                 },
                 {
                     "name": "Arena_Electric",
@@ -959,11 +1667,11 @@
                     "key": "arena11",
                     "title": "Arena 11",
                     "subtitle": "Electro Valley",
-                    "card_count_by_arena": 762,
-                    "card_count_common": 583.72375,
-                    "card_count_rare": 152.4,
-                    "card_count_epic": 25.4,
-                    "card_count_legendary": 0.47625
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
                 },
                 {
                     "name": "Arena_T",
@@ -973,11 +1681,11 @@
                     "key": "arena12",
                     "title": "Arena 12",
                     "subtitle": "Legendary Arena",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L1",
@@ -987,11 +1695,11 @@
                     "key": "league1",
                     "title": "League 1",
                     "subtitle": "Challenger I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L2",
@@ -1001,11 +1709,11 @@
                     "key": "league2",
                     "title": "League 2",
                     "subtitle": "Challenger II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L3",
@@ -1015,11 +1723,11 @@
                     "key": "league3",
                     "title": "League 3",
                     "subtitle": "Challenger III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L4",
@@ -1029,11 +1737,11 @@
                     "key": "league4",
                     "title": "League 4",
                     "subtitle": "Master I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L5",
@@ -1043,11 +1751,11 @@
                     "key": "league5",
                     "title": "League 5",
                     "subtitle": "Master II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L6",
@@ -1057,11 +1765,11 @@
                     "key": "league6",
                     "title": "League 6",
                     "subtitle": "Master III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L7",
@@ -1071,11 +1779,11 @@
                     "key": "league7",
                     "title": "League 7",
                     "subtitle": "Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L8",
@@ -1085,11 +1793,11 @@
                     "key": "league8",
                     "title": "League 8",
                     "subtitle": "Grand Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L9",
@@ -1099,11 +1807,11 @@
                     "key": "league9",
                     "title": "League 9",
                     "subtitle": "Ultimate Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 }
             ]
         },
@@ -1159,11 +1867,11 @@
                     "key": "arena0",
                     "title": "Training Camp",
                     "subtitle": "",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena1",
@@ -1173,11 +1881,11 @@
                     "key": "arena1",
                     "title": "Arena 1",
                     "subtitle": "Goblin Stadium",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena2",
@@ -1187,11 +1895,11 @@
                     "key": "arena2",
                     "title": "Arena 2",
                     "subtitle": "Bone Pit",
-                    "card_count_by_arena": 251,
-                    "card_count_common": 192.27645833333332,
-                    "card_count_rare": 50.2,
-                    "card_count_epic": 8.366666666666667,
-                    "card_count_legendary": 0.15687500000000001
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
                 },
                 {
                     "name": "Arena3",
@@ -1201,11 +1909,11 @@
                     "key": "arena3",
                     "title": "Arena 3",
                     "subtitle": "Barbarian Bowl",
-                    "card_count_by_arena": 316,
-                    "card_count_common": 242.0691666666667,
-                    "card_count_rare": 63.2,
-                    "card_count_epic": 10.533333333333333,
-                    "card_count_legendary": 0.1975
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
                 },
                 {
                     "name": "Arena4",
@@ -1215,11 +1923,11 @@
                     "key": "arena4",
                     "title": "Arena 4",
                     "subtitle": "P.E.K.K.A's Playhouse",
-                    "card_count_by_arena": 372,
-                    "card_count_common": 284.96750000000003,
-                    "card_count_rare": 74.4,
-                    "card_count_epic": 12.4,
-                    "card_count_legendary": 0.2325
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
                 },
                 {
                     "name": "Arena5",
@@ -1229,11 +1937,11 @@
                     "key": "arena5",
                     "title": "Arena 5",
                     "subtitle": "Spell Valley",
-                    "card_count_by_arena": 427,
-                    "card_count_common": 327.09979166666665,
-                    "card_count_rare": 85.4,
-                    "card_count_epic": 14.233333333333333,
-                    "card_count_legendary": 0.26687500000000003
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
                 },
                 {
                     "name": "Arena6",
@@ -1243,11 +1951,11 @@
                     "key": "arena6",
                     "title": "Arena 6",
                     "subtitle": "Builder's Workshop",
-                    "card_count_by_arena": 483,
-                    "card_count_common": 369.99812499999996,
-                    "card_count_rare": 96.60000000000001,
-                    "card_count_epic": 16.1,
-                    "card_count_legendary": 0.301875
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
                 },
                 {
                     "name": "Arena7",
@@ -1257,11 +1965,11 @@
                     "key": "arena7",
                     "title": "Arena 7",
                     "subtitle": "Royal Arena",
-                    "card_count_by_arena": 539,
-                    "card_count_common": 412.8964583333333,
-                    "card_count_rare": 107.80000000000001,
-                    "card_count_epic": 17.966666666666665,
-                    "card_count_legendary": 0.336875
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
                 },
                 {
                     "name": "Arena8",
@@ -1271,11 +1979,11 @@
                     "key": "arena8",
                     "title": "Arena 8",
                     "subtitle": "Frozen Peak",
-                    "card_count_by_arena": 595,
-                    "card_count_common": 455.7947916666667,
-                    "card_count_rare": 119.0,
-                    "card_count_epic": 19.833333333333332,
-                    "card_count_legendary": 0.371875
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
                 },
                 {
                     "name": "Arena9",
@@ -1285,11 +1993,11 @@
                     "key": "arena9",
                     "title": "Arena 9",
                     "subtitle": "Jungle Arena",
-                    "card_count_by_arena": 651,
-                    "card_count_common": 498.69312499999995,
-                    "card_count_rare": 130.20000000000002,
-                    "card_count_epic": 21.7,
-                    "card_count_legendary": 0.406875
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
                 },
                 {
                     "name": "Arena_L",
@@ -1299,11 +2007,11 @@
                     "key": "arena10",
                     "title": "Arena 10",
                     "subtitle": "Hog Mountain",
-                    "card_count_by_arena": 706,
-                    "card_count_common": 540.8254166666667,
-                    "card_count_rare": 141.20000000000002,
-                    "card_count_epic": 23.53333333333333,
-                    "card_count_legendary": 0.44125000000000003
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
                 },
                 {
                     "name": "Arena_Electric",
@@ -1313,11 +2021,11 @@
                     "key": "arena11",
                     "title": "Arena 11",
                     "subtitle": "Electro Valley",
-                    "card_count_by_arena": 762,
-                    "card_count_common": 583.72375,
-                    "card_count_rare": 152.4,
-                    "card_count_epic": 25.4,
-                    "card_count_legendary": 0.47625
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
                 },
                 {
                     "name": "Arena_T",
@@ -1327,11 +2035,11 @@
                     "key": "arena12",
                     "title": "Arena 12",
                     "subtitle": "Legendary Arena",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L1",
@@ -1341,11 +2049,11 @@
                     "key": "league1",
                     "title": "League 1",
                     "subtitle": "Challenger I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L2",
@@ -1355,11 +2063,11 @@
                     "key": "league2",
                     "title": "League 2",
                     "subtitle": "Challenger II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L3",
@@ -1369,11 +2077,11 @@
                     "key": "league3",
                     "title": "League 3",
                     "subtitle": "Challenger III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L4",
@@ -1383,11 +2091,11 @@
                     "key": "league4",
                     "title": "League 4",
                     "subtitle": "Master I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L5",
@@ -1397,11 +2105,11 @@
                     "key": "league5",
                     "title": "League 5",
                     "subtitle": "Master II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L6",
@@ -1411,11 +2119,11 @@
                     "key": "league6",
                     "title": "League 6",
                     "subtitle": "Master III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L7",
@@ -1425,11 +2133,11 @@
                     "key": "league7",
                     "title": "League 7",
                     "subtitle": "Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L8",
@@ -1439,11 +2147,11 @@
                     "key": "league8",
                     "title": "League 8",
                     "subtitle": "Grand Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L9",
@@ -1453,11 +2161,11 @@
                     "key": "league9",
                     "title": "League 9",
                     "subtitle": "Ultimate Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 }
             ]
         },
@@ -1513,11 +2221,11 @@
                     "key": "arena0",
                     "title": "Training Camp",
                     "subtitle": "",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena1",
@@ -1527,11 +2235,11 @@
                     "key": "arena1",
                     "title": "Arena 1",
                     "subtitle": "Goblin Stadium",
-                    "card_count_by_arena": 186,
-                    "card_count_common": 142.48375000000001,
-                    "card_count_rare": 37.2,
-                    "card_count_epic": 6.2,
-                    "card_count_legendary": 0.11625
+                    "card_count_by_arena": 630,
+                    "card_count_common": 488.0925,
+                    "card_count_rare": 126.0,
+                    "card_count_epic": 15.75,
+                    "card_count_legendary": 0.1575
                 },
                 {
                     "name": "Arena2",
@@ -1541,11 +2249,11 @@
                     "key": "arena2",
                     "title": "Arena 2",
                     "subtitle": "Bone Pit",
-                    "card_count_by_arena": 251,
-                    "card_count_common": 192.27645833333332,
-                    "card_count_rare": 50.2,
-                    "card_count_epic": 8.366666666666667,
-                    "card_count_legendary": 0.15687500000000001
+                    "card_count_by_arena": 850,
+                    "card_count_common": 658.5375,
+                    "card_count_rare": 170.0,
+                    "card_count_epic": 21.25,
+                    "card_count_legendary": 0.2125
                 },
                 {
                     "name": "Arena3",
@@ -1555,11 +2263,11 @@
                     "key": "arena3",
                     "title": "Arena 3",
                     "subtitle": "Barbarian Bowl",
-                    "card_count_by_arena": 316,
-                    "card_count_common": 242.0691666666667,
-                    "card_count_rare": 63.2,
-                    "card_count_epic": 10.533333333333333,
-                    "card_count_legendary": 0.1975
+                    "card_count_by_arena": 1071,
+                    "card_count_common": 829.75725,
+                    "card_count_rare": 214.20000000000002,
+                    "card_count_epic": 26.775000000000002,
+                    "card_count_legendary": 0.26775
                 },
                 {
                     "name": "Arena4",
@@ -1569,11 +2277,11 @@
                     "key": "arena4",
                     "title": "Arena 4",
                     "subtitle": "P.E.K.K.A's Playhouse",
-                    "card_count_by_arena": 372,
-                    "card_count_common": 284.96750000000003,
-                    "card_count_rare": 74.4,
-                    "card_count_epic": 12.4,
-                    "card_count_legendary": 0.2325
+                    "card_count_by_arena": 1260,
+                    "card_count_common": 976.185,
+                    "card_count_rare": 252.0,
+                    "card_count_epic": 31.5,
+                    "card_count_legendary": 0.315
                 },
                 {
                     "name": "Arena5",
@@ -1583,11 +2291,11 @@
                     "key": "arena5",
                     "title": "Arena 5",
                     "subtitle": "Spell Valley",
-                    "card_count_by_arena": 427,
-                    "card_count_common": 327.09979166666665,
-                    "card_count_rare": 85.4,
-                    "card_count_epic": 14.233333333333333,
-                    "card_count_legendary": 0.26687500000000003
+                    "card_count_by_arena": 1449,
+                    "card_count_common": 1122.6127500000002,
+                    "card_count_rare": 289.8,
+                    "card_count_epic": 36.225,
+                    "card_count_legendary": 0.36225
                 },
                 {
                     "name": "Arena6",
@@ -1597,11 +2305,11 @@
                     "key": "arena6",
                     "title": "Arena 6",
                     "subtitle": "Builder's Workshop",
-                    "card_count_by_arena": 483,
-                    "card_count_common": 369.99812499999996,
-                    "card_count_rare": 96.60000000000001,
-                    "card_count_epic": 16.1,
-                    "card_count_legendary": 0.301875
+                    "card_count_by_arena": 1638,
+                    "card_count_common": 1269.0405,
+                    "card_count_rare": 327.6,
+                    "card_count_epic": 40.95,
+                    "card_count_legendary": 0.40950000000000003
                 },
                 {
                     "name": "Arena7",
@@ -1611,11 +2319,11 @@
                     "key": "arena7",
                     "title": "Arena 7",
                     "subtitle": "Royal Arena",
-                    "card_count_by_arena": 539,
-                    "card_count_common": 412.8964583333333,
-                    "card_count_rare": 107.80000000000001,
-                    "card_count_epic": 17.966666666666665,
-                    "card_count_legendary": 0.336875
+                    "card_count_by_arena": 1827,
+                    "card_count_common": 1415.46825,
+                    "card_count_rare": 365.40000000000003,
+                    "card_count_epic": 45.675000000000004,
+                    "card_count_legendary": 0.45675
                 },
                 {
                     "name": "Arena8",
@@ -1625,11 +2333,11 @@
                     "key": "arena8",
                     "title": "Arena 8",
                     "subtitle": "Frozen Peak",
-                    "card_count_by_arena": 595,
-                    "card_count_common": 455.7947916666667,
-                    "card_count_rare": 119.0,
-                    "card_count_epic": 19.833333333333332,
-                    "card_count_legendary": 0.371875
+                    "card_count_by_arena": 2016,
+                    "card_count_common": 1561.896,
+                    "card_count_rare": 403.20000000000005,
+                    "card_count_epic": 50.400000000000006,
+                    "card_count_legendary": 0.504
                 },
                 {
                     "name": "Arena9",
@@ -1639,11 +2347,11 @@
                     "key": "arena9",
                     "title": "Arena 9",
                     "subtitle": "Jungle Arena",
-                    "card_count_by_arena": 651,
-                    "card_count_common": 498.69312499999995,
-                    "card_count_rare": 130.20000000000002,
-                    "card_count_epic": 21.7,
-                    "card_count_legendary": 0.406875
+                    "card_count_by_arena": 2205,
+                    "card_count_common": 1708.32375,
+                    "card_count_rare": 441.0,
+                    "card_count_epic": 55.125,
+                    "card_count_legendary": 0.55125
                 },
                 {
                     "name": "Arena_L",
@@ -1653,11 +2361,11 @@
                     "key": "arena10",
                     "title": "Arena 10",
                     "subtitle": "Hog Mountain",
-                    "card_count_by_arena": 706,
-                    "card_count_common": 540.8254166666667,
-                    "card_count_rare": 141.20000000000002,
-                    "card_count_epic": 23.53333333333333,
-                    "card_count_legendary": 0.44125000000000003
+                    "card_count_by_arena": 2394,
+                    "card_count_common": 1854.7515,
+                    "card_count_rare": 478.8,
+                    "card_count_epic": 59.85,
+                    "card_count_legendary": 0.5985
                 },
                 {
                     "name": "Arena_Electric",
@@ -1667,11 +2375,11 @@
                     "key": "arena11",
                     "title": "Arena 11",
                     "subtitle": "Electro Valley",
-                    "card_count_by_arena": 762,
-                    "card_count_common": 583.72375,
-                    "card_count_rare": 152.4,
-                    "card_count_epic": 25.4,
-                    "card_count_legendary": 0.47625
+                    "card_count_by_arena": 2583,
+                    "card_count_common": 2001.1792500000001,
+                    "card_count_rare": 516.6,
+                    "card_count_epic": 64.575,
+                    "card_count_legendary": 0.64575
                 },
                 {
                     "name": "Arena_T",
@@ -1681,11 +2389,11 @@
                     "key": "arena12",
                     "title": "Arena 12",
                     "subtitle": "Legendary Arena",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L1",
@@ -1695,11 +2403,11 @@
                     "key": "league1",
                     "title": "League 1",
                     "subtitle": "Challenger I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L2",
@@ -1709,11 +2417,11 @@
                     "key": "league2",
                     "title": "League 2",
                     "subtitle": "Challenger II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L3",
@@ -1723,11 +2431,11 @@
                     "key": "league3",
                     "title": "League 3",
                     "subtitle": "Challenger III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L4",
@@ -1737,11 +2445,11 @@
                     "key": "league4",
                     "title": "League 4",
                     "subtitle": "Master I",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L5",
@@ -1751,11 +2459,11 @@
                     "key": "league5",
                     "title": "League 5",
                     "subtitle": "Master II",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L6",
@@ -1765,11 +2473,11 @@
                     "key": "league6",
                     "title": "League 6",
                     "subtitle": "Master III",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L7",
@@ -1779,11 +2487,11 @@
                     "key": "league7",
                     "title": "League 7",
                     "subtitle": "Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L8",
@@ -1793,11 +2501,11 @@
                     "key": "league8",
                     "title": "League 8",
                     "subtitle": "Grand Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 },
                 {
                     "name": "Arena_L9",
@@ -1807,11 +2515,11 @@
                     "key": "league9",
                     "title": "League 9",
                     "subtitle": "Ultimate Champion",
-                    "card_count_by_arena": 818,
-                    "card_count_common": 626.6220833333333,
-                    "card_count_rare": 163.60000000000002,
-                    "card_count_epic": 27.266666666666666,
-                    "card_count_legendary": 0.51125
+                    "card_count_by_arena": 2772,
+                    "card_count_common": 2147.6069999999995,
+                    "card_count_rare": 554.4,
+                    "card_count_epic": 69.3,
+                    "card_count_legendary": 0.6930000000000001
                 }
             ]
         }

@@ -87,7 +87,7 @@ class BaseGen:
         with open(csv_path, encoding="utf8") as f:
             texts_reader = csv.DictReader(f)
             for row in texts_reader:
-                if row[' '] == tid:
+                if row['v'] == tid:
                     s = row[lang]
                     return s.replace('\q', '\"')
         return None
