@@ -14,8 +14,8 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "battle_start_cooldown": 6000,
-        "name_en": "Blind Deck Challenge",
-        "id": 72000000
+        "id": 72000000,
+        "name_en": "BlindDeck"
     },
     {
         "name": "DoubleElixir",
@@ -32,9 +32,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_DOUBLE_ELIXIR",
-        "name_en": "Double Elixir Battle",
-        "id": 72000001
+        "clan_war_description": "Double the Elixir, double the fun! Use your own cards with your own card levels to build a deck. Try to take advantage of the extra Elixir.",
+        "id": 72000001,
+        "name_en": "DoubleElixir"
     },
     {
         "name": "ThreeBridges",
@@ -49,8 +49,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Three Bridges Challenge",
-        "id": 72000002
+        "id": 72000002,
+        "name_en": "ThreeBridges"
     },
     {
         "name": "HeroChallenge",
@@ -65,8 +65,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Heroes Challenge",
-        "id": 72000003
+        "id": 72000003,
+        "name_en": "HeroChallenge"
     },
     {
         "name": "ElectroWiz",
@@ -82,8 +82,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Electro Wizard Challenge",
-        "id": 72000004
+        "id": 72000004,
+        "name_en": "ElectroWiz"
     },
     {
         "name": "DraftMode",
@@ -98,9 +98,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_DRAFT",
-        "name_en": "Draft Battle",
-        "id": 72000005
+        "clan_war_description": "You start with 60 seconds to build a deck, from 4 choices. Each card you choose goes into your deck, the card you don't choose goes into your opponent's.",
+        "id": 72000005,
+        "name_en": "DraftMode"
     },
     {
         "name": "Ladder",
@@ -131,8 +131,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "1v1 Battle",
-        "id": 72000007
+        "id": 72000007,
+        "name_en": "Friendly"
     },
     {
         "name": "Training",
@@ -197,9 +197,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_DOUBLE_ELIXIR",
-        "name_en": "Double Elixir Battle",
-        "id": 72000011
+        "clan_war_description": "Double the Elixir, double the fun! Use your own cards with your own card levels to build a deck. Try to take advantage of the extra Elixir.",
+        "id": 72000011,
+        "name_en": "DoubleElixir_Friendly"
     },
     {
         "name": "BattleRam",
@@ -214,8 +214,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Electro Wizard Challenge",
-        "id": 72000012
+        "id": 72000012,
+        "name_en": "BattleRam"
     },
     {
         "name": "DraftModeInsane",
@@ -232,8 +232,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Double Elixir Draft",
-        "id": 72000013
+        "id": 72000013,
+        "name_en": "DraftModeInsane"
     },
     {
         "name": "TeamVsTeam",
@@ -250,8 +250,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Battle",
-        "id": 72000014
+        "id": 72000014,
+        "name_en": "TeamVsTeam"
     },
     {
         "name": "RetroRoyale",
@@ -267,8 +267,8 @@
         "event_deck_set_limit": "Event_Retro",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Retro Royale Challenge",
-        "id": 72000015
+        "id": 72000015,
+        "name_en": "RetroRoyale"
     },
     {
         "name": "CardRelease",
@@ -299,8 +299,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Draft Battle",
-        "id": 72000017
+        "id": 72000017,
+        "name_en": "CardReleaseDraft"
     },
     {
         "name": "PvE",
@@ -317,8 +317,8 @@
         "players": "PvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Puzzle Royale",
-        "id": 72000018
+        "id": 72000018,
+        "name_en": "PvE"
     },
     {
         "name": "TvE",
@@ -336,8 +336,8 @@
         "players": "TvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Clan vs Enemy",
-        "id": 72000019
+        "id": 72000019,
+        "name_en": "TvE"
     },
     {
         "name": "PvE_Boss",
@@ -353,8 +353,8 @@
         "players": "PvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Puzzle Royale",
-        "id": 72000020
+        "id": 72000020,
+        "name_en": "PvE_Boss"
     },
     {
         "name": "PvE_Tutorial",
@@ -369,8 +369,8 @@
         "players": "PvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Puzzle Royale",
-        "id": 72000021
+        "id": 72000021,
+        "name_en": "PvE_Tutorial"
     },
     {
         "name": "TeamVsTeamDraft",
@@ -387,8 +387,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Draft Battle",
-        "id": 72000022
+        "id": 72000022,
+        "name_en": "TeamVsTeamDraft"
     },
     {
         "name": "TeamVsTeamLadder",
@@ -405,9 +405,9 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_2V2",
-        "name_en": "2v2 Ladder",
-        "id": 72000023
+        "clan_war_description": "You and a Clanmate go head-to-head against the world, using your own cards with your own card levels.",
+        "id": 72000023,
+        "name_en": "TeamVsTeamLadder"
     },
     {
         "name": "Overtime_Tournament",
@@ -423,9 +423,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_OVERTIME",
-        "name_en": "Sudden Death Battle",
-        "id": 72000024
+        "clan_war_description": "The match starts at Sudden Death, double Elixir and the first tower down wins! Use your owns cards with your own card levels to build a deck.",
+        "id": 72000024,
+        "name_en": "Overtime_Tournament"
     },
     {
         "name": "GoldRush_Tournament",
@@ -443,8 +443,8 @@
         "gold_per_tower2": 200,
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
-        "name_en": "Gold Rush",
-        "id": 72000025
+        "id": 72000025,
+        "name_en": "GoldRush_Tournament"
     },
     {
         "name": "TeamVsTeamChallenge",
@@ -461,8 +461,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Challenge",
-        "id": 72000026
+        "id": 72000026,
+        "name_en": "TeamVsTeamChallenge"
     },
     {
         "name": "TripleElixir_Tournament",
@@ -480,8 +480,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Triple Elixir Battle",
-        "id": 72000027
+        "id": 72000027,
+        "name_en": "TripleElixir_Tournament"
     },
     {
         "name": "RampUpElixir_Tournament",
@@ -496,8 +496,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Ramp Up Battle",
-        "id": 72000028
+        "id": 72000028,
+        "name_en": "RampUpElixir_Tournament"
     },
     {
         "name": "TeamVsTeamCrowns",
@@ -514,8 +514,8 @@
         "players": "TvT",
         "gives_clan_score": true,
         "fixed_deck_order": false,
-        "name_en": "2v2 Battle",
-        "id": 72000029
+        "id": 72000029,
+        "name_en": "TeamVsTeamCrowns"
     },
     {
         "name": "TeamVsTeamDraftChallenge",
@@ -532,8 +532,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Draft Battle",
-        "id": 72000030
+        "id": 72000030,
+        "name_en": "TeamVsTeamDraftChallenge"
     },
     {
         "name": "Overtime_Friendly",
@@ -549,9 +549,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_OVERTIME",
-        "name_en": "Sudden Death Battle",
-        "id": 72000031
+        "clan_war_description": "The match starts at Sudden Death, double Elixir and the first tower down wins! Use your owns cards with your own card levels to build a deck.",
+        "id": 72000031,
+        "name_en": "Overtime_Friendly"
     },
     {
         "name": "TripleElixir_Friendly",
@@ -569,8 +569,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Triple Elixir Battle",
-        "id": 72000032
+        "id": 72000032,
+        "name_en": "TripleElixir_Friendly"
     },
     {
         "name": "RampUpElixir_Friendly",
@@ -585,8 +585,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Ramp Up Battle",
-        "id": 72000033
+        "id": 72000033,
+        "name_en": "RampUpElixir_Friendly"
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Friendly",
@@ -604,8 +604,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Double Elixir",
-        "id": 72000034
+        "id": 72000034,
+        "name_en": "TeamVsTeam_DoubleElixir_Friendly"
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Tournament",
@@ -623,8 +623,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Double Elixir",
-        "id": 72000035
+        "id": 72000035,
+        "name_en": "TeamVsTeam_DoubleElixir_Tournament"
     },
     {
         "name": "TeamVsTeam_Overtime_Friendly",
@@ -641,8 +641,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Sudden Death",
-        "id": 72000036
+        "id": 72000036,
+        "name_en": "TeamVsTeam_Overtime_Friendly"
     },
     {
         "name": "TeamVsTeam_Overtime_Tournament",
@@ -659,8 +659,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Sudden Death",
-        "id": 72000037
+        "id": 72000037,
+        "name_en": "TeamVsTeam_Overtime_Tournament"
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Friendly",
@@ -677,8 +677,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Ramp Up",
-        "id": 72000038
+        "id": 72000038,
+        "name_en": "TeamVsTeam_RampUpElixir_Friendly"
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Tournament",
@@ -695,8 +695,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Ramp Up",
-        "id": 72000039
+        "id": 72000039,
+        "name_en": "TeamVsTeam_RampUpElixir_Tournament"
     },
     {
         "name": "TeamVsTeam_DraftModeInsane_Friendly",
@@ -714,8 +714,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Double Elixir Draft",
-        "id": 72000040
+        "id": 72000040,
+        "name_en": "TeamVsTeam_DraftModeInsane_Friendly"
     },
     {
         "name": "Invalid",
@@ -746,8 +746,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Draft Pick Challenge",
-        "id": 72000042
+        "id": 72000042,
+        "name_en": "PickMode"
     },
     {
         "name": "TeamVsTeamLadder_GoldRush",
@@ -767,8 +767,8 @@
         "gold_per_tower2": 200,
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
-        "name_en": "Gold Rush",
-        "id": 72000043
+        "id": 72000043,
+        "name_en": "TeamVsTeamLadder_GoldRush"
     },
     {
         "name": "Ladder_GoldRush",
@@ -786,8 +786,8 @@
         "gold_per_tower2": 200,
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
-        "name_en": "Gold Rush",
-        "id": 72000044
+        "id": 72000044,
+        "name_en": "Ladder_GoldRush"
     },
     {
         "name": "Touchdown",
@@ -805,8 +805,8 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "fixed_arena": "Arena_TouchdownTest",
-        "name_en": "Touchdown",
-        "id": 72000045
+        "id": 72000045,
+        "name_en": "Touchdown"
     },
     {
         "name": "TeamVsTeamLadder_GemRush",
@@ -826,8 +826,8 @@
         "gems_per_tower2": 5,
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
-        "name_en": "Gem Rush",
-        "id": 72000046
+        "id": 72000046,
+        "name_en": "TeamVsTeamLadder_GemRush"
     },
     {
         "name": "Ladder_GemRush",
@@ -845,8 +845,8 @@
         "gems_per_tower2": 5,
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
-        "name_en": "Gem Rush",
-        "id": 72000047
+        "id": 72000047,
+        "name_en": "Ladder_GemRush"
     },
     {
         "name": "GemRush_Tournament",
@@ -864,8 +864,8 @@
         "gems_per_tower2": 5,
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
-        "name_en": "Gem Rush",
-        "id": 72000048
+        "id": 72000048,
+        "name_en": "GemRush_Tournament"
     },
     {
         "name": "TeamVsTeam_Touchdown",
@@ -885,8 +885,8 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "fixed_arena": "Arena_TouchdownTest",
-        "name_en": "2v2 Touchdown",
-        "id": 72000049
+        "id": 72000049,
+        "name_en": "TeamVsTeam_Touchdown"
     },
     {
         "name": "Touchdown_Draft",
@@ -903,8 +903,8 @@
         "target_touchdowns": 3,
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
-        "name_en": "Touchdown Draft",
-        "id": 72000050
+        "id": 72000050,
+        "name_en": "Touchdown_Draft"
     },
     {
         "name": "TeamVsTeam_Touchdown_Draft",
@@ -924,9 +924,9 @@
         "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "fixed_arena": "Arena_TouchdownTest",
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_2v2_TOUCHDOWN_DRAFT",
-        "name_en": "2v2 Touchdown Draft",
-        "id": 72000051
+        "clan_war_description": "You and a Clanmate draft cards, from 4 choices. Get a troop into the end zone to score.",
+        "id": 72000051,
+        "name_en": "TeamVsTeam_Touchdown_Draft"
     },
     {
         "name": "MirrorDeck",
@@ -942,10 +942,10 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_MIRROR",
+        "clan_war_description": "You and your opponent have the same deck, in the same order. Each deck has a Mirror card. How will you gain the advantage?",
         "battle_start_cooldown": 6000,
-        "name_en": "Mirror Battle",
-        "id": 72000052
+        "id": 72000052,
+        "name_en": "MirrorDeck"
     },
     {
         "name": "TeamVsTeam_MirrorDeck",
@@ -961,8 +961,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Mirror Battle",
-        "id": 72000053
+        "id": 72000053,
+        "name_en": "TeamVsTeam_MirrorDeck"
     },
     {
         "name": "Friendly_FixedDeckOrder",
@@ -977,8 +977,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": true,
-        "name_en": "1v1 Fixed Deck Battle",
-        "id": 72000054
+        "id": 72000054,
+        "name_en": "Friendly_FixedDeckOrder"
     },
     {
         "name": "TeamVsTeam_FixedDeckOrder",
@@ -995,8 +995,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": true,
-        "name_en": "2v2 Fixed Deck Battle",
-        "id": 72000055
+        "id": 72000055,
+        "name_en": "TeamVsTeam_FixedDeckOrder"
     },
     {
         "name": "MirrorDeck_H",
@@ -1012,9 +1012,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_MIRROR",
-        "name_en": "Mirror Battle",
-        "id": 72000056
+        "clan_war_description": "You and your opponent have the same deck, in the same order. Each deck has a Mirror card. How will you gain the advantage?",
+        "id": 72000056,
+        "name_en": "MirrorDeck_H"
     },
     {
         "name": "TeamVsTeam_MirrorDeck_H",
@@ -1030,8 +1030,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Mirror Battle",
-        "id": 72000057
+        "id": 72000057,
+        "name_en": "TeamVsTeam_MirrorDeck_H"
     },
     {
         "name": "KingOfTheHill",
@@ -1048,8 +1048,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "King of the Hill",
-        "id": 72000058
+        "id": 72000058,
+        "name_en": "KingOfTheHill"
     },
     {
         "name": "ModernRoyale",
@@ -1065,8 +1065,8 @@
         "event_deck_set_limit": "Event_Modern",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Modern Royale",
-        "id": 72000059
+        "id": 72000059,
+        "name_en": "ModernRoyale"
     },
     {
         "name": "Overtime_Ladder",
@@ -1082,9 +1082,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_OVERTIME",
-        "name_en": "Sudden Death Battle",
-        "id": 72000060
+        "clan_war_description": "The match starts at Sudden Death, double Elixir and the first tower down wins! Use your owns cards with your own card levels to build a deck.",
+        "id": 72000060,
+        "name_en": "Overtime_Ladder"
     },
     {
         "name": "DoubleElixir_Ladder",
@@ -1101,9 +1101,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_1V1_DOUBLE_ELIXIR",
-        "name_en": "Double Elixir Battle",
-        "id": 72000061
+        "clan_war_description": "Double the Elixir, double the fun! Use your own cards with your own card levels to build a deck. Try to take advantage of the extra Elixir.",
+        "id": 72000061,
+        "name_en": "DoubleElixir_Ladder"
     },
     {
         "name": "TripleElixir_Ladder",
@@ -1121,8 +1121,8 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "Triple Elixir Battle",
-        "id": 72000062
+        "id": 72000062,
+        "name_en": "TripleElixir_Ladder"
     },
     {
         "name": "NOTINUSE1",
@@ -1140,8 +1140,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Double Elixir",
-        "id": 72000063
+        "id": 72000063,
+        "name_en": "NOTINUSE1"
     },
     {
         "name": "NOTINUSE2",
@@ -1159,8 +1159,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Double Elixir",
-        "id": 72000064
+        "id": 72000064,
+        "name_en": "NOTINUSE2"
     },
     {
         "name": "Showdown_Friendly",
@@ -1175,9 +1175,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_SHOWDOWN",
-        "name_en": "War Deck Battle",
-        "id": 72000065
+        "clan_war_description": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
+        "id": 72000065,
+        "name_en": "Showdown_Friendly"
     },
     {
         "name": "Showdown_Ladder",
@@ -1192,9 +1192,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "clan_war_description": "TID_CLAN_WAR_GAME_MODE_INFO_SHOWDOWN",
-        "name_en": "War Deck Battle",
-        "id": 72000066
+        "clan_war_description": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
+        "id": 72000066,
+        "name_en": "Showdown_Ladder"
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Ladder",
@@ -1212,8 +1212,8 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Double Elixir",
-        "id": 72000067
+        "id": 72000067,
+        "name_en": "TeamVsTeam_DoubleElixir_Ladder"
     },
     {
         "name": "TeamVsTeam_Overtime_Ladder",
@@ -1229,7 +1229,7 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "name_en": "2v2 Sudden Death",
-        "id": 72000068
+        "id": 72000068,
+        "name_en": "TeamVsTeam_Overtime_Ladder"
     }
 ]

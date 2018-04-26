@@ -21,14 +21,19 @@ class GameModes(BaseGen):
         ]
 
     def run(self):
-        data = self.load_csv(exclude_empty=True)
+        data = self.load_csv(
+            exclude_empty=True,
+            tid_fields=[
+                {"field": "ClanWarDescription", "output_field": "clan_war_description"}
+            ]
+        )
         out = []
         id_ = 0
         for i, row in enumerate(data):
             if row.get('name') is not None:
                 row.update({
                     'id': int(self.config.scid.game_modes.format(id_)),
-                    'name_en':  row.get('name_en') or row.get('name')
+                    'name_en':  row.get('name_en') or row.get('name'),
                 })
                 out.append(row)
                 id_ += 1
