@@ -6,13 +6,13 @@ import csv
 import json
 import os
 
-from .util import camelcase_split, camelcase_to_snakecase
+from .util import camelcase_to_snakecase
+
 
 class TextField:
     def __init__(self, input, output):
         self.input = input
         self.output = output
-
 
 
 class BaseGen:
@@ -23,6 +23,7 @@ class BaseGen:
         id: csv / json id, e.g. arenas
         null_int: if null value for int fields should be null of 0. Default: False, i.e. 0
     """
+
     def __init__(self, config, id=None, json_id=None, null_int=False):
         self.config = config
 
@@ -83,14 +84,26 @@ class BaseGen:
 
         quests_hint = self.text('TID_HINT_QUESTS', 'EN')
         """
-        csv_path = os.path.join(self.config.csv.base, self.config.csv.path.texts)
-        with open(csv_path, encoding="utf8") as f:
-            texts_reader = csv.DictReader(f)
-            for row in texts_reader:
-                if row['v'] == tid:
-                    s = row[lang]
-                    return s.replace('\q', '\"')
-        return None
+        csv_paths = [
+            os.path.join(self.config.csv.base, self.config.csv.path.texts),
+            os.path.join(self.config.csv.base, self.config.csv.path.texts_patch)
+        ]
+        _text = None
+        while _text is None:
+            for csv_path in csv_paths:
+                with open(csv_path, encoding="utf8") as f:
+                    texts_reader = csv.DictReader(f)
+                    for row in texts_reader:
+                        keys = ['v', ' ']
+                        for key in keys:
+                            if key in row.keys():
+                                if key == ' ':
+                                    print('key == space')
+                                if row.get(key) == tid:
+                                    s = row[lang]
+                                    _text = s.replace('\q', '\"')
+
+        return _text
 
     def row_value(self, row, field):
         """Row value cast with field type.
@@ -138,7 +151,7 @@ class BaseGen:
         items = []
         with open(self.csv_path, encoding="utf8")  as f:
             reader = csv.DictReader(f)
-            for i, row in  enumerate(reader):
+            for i, row in enumerate(reader):
                 if i > 0:
 
                     item = {}
@@ -167,7 +180,7 @@ class BaseGen:
 
                         # Exclude known non-stat fileds
                         if k.lower() in [
-                                "filename", "useanimator", "iconswf", "tid"]:
+                            "filename", "useanimator", "iconswf", "tid"]:
                             continue
 
                         # camelcase split, keep digits at end

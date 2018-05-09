@@ -13,6 +13,7 @@ csv:
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
     texts: ./csv_client/texts.csv
+    texts_patch: ./csv_client/texts_patch.csv
     tournaments: ./csv_logic/tournament_tiers.csv
     treasure_chests: ./csv_logic/treasure_chests.csv
 
