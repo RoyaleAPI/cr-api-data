@@ -97,8 +97,6 @@ class BaseGen:
                         keys = ['v', ' ']
                         for key in keys:
                             if key in row.keys():
-                                if key == ' ':
-                                    print('key == space')
                                 if row.get(key) == tid:
                                     s = row[lang]
                                     _text = s.replace('\q', '\"')

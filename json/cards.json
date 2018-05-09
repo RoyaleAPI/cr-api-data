@@ -510,6 +510,16 @@
         "id": 26000052
     },
     {
+        "key": "rascals",
+        "name": "Rascals",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Common",
+        "arena": 9,
+        "description": "Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind... with slingshots full of Double Trouble Gum!",
+        "id": 26000053
+    },
+    {
         "key": "cannon-cart",
         "name": "Cannon Cart",
         "elixir": 5,

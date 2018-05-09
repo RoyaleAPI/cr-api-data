@@ -44,20 +44,15 @@ class Cards(BaseGen):
                     if i > 0:
                         card_num += 1
                         if not row['NotInUse']:
-                            card_id = card_num
                             name_en = self.text(row['TID'], 'EN')
-                            print(name_en)
                             if name_en is not None:
-                                # name_strip = re.sub('[.\-]', '', name_en)
-                                name_strip = name_en.replace('-', '')
+                                name_strip = re.sub('[.\-]', '', name_en)
                                 ccs = camelcase_split(name_strip)
                                 key = '-'.join(s.lower() for s in ccs)
-                                card_key = '_'.join(s.lower() for s in ccs)
+                                # card_key = '_'.join(s.lower() for s in ccs)
                                 decklink = card_config.sckey.format(i - 1)
                                 card = {
-                                    # 'card_id': card_id,
                                     'key': key,
-                                    # 'card_key': card_key,
                                     'name': name_en,
                                     'elixir': int(row['ManaCost']),
                                     'type': card_config.type,
