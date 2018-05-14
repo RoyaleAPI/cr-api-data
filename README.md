@@ -30,7 +30,7 @@ Run `./run.py`
 
 ## Loading data files from the web
 
-https://cr-api.github.io/cr-api-data/json/cards.json
+https://royaleapi.github.io/cr-api-data/json/cards.json
 
 
 
