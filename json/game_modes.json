@@ -1231,5 +1231,41 @@
         "fixed_deck_order": false,
         "id": 72000068,
         "name_en": "TeamVsTeam_Overtime_Ladder"
+    },
+    {
+        "name": "NOTINUSE3",
+        "card_level_adjustment": "Ladder",
+        "deck_selection": "Collection",
+        "overtime_seconds": 180,
+        "same_deck_on_both": false,
+        "separate_team_decks": false,
+        "swapping_towers": false,
+        "elixir_production_multiplier": 170,
+        "elixir_production_overtime_multiplier": 85,
+        "use_starting_elixir": true,
+        "starting_elixir": 0,
+        "heroes": false,
+        "players": "TvT",
+        "gives_clan_score": false,
+        "fixed_deck_order": false,
+        "id": 72000069,
+        "name_en": "NOTINUSE3"
+    },
+    {
+        "name": "RampUpElixir_Ladder",
+        "card_level_adjustment": "Ladder",
+        "deck_selection": "Collection",
+        "overtime_seconds": 180,
+        "same_deck_on_both": false,
+        "separate_team_decks": false,
+        "swapping_towers": false,
+        "use_starting_elixir": false,
+        "heroes": false,
+        "players": "PvP",
+        "gives_clan_score": false,
+        "fixed_deck_order": false,
+        "clan_war_description": "Ramp Up Battle",
+        "id": 72000070,
+        "name_en": "RampUpElixir_Ladder"
     }
 ]
