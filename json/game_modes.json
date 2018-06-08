@@ -4,7 +4,7 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "Blind_Goblin_1",
+        "predefined_decks": "Blind_Giant",
         "same_deck_on_both": false,
         "separate_team_decks": true,
         "swapping_towers": false,
