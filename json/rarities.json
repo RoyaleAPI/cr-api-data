@@ -151,7 +151,7 @@
         "sort_capacity": 80,
         "donate_reward": 500,
         "donate_xp": 10,
-        "gold_conversion_value": 1000,
+        "gold_conversion_value": 500,
         "chance_weight": 1,
         "balance_multiplier": 180,
         "upgrade_exp": [

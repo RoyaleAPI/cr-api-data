@@ -43,8 +43,16 @@ class Cards(BaseGen):
                 for i, row in enumerate(reader):
                     if i > 0:
                         card_num += 1
-                        if not row['NotInUse']:
+                        process = True
+                        if row['NotInUse']:
+                            process = False
+                        elif row['Name'].lower().startswith('notinuse'):
+                            process = False
+                        if process:
                             name_en = self.text(row['TID'], 'EN')
+                            if name_en == '':
+                                name_en = row['Name']
+
                             if name_en is not None:
                                 name_strip = re.sub('[.\-]', '', name_en)
                                 ccs = camelcase_split(name_strip)
@@ -63,6 +71,7 @@ class Cards(BaseGen):
                                 }
 
                                 cards.append(card)
+                                print(card)
             return card_num
 
         for card_config in self.config.cards:

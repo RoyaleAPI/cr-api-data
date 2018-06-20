@@ -100,6 +100,8 @@ class BaseGen:
                                 if row.get(key) == tid:
                                     s = row[lang]
                                     _text = s.replace('\q', '\"')
+            if _text is None:
+                _text = ''
 
         return _text
 

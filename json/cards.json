@@ -55,7 +55,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 2,
+        "arena": 0,
         "description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
         "id": 26000005
     },
@@ -95,7 +95,7 @@
         "elixir": 8,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 6,
+        "arena": 3,
         "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
         "id": 26000009
     },
@@ -115,7 +115,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 1,
+        "arena": 2,
         "description": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
         "id": 26000011
     },
@@ -135,7 +135,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 0,
+        "arena": 2,
         "description": "Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.",
         "id": 26000013
     },
@@ -215,7 +215,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 4,
+        "arena": 1,
         "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
         "id": 26000021
     },
@@ -235,7 +235,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 8,
         "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
         "id": 26000023
     },
@@ -325,7 +325,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 6,
+        "arena": 4,
         "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
         "id": 26000032
     },
@@ -335,7 +335,7 @@
         "elixir": 6,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 6,
+        "arena": 11,
         "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
         "id": 26000033
     },
@@ -365,7 +365,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 6,
+        "arena": 3,
         "description": "Two Barbarians holding a big log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!",
         "id": 26000036
     },
@@ -375,7 +375,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 4,
+        "arena": 6,
         "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
         "id": 26000037
     },
@@ -395,7 +395,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 7,
+        "arena": 4,
         "description": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
         "id": 26000039
     },
@@ -425,7 +425,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 7,
+        "arena": 11,
         "description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
         "id": 26000042
     },
@@ -435,7 +435,7 @@
         "elixir": 6,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 7,
+        "arena": 10,
         "description": "Spawns a pair of leveled up Barbarians. They're like regular Barbarians, only harder, better, faster and stronger.",
         "id": 26000043
     },
@@ -445,7 +445,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 9,
+        "arena": 1,
         "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
         "id": 26000044
     },
@@ -475,7 +475,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 8,
+        "arena": 5,
         "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
         "id": 26000048
     },
@@ -485,7 +485,7 @@
         "elixir": 2,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 8,
+        "arena": 5,
         "description": "Spawns a handful of tiny flying creatures. Think of them as sweet, purple... balls of DESTRUCTION!",
         "id": 26000049
     },
@@ -495,7 +495,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 7,
         "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
         "id": 26000050
     },
@@ -525,7 +525,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 6,
         "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
         "id": 26000054
     },
@@ -555,9 +555,19 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 9,
+        "arena": 6,
         "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
         "id": 26000057
+    },
+    {
+        "key": "royal-hogs",
+        "name": "Royal Hogs",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Rare",
+        "arena": 10,
+        "description": "The King's personal pets are loose! They love to chomp on apples and towers alike - who let the hogs out?!",
+        "id": 26000059
     },
     {
         "key": "magic-archer",
@@ -565,7 +575,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 11,
+        "arena": 10,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
         "id": 26000062
     },
@@ -615,7 +625,7 @@
         "elixir": 5,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 2,
+        "arena": 10,
         "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
         "id": 27000004
     },
@@ -635,7 +645,7 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Common",
-        "arena": 4,
+        "arena": 11,
         "description": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
         "id": 27000006
     },
@@ -645,7 +655,7 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 6,
+        "arena": 8,
         "description": "You gotta spend Elixir to make Elixir.",
         "id": 27000007
     },
@@ -655,7 +665,7 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Epic",
-        "arena": 3,
+        "arena": 6,
         "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
         "id": 27000008
     },
@@ -705,7 +715,7 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 3,
+        "arena": 10,
         "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
         "id": 28000002
     },
@@ -715,7 +725,7 @@
         "elixir": 6,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 3,
+        "arena": 6,
         "description": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
         "id": 28000003
     },
@@ -735,7 +745,7 @@
         "elixir": 4,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 4,
+        "arena": 5,
         "description": "Freezes troops and buildings, making them unable to move or attack. Everybody chill.",
         "id": 28000005
     },
@@ -745,7 +755,7 @@
         "elixir": 1,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 5,
+        "arena": 11,
         "description": "Mirrors your last card played for +1 Elixir.",
         "id": 28000006
     },
@@ -755,7 +765,7 @@
         "elixir": 6,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 1,
+        "arena": 4,
         "description": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
         "id": 28000007
     },
@@ -765,7 +775,7 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Common",
-        "arena": 5,
+        "arena": 4,
         "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
         "id": 28000008
     },
@@ -805,7 +815,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 6,
+        "arena": 8,
         "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
         "id": 28000012
     },
@@ -815,7 +825,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 8,
+        "arena": 11,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
         "id": 28000013
     },
@@ -825,7 +835,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 3,
         "description": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
         "id": 28000015
     },
@@ -835,8 +845,18 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 10,
+        "arena": 7,
         "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
         "id": 28000016
+    },
+    {
+        "key": "giant-snowball",
+        "name": "Giant Snowball",
+        "elixir": 2,
+        "type": "Spell",
+        "rarity": "Common",
+        "arena": 8,
+        "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down.",
+        "id": 28000017
     }
 ]
