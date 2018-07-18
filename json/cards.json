@@ -470,6 +470,16 @@
         "id": 26000046
     },
     {
+        "key": "royal-recruits",
+        "name": "Royal Recruits",
+        "elixir": 6,
+        "type": "Troop",
+        "rarity": "Common",
+        "arena": 7,
+        "description": "Deploys a line of recruits armed with spears, shields and wooden buckets. They dream of ponies and one day wearing metal buckets.",
+        "id": 26000047
+    },
+    {
         "key": "night-witch",
         "name": "Night Witch",
         "elixir": 4,
