@@ -472,7 +472,7 @@
     {
         "key": "royal-recruits",
         "name": "Royal Recruits",
-        "elixir": 6,
+        "elixir": 8,
         "type": "Troop",
         "rarity": "Common",
         "arena": 7,
