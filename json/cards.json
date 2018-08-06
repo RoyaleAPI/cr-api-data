@@ -632,7 +632,7 @@
     {
         "key": "bomb-tower",
         "name": "Bomb Tower",
-        "elixir": 5,
+        "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
         "arena": 10,
