@@ -72,6 +72,36 @@
                 1630,
                 1789,
                 1968
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244
+            ],
+            "dps_per_level": [
+                65,
+                72,
+                79,
+                87,
+                96,
+                105,
+                115,
+                127,
+                139,
+                153,
+                168,
+                184,
+                203
             ]
         },
         {
@@ -141,7 +171,9 @@
                 307,
                 337,
                 370
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Goblin",
@@ -210,6 +242,36 @@
                 202,
                 221,
                 244
+            ],
+            "damage_per_level": [
+                47,
+                51,
+                56,
+                62,
+                68,
+                75,
+                82,
+                90,
+                99,
+                109,
+                120,
+                132,
+                145
+            ],
+            "dps_per_level": [
+                42,
+                47,
+                51,
+                56,
+                62,
+                68,
+                75,
+                82,
+                90,
+                99,
+                109,
+                120,
+                132
             ]
         },
         {
@@ -286,6 +348,32 @@
                 4028,
                 4427,
                 4864
+            ],
+            "damage_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175,
+                192,
+                211,
+                231,
+                254,
+                279,
+                307
+            ],
+            "dps_per_level": [
+                80,
+                88,
+                96,
+                106,
+                116,
+                128,
+                140,
+                154,
+                169,
+                186,
+                204
             ]
         },
         {
@@ -350,6 +438,26 @@
                 4160,
                 4576,
                 5018
+            ],
+            "damage_per_level": [
+                510,
+                561,
+                617,
+                678,
+                744,
+                816,
+                897,
+                984
+            ],
+            "dps_per_level": [
+                283,
+                311,
+                342,
+                376,
+                413,
+                453,
+                498,
+                546
             ]
         },
         {
@@ -420,7 +528,9 @@
                 230,
                 252,
                 278
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Balloon",
@@ -492,6 +602,26 @@
                 1680,
                 1848,
                 2026
+            ],
+            "damage_per_level": [
+                600,
+                660,
+                726,
+                798,
+                876,
+                960,
+                1056,
+                1158
+            ],
+            "dps_per_level": [
+                200,
+                220,
+                242,
+                266,
+                292,
+                320,
+                352,
+                386
             ]
         },
         {
@@ -567,7 +697,9 @@
                 980,
                 1078,
                 1183
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Skeleton",
@@ -623,6 +755,36 @@
             "speed_en": "fast",
             "dps": 32.0,
             "hitpoints_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98
+            ],
+            "damage_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98
+            ],
+            "dps_per_level": [
                 32,
                 35,
                 38,
@@ -706,6 +868,36 @@
                 768,
                 843,
                 927
+            ],
+            "damage_per_level": [
+                75,
+                82,
+                90,
+                99,
+                109,
+                120,
+                132,
+                144,
+                159,
+                174,
+                192,
+                210,
+                231
+            ],
+            "dps_per_level": [
+                53,
+                58,
+                64,
+                71,
+                78,
+                85,
+                94,
+                103,
+                113,
+                124,
+                137,
+                150,
+                165
             ]
         },
         {
@@ -786,6 +978,26 @@
                 5120,
                 5632,
                 6176
+            ],
+            "damage_per_level": [
+                195,
+                214,
+                235,
+                259,
+                284,
+                312,
+                343,
+                376
+            ],
+            "dps_per_level": [
+                78,
+                85,
+                94,
+                103,
+                113,
+                124,
+                137,
+                150
             ]
         },
         {
@@ -854,6 +1066,26 @@
                 1040,
                 1144,
                 1254
+            ],
+            "damage_per_level": [
+                40,
+                44,
+                48,
+                53,
+                58,
+                64,
+                70,
+                77
+            ],
+            "dps_per_level": [
+                16,
+                17,
+                19,
+                21,
+                23,
+                25,
+                28,
+                30
             ]
         },
         {
@@ -927,6 +1159,32 @@
                 1992,
                 2190,
                 2406
+            ],
+            "damage_per_level": [
+                126,
+                138,
+                152,
+                167,
+                183,
+                201,
+                221,
+                243,
+                267,
+                293,
+                322
+            ],
+            "dps_per_level": [
+                90,
+                99,
+                108,
+                119,
+                131,
+                144,
+                158,
+                173,
+                190,
+                209,
+                230
             ]
         },
         {
@@ -1002,7 +1260,9 @@
                 376,
                 413,
                 454
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Musketeer",
@@ -1076,7 +1336,9 @@
                 720,
                 792,
                 870
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BabyDragon",
@@ -1140,7 +1402,9 @@
                 1280,
                 1408,
                 1544
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "MiniPekka",
@@ -1206,6 +1470,32 @@
                 1361,
                 1495,
                 1643
+            ],
+            "damage_per_level": [
+                340,
+                374,
+                411,
+                452,
+                496,
+                544,
+                598,
+                656,
+                720,
+                792,
+                870
+            ],
+            "dps_per_level": [
+                188,
+                207,
+                228,
+                251,
+                275,
+                302,
+                332,
+                364,
+                400,
+                440,
+                483
             ]
         },
         {
@@ -1279,7 +1569,9 @@
                 720,
                 792,
                 870
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Prince",
@@ -1350,6 +1642,26 @@
                 1848,
                 2032,
                 2229
+            ],
+            "damage_per_level": [
+                245,
+                269,
+                296,
+                325,
+                357,
+                392,
+                431,
+                472
+            ],
+            "dps_per_level": [
+                175,
+                192,
+                211,
+                232,
+                255,
+                280,
+                308,
+                337
             ]
         },
         {
@@ -1418,7 +1730,9 @@
                 133,
                 146,
                 160
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "GiantSkeleton",
@@ -1484,6 +1798,26 @@
                 3360,
                 3696,
                 4053
+            ],
+            "damage_per_level": [
+                130,
+                143,
+                157,
+                172,
+                189,
+                208,
+                228,
+                250
+            ],
+            "dps_per_level": [
+                86,
+                95,
+                104,
+                115,
+                126,
+                138,
+                152,
+                167
             ]
         },
         {
@@ -1555,6 +1889,32 @@
                 1696,
                 1864,
                 2048
+            ],
+            "damage_per_level": [
+                150,
+                165,
+                181,
+                199,
+                219,
+                240,
+                264,
+                289,
+                318,
+                349,
+                384
+            ],
+            "dps_per_level": [
+                93,
+                103,
+                113,
+                124,
+                136,
+                150,
+                165,
+                180,
+                198,
+                218,
+                240
             ]
         },
         {
@@ -1624,7 +1984,9 @@
                 12,
                 14,
                 15
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "IceWizard",
@@ -1685,7 +2047,9 @@
                 804,
                 884,
                 970
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RoyalGiant",
@@ -1757,7 +2121,9 @@
                 3072,
                 3372,
                 3708
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Princess",
@@ -1827,7 +2193,9 @@
                 261,
                 287,
                 315
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DarkPrince",
@@ -1896,6 +2264,26 @@
                 1240,
                 1364,
                 1495
+            ],
+            "damage_per_level": [
+                155,
+                170,
+                187,
+                206,
+                226,
+                248,
+                272,
+                299
+            ],
+            "dps_per_level": [
+                119,
+                131,
+                144,
+                158,
+                174,
+                190,
+                209,
+                230
             ]
         },
         {
@@ -1962,6 +2350,26 @@
                 108,
                 119,
                 131
+            ],
+            "damage_per_level": [
+                68,
+                74,
+                82,
+                90,
+                99,
+                108,
+                119,
+                131
+            ],
+            "dps_per_level": [
+                61,
+                68,
+                74,
+                82,
+                90,
+                98,
+                108,
+                119
             ]
         },
         {
@@ -2026,7 +2434,9 @@
                 3811,
                 4189,
                 4599
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "LavaPups",
@@ -2087,7 +2497,9 @@
                 216,
                 238,
                 261
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RageBarbarian",
@@ -2150,6 +2562,20 @@
                 1282,
                 1409,
                 1547
+            ],
+            "damage_per_level": [
+                200,
+                220,
+                242,
+                266,
+                292
+            ],
+            "dps_per_level": [
+                285,
+                314,
+                345,
+                380,
+                417
             ]
         },
         {
@@ -2218,7 +2644,9 @@
                 230,
                 252,
                 278
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "FireSpirits",
@@ -2286,7 +2714,9 @@
                 110,
                 120,
                 132
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Miner",
@@ -2355,6 +2785,20 @@
                 1210,
                 1330,
                 1460
+            ],
+            "damage_per_level": [
+                160,
+                176,
+                193,
+                212,
+                233
+            ],
+            "dps_per_level": [
+                133,
+                146,
+                161,
+                177,
+                194
             ]
         },
         {
@@ -2422,7 +2866,9 @@
                 1452,
                 1596,
                 1752
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Bowler",
@@ -2491,7 +2937,9 @@
                 1920,
                 2112,
                 2316
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "IceGolemite",
@@ -2564,6 +3012,32 @@
                 1197,
                 1316,
                 1446
+            ],
+            "damage_per_level": [
+                40,
+                44,
+                48,
+                53,
+                58,
+                64,
+                70,
+                77,
+                84,
+                93,
+                102
+            ],
+            "dps_per_level": [
+                16,
+                17,
+                19,
+                21,
+                23,
+                25,
+                28,
+                30,
+                33,
+                37,
+                40
             ]
         },
         {
@@ -2631,7 +3105,9 @@
                 837,
                 920,
                 1011
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "InfernoDragon",
@@ -2704,6 +3180,20 @@
                 1294,
                 1423,
                 1562
+            ],
+            "damage_per_level": [
+                30,
+                33,
+                36,
+                39,
+                43
+            ],
+            "dps_per_level": [
+                75,
+                82,
+                90,
+                99,
+                109
             ]
         },
         {
@@ -2779,6 +3269,32 @@
                 911,
                 1001,
                 1100
+            ],
+            "damage_per_level": [
+                140,
+                154,
+                169,
+                186,
+                204,
+                224,
+                246,
+                270,
+                296,
+                326,
+                358
+            ],
+            "dps_per_level": [
+                350,
+                385,
+                423,
+                465,
+                511,
+                560,
+                616,
+                675,
+                742,
+                815,
+                896
             ]
         },
         {
@@ -2846,7 +3362,9 @@
                 260,
                 286,
                 314
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "ElectroWizard",
@@ -2912,6 +3430,20 @@
                 713,
                 784,
                 861
+            ],
+            "damage_per_level": [
+                96,
+                105,
+                116,
+                127,
+                140
+            ],
+            "dps_per_level": [
+                53,
+                58,
+                64,
+                70,
+                77
             ]
         },
         {
@@ -2982,6 +3514,36 @@
                 1172,
                 1286,
                 1415
+            ],
+            "damage_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175,
+                192,
+                211,
+                231,
+                254,
+                279,
+                307,
+                337,
+                370
+            ],
+            "dps_per_level": [
+                80,
+                88,
+                96,
+                106,
+                116,
+                128,
+                140,
+                154,
+                169,
+                186,
+                204,
+                224,
+                247
             ]
         },
         {
@@ -3046,7 +3608,9 @@
                 1216,
                 1337,
                 1466
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Assassin",
@@ -3112,6 +3676,20 @@
                 943,
                 1037,
                 1138
+            ],
+            "damage_per_level": [
+                160,
+                176,
+                193,
+                212,
+                233
+            ],
+            "dps_per_level": [
+                160,
+                176,
+                193,
+                212,
+                233
             ]
         },
         {
@@ -3174,6 +3752,20 @@
                 1331,
                 1463,
                 1606
+            ],
+            "damage_per_level": [
+                216,
+                237,
+                261,
+                287,
+                315
+            ],
+            "dps_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175
             ]
         },
         {
@@ -3237,6 +3829,20 @@
                 1331,
                 1463,
                 1606
+            ],
+            "damage_per_level": [
+                216,
+                237,
+                261,
+                287,
+                315
+            ],
+            "dps_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175
             ]
         },
         {
@@ -3311,6 +3917,32 @@
                 530,
                 582,
                 640
+            ],
+            "damage_per_level": [
+                40,
+                44,
+                48,
+                53,
+                58,
+                64,
+                70,
+                77,
+                84,
+                93,
+                102
+            ],
+            "dps_per_level": [
+                25,
+                27,
+                30,
+                33,
+                36,
+                40,
+                44,
+                48,
+                53,
+                58,
+                64
             ]
         },
         {
@@ -3384,7 +4016,9 @@
                 838,
                 922,
                 1011
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DarkWitch",
@@ -3452,6 +4086,20 @@
                 907,
                 997,
                 1095
+            ],
+            "damage_per_level": [
+                260,
+                286,
+                314,
+                345,
+                379
+            ],
+            "dps_per_level": [
+                173,
+                190,
+                209,
+                230,
+                253
             ]
         },
         {
@@ -3525,6 +4173,36 @@
                 81,
                 89,
                 98
+            ],
+            "damage_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98
+            ],
+            "dps_per_level": [
+                29,
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89
             ]
         },
         {
@@ -3596,6 +4274,36 @@
                 532,
                 584,
                 642
+            ],
+            "damage_per_level": [
+                43,
+                47,
+                52,
+                57,
+                62,
+                68,
+                75,
+                82,
+                91,
+                100,
+                110,
+                120,
+                132
+            ],
+            "dps_per_level": [
+                35,
+                39,
+                43,
+                47,
+                52,
+                57,
+                63,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110
             ]
         },
         {
@@ -3664,6 +4372,36 @@
                 1830,
                 2009,
                 2209
+            ],
+            "damage_per_level": [
+                52,
+                57,
+                62,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110,
+                121,
+                133,
+                146,
+                160
+            ],
+            "dps_per_level": [
+                40,
+                44,
+                48,
+                53,
+                58,
+                64,
+                70,
+                77,
+                84,
+                93,
+                102,
+                112,
+                123
             ]
         },
         {
@@ -3731,7 +4469,9 @@
                 880,
                 968,
                 1061
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BrokenCannon",
@@ -3797,7 +4537,9 @@
                 880,
                 968,
                 1061
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "MegaKnight",
@@ -3872,6 +4614,20 @@
                 3993,
                 4389,
                 4818
+            ],
+            "damage_per_level": [
+                222,
+                244,
+                268,
+                295,
+                324
+            ],
+            "dps_per_level": [
+                123,
+                135,
+                149,
+                164,
+                180
             ]
         },
         {
@@ -3941,7 +4697,9 @@
                 261,
                 286,
                 315
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "SkeletonBalloon",
@@ -4013,7 +4771,9 @@
                 768,
                 843,
                 927
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DartBarrell",
@@ -4082,7 +4842,9 @@
                 614,
                 675,
                 742
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RoyalHog",
@@ -4153,6 +4915,32 @@
                 837,
                 920,
                 1011
+            ],
+            "damage_per_level": [
+                34,
+                37,
+                41,
+                45,
+                49,
+                54,
+                59,
+                65,
+                72,
+                79,
+                87
+            ],
+            "dps_per_level": [
+                30,
+                34,
+                37,
+                41,
+                45,
+                49,
+                54,
+                59,
+                65,
+                72,
+                79
             ]
         },
         {
@@ -4214,7 +5002,9 @@
                 592,
                 651,
                 715
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         }
     ],
     "building": [
@@ -4285,7 +5075,9 @@
                 6144,
                 6744,
                 7416
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "PrincessTower",
@@ -4351,7 +5143,9 @@
                 3584,
                 3934,
                 4326
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Cannon",
@@ -4422,7 +5216,9 @@
                 896,
                 983,
                 1081
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "GoblinHut",
@@ -4485,7 +5281,9 @@
                 1558,
                 1712,
                 1881
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Mortar",
@@ -4557,7 +5355,9 @@
                 1472,
                 1615,
                 1776
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "InfernoTower",
@@ -4633,7 +5433,21 @@
                 1696,
                 1864,
                 2048
-            ]
+            ],
+            "damage_per_level": [
+                20,
+                22,
+                24,
+                26,
+                29,
+                32,
+                35,
+                38,
+                42,
+                46,
+                51
+            ],
+            "dps_per_level": null
         },
         {
             "name": "BombTower",
@@ -4697,7 +5511,9 @@
                 1356,
                 1491,
                 1638
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BarbarianHut",
@@ -4761,7 +5577,9 @@
                 2332,
                 2563,
                 2816
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Tesla",
@@ -4835,7 +5653,23 @@
                 1152,
                 1264,
                 1390
-            ]
+            ],
+            "damage_per_level": [
+                90,
+                99,
+                108,
+                119,
+                131,
+                144,
+                158,
+                173,
+                190,
+                209,
+                230,
+                252,
+                278
+            ],
+            "dps_per_level": null
         },
         {
             "name": "ElixirCollector",
@@ -4893,7 +5727,9 @@
                 1070,
                 1176,
                 1292
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Xbow",
@@ -4953,7 +5789,9 @@
                 1600,
                 1760,
                 1930
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Tombstone",
@@ -5024,7 +5862,9 @@
                 508,
                 559,
                 614
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "GiantSkeletonBomb",
@@ -5071,7 +5911,9 @@
             "building_target": false,
             "spawn_const_priority": false,
             "name_en": "Bomb",
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BalloonBomb",
@@ -5117,7 +5959,9 @@
             "building_target": false,
             "spawn_const_priority": false,
             "name_en": "Bomb",
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "FirespiritHut",
@@ -5181,7 +6025,9 @@
                 1208,
                 1328,
                 1459
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RageBarbarianBottle",
@@ -5221,7 +6067,9 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "KingTowerMiddle",
@@ -5262,7 +6110,9 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "MagicBomb",
@@ -5307,7 +6157,9 @@
             "building_target": false,
             "spawn_const_priority": false,
             "name_en": "Bomb",
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "SkeletonContainer",
@@ -5356,7 +6208,9 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": true,
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DummyKingTower",
@@ -5398,7 +6252,9 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "hitpoints_per_level": null
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DummyKingTower2",
@@ -5467,7 +6323,9 @@
                 6144,
                 6744,
                 7416
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "PrincessTowerSwapping",
@@ -5531,7 +6389,9 @@
                 3584,
                 3934,
                 4326
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "CaptureTower",
@@ -5597,7 +6457,23 @@
                 1152,
                 1264,
                 1390
-            ]
+            ],
+            "damage_per_level": [
+                90,
+                99,
+                108,
+                119,
+                131,
+                144,
+                158,
+                173,
+                190,
+                209,
+                230,
+                252,
+                278
+            ],
+            "dps_per_level": null
         },
         {
             "name": "CaptureTowerTop",
@@ -5658,7 +6534,9 @@
                 1792,
                 1967,
                 2163
-            ]
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         }
     ],
     "spell": [
@@ -5705,7 +6583,10 @@
             "type": "Spell",
             "arena": 10,
             "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
-            "id": 28000002
+            "id": 28000002,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Freeze",
@@ -5750,7 +6631,10 @@
             "type": "Spell",
             "arena": 5,
             "description": "Freezes troops and buildings, making them unable to move or attack. Everybody chill.",
-            "id": 28000005
+            "id": 28000005,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Lightning",
@@ -5795,7 +6679,10 @@
             "type": "Spell",
             "arena": 4,
             "description": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
-            "id": 28000007
+            "id": 28000007,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Zap",
@@ -5840,7 +6727,24 @@
             "type": "Spell",
             "arena": 4,
             "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
-            "id": 28000008
+            "id": 28000008,
+            "hitpoints_per_level": null,
+            "damage_per_level": [
+                75,
+                82,
+                90,
+                99,
+                109,
+                120,
+                132,
+                144,
+                159,
+                174,
+                192,
+                210,
+                231
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Poison",
@@ -5885,7 +6789,10 @@
             "type": "Spell",
             "arena": 5,
             "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!",
-            "id": 28000009
+            "id": 28000009,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BarbarianRage",
@@ -5924,7 +6831,10 @@
             "spawn_from_min_to_max": false,
             "spawn_angle_shift": 0,
             "hits_ground": true,
-            "hits_air": true
+            "hits_air": true,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Graveyard",
@@ -5969,7 +6879,10 @@
             "type": "Spell",
             "arena": 5,
             "description": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
-            "id": 28000010
+            "id": 28000010,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "FreezeIceGolemite",
@@ -6008,7 +6921,10 @@
             "spawn_from_min_to_max": false,
             "spawn_angle_shift": 0,
             "hits_ground": true,
-            "hits_air": true
+            "hits_air": true,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Tornado",
@@ -6053,7 +6969,10 @@
             "type": "Spell",
             "arena": 8,
             "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
-            "id": 28000012
+            "id": 28000012,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Clone",
@@ -6098,7 +7017,10 @@
             "type": "Spell",
             "arena": 11,
             "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
-            "id": 28000013
+            "id": 28000013,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Heal",
@@ -6143,7 +7065,10 @@
             "type": "Spell",
             "arena": 7,
             "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
-            "id": 28000016
+            "id": 28000016,
+            "hitpoints_per_level": null,
+            "damage_per_level": null,
+            "dps_per_level": null
         }
     ]
 }

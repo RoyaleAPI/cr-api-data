@@ -10,8 +10,10 @@ from .base import BaseGen
 
 class Card:
     """Data about a single card."""
+
     def __init__(self):
         pass
+
 
 class TroopCard(Card):
     """Troops, aka characters in CSVs.
@@ -19,6 +21,7 @@ class TroopCard(Card):
     Params:
         :data: a dictionary of fields from a row in CSV.
     """
+
     def __init__(self, data):
         self._data = data
 
@@ -66,6 +69,7 @@ class CardTypes(BaseGen):
             "AttractPercentage", "HealthBar", "HealthBarOffsetY"
         ]
 
+
 class Buildings(CardTypes):
     def __init__(self, config):
         super().__init__(config, id="buildings", json_id="cards_stats")
@@ -73,34 +77,44 @@ class Buildings(CardTypes):
 
 class AreaEffectsObjects(CardTypes):
     """Spells."""
+
     def __init__(self, config):
         super().__init__(config, id="area_effect_objects")
 
+
 class Characters(CardTypes):
     """Characters."""
+
     def __init__(self, config):
         super().__init__(config, id="characters")
-
-# total hack by ruiner
-level_multipliers = [
-    1.0,
-    1.1,
-    1.21,
-    1.33,
-    1.46,
-    1.60,
-    1.76,
-    1.93,
-    2.12,
-    2.33,
-    2.56,
-    2.81,
-    3.09
-]
 
 
 class CardStats(BaseGen):
     """Card stats"""
+    max_levels = dict(
+        Common=13,
+        Rare=11,
+        Epic=8,
+        Legendary=5
+    )
+
+    # total hack by ruiner
+    level_multipliers = [
+        1.0,
+        1.1,
+        1.21,
+        1.33,
+        1.46,
+        1.60,
+        1.76,
+        1.93,
+        2.12,
+        2.33,
+        2.56,
+        2.81,
+        3.09
+    ]
+
     def __init__(self, config):
         super().__init__(config, json_id="cards_stats")
         self.config = config
@@ -134,32 +148,25 @@ class CardStats(BaseGen):
             cards.append(item)
         return cards
 
-    def calc_hp_per_level(self, items):
+    def calc_per_level(self, items, section=None, per_level_section=None):
         """Calculate hitpoints per level."""
         o = []
-        max_levels = dict(
-            Common=13,
-            Rare=11,
-            Epic=8,
-            Legendary=5
-        )
+
+        if not all([section, per_level_section]):
+            return items
+
         for item in items.copy():
-            hitpoints = item.get('hitpoints')
+            value = item.get(section)
             rarity = item.get('rarity')
             hp_per_level = None
-            if all([hitpoints, rarity]):
-                hp_per_level = []
-                hp = hitpoints
-                for level in range(max_levels[rarity]):
-                    hp_per_level.append(int(hp * level_multipliers[level]))
-
-                # hp_per_level = [hp * (1.1 ** level) for level in range(max_levels[rarity])]
-            item['hitpoints_per_level'] = hp_per_level
+            if all([value, rarity]):
+                hp_per_level = [
+                    int(value * self.level_multipliers[level])
+                    for level in range(self.max_levels[rarity])
+                ]
+            item[per_level_section] = hp_per_level
             o.append(item)
         return o
-
-
-
 
     def run(self):
         buildings = Buildings(self.config)
@@ -183,13 +190,20 @@ class CardStats(BaseGen):
         building_items = self.included_items(buildings_data)
         spell_items = self.included_items(area_effect_objects_data)
 
-        troop_items = self.calc_hp_per_level(troop_items)
-        building_items = self.calc_hp_per_level(building_items)
+        troop_items = self.calc_per_level(troop_items, 'hitpoints', 'hitpoints_per_level')
+        troop_items = self.calc_per_level(troop_items, 'damage', 'damage_per_level')
+        troop_items = self.calc_per_level(troop_items, 'dps', 'dps_per_level')
+
+        building_items = self.calc_per_level(building_items, 'hitpoints', 'hitpoints_per_level')
+        building_items = self.calc_per_level(building_items, 'damage', 'damage_per_level')
+        building_items = self.calc_per_level(building_items, 'dps', 'dps_per_level')
+
+        spell_items = self.calc_per_level(spell_items, 'hitpoints', 'hitpoints_per_level')
+        spell_items = self.calc_per_level(spell_items, 'damage', 'damage_per_level')
+        spell_items = self.calc_per_level(spell_items, 'dps', 'dps_per_level')
 
         self.save_json({
             "troop": troop_items,
             "building": building_items,
             "spell": spell_items
         })
-
-
