@@ -71,6 +71,7 @@ class CardTypes(BaseGen):
 
 
 class Buildings(CardTypes):
+    """Buildings."""
     def __init__(self, config):
         super().__init__(config, id="buildings", json_id="cards_stats")
 
@@ -87,6 +88,12 @@ class Characters(CardTypes):
 
     def __init__(self, config):
         super().__init__(config, id="characters")
+
+class Projectiles(CardTypes):
+    """Characters."""
+
+    def __init__(self, config):
+        super().__init__(config, id="projectiles")
 
 
 class CardStats(BaseGen):
@@ -168,6 +175,33 @@ class CardStats(BaseGen):
             o.append(item)
         return o
 
+    def calc_dps(self, items):
+        o = []
+        for item in items.copy():
+            if isinstance(item, dict):
+                if item.get('damage') and item.get('speed'):
+                    if item.get('speed', 0) > 0:
+                        dps = item.get('damage') / item.get('speed') * 1000
+                        # print(dps, item['damage'], item['speed'])
+                        item['dps'] = dps
+            o.append(item)
+        return o
+
+    def add_projectile(self, items, projectiles):
+        o = []
+        for item in items.copy():
+            p = item.get('projectile')
+            if p is not None:
+                for p_item in projectiles:
+                    if p_item.get('name') == p:
+                        item['projectile_data'] = p_item
+
+                # copy damage_per_level over
+                item['damage_per_level'] = item['projectile_data'].get('damage_per_level')
+                item['dps_per_level'] = item['projectile_data'].get('dps_per_level')
+            o.append(item)
+        return o
+
     def run(self):
         buildings = Buildings(self.config)
         buildings_data = buildings.load_csv(exclude_empty=True)
@@ -181,6 +215,10 @@ class CardStats(BaseGen):
         characters_data = characters.load_csv(exclude_empty=True)
         characters_data = self.inject_card_props(characters_data)
 
+        projectiles = Projectiles(self.config)
+        projectiles_data = projectiles.load_csv(exclude_empty=True)
+        projectiles_data = self.inject_card_props(projectiles_data)
+
         troops = []
         for character_data in characters_data:
             troop = TroopCard(character_data)
@@ -189,6 +227,7 @@ class CardStats(BaseGen):
         troop_items = self.included_items(characters_data)
         building_items = self.included_items(buildings_data)
         spell_items = self.included_items(area_effect_objects_data)
+        projectile_items = self.included_items(projectiles_data)
 
         troop_items = self.calc_per_level(troop_items, 'hitpoints', 'hitpoints_per_level')
         troop_items = self.calc_per_level(troop_items, 'damage', 'damage_per_level')
@@ -202,8 +241,16 @@ class CardStats(BaseGen):
         spell_items = self.calc_per_level(spell_items, 'damage', 'damage_per_level')
         spell_items = self.calc_per_level(spell_items, 'dps', 'dps_per_level')
 
+        projectile_items = self.calc_per_level(projectile_items, 'damage', 'damage_per_level')
+        projectile_items = self.calc_dps(projectile_items)
+        projectile_items = self.calc_per_level(projectile_items, 'dps', 'dps_per_level')
+
+        # inject projectile data
+        troop_items = self.add_projectile(troop_items, projectile_items)
+
         self.save_json({
             "troop": troop_items,
             "building": building_items,
-            "spell": spell_items
+            "spell": spell_items,
+            "projectile": projectile_items
         })

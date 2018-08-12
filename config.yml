@@ -10,6 +10,7 @@ csv:
     chest_order: ./csv_logic/chest_order.csv
     clan_chest: ./csv_logic/globals.csv
     game_modes: ./csv_logic/game_modes.csv
+    projectiles: ./csv_logic/projectiles.csv
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
     texts: ./csv_client/texts.csv
