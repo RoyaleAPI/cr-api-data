@@ -130,19 +130,23 @@ class CardStats(BaseGen):
             hitpoints = item.get('hitpoints')
             rarity = item.get('rarity')
             hp_per_level = None
+            hp_per_level_2 = None
             if all([hitpoints, rarity]):
                 hp_per_level = []
+                hp_per_level_2 = []
                 hp = hitpoints
+                hp2 = hitpoints
                 for level in range(max_levels[rarity]):
                     # doesn’t work
-                    # hp_per_level.append(hp)
-                    # hp = int(hp * 1.1)
+                    hp_per_level_2.append(hp2)
+                    hp2 = int(hp2 * 1.1)
 
                     hp = hitpoints * (1.1 ** level)
-                    hp_per_level.append(hp)
+                    hp_per_level.append(int(hp))
 
                 # hp_per_level = [hp * (1.1 ** level) for level in range(max_levels[rarity])]
             item['hitpoints_per_level'] = hp_per_level
+            item['hitpoints_per_level_2'] = hp_per_level_2
             o.append(item)
         return o
 
