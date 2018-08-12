@@ -57,7 +57,22 @@
             "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
             "id": 26000000,
             "speed_en": "medium",
-            "dps": 65.83333333333333
+            "dps": 65.83333333333333,
+            "hitpoints_per_level": [
+                637.0,
+                700.7,
+                770.7700000000001,
+                847.8470000000002,
+                932.6317000000003,
+                1025.8948700000003,
+                1128.4843570000005,
+                1241.3327927000007,
+                1365.466071970001,
+                1502.0126791670011,
+                1652.2139470837014,
+                1817.4353417920715,
+                1999.178875971279
+            ]
         },
         {
             "name": "Archer",
@@ -111,7 +126,22 @@
             "spawn_const_priority": false,
             "name_en": "Archer",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                120.0,
+                132.0,
+                145.20000000000002,
+                159.72000000000006,
+                175.69200000000004,
+                193.26120000000006,
+                212.5873200000001,
+                233.84605200000016,
+                257.23065720000017,
+                282.95372292000025,
+                311.24909521200027,
+                342.3740047332003,
+                376.6114052065204
+            ]
         },
         {
             "name": "Goblin",
@@ -165,7 +195,22 @@
             "spawn_const_priority": false,
             "name_en": "Goblin",
             "speed_en": "very fast",
-            "dps": 42.72727272727273
+            "dps": 42.72727272727273,
+            "hitpoints_per_level": [
+                79.0,
+                86.9,
+                95.59000000000002,
+                105.14900000000003,
+                115.66390000000003,
+                127.23029000000004,
+                139.95331900000008,
+                153.9486509000001,
+                169.34351599000013,
+                186.27786758900015,
+                204.9056543479002,
+                225.3962197826902,
+                247.93584176095925
+            ]
         },
         {
             "name": "Giant",
@@ -228,7 +273,20 @@
             "description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
             "id": 26000003,
             "speed_en": "slow",
-            "dps": 80.0
+            "dps": 80.0,
+            "hitpoints_per_level": [
+                1900.0,
+                2090.0,
+                2299.0000000000005,
+                2528.9000000000005,
+                2781.790000000001,
+                3059.969000000001,
+                3365.9659000000015,
+                3702.562490000002,
+                4072.818739000003,
+                4480.100612900003,
+                4928.110674190005
+            ]
         },
         {
             "name": "Pekka",
@@ -282,7 +340,17 @@
             "spawn_const_priority": false,
             "name_en": "P.E.K.K.A",
             "speed_en": "slow",
-            "dps": 283.3333333333333
+            "dps": 283.3333333333333,
+            "hitpoints_per_level": [
+                2600.0,
+                2860.0000000000005,
+                3146.0000000000005,
+                3460.6000000000013,
+                3806.660000000001,
+                4187.326000000002,
+                4606.058600000002,
+                5066.664460000003
+            ]
         },
         {
             "name": "Minion",
@@ -337,7 +405,22 @@
             "spawn_const_priority": false,
             "name_en": "Minion",
             "speed_en": "fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                90.0,
+                99.00000000000001,
+                108.90000000000002,
+                119.79000000000003,
+                131.76900000000003,
+                144.94590000000005,
+                159.44049000000007,
+                175.3845390000001,
+                192.92299290000014,
+                212.21529219000018,
+                233.4368214090002,
+                256.78050354990023,
+                282.45855390489027
+            ]
         },
         {
             "name": "Balloon",
@@ -399,7 +482,17 @@
             "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
             "id": 26000006,
             "speed_en": "medium",
-            "dps": 200.0
+            "dps": 200.0,
+            "hitpoints_per_level": [
+                1050.0,
+                1155.0,
+                1270.5000000000002,
+                1397.5500000000004,
+                1537.3050000000005,
+                1691.0355000000006,
+                1860.139050000001,
+                2046.1529550000012
+            ]
         },
         {
             "name": "Witch",
@@ -464,7 +557,17 @@
             "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
             "id": 26000007,
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                613.0,
+                674.3000000000001,
+                741.7300000000001,
+                815.9030000000002,
+                897.4933000000002,
+                987.2426300000003,
+                1085.9668930000005,
+                1194.5635823000007
+            ]
         },
         {
             "name": "Skeleton",
@@ -518,7 +621,22 @@
             "spawn_const_priority": false,
             "name_en": "Skeleton",
             "speed_en": "fast",
-            "dps": 32.0
+            "dps": 32.0,
+            "hitpoints_per_level": [
+                32.0,
+                35.2,
+                38.720000000000006,
+                42.59200000000001,
+                46.85120000000001,
+                51.53632000000002,
+                56.68995200000003,
+                62.35894720000004,
+                68.59484192000005,
+                75.45432611200006,
+                82.99975872320007,
+                91.29973459552008,
+                100.4297080550721
+            ]
         },
         {
             "name": "Barbarian",
@@ -573,7 +691,22 @@
             "spawn_const_priority": false,
             "name_en": "Barbarian",
             "speed_en": "medium",
-            "dps": 53.57142857142857
+            "dps": 53.57142857142857,
+            "hitpoints_per_level": [
+                300.0,
+                330.0,
+                363.00000000000006,
+                399.3000000000001,
+                439.23000000000013,
+                483.1530000000002,
+                531.4683000000002,
+                584.6151300000004,
+                643.0766430000004,
+                707.3843073000006,
+                778.1227380300007,
+                855.9350118330008,
+                941.528513016301
+            ]
         },
         {
             "name": "Golem",
@@ -643,7 +776,17 @@
             "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
             "id": 26000009,
             "speed_en": "slow",
-            "dps": 78.0
+            "dps": 78.0,
+            "hitpoints_per_level": [
+                3200.0,
+                3520.0000000000005,
+                3872.0000000000005,
+                4259.200000000002,
+                4685.120000000002,
+                5153.632000000001,
+                5668.995200000003,
+                6235.894720000004
+            ]
         },
         {
             "name": "Golemite",
@@ -701,7 +844,17 @@
             "spawn_const_priority": false,
             "name_en": "Golemite",
             "speed_en": "slow",
-            "dps": 16.0
+            "dps": 16.0,
+            "hitpoints_per_level": [
+                650.0,
+                715.0000000000001,
+                786.5000000000001,
+                865.1500000000003,
+                951.6650000000003,
+                1046.8315000000005,
+                1151.5146500000005,
+                1266.6661150000007
+            ]
         },
         {
             "name": "Valkyrie",
@@ -761,7 +914,20 @@
             "description": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
             "id": 26000011,
             "speed_en": "medium",
-            "dps": 90.0
+            "dps": 90.0,
+            "hitpoints_per_level": [
+                940.0,
+                1034.0,
+                1137.4,
+                1251.1400000000003,
+                1376.2540000000004,
+                1513.8794000000005,
+                1665.2673400000008,
+                1831.794074000001,
+                2014.9734814000014,
+                2216.470829540002,
+                2438.117912494002
+            ]
         },
         {
             "name": "Bomber",
@@ -821,7 +987,22 @@
             "description": "Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.",
             "id": 26000013,
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                147.0,
+                161.70000000000002,
+                177.87000000000003,
+                195.65700000000007,
+                215.22270000000006,
+                236.74497000000008,
+                260.4194670000001,
+                286.46141370000015,
+                315.1075550700002,
+                346.6183105770003,
+                381.2801416347003,
+                419.40815579817036,
+                461.3489713779874
+            ]
         },
         {
             "name": "Musketeer",
@@ -882,7 +1063,20 @@
             "description": "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
             "id": 26000014,
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                340.0,
+                374.00000000000006,
+                411.4000000000001,
+                452.54000000000013,
+                497.79400000000015,
+                547.5734000000002,
+                602.3307400000003,
+                662.5638140000004,
+                728.8201954000006,
+                801.7022149400007,
+                881.8724364340007
+            ]
         },
         {
             "name": "BabyDragon",
@@ -936,7 +1130,17 @@
             "spawn_const_priority": false,
             "name_en": "Baby Dragon",
             "speed_en": "fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                800.0,
+                880.0000000000001,
+                968.0000000000001,
+                1064.8000000000004,
+                1171.2800000000004,
+                1288.4080000000004,
+                1417.2488000000008,
+                1558.973680000001
+            ]
         },
         {
             "name": "MiniPekka",
@@ -989,7 +1193,20 @@
             "spawn_const_priority": false,
             "name_en": "Mini P.E.K.K.A",
             "speed_en": "fast",
-            "dps": 188.88888888888889
+            "dps": 188.88888888888889,
+            "hitpoints_per_level": [
+                642.0,
+                706.2,
+                776.8200000000002,
+                854.5020000000003,
+                939.9522000000003,
+                1033.9474200000004,
+                1137.3421620000006,
+                1251.0763782000008,
+                1376.184016020001,
+                1513.8024176220013,
+                1665.1826593842015
+            ]
         },
         {
             "name": "Wizard",
@@ -1049,7 +1266,20 @@
             "description": "The most awesome man to ever set foot in the Arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
             "id": 26000017,
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                340.0,
+                374.00000000000006,
+                411.4000000000001,
+                452.54000000000013,
+                497.79400000000015,
+                547.5734000000002,
+                602.3307400000003,
+                662.5638140000004,
+                728.8201954000006,
+                801.7022149400007,
+                881.8724364340007
+            ]
         },
         {
             "name": "Prince",
@@ -1110,7 +1340,17 @@
             "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
             "id": 26000016,
             "speed_en": "medium",
-            "dps": 175.0
+            "dps": 175.0,
+            "hitpoints_per_level": [
+                1155.0,
+                1270.5,
+                1397.5500000000002,
+                1537.3050000000005,
+                1691.0355000000004,
+                1860.1390500000007,
+                2046.152955000001,
+                2250.7682505000016
+            ]
         },
         {
             "name": "SpearGoblin",
@@ -1163,7 +1403,22 @@
             "spawn_const_priority": false,
             "name_en": "Spear Goblin",
             "speed_en": "very fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                52.0,
+                57.2,
+                62.92000000000001,
+                69.21200000000002,
+                76.13320000000002,
+                83.74652000000003,
+                92.12117200000004,
+                101.33328920000007,
+                111.46661812000008,
+                122.6132799320001,
+                134.8746079252001,
+                148.36206871772012,
+                163.19827558949217
+            ]
         },
         {
             "name": "GiantSkeleton",
@@ -1219,7 +1474,17 @@
             "spawn_const_priority": false,
             "name_en": "Giant Skeleton",
             "speed_en": "medium",
-            "dps": 86.66666666666667
+            "dps": 86.66666666666667,
+            "hitpoints_per_level": [
+                2100.0,
+                2310.0,
+                2541.0000000000005,
+                2795.100000000001,
+                3074.610000000001,
+                3382.0710000000013,
+                3720.278100000002,
+                4092.3059100000023
+            ]
         },
         {
             "name": "HogRider",
@@ -1277,7 +1542,20 @@
             "spawn_const_priority": false,
             "name_en": "Hog Rider",
             "speed_en": "very fast",
-            "dps": 93.75
+            "dps": 93.75,
+            "hitpoints_per_level": [
+                800.0,
+                880.0000000000001,
+                968.0000000000001,
+                1064.8000000000004,
+                1171.2800000000004,
+                1288.4080000000004,
+                1417.2488000000008,
+                1558.973680000001,
+                1714.8710480000013,
+                1886.3581528000016,
+                2074.9939680800017
+            ]
         },
         {
             "name": "TowerPrincess",
@@ -1331,7 +1609,22 @@
             "spawn_const_priority": false,
             "name_en": "Archer",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                5.0,
+                5.5,
+                6.050000000000001,
+                6.655000000000002,
+                7.320500000000002,
+                8.052550000000004,
+                8.857805000000004,
+                9.743585500000005,
+                10.717944050000007,
+                11.789738455000009,
+                12.968712300500012,
+                14.265583530550012,
+                15.692141883605014
+            ]
         },
         {
             "name": "IceWizard",
@@ -1385,7 +1678,14 @@
             "spawn_const_priority": false,
             "name_en": "Ice Wizard",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                665.0,
+                731.5000000000001,
+                804.6500000000001,
+                885.1150000000002,
+                973.6265000000003
+            ]
         },
         {
             "name": "RoyalGiant",
@@ -1442,7 +1742,22 @@
             "spawn_const_priority": false,
             "name_en": "Royal Giant",
             "speed_en": "slow",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                1200.0,
+                1320.0,
+                1452.0000000000002,
+                1597.2000000000005,
+                1756.9200000000005,
+                1932.6120000000008,
+                2125.873200000001,
+                2338.4605200000015,
+                2572.306572000002,
+                2829.5372292000025,
+                3112.490952120003,
+                3423.740047332003,
+                3766.114052065204
+            ]
         },
         {
             "name": "Princess",
@@ -1505,7 +1820,14 @@
             "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
             "id": 26000026,
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                216.0,
+                237.60000000000002,
+                261.36,
+                287.4960000000001,
+                316.2456000000001
+            ]
         },
         {
             "name": "DarkPrince",
@@ -1564,7 +1886,17 @@
             "spawn_const_priority": false,
             "name_en": "Dark Prince",
             "speed_en": "medium",
-            "dps": 119.23076923076924
+            "dps": 119.23076923076924,
+            "hitpoints_per_level": [
+                775.0,
+                852.5000000000001,
+                937.7500000000001,
+                1031.5250000000003,
+                1134.6775000000002,
+                1248.1452500000005,
+                1372.9597750000007,
+                1510.2557525000009
+            ]
         },
         {
             "name": "SkeletonWarrior",
@@ -1620,7 +1952,17 @@
             "spawn_const_priority": false,
             "name_en": "Guard",
             "speed_en": "fast",
-            "dps": 61.81818181818182
+            "dps": 61.81818181818182,
+            "hitpoints_per_level": [
+                68.0,
+                74.80000000000001,
+                82.28000000000002,
+                90.50800000000002,
+                99.55880000000003,
+                109.51468000000004,
+                120.46614800000006,
+                132.51276280000008
+            ]
         },
         {
             "name": "LavaHound",
@@ -1677,7 +2019,14 @@
             "spawn_const_priority": false,
             "name_en": "Lava Hound",
             "speed_en": "slow",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                3150.0,
+                3465.0000000000005,
+                3811.5000000000005,
+                4192.6500000000015,
+                4611.915000000001
+            ]
         },
         {
             "name": "LavaPups",
@@ -1731,7 +2080,14 @@
             "spawn_const_priority": false,
             "name_en": "Lava Pups",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                179.0,
+                196.9,
+                216.59000000000003,
+                238.24900000000008,
+                262.0739000000001
+            ]
         },
         {
             "name": "RageBarbarian",
@@ -1787,7 +2143,14 @@
             "spawn_const_priority": false,
             "name_en": "Rage Barbarian",
             "speed_en": "very fast",
-            "dps": 285.7142857142857
+            "dps": 285.7142857142857,
+            "hitpoints_per_level": [
+                1060.0,
+                1166.0,
+                1282.6000000000001,
+                1410.8600000000004,
+                1551.9460000000004
+            ]
         },
         {
             "name": "IceSpirits",
@@ -1840,7 +2203,22 @@
             "spawn_const_priority": false,
             "name_en": "Ice Spirit",
             "speed_en": "very fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                90.0,
+                99.00000000000001,
+                108.90000000000002,
+                119.79000000000003,
+                131.76900000000003,
+                144.94590000000005,
+                159.44049000000007,
+                175.3845390000001,
+                192.92299290000014,
+                212.21529219000018,
+                233.4368214090002,
+                256.78050354990023,
+                282.45855390489027
+            ]
         },
         {
             "name": "FireSpirits",
@@ -1893,7 +2271,22 @@
             "spawn_const_priority": false,
             "name_en": "Fire Spirits",
             "speed_en": "very fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                43.0,
+                47.300000000000004,
+                52.03000000000001,
+                57.23300000000002,
+                62.95630000000002,
+                69.25193000000003,
+                76.17712300000004,
+                83.79483530000005,
+                92.17431883000006,
+                101.39175071300008,
+                111.5309257843001,
+                122.6840183627301,
+                134.95242019900314
+            ]
         },
         {
             "name": "Miner",
@@ -1955,7 +2348,14 @@
             "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
             "id": 26000032,
             "speed_en": "fast",
-            "dps": 133.33333333333334
+            "dps": 133.33333333333334,
+            "hitpoints_per_level": [
+                1000.0,
+                1100.0,
+                1210.0000000000002,
+                1331.0000000000005,
+                1464.1000000000004
+            ]
         },
         {
             "name": "ZapMachine",
@@ -2015,7 +2415,14 @@
             "spawn_const_priority": false,
             "name_en": "Sparky",
             "speed_en": "slow",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                1200.0,
+                1320.0,
+                1452.0000000000002,
+                1597.2000000000005,
+                1756.9200000000005
+            ]
         },
         {
             "name": "Bowler",
@@ -2074,7 +2481,17 @@
             "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
             "id": 26000034,
             "speed_en": "slow",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                1200.0,
+                1320.0,
+                1452.0000000000002,
+                1597.2000000000005,
+                1756.9200000000005,
+                1932.6120000000008,
+                2125.873200000001,
+                2338.4605200000015
+            ]
         },
         {
             "name": "IceGolemite",
@@ -2134,7 +2551,20 @@
             "spawn_const_priority": false,
             "name_en": "Golemite",
             "speed_en": "slow",
-            "dps": 16.0
+            "dps": 16.0,
+            "hitpoints_per_level": [
+                565.0,
+                621.5,
+                683.6500000000001,
+                752.0150000000002,
+                827.2165000000002,
+                909.9381500000003,
+                1000.9319650000004,
+                1101.0251615000006,
+                1211.1276776500008,
+                1332.240445415001,
+                1465.4644899565012
+            ]
         },
         {
             "name": "MegaMinion",
@@ -2188,7 +2618,20 @@
             "spawn_const_priority": false,
             "name_en": "Mega Minion",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                395.0,
+                434.50000000000006,
+                477.95000000000005,
+                525.7450000000001,
+                578.3195000000002,
+                636.1514500000002,
+                699.7665950000003,
+                769.7432545000005,
+                846.7175799500006,
+                931.3893379450008,
+                1024.528271739501
+            ]
         },
         {
             "name": "InfernoDragon",
@@ -2254,7 +2697,14 @@
             "spawn_const_priority": false,
             "name_en": "Inferno Dragon",
             "speed_en": "medium",
-            "dps": 75.0
+            "dps": 75.0,
+            "hitpoints_per_level": [
+                1070.0,
+                1177.0,
+                1294.7000000000003,
+                1424.1700000000005,
+                1566.5870000000004
+            ]
         },
         {
             "name": "BattleRam",
@@ -2316,7 +2766,20 @@
             "spawn_const_priority": false,
             "name_en": "Battle Ram",
             "speed_en": "medium",
-            "dps": 350.0
+            "dps": 350.0,
+            "hitpoints_per_level": [
+                430.0,
+                473.00000000000006,
+                520.3000000000001,
+                572.3300000000002,
+                629.5630000000002,
+                692.5193000000003,
+                761.7712300000004,
+                837.9483530000006,
+                921.7431883000007,
+                1013.9175071300008,
+                1115.309257843001
+            ]
         },
         {
             "name": "BlowdartGoblin",
@@ -2370,7 +2833,20 @@
             "spawn_const_priority": false,
             "name_en": "Blowdart Goblin",
             "speed_en": "very fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                123.0,
+                135.3,
+                148.83,
+                163.71300000000005,
+                180.08430000000004,
+                198.09273000000007,
+                217.9020030000001,
+                239.69220330000016,
+                263.6614236300002,
+                290.0275659930002,
+                319.0303225923003
+            ]
         },
         {
             "name": "ElectroWizard",
@@ -2429,7 +2905,14 @@
             "spawn_const_priority": false,
             "name_en": "Electro Wizard",
             "speed_en": "fast",
-            "dps": 53.333333333333336
+            "dps": 53.333333333333336,
+            "hitpoints_per_level": [
+                590.0,
+                649.0,
+                713.9000000000001,
+                785.2900000000002,
+                863.8190000000002
+            ]
         },
         {
             "name": "AngryBarbarian",
@@ -2484,7 +2967,22 @@
             "spawn_const_priority": false,
             "name_en": "Elite Barbarian",
             "speed_en": "very fast",
-            "dps": 80.0
+            "dps": 80.0,
+            "hitpoints_per_level": [
+                458.0,
+                503.80000000000007,
+                554.1800000000001,
+                609.5980000000002,
+                670.5578000000002,
+                737.6135800000003,
+                811.3749380000004,
+                892.5124318000005,
+                981.7636749800007,
+                1079.9400424780008,
+                1187.934046725801,
+                1306.7274513983812,
+                1437.4001965382195
+            ]
         },
         {
             "name": "AxeMan",
@@ -2538,7 +3036,17 @@
             "spawn_const_priority": false,
             "name_en": "Executioner",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                760.0,
+                836.0000000000001,
+                919.6000000000001,
+                1011.5600000000003,
+                1112.7160000000003,
+                1223.9876000000004,
+                1346.3863600000006,
+                1481.024996000001
+            ]
         },
         {
             "name": "Assassin",
@@ -2597,7 +3105,14 @@
             "spawn_const_priority": false,
             "name_en": "Bandit",
             "speed_en": "fast",
-            "dps": 160.0
+            "dps": 160.0,
+            "hitpoints_per_level": [
+                780.0,
+                858.0000000000001,
+                943.8000000000002,
+                1038.1800000000003,
+                1141.9980000000003
+            ]
         },
         {
             "name": "GhostOverlay",
@@ -2652,7 +3167,14 @@
             "buff_when_not_attacking_time": 1600,
             "name_en": "Royal Ghost",
             "speed_en": "fast",
-            "dps": 120.0
+            "dps": 120.0,
+            "hitpoints_per_level": [
+                1100.0,
+                1210.0,
+                1331.0000000000002,
+                1464.1000000000004,
+                1610.5100000000004
+            ]
         },
         {
             "name": "Ghost",
@@ -2708,7 +3230,14 @@
             "buff_when_not_attacking_time": 1600,
             "name_en": "Royal Ghost",
             "speed_en": "fast",
-            "dps": 120.0
+            "dps": 120.0,
+            "hitpoints_per_level": [
+                1100.0,
+                1210.0,
+                1331.0000000000002,
+                1464.1000000000004,
+                1610.5100000000004
+            ]
         },
         {
             "name": "MiniZapMachine",
@@ -2769,7 +3298,20 @@
             "spawn_const_priority": false,
             "name_en": "Zappies",
             "speed_en": "medium",
-            "dps": 25.0
+            "dps": 25.0,
+            "hitpoints_per_level": [
+                250.0,
+                275.0,
+                302.50000000000006,
+                332.7500000000001,
+                366.0250000000001,
+                402.6275000000001,
+                442.8902500000002,
+                487.1792750000003,
+                535.8972025000004,
+                589.4869227500005,
+                648.4356150250006
+            ]
         },
         {
             "name": "Hunter",
@@ -2832,7 +3374,17 @@
             "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
             "id": 26000044,
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                524.0,
+                576.4000000000001,
+                634.0400000000001,
+                697.4440000000002,
+                767.1884000000002,
+                843.9072400000003,
+                928.2979640000004,
+                1021.1277604000006
+            ]
         },
         {
             "name": "DarkWitch",
@@ -2893,7 +3445,14 @@
             "spawn_const_priority": false,
             "name_en": "Night Witch",
             "speed_en": "medium",
-            "dps": 173.33333333333334
+            "dps": 173.33333333333334,
+            "hitpoints_per_level": [
+                750.0,
+                825.0000000000001,
+                907.5000000000001,
+                998.2500000000003,
+                1098.0750000000003
+            ]
         },
         {
             "name": "Bat",
@@ -2951,7 +3510,22 @@
             "spawn_const_priority": false,
             "name_en": "Bat",
             "speed_en": "very fast",
-            "dps": 29.09090909090909
+            "dps": 29.09090909090909,
+            "hitpoints_per_level": [
+                32.0,
+                35.2,
+                38.720000000000006,
+                42.59200000000001,
+                46.85120000000001,
+                51.53632000000002,
+                56.68995200000003,
+                62.35894720000004,
+                68.59484192000005,
+                75.45432611200006,
+                82.99975872320007,
+                91.29973459552008,
+                100.4297080550721
+            ]
         },
         {
             "name": "Recruit",
@@ -3007,7 +3581,22 @@
             "spawn_const_priority": false,
             "name_en": "Guard",
             "speed_en": "medium",
-            "dps": 35.833333333333336
+            "dps": 35.833333333333336,
+            "hitpoints_per_level": [
+                208.0,
+                228.8,
+                251.68000000000004,
+                276.84800000000007,
+                304.53280000000007,
+                334.98608000000013,
+                368.4846880000002,
+                405.33315680000027,
+                445.8664724800003,
+                490.4531197280004,
+                539.4984317008004,
+                593.4482748708805,
+                652.7931023579687
+            ]
         },
         {
             "name": "RascalBoy",
@@ -3060,7 +3649,22 @@
             "spawn_const_priority": false,
             "name_en": "Rascal Boy",
             "speed_en": "medium",
-            "dps": 40.0
+            "dps": 40.0,
+            "hitpoints_per_level": [
+                715.0,
+                786.5000000000001,
+                865.1500000000001,
+                951.6650000000003,
+                1046.8315000000002,
+                1151.5146500000003,
+                1266.6661150000007,
+                1393.332726500001,
+                1532.6659991500012,
+                1685.9325990650013,
+                1854.5258589715017,
+                2039.9784448686516,
+                2243.976289355517
+            ]
         },
         {
             "name": "MovingCannon",
@@ -3117,7 +3721,17 @@
             "spawn_const_priority": false,
             "name_en": "Cannon Cart",
             "speed_en": "fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                550.0,
+                605.0,
+                665.5000000000001,
+                732.0500000000002,
+                805.2550000000002,
+                885.7805000000003,
+                974.3585500000005,
+                1071.7944050000006
+            ]
         },
         {
             "name": "BrokenCannon",
@@ -3173,7 +3787,17 @@
             "spawn_const_priority": false,
             "name_en": "Cannon Cart",
             "speed_en": null,
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                550.0,
+                605.0,
+                665.5000000000001,
+                732.0500000000002,
+                805.2550000000002,
+                885.7805000000003,
+                974.3585500000005,
+                1071.7944050000006
+            ]
         },
         {
             "name": "MegaKnight",
@@ -3241,7 +3865,14 @@
             "spawn_const_priority": false,
             "name_en": "Mega Knight",
             "speed_en": "medium",
-            "dps": 123.33333333333334
+            "dps": 123.33333333333334,
+            "hitpoints_per_level": [
+                3300.0,
+                3630.0000000000005,
+                3993.0000000000005,
+                4392.300000000001,
+                4831.530000000002
+            ]
         },
         {
             "name": "RascalGirl",
@@ -3295,7 +3926,22 @@
             "spawn_const_priority": false,
             "name_en": "Rascal Girl",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                102.0,
+                112.2,
+                123.42000000000002,
+                135.76200000000003,
+                149.33820000000003,
+                164.27202000000005,
+                180.69922200000008,
+                198.7691442000001,
+                218.64605862000016,
+                240.51066448200018,
+                264.5617309302002,
+                291.01790402322024,
+                320.1196944255423
+            ]
         },
         {
             "name": "SkeletonBalloon",
@@ -3352,7 +3998,22 @@
             "spawn_const_priority": false,
             "name_en": "Balloon",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                300.0,
+                330.0,
+                363.00000000000006,
+                399.3000000000001,
+                439.23000000000013,
+                483.1530000000002,
+                531.4683000000002,
+                584.6151300000004,
+                643.0766430000004,
+                707.3843073000006,
+                778.1227380300007,
+                855.9350118330008,
+                941.528513016301
+            ]
         },
         {
             "name": "DartBarrell",
@@ -3408,7 +4069,20 @@
             "spawn_const_priority": false,
             "name_en": "Blowdart Goblin",
             "speed_en": "fast",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                290.0,
+                319.0,
+                350.90000000000003,
+                385.9900000000001,
+                424.5890000000001,
+                467.04790000000014,
+                513.7526900000003,
+                565.1279590000004,
+                621.6407549000005,
+                683.8048303900006,
+                752.1853134290006
+            ]
         },
         {
             "name": "RoyalHog",
@@ -3466,7 +4140,20 @@
             "spawn_const_priority": false,
             "name_en": "Hog Rider",
             "speed_en": "very fast",
-            "dps": 30.90909090909091
+            "dps": 30.90909090909091,
+            "hitpoints_per_level": [
+                395.0,
+                434.50000000000006,
+                477.95000000000005,
+                525.7450000000001,
+                578.3195000000002,
+                636.1514500000002,
+                699.7665950000003,
+                769.7432545000005,
+                846.7175799500006,
+                931.3893379450008,
+                1024.528271739501
+            ]
         },
         {
             "name": "EliteArcher",
@@ -3520,7 +4207,14 @@
             "spawn_const_priority": false,
             "name_en": "Archer",
             "speed_en": "medium",
-            "dps": null
+            "dps": null,
+            "hitpoints_per_level": [
+                490.0,
+                539.0,
+                592.9000000000001,
+                652.1900000000002,
+                717.4090000000002
+            ]
         }
     ],
     "building": [
@@ -3576,7 +4270,22 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Wizard"
+            "name_en": "Wizard",
+            "hitpoints_per_level": [
+                2400.0,
+                2640.0,
+                2904.0000000000005,
+                3194.400000000001,
+                3513.840000000001,
+                3865.2240000000015,
+                4251.746400000002,
+                4676.921040000003,
+                5144.613144000004,
+                5659.074458400005,
+                6224.981904240006,
+                6847.480094664006,
+                7532.228104130408
+            ]
         },
         {
             "name": "PrincessTower",
@@ -3627,7 +4336,22 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Archer Tower"
+            "name_en": "Archer Tower",
+            "hitpoints_per_level": [
+                1400.0,
+                1540.0000000000002,
+                1694.0000000000002,
+                1863.4000000000005,
+                2049.7400000000007,
+                2254.714000000001,
+                2480.185400000001,
+                2728.2039400000017,
+                3001.024334000002,
+                3301.126767400003,
+                3631.2394441400033,
+                3994.3633885540034,
+                4393.799727409404
+            ]
         },
         {
             "name": "Cannon",
@@ -3683,7 +4407,22 @@
             "type": "Building",
             "arena": 3,
             "description": "Defensive building. Shoots cannonballs with deadly effect, but cannot target flying troops.",
-            "id": 27000000
+            "id": 27000000,
+            "hitpoints_per_level": [
+                350.0,
+                385.00000000000006,
+                423.50000000000006,
+                465.85000000000014,
+                512.4350000000002,
+                563.6785000000002,
+                620.0463500000003,
+                682.0509850000004,
+                750.2560835000005,
+                825.2816918500007,
+                907.8098610350008,
+                998.5908471385009,
+                1098.449931852351
+            ]
         },
         {
             "name": "GoblinHut",
@@ -3733,7 +4472,20 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Goblin Hut"
+            "name_en": "Goblin Hut",
+            "hitpoints_per_level": [
+                735.0,
+                808.5000000000001,
+                889.3500000000001,
+                978.2850000000003,
+                1076.1135000000004,
+                1183.7248500000005,
+                1302.0973350000006,
+                1432.307068500001,
+                1575.537775350001,
+                1733.0915528850014,
+                1906.4007081735017
+            ]
         },
         {
             "name": "Mortar",
@@ -3790,7 +4542,22 @@
             "type": "Building",
             "arena": 6,
             "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
-            "id": 27000002
+            "id": 27000002,
+            "hitpoints_per_level": [
+                575.0,
+                632.5,
+                695.7500000000001,
+                765.3250000000003,
+                841.8575000000002,
+                926.0432500000003,
+                1018.6475750000005,
+                1120.5123325000006,
+                1232.5635657500009,
+                1355.819922325001,
+                1491.4019145575014,
+                1640.5421060132514,
+                1804.5963166145768
+            ]
         },
         {
             "name": "InfernoTower",
@@ -3853,7 +4620,20 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Inferno Tower"
+            "name_en": "Inferno Tower",
+            "hitpoints_per_level": [
+                800.0,
+                880.0000000000001,
+                968.0000000000001,
+                1064.8000000000004,
+                1171.2800000000004,
+                1288.4080000000004,
+                1417.2488000000008,
+                1558.973680000001,
+                1714.8710480000013,
+                1886.3581528000016,
+                2074.9939680800017
+            ]
         },
         {
             "name": "BombTower",
@@ -3904,7 +4684,20 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Bomb Tower"
+            "name_en": "Bomb Tower",
+            "hitpoints_per_level": [
+                640.0,
+                704.0,
+                774.4000000000001,
+                851.8400000000003,
+                937.0240000000002,
+                1030.7264000000005,
+                1133.7990400000006,
+                1247.1789440000007,
+                1371.896838400001,
+                1509.0865222400012,
+                1659.9951744640016
+            ]
         },
         {
             "name": "BarbarianHut",
@@ -3955,7 +4748,20 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Barbarian Hut"
+            "name_en": "Barbarian Hut",
+            "hitpoints_per_level": [
+                1100.0,
+                1210.0,
+                1331.0000000000002,
+                1464.1000000000004,
+                1610.5100000000004,
+                1771.5610000000006,
+                1948.717100000001,
+                2143.588810000001,
+                2357.9476910000017,
+                2593.742460100002,
+                2853.1167061100027
+            ]
         },
         {
             "name": "Tesla",
@@ -4014,7 +4820,22 @@
             "type": "Building",
             "arena": 11,
             "description": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
-            "id": 27000006
+            "id": 27000006,
+            "hitpoints_per_level": [
+                450.0,
+                495.00000000000006,
+                544.5000000000001,
+                598.9500000000002,
+                658.8450000000001,
+                724.7295000000003,
+                797.2024500000003,
+                876.9226950000005,
+                964.6149645000007,
+                1061.0764609500009,
+                1167.184107045001,
+                1283.9025177495012,
+                1412.2927695244514
+            ]
         },
         {
             "name": "ElixirCollector",
@@ -4059,7 +4880,20 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Elixir Collector"
+            "name_en": "Elixir Collector",
+            "hitpoints_per_level": [
+                505.0,
+                555.5,
+                611.0500000000001,
+                672.1550000000002,
+                739.3705000000002,
+                813.3075500000003,
+                894.6383050000004,
+                984.1021355000006,
+                1082.5123490500007,
+                1190.763583955001,
+                1309.8399423505011
+            ]
         },
         {
             "name": "Xbow",
@@ -4109,7 +4943,17 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "X-Bow"
+            "name_en": "X-Bow",
+            "hitpoints_per_level": [
+                1000.0,
+                1100.0,
+                1210.0000000000002,
+                1331.0000000000005,
+                1464.1000000000004,
+                1610.5100000000004,
+                1771.5610000000008,
+                1948.7171000000012
+            ]
         },
         {
             "name": "Tombstone",
@@ -4167,7 +5011,20 @@
             "type": "Building",
             "arena": 2,
             "description": "Troop building that periodically deploys Skeletons to fight the enemy. When destroyed, spawns 4 Skeletons. Creepy!",
-            "id": 27000009
+            "id": 27000009,
+            "hitpoints_per_level": [
+                240.0,
+                264.0,
+                290.40000000000003,
+                319.4400000000001,
+                351.38400000000007,
+                386.5224000000001,
+                425.1746400000002,
+                467.6921040000003,
+                514.4613144000003,
+                565.9074458400005,
+                622.4981904240005
+            ]
         },
         {
             "name": "GiantSkeletonBomb",
@@ -4213,7 +5070,8 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Bomb"
+            "name_en": "Bomb",
+            "hitpoints_per_level": null
         },
         {
             "name": "BalloonBomb",
@@ -4258,7 +5116,8 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Bomb"
+            "name_en": "Bomb",
+            "hitpoints_per_level": null
         },
         {
             "name": "FirespiritHut",
@@ -4309,7 +5168,20 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Furnace"
+            "name_en": "Furnace",
+            "hitpoints_per_level": [
+                570.0,
+                627.0,
+                689.7000000000002,
+                758.6700000000002,
+                834.5370000000003,
+                917.9907000000003,
+                1009.7897700000004,
+                1110.7687470000008,
+                1221.845621700001,
+                1344.030183870001,
+                1478.4332022570013
+            ]
         },
         {
             "name": "RageBarbarianBottle",
@@ -4348,7 +5220,8 @@
             "burst_keep_target": false,
             "burst_affect_animation": false,
             "building_target": false,
-            "spawn_const_priority": false
+            "spawn_const_priority": false,
+            "hitpoints_per_level": null
         },
         {
             "name": "KingTowerMiddle",
@@ -4388,7 +5261,8 @@
             "burst_keep_target": false,
             "burst_affect_animation": false,
             "building_target": false,
-            "spawn_const_priority": false
+            "spawn_const_priority": false,
+            "hitpoints_per_level": null
         },
         {
             "name": "MagicBomb",
@@ -4432,7 +5306,8 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Bomb"
+            "name_en": "Bomb",
+            "hitpoints_per_level": null
         },
         {
             "name": "SkeletonContainer",
@@ -4480,7 +5355,8 @@
             "burst_keep_target": false,
             "burst_affect_animation": false,
             "building_target": false,
-            "spawn_const_priority": true
+            "spawn_const_priority": true,
+            "hitpoints_per_level": null
         },
         {
             "name": "DummyKingTower",
@@ -4521,7 +5397,8 @@
             "burst_keep_target": false,
             "burst_affect_animation": false,
             "building_target": false,
-            "spawn_const_priority": false
+            "spawn_const_priority": false,
+            "hitpoints_per_level": null
         },
         {
             "name": "DummyKingTower2",
@@ -4575,7 +5452,22 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Wizard"
+            "name_en": "Wizard",
+            "hitpoints_per_level": [
+                2400.0,
+                2640.0,
+                2904.0000000000005,
+                3194.400000000001,
+                3513.840000000001,
+                3865.2240000000015,
+                4251.746400000002,
+                4676.921040000003,
+                5144.613144000004,
+                5659.074458400005,
+                6224.981904240006,
+                6847.480094664006,
+                7532.228104130408
+            ]
         },
         {
             "name": "PrincessTowerSwapping",
@@ -4624,7 +5516,22 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Archer Tower"
+            "name_en": "Archer Tower",
+            "hitpoints_per_level": [
+                1400.0,
+                1540.0000000000002,
+                1694.0000000000002,
+                1863.4000000000005,
+                2049.7400000000007,
+                2254.714000000001,
+                2480.185400000001,
+                2728.2039400000017,
+                3001.024334000002,
+                3301.126767400003,
+                3631.2394441400033,
+                3994.3633885540034,
+                4393.799727409404
+            ]
         },
         {
             "name": "CaptureTower",
@@ -4675,7 +5582,22 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Archer Tower"
+            "name_en": "Archer Tower",
+            "hitpoints_per_level": [
+                450.0,
+                495.00000000000006,
+                544.5000000000001,
+                598.9500000000002,
+                658.8450000000001,
+                724.7295000000003,
+                797.2024500000003,
+                876.9226950000005,
+                964.6149645000007,
+                1061.0764609500009,
+                1167.184107045001,
+                1283.9025177495012,
+                1412.2927695244514
+            ]
         },
         {
             "name": "CaptureTowerTop",
@@ -4721,7 +5643,22 @@
             "burst_affect_animation": false,
             "building_target": false,
             "spawn_const_priority": false,
-            "name_en": "Archer Tower"
+            "name_en": "Archer Tower",
+            "hitpoints_per_level": [
+                700.0,
+                770.0000000000001,
+                847.0000000000001,
+                931.7000000000003,
+                1024.8700000000003,
+                1127.3570000000004,
+                1240.0927000000006,
+                1364.1019700000008,
+                1500.512167000001,
+                1650.5633837000014,
+                1815.6197220700017,
+                1997.1816942770017,
+                2196.899863704702
+            ]
         }
     ],
     "spell": [
