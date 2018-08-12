@@ -13,6 +13,7 @@ csv:
     projectiles: ./csv_logic/projectiles.csv
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
+    spells_characters: ./csv_logic/spells_characters.csv
     texts: ./csv_client/texts.csv
     texts_patch: ./csv_client/texts_patch.csv
     tournaments: ./csv_logic/tournament_tiers.csv

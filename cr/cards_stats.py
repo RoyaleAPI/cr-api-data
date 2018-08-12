@@ -3,6 +3,7 @@ Card Stats
 Combine multiple CSVs for a unified json file.
 """
 
+import json
 import os
 
 from .base import BaseGen
@@ -72,6 +73,7 @@ class CardTypes(BaseGen):
 
 class Buildings(CardTypes):
     """Buildings."""
+
     def __init__(self, config):
         super().__init__(config, id="buildings", json_id="cards_stats")
 
@@ -88,6 +90,14 @@ class Characters(CardTypes):
 
     def __init__(self, config):
         super().__init__(config, id="characters")
+
+
+class SpellsCharacters(CardTypes):
+    """Characters."""
+
+    def __init__(self, config):
+        super().__init__(config, id="spells_characters")
+
 
 class Projectiles(CardTypes):
     """Characters."""
@@ -131,6 +141,7 @@ class CardStats(BaseGen):
             "AttractPercentage", "HealthBar"
         ]
         self._cards_json = self.load_json(os.path.join(self.config.json.base, self.config.json.cards))
+        self._rarities = None
 
     def include_item(self, item):
         """Determine if item should be included in output."""
@@ -155,6 +166,17 @@ class CardStats(BaseGen):
             cards.append(item)
         return cards
 
+    def get_rarities_multipliers(self, rarity, level):
+        if self._rarities is None:
+            with open('./json/rarities.json') as f:
+                self._rarities = json.load(f)
+
+        for r in self._rarities:
+            if r.get('name') == rarity:
+                if level == 0:
+                    return 100
+                return r['power_level_multiplier'][level - 1]
+
     def calc_per_level(self, items, section=None, per_level_section=None):
         """Calculate hitpoints per level."""
         o = []
@@ -166,10 +188,11 @@ class CardStats(BaseGen):
             value = item.get(section)
             rarity = item.get('rarity')
             hp_per_level = None
+
             if all([value, rarity]):
                 hp_per_level = [
-                    int(value * self.level_multipliers[level])
-                    for level in range(self.max_levels[rarity])
+                    int(value * self.get_rarities_multipliers(rarity, level) / 100)
+                    for level in range(self.max_levels[rarity] + 1)
                 ]
             item[per_level_section] = hp_per_level
             o.append(item)
@@ -183,7 +206,7 @@ class CardStats(BaseGen):
                     if item.get('speed', 0) > 0:
                         dps = item.get('damage') / item.get('speed') * 1000
                         # print(dps, item['damage'], item['speed'])
-                        item['dps'] = dps
+                        item['dps'] = int(dps)
             o.append(item)
         return o
 
@@ -198,7 +221,13 @@ class CardStats(BaseGen):
 
                 # copy damage_per_level over
                 item['damage_per_level'] = item['projectile_data'].get('damage_per_level')
-                item['dps_per_level'] = item['projectile_data'].get('dps_per_level')
+
+                count = item.get('summon_number') or 1
+                dps_per_level = item['projectile_data'].get('dps_per_level')
+                if dps_per_level is not None:
+                    dps_per_level = [int(l / count) for l in dps_per_level]
+
+                item['dps_per_level'] = dps_per_level
             o.append(item)
         return o
 
@@ -214,6 +243,17 @@ class CardStats(BaseGen):
         characters = Characters(self.config)
         characters_data = characters.load_csv(exclude_empty=True)
         characters_data = self.inject_card_props(characters_data)
+
+        spells_characters = SpellsCharacters(self.config)
+        spells_characters_data = spells_characters.load_csv(exclude_empty=True)
+
+        for c in characters_data:
+            for s in spells_characters_data:
+                if c.get('name') == s.get('name'):
+                    c.update(dict(
+                        summon_character=s.get('summon_character'),
+                        summon_number=s.get('summon_number') or 1
+                    ))
 
         projectiles = Projectiles(self.config)
         projectiles_data = projectiles.load_csv(exclude_empty=True)
