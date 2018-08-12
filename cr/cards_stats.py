@@ -81,6 +81,23 @@ class Characters(CardTypes):
     def __init__(self, config):
         super().__init__(config, id="characters")
 
+# total hack by ruiner
+level_multipliers = [
+    1.0,
+    1.1,
+    1.21,
+    1.33,
+    1.46,
+    1.60,
+    1.76,
+    1.93,
+    2.12,
+    2.33,
+    2.56,
+    2.81,
+    3.09
+]
+
 
 class CardStats(BaseGen):
     """Card stats"""
@@ -130,23 +147,14 @@ class CardStats(BaseGen):
             hitpoints = item.get('hitpoints')
             rarity = item.get('rarity')
             hp_per_level = None
-            hp_per_level_2 = None
             if all([hitpoints, rarity]):
                 hp_per_level = []
-                hp_per_level_2 = []
                 hp = hitpoints
-                hp2 = hitpoints
                 for level in range(max_levels[rarity]):
-                    # doesn’t work
-                    hp_per_level_2.append(hp2)
-                    hp2 = int(hp2 * 1.1)
-
-                    hp = hitpoints * (1.1 ** level)
-                    hp_per_level.append(int(hp))
+                    hp_per_level.append(int(hp * level_multipliers[level]))
 
                 # hp_per_level = [hp * (1.1 ** level) for level in range(max_levels[rarity])]
             item['hitpoints_per_level'] = hp_per_level
-            item['hitpoints_per_level_2'] = hp_per_level_2
             o.append(item)
         return o
 
