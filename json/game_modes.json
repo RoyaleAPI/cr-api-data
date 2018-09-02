@@ -4,7 +4,7 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "Blind_Popular1",
+        "predefined_decks": "Blind_Goblin_1",
         "same_deck_on_both": false,
         "separate_team_decks": true,
         "swapping_towers": false,
@@ -13,6 +13,7 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
+        "clan_war_description": "Play with a premade Classic Deck!",
         "battle_start_cooldown": 6000,
         "id": 72000000,
         "name_en": "BlindDeck"
@@ -534,6 +535,7 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
+        "clan_war_description": "Choose 4 cards and receive 4 from your opponent!",
         "id": 72000030,
         "name_en": "TeamVsTeamDraftChallenge"
     },
@@ -1336,6 +1338,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena5",
+        "clan_war_description": "Someone spilt Rage all over the Arena... Everything moves and attacks faster!",
         "global_buff": "RageModeRage",
         "id": 72000073,
         "name_en": "Rage_Ladder"
@@ -1577,11 +1580,11 @@
         "name_en": "Rage_Tournament"
     },
     {
-        "name": "PopularDecks_Friendly",
+        "name": "ClassicDecks_Friendly",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "Blind_Popular1",
+        "predefined_decks": "Blind_Classic_1",
         "same_deck_on_both": false,
         "separate_team_decks": true,
         "swapping_towers": false,
@@ -1590,8 +1593,30 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
+        "clan_war_description": "Play with a premade Classic Deck!",
         "battle_start_cooldown": 6000,
         "id": 72000087,
-        "name_en": "PopularDecks_Friendly"
+        "name_en": "ClassicDecks_Friendly"
+    },
+    {
+        "name": "TeamVsTeam_Rage_Ladder",
+        "card_level_adjustment": "Ladder",
+        "deck_selection": "Collection",
+        "overtime_seconds": 180,
+        "same_deck_on_both": false,
+        "separate_team_decks": false,
+        "swapping_towers": false,
+        "elixir_production_multiplier": 115,
+        "elixir_production_overtime_multiplier": 85,
+        "use_starting_elixir": false,
+        "heroes": false,
+        "players": "TvT",
+        "gives_clan_score": false,
+        "fixed_deck_order": false,
+        "fixed_arena": "Arena5",
+        "clan_war_description": "Someone spilt Rage all over the Arena... Everything moves and attacks faster!",
+        "global_buff": "RageModeRage",
+        "id": 72000088,
+        "name_en": "TeamVsTeam_Rage_Ladder"
     }
 ]

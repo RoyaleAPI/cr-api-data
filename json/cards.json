@@ -156,7 +156,7 @@
         "type": "Troop",
         "rarity": "Epic",
         "arena": 0,
-        "description": "Flying troop that deals area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
+        "description": "Burps fireballs from the sky that deal area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
         "id": 26000015
     },
     {
@@ -580,6 +580,16 @@
         "id": 26000059
     },
     {
+        "key": "goblin-giant",
+        "name": "Goblin Giant",
+        "elixir": 6,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 9,
+        "description": "This jolly green Goblin Giant stomps towards enemy buildings. He carries two Spear Goblins everywhere he goes. It's a weird but functional arrangement.",
+        "id": 26000060
+    },
+    {
         "key": "magic-archer",
         "name": "Magic Archer",
         "elixir": 4,
@@ -842,7 +852,7 @@
     {
         "key": "barbarian-barrel",
         "name": "Barbarian Barrel",
-        "elixir": 3,
+        "elixir": 2,
         "type": "Spell",
         "rarity": "Epic",
         "arena": 3,
