@@ -112,10 +112,10 @@ class CardStats(BaseGen):
         Common=13,
         Rare=11,
         Epic=8,
-        Legendary=5
+        Legendary=5,
     )
 
-    # total hack by ruiner
+    # total hack from global
     level_multipliers = [
         1.0,
         1.1,
@@ -188,6 +188,10 @@ class CardStats(BaseGen):
             value = item.get(section)
             rarity = item.get('rarity')
             hp_per_level = None
+
+            # skip if rarity is Hero
+            if rarity == 'Hero':
+                continue
 
             if all([value, rarity]):
                 hp_per_level = [

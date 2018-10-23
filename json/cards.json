@@ -356,7 +356,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 8,
-        "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he dies.",
+        "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
         "id": 26000035
     },
     {
@@ -510,6 +510,16 @@
         "id": 26000050
     },
     {
+        "key": "wolf-rider",
+        "name": "Wolf Rider",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 12,
+        "description": "Wolf Rider",
+        "id": 26000051
+    },
+    {
         "key": "zappies",
         "name": "Zappies",
         "elixir": 4,
@@ -590,6 +600,16 @@
         "id": 26000060
     },
     {
+        "key": "knight",
+        "name": "Knight",
+        "elixir": 6,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 12,
+        "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
+        "id": 26000061
+    },
+    {
         "key": "magic-archer",
         "name": "Magic Archer",
         "elixir": 4,
@@ -598,6 +618,26 @@
         "arena": 10,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
         "id": 26000062
+    },
+    {
+        "key": "electro-dragon",
+        "name": "Electro Dragon",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 12,
+        "description": "Spits out bolts of electricity hitting up to three targets. Suffers from middle child syndrome to boot.",
+        "id": 26000063
+    },
+    {
+        "key": "wall-breakers",
+        "name": "Wall Breakers",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 12,
+        "description": "Wall Breakers try to destroy the buildings and make huge damage to them if succeeds.",
+        "id": 26000065
     },
     {
         "key": "cannon",
@@ -696,7 +736,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 2,
-        "description": "Troop building that periodically deploys Skeletons to fight the enemy. When destroyed, spawns 4 Skeletons. Creepy!",
+        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns more Skeletons! Creepy.",
         "id": 27000009
     },
     {
@@ -708,6 +748,16 @@
         "arena": 5,
         "description": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
         "id": 27000010
+    },
+    {
+        "key": "prison-goblin",
+        "name": "Prison Goblin",
+        "elixir": 3,
+        "type": "Building",
+        "rarity": "Legendary",
+        "arena": 12,
+        "description": "Prison Goblin",
+        "id": 27000011
     },
     {
         "key": "fireball",
