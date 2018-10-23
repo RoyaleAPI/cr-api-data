@@ -600,16 +600,6 @@
         "id": 26000060
     },
     {
-        "key": "knight",
-        "name": "Knight",
-        "elixir": 6,
-        "type": "Troop",
-        "rarity": "Legendary",
-        "arena": 12,
-        "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-        "id": 26000061
-    },
-    {
         "key": "magic-archer",
         "name": "Magic Archer",
         "elixir": 4,

@@ -3,11 +3,15 @@ Generate cards JSON from APK CSV source.
 """
 
 import csv
+import logging
 import os
 import re
 
 from .base import BaseGen
 from .util import camelcase_split
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO)
 
 
 class Cards(BaseGen):
@@ -33,6 +37,8 @@ class Cards(BaseGen):
 
         cards = []
         card_num = 0
+
+        card_keys = []
 
         def card_type(card_config, card_num):
             """make card dicts by type."""
@@ -70,8 +76,13 @@ class Cards(BaseGen):
                                     'id': int(decklink)
                                 }
 
-                                cards.append(card)
-                                print(card)
+                                # ensure unique keys — dev builds have non unique keys
+                                if key not in card_keys:
+                                    card_keys.append(key)
+                                    cards.append(card)
+                                    logger.info(card)
+                                else:
+                                    logger.warning(f"Duplicate card key: {key}, skipping…")
             return card_num
 
         for card_config in self.config.cards:
