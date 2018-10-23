@@ -76,6 +76,10 @@ class Cards(BaseGen):
                                     'id': int(decklink)
                                 }
 
+                                # skip unreleased cards
+                                if key in ['wolf-rider', 'prison-goblin', 'wall-breakers']:
+                                    continue
+
                                 # ensure unique keys — dev builds have non unique keys
                                 if key not in card_keys:
                                     card_keys.append(key)

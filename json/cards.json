@@ -510,16 +510,6 @@
         "id": 26000050
     },
     {
-        "key": "wolf-rider",
-        "name": "Wolf Rider",
-        "elixir": 5,
-        "type": "Troop",
-        "rarity": "Legendary",
-        "arena": 12,
-        "description": "Wolf Rider",
-        "id": 26000051
-    },
-    {
         "key": "zappies",
         "name": "Zappies",
         "elixir": 4,
@@ -618,16 +608,6 @@
         "arena": 12,
         "description": "Spits out bolts of electricity hitting up to three targets. Suffers from middle child syndrome to boot.",
         "id": 26000063
-    },
-    {
-        "key": "wall-breakers",
-        "name": "Wall Breakers",
-        "elixir": 3,
-        "type": "Troop",
-        "rarity": "Legendary",
-        "arena": 12,
-        "description": "Wall Breakers try to destroy the buildings and make huge damage to them if succeeds.",
-        "id": 26000065
     },
     {
         "key": "cannon",
@@ -738,16 +718,6 @@
         "arena": 5,
         "description": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
         "id": 27000010
-    },
-    {
-        "key": "prison-goblin",
-        "name": "Prison Goblin",
-        "elixir": 3,
-        "type": "Building",
-        "rarity": "Legendary",
-        "arena": 12,
-        "description": "Prison Goblin",
-        "id": 27000011
     },
     {
         "key": "fireball",
