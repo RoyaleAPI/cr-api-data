@@ -15,7 +15,6 @@
         "fixed_deck_order": false,
         "clan_war_description": "Play with a premade Classic Deck!",
         "battle_start_cooldown": 6000,
-        "heist": false,
         "id": 72000000,
         "name_en": "BlindDeck"
     },
@@ -35,8 +34,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at double speed!",
-        "heist": false,
-        "skin_set": "ElixerPump",
         "id": 72000001,
         "name_en": "DoubleElixir"
     },
@@ -53,14 +50,13 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000002,
         "name_en": "ThreeBridges"
     },
     {
         "name": "HeroChallenge",
         "card_level_adjustment": "Tournament",
-        "deck_selection": "Draft",
+        "deck_selection": "Collection",
         "overtime_seconds": 180,
         "same_deck_on_both": false,
         "separate_team_decks": false,
@@ -70,7 +66,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000003,
         "name_en": "HeroChallenge"
     },
@@ -88,7 +83,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000004,
         "name_en": "ElectroWiz"
     },
@@ -106,7 +100,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Choose 4 cards and receive 4 from your opponent!",
-        "heist": false,
         "id": 72000005,
         "name_en": "DraftMode"
     },
@@ -123,7 +116,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000006,
         "name_en": "Ladder"
     },
@@ -140,7 +132,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000007,
         "name_en": "Friendly"
     },
@@ -157,7 +148,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000008,
         "name_en": "Training"
     },
@@ -174,7 +164,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000009,
         "name_en": "Tournament"
     },
@@ -191,7 +180,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000010,
         "name_en": "Challenge"
     },
@@ -211,8 +199,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at double speed!",
-        "heist": false,
-        "skin_set": "ElixerPump",
         "id": 72000011,
         "name_en": "DoubleElixir_Friendly"
     },
@@ -229,7 +215,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000012,
         "name_en": "BattleRam"
     },
@@ -248,7 +233,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000013,
         "name_en": "DraftModeInsane"
     },
@@ -267,7 +251,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000014,
         "name_en": "TeamVsTeam"
     },
@@ -285,7 +268,6 @@
         "event_deck_set_limit": "Event_Retro",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000015,
         "name_en": "RetroRoyale"
     },
@@ -302,7 +284,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000016,
         "name_en": "CardRelease"
     },
@@ -319,7 +300,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000017,
         "name_en": "CardReleaseDraft"
     },
@@ -338,7 +318,6 @@
         "players": "PvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000018,
         "name_en": "PvE"
     },
@@ -358,7 +337,6 @@
         "players": "TvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000019,
         "name_en": "TvE"
     },
@@ -376,7 +354,6 @@
         "players": "PvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000020,
         "name_en": "PvE_Boss"
     },
@@ -393,7 +370,6 @@
         "players": "PvE",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000021,
         "name_en": "PvE_Tutorial"
     },
@@ -412,7 +388,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000022,
         "name_en": "TeamVsTeamDraft"
     },
@@ -432,7 +407,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Play with a Clanmate!",
-        "heist": false,
         "id": 72000023,
         "name_en": "TeamVsTeamLadder"
     },
@@ -451,7 +425,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "The first player to take a tower... WINS!",
-        "heist": false,
         "id": 72000024,
         "name_en": "Overtime_Tournament"
     },
@@ -471,8 +444,6 @@
         "gold_per_tower2": 200,
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
-        "heist": false,
-        "skin_set": "GoldRush",
         "id": 72000025,
         "name_en": "GoldRush_Tournament"
     },
@@ -491,7 +462,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000026,
         "name_en": "TeamVsTeamChallenge"
     },
@@ -512,8 +482,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at triple speed!",
-        "heist": false,
-        "skin_set": "ElixerPump",
         "id": 72000027,
         "name_en": "TripleElixir_Tournament"
     },
@@ -531,7 +499,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
-        "heist": false,
         "id": 72000028,
         "name_en": "RampUpElixir_Tournament"
     },
@@ -550,7 +517,6 @@
         "players": "TvT",
         "gives_clan_score": true,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000029,
         "name_en": "TeamVsTeamCrowns"
     },
@@ -570,7 +536,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Choose 4 cards and receive 4 from your opponent!",
-        "heist": false,
         "id": 72000030,
         "name_en": "TeamVsTeamDraftChallenge"
     },
@@ -589,7 +554,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "The first player to take a tower... WINS!",
-        "heist": false,
         "id": 72000031,
         "name_en": "Overtime_Friendly"
     },
@@ -610,8 +574,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at triple speed!",
-        "heist": false,
-        "skin_set": "ElixerPump",
         "id": 72000032,
         "name_en": "TripleElixir_Friendly"
     },
@@ -629,7 +591,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
-        "heist": false,
         "id": 72000033,
         "name_en": "RampUpElixir_Friendly"
     },
@@ -650,7 +611,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at double speed!",
-        "heist": false,
         "id": 72000034,
         "name_en": "TeamVsTeam_DoubleElixir_Friendly"
     },
@@ -671,7 +631,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at double speed!",
-        "heist": false,
         "id": 72000035,
         "name_en": "TeamVsTeam_DoubleElixir_Tournament"
     },
@@ -691,7 +650,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "The first player to take a tower... WINS!",
-        "heist": false,
         "id": 72000036,
         "name_en": "TeamVsTeam_Overtime_Friendly"
     },
@@ -711,7 +669,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "The first player to take a tower... WINS!",
-        "heist": false,
         "id": 72000037,
         "name_en": "TeamVsTeam_Overtime_Tournament"
     },
@@ -731,7 +688,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
-        "heist": false,
         "id": 72000038,
         "name_en": "TeamVsTeam_RampUpElixir_Friendly"
     },
@@ -751,7 +707,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
-        "heist": false,
         "id": 72000039,
         "name_en": "TeamVsTeam_RampUpElixir_Tournament"
     },
@@ -771,7 +726,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000040,
         "name_en": "TeamVsTeam_DraftModeInsane_Friendly"
     },
@@ -788,7 +742,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000041,
         "name_en": "Invalid"
     },
@@ -805,7 +758,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000042,
         "name_en": "PickMode"
     },
@@ -827,8 +779,6 @@
         "gold_per_tower2": 200,
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
-        "heist": false,
-        "skin_set": "GoldRush",
         "id": 72000043,
         "name_en": "TeamVsTeamLadder_GoldRush"
     },
@@ -848,8 +798,6 @@
         "gold_per_tower2": 200,
         "gold_per_tower3": 500,
         "fixed_deck_order": false,
-        "heist": false,
-        "skin_set": "GoldRush",
         "id": 72000044,
         "name_en": "Ladder_GoldRush"
     },
@@ -866,11 +814,10 @@
         "players": "PvP",
         "gives_clan_score": false,
         "target_touchdowns": 3,
+        "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "fixed_arena": "Arena_TouchdownTest",
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
-        "heist": false,
-        "skin_set": "Touchdown",
         "id": 72000045,
         "name_en": "Touchdown"
     },
@@ -892,7 +839,6 @@
         "gems_per_tower2": 5,
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000046,
         "name_en": "TeamVsTeamLadder_GemRush"
     },
@@ -912,7 +858,6 @@
         "gems_per_tower2": 5,
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000047,
         "name_en": "Ladder_GemRush"
     },
@@ -932,7 +877,6 @@
         "gems_per_tower2": 5,
         "gems_per_tower3": 10,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000048,
         "name_en": "GemRush_Tournament"
     },
@@ -951,11 +895,10 @@
         "players": "TvT",
         "gives_clan_score": false,
         "target_touchdowns": 3,
+        "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "fixed_arena": "Arena_TouchdownTest",
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
-        "heist": false,
-        "skin_set": "Touchdown",
         "id": 72000049,
         "name_en": "TeamVsTeam_Touchdown"
     },
@@ -972,10 +915,9 @@
         "players": "PvP",
         "gives_clan_score": false,
         "target_touchdowns": 3,
+        "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
-        "heist": false,
-        "skin_set": "Touchdown",
         "id": 72000050,
         "name_en": "Touchdown_Draft"
     },
@@ -994,11 +936,10 @@
         "players": "TvT",
         "gives_clan_score": false,
         "target_touchdowns": 3,
+        "skin_set": "Touchdown",
         "fixed_deck_order": false,
         "fixed_arena": "Arena_TouchdownTest",
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
-        "heist": false,
-        "skin_set": "Touchdown",
         "id": 72000051,
         "name_en": "TeamVsTeam_Touchdown_Draft"
     },
@@ -1018,7 +959,6 @@
         "fixed_deck_order": false,
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "battle_start_cooldown": 6000,
-        "heist": false,
         "id": 72000052,
         "name_en": "MirrorDeck"
     },
@@ -1037,7 +977,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
-        "heist": false,
         "id": 72000053,
         "name_en": "TeamVsTeam_MirrorDeck"
     },
@@ -1054,7 +993,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": true,
-        "heist": false,
         "id": 72000054,
         "name_en": "Friendly_FixedDeckOrder"
     },
@@ -1073,7 +1011,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": true,
-        "heist": false,
         "id": 72000055,
         "name_en": "TeamVsTeam_FixedDeckOrder"
     },
@@ -1092,7 +1029,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
-        "heist": false,
         "id": 72000056,
         "name_en": "MirrorDeck_H"
     },
@@ -1111,7 +1047,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
-        "heist": false,
         "id": 72000057,
         "name_en": "TeamVsTeam_MirrorDeck_H"
     },
@@ -1130,7 +1065,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000058,
         "name_en": "KingOfTheHill"
     },
@@ -1148,7 +1082,6 @@
         "event_deck_set_limit": "Event_Modern",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000059,
         "name_en": "ModernRoyale"
     },
@@ -1167,7 +1100,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "The first player to take a tower... WINS!",
-        "heist": false,
         "id": 72000060,
         "name_en": "Overtime_Ladder"
     },
@@ -1187,8 +1119,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at double speed!",
-        "heist": false,
-        "skin_set": "ElixerPump",
         "id": 72000061,
         "name_en": "DoubleElixir_Ladder"
     },
@@ -1209,8 +1139,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at triple speed!",
-        "heist": false,
-        "skin_set": "ElixerPump",
         "id": 72000062,
         "name_en": "TripleElixir_Ladder"
     },
@@ -1230,7 +1158,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000063,
         "name_en": "NOTINUSE1"
     },
@@ -1250,7 +1177,6 @@
         "players": "TvT",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000064,
         "name_en": "NOTINUSE2"
     },
@@ -1268,7 +1194,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
-        "heist": false,
         "id": 72000065,
         "name_en": "Showdown_Friendly"
     },
@@ -1286,7 +1211,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
-        "heist": false,
         "id": 72000066,
         "name_en": "Showdown_Ladder"
     },
@@ -1307,7 +1231,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates at double speed!",
-        "heist": false,
         "id": 72000067,
         "name_en": "TeamVsTeam_DoubleElixir_Ladder"
     },
@@ -1326,7 +1249,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "The first player to take a tower... WINS!",
-        "heist": false,
         "id": 72000068,
         "name_en": "TeamVsTeam_Overtime_Ladder"
     },
@@ -1343,7 +1265,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "heist": false,
         "id": 72000069,
         "name_en": "CaptureTower_Friendly"
     },
@@ -1361,7 +1282,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
-        "heist": false,
         "id": 72000070,
         "name_en": "RampUpElixir_Ladder"
     },
@@ -1381,7 +1301,6 @@
         "fixed_deck_order": false,
         "fixed_arena": "Arena5",
         "global_buff": "RageModeRage",
-        "heist": false,
         "id": 72000071,
         "name_en": "Rage_Friendly"
     },
@@ -1401,7 +1320,6 @@
         "fixed_deck_order": false,
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "battle_start_cooldown": 6000,
-        "heist": false,
         "id": 72000072,
         "name_en": "MirrorDeck_CW"
     },
@@ -1422,7 +1340,6 @@
         "fixed_arena": "Arena5",
         "clan_war_description": "Someone spilt Rage all over the Arena... Everything moves and attacks faster!",
         "global_buff": "RageModeRage",
-        "heist": false,
         "id": 72000073,
         "name_en": "Rage_Ladder"
     },
@@ -1442,7 +1359,6 @@
         "fixed_deck_order": false,
         "fixed_arena": "Arena4",
         "global_buff": "PoisonModePoison",
-        "heist": false,
         "id": 72000074,
         "name_en": "LavaFloor_Friendly"
     },
@@ -1461,7 +1377,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena1",
-        "heist": false,
         "id": 72000075,
         "name_en": "Event_NewArena1"
     },
@@ -1480,7 +1395,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena2",
-        "heist": false,
         "id": 72000076,
         "name_en": "Event_NewArena2"
     },
@@ -1499,7 +1413,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena3",
-        "heist": false,
         "id": 72000077,
         "name_en": "Event_NewArena3"
     },
@@ -1518,7 +1431,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena4",
-        "heist": false,
         "id": 72000078,
         "name_en": "Event_NewArena4"
     },
@@ -1537,7 +1449,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena5",
-        "heist": false,
         "id": 72000079,
         "name_en": "Event_NewArena5"
     },
@@ -1556,7 +1467,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena6",
-        "heist": false,
         "id": 72000080,
         "name_en": "Event_NewArena6"
     },
@@ -1575,7 +1485,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena7",
-        "heist": false,
         "id": 72000081,
         "name_en": "Event_NewArena7"
     },
@@ -1594,7 +1503,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena8",
-        "heist": false,
         "id": 72000082,
         "name_en": "Event_NewArena8"
     },
@@ -1613,7 +1521,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena9",
-        "heist": false,
         "id": 72000083,
         "name_en": "Event_NewArena9"
     },
@@ -1632,7 +1539,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena_L",
-        "heist": false,
         "id": 72000084,
         "name_en": "Event_NewArena10"
     },
@@ -1651,7 +1557,6 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena_Electric",
-        "heist": false,
         "id": 72000085,
         "name_en": "Event_NewArena11"
     },
@@ -1671,7 +1576,6 @@
         "fixed_deck_order": false,
         "fixed_arena": "Arena5",
         "global_buff": "RageModeRage",
-        "heist": false,
         "id": 72000086,
         "name_en": "Rage_Tournament"
     },
@@ -1691,7 +1595,6 @@
         "fixed_deck_order": false,
         "clan_war_description": "Play with a premade Classic Deck!",
         "battle_start_cooldown": 6000,
-        "heist": false,
         "id": 72000087,
         "name_en": "ClassicDecks_Friendly"
     },
@@ -1713,85 +1616,8 @@
         "fixed_arena": "Arena5",
         "clan_war_description": "Someone spilt Rage all over the Arena... Everything moves and attacks faster!",
         "global_buff": "RageModeRage",
-        "heist": false,
         "id": 72000088,
         "name_en": "TeamVsTeam_Rage_Ladder"
-    },
-    {
-        "name": "ThreeVsThree",
-        "card_level_adjustment": "Friendly",
-        "deck_selection": "Collection",
-        "overtime_seconds": 180,
-        "same_deck_on_both": false,
-        "separate_team_decks": false,
-        "swapping_towers": false,
-        "elixir_production_multiplier": 85,
-        "elixir_production_overtime_multiplier": 70,
-        "use_starting_elixir": false,
-        "heroes": false,
-        "players": "3v3",
-        "gives_clan_score": false,
-        "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
-        "heist": true,
-        "id": 72000089,
-        "name_en": "ThreeVsThree"
-    },
-    {
-        "name": "ThreeVsThreeHeist",
-        "card_level_adjustment": "Friendly",
-        "deck_selection": "Collection",
-        "overtime_seconds": 180,
-        "same_deck_on_both": false,
-        "separate_team_decks": false,
-        "swapping_towers": false,
-        "elixir_production_multiplier": 85,
-        "elixir_production_overtime_multiplier": 70,
-        "use_starting_elixir": false,
-        "heroes": false,
-        "players": "3v3",
-        "gives_clan_score": false,
-        "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
-        "heist": true,
-        "id": 72000090,
-        "name_en": "ThreeVsThreeHeist"
-    },
-    {
-        "name": "Heist_Friendly",
-        "card_level_adjustment": "Friendly",
-        "deck_selection": "Collection",
-        "overtime_seconds": 180,
-        "same_deck_on_both": false,
-        "separate_team_decks": false,
-        "swapping_towers": false,
-        "use_starting_elixir": false,
-        "heroes": false,
-        "players": "PvP",
-        "gives_clan_score": false,
-        "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
-        "heist": true,
-        "id": 72000091,
-        "name_en": "Heist_Friendly"
-    },
-    {
-        "name": "Heist_Draft",
-        "card_level_adjustment": "Friendly",
-        "deck_selection": "Draft",
-        "overtime_seconds": 180,
-        "same_deck_on_both": false,
-        "separate_team_decks": false,
-        "swapping_towers": false,
-        "use_starting_elixir": false,
-        "heroes": false,
-        "players": "PvP",
-        "gives_clan_score": false,
-        "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
-        "heist": true,
-        "id": 72000092,
-        "name_en": "Heist_Draft"
     },
     {
         "name": "Event_Shocktober",
@@ -1808,8 +1634,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "fixed_arena": "Arena_Electric",
-        "heist": false,
-        "id": 72000093,
+        "id": 72000089,
         "name_en": "Event_Shocktober"
     }
 ]

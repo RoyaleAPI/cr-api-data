@@ -327,7 +327,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -379,7 +379,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -436,7 +436,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -513,7 +513,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -565,7 +565,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -637,7 +637,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -669,7 +669,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -741,7 +741,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -788,7 +788,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -875,7 +875,7 @@
             "one_time": false
         },
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "",
             "one_time": false
         },
@@ -907,7 +907,7 @@
     ],
     "Quest_arena3_super": [
         {
-            "chest": "SuperLightning",
+            "chest": "Super",
             "arena_threshold": "Arena3",
             "one_time": true
         }

@@ -356,7 +356,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 8,
-        "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
+        "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he dies.",
         "id": 26000035
     },
     {
@@ -605,7 +605,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 12,
+        "arena": 11,
         "description": "Spits out bolts of electricity hitting up to three targets. Suffers from middle child syndrome to boot.",
         "id": 26000063
     },
@@ -706,7 +706,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 2,
-        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns more Skeletons! Creepy.",
+        "description": "Troop building that periodically deploys Skeletons to fight the enemy. When destroyed, spawns 4 Skeletons. Creepy!",
         "id": 27000009
     },
     {
