@@ -304,7 +304,7 @@
     },
     {
         "name": "HeroChallenge",
-        "game_mode": "HeroChallenge",
+        "game_mode": "HeroChallenge_draft",
         "enabled": false,
         "join_cost": 100,
         "join_cost_resource": "Diamonds",

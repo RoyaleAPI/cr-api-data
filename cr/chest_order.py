@@ -35,7 +35,7 @@ class ChestOrder(BaseGen):
                         chests[current_name].append({
                             "chest": row["Chest"],
                             "arena_threshold": row["ArenaThreshold"],
-                            "one_time": bool(row["OneTime"])
+                            "one_time": row.get('OneTime')
                         })
 
         json_path = os.path.join(self.config.json.base, self.config.json.chest_order)

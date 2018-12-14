@@ -245,671 +245,671 @@
         {
             "chest": "Gold",
             "arena_threshold": "TrainingCamp",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_earlygame_2": [
         {
             "chest": "Gold",
             "arena_threshold": "TrainingCamp",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_1": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_2": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_3": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_4": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_5": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_6": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_7": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_8": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_9": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
     "Quest_lategame_10": [
         {
             "chest": "Gold",
             "arena_threshold": "Arena5",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Legendary",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
-            "chest": "Super",
+            "chest": "SuperLightning",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Epic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Gold",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Magic",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         },
         {
             "chest": "Giant",
             "arena_threshold": "",
-            "one_time": false
+            "one_time": null
         }
     ],
-    "Quest_arena3_super": [
+    "Quest_arena3_UNUSED": [
         {
-            "chest": "Super",
-            "arena_threshold": "Arena3",
-            "one_time": true
+            "chest": "SuperLightning",
+            "arena_threshold": "",
+            "one_time": null
         }
     ]
 }

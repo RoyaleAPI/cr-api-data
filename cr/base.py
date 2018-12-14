@@ -119,10 +119,12 @@ class BaseGen:
             return None
 
         if field_type.lower() == 'boolean':
+            if not value:
+                return False
             return value.lower() == 'true'
 
         if field_type.lower() == 'int':
-            if value == '':
+            if not value:
                 if self.null_int:
                     return None
                 else:

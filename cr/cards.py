@@ -65,10 +65,13 @@ class Cards(BaseGen):
                                 key = '-'.join(s.lower() for s in ccs)
                                 # card_key = '_'.join(s.lower() for s in ccs)
                                 decklink = card_config.sckey.format(i - 1)
+                                elixir = row.get('ManaCost')
+                                if elixir is not None:
+                                    elixir = int(elixir)
                                 card = {
                                     'key': key,
                                     'name': name_en,
-                                    'elixir': int(row['ManaCost']),
+                                    'elixir': elixir,
                                     'type': card_config.type,
                                     'rarity': row['Rarity'],
                                     'arena': self.arena_id(row['UnlockArena']),
