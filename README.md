@@ -24,8 +24,6 @@ You will need to clone the repo with the submodules downloaded.
 
 ## Generate JSON from source
 
-Change folder to /src
-
 Run `./run.py`
 
 ## Loading data files from the web
