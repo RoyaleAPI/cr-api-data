@@ -1732,7 +1732,6 @@
         "players": "3v3",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
         "heist": true,
         "id": 72000089,
         "name_en": "ThreeVsThree"
@@ -1752,7 +1751,6 @@
         "players": "3v3",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
         "heist": true,
         "id": 72000090,
         "name_en": "ThreeVsThreeHeist"
@@ -1772,7 +1770,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
         "heist": true,
         "id": 72000091,
         "name_en": "Heist_Friendly"
@@ -1792,7 +1789,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
         "heist": true,
         "id": 72000092,
         "name_en": "Heist_Draft"
@@ -1870,7 +1866,6 @@
         "players": "PvP",
         "gives_clan_score": false,
         "fixed_deck_order": false,
-        "fixed_arena": "Arena7",
         "heist": true,
         "id": 72000096,
         "name_en": "Heist_Tournament"

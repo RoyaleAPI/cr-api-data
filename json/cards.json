@@ -510,6 +510,16 @@
         "id": 26000050
     },
     {
+        "key": "ram-rider",
+        "name": "Ram Rider",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 10,
+        "description": "Her bola snares enemy troops while Ram heads for the nearest building! Rams and Hogs don't mingle at parties...",
+        "id": 26000051
+    },
+    {
         "key": "zappies",
         "name": "Zappies",
         "elixir": 4,
