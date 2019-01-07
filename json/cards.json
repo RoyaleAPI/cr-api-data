@@ -882,7 +882,7 @@
     {
         "key": "heal",
         "name": "Heal",
-        "elixir": 3,
+        "elixir": 1,
         "type": "Spell",
         "rarity": "Rare",
         "arena": 7,
