@@ -15,18 +15,18 @@ if __name__ == '__main__':
         config = Box(yaml.load(f))
 
     to_run = [
-        AllianceBadges,
+        # AllianceBadges,
         Cards,
-        Rarities,
-        ChestOrder,
-        ClanChest,
-        GameModes,
-        Regions,
-        Arenas,
-        TreasureChests,
-        CardStats,
-        Tournaments,
-        Challenges
+        # Rarities,
+        # ChestOrder,
+        # ClanChest,
+        # GameModes,
+        # Regions,
+        # Arenas,
+        # TreasureChests,
+        # CardStats,
+        # Tournaments,
+        # Challenges
     ]
 
     for cls in to_run:

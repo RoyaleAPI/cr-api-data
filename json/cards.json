@@ -580,6 +580,16 @@
         "id": 26000057
     },
     {
+        "key": "wall-breakers",
+        "name": "Wall Breakers",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 0,
+        "description": "A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold and undead heart like blowing up buildings.",
+        "id": 26000058
+    },
+    {
         "key": "royal-hogs",
         "name": "Royal Hogs",
         "elixir": 5,

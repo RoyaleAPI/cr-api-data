@@ -80,7 +80,7 @@ class Cards(BaseGen):
                                 }
 
                                 # skip unreleased cards
-                                if key in ['wolf-rider', 'prison-goblin', 'wall-breakers']:
+                                if key in ['wolf-rider', 'prison-goblin']:
                                     continue
 
                                 # ensure unique keys — dev builds have non unique keys
