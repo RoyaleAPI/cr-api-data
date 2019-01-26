@@ -65,7 +65,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 6,
         "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
         "id": 26000006
     },
@@ -75,7 +75,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 2,
         "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
         "id": 26000007
     },
@@ -136,7 +136,7 @@
         "type": "Troop",
         "rarity": "Common",
         "arena": 2,
-        "description": "Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.",
+        "description": "Small, lightly protected skeleton who throws bombs. Deals area damage that can wipe out a swarm of enemies.",
         "id": 26000013
     },
     {
@@ -455,7 +455,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 9,
+        "arena": 12,
         "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose an arm.",
         "id": 26000045
     },
@@ -505,7 +505,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 7,
+        "arena": 12,
         "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
         "id": 26000050
     },
@@ -516,7 +516,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 10,
-        "description": "Her bola snares enemy troops while Ram heads for the nearest building! Rams and Hogs don't mingle at parties...",
+        "description": "Together they charge through the Arena; snaring enemies, knocking down towers ... and chewing grass!?",
         "id": 26000051
     },
     {
@@ -545,7 +545,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 6,
+        "arena": 10,
         "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
         "id": 26000054
     },
@@ -555,7 +555,7 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 7,
         "description": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
         "id": 26000055
     },
@@ -605,7 +605,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 5,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
         "id": 26000062
     },
@@ -785,7 +785,7 @@
         "elixir": 4,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 5,
+        "arena": 8,
         "description": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill.",
         "id": 28000005
     },
@@ -795,7 +795,7 @@
         "elixir": 1,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 11,
+        "arena": 12,
         "description": "Mirrors your last card played for +1 Elixir. Will not appear in your starting cards.",
         "id": 28000006
     },
@@ -835,7 +835,7 @@
         "elixir": 5,
         "type": "Spell",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 12,
         "description": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
         "id": 28000010
     },
@@ -855,7 +855,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 8,
+        "arena": 5,
         "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
         "id": 28000012
     },
