@@ -58,7 +58,7 @@ scid:
   region: 570000{0:02d}
   achievements: 600000{0:02d}
   challenge: 650000{0:02d}
-  game_modes: 720000{0:02d}
+  game_modes: 72000{0:03d}
   skin: 830000{0:02d}
 
 

@@ -2147,7 +2147,7 @@
         "fixed_deck_order": false,
         "clan_war_description": "Play with a Classic Deck from King's Cup 1!",
         "heist": false,
-        "id": 720000100,
+        "id": 72000100,
         "name_en": "ClassicDecks_KingsCup1"
     },
     {
@@ -2168,7 +2168,7 @@
         "heist": false,
         "deck_spell_sets": "MiniCollect_WinCon",
         "anti_spell_sets": "MiniCollect_AntiSet_Expensive",
-        "id": 720000101,
+        "id": 72000101,
         "name_en": "ClanWarMiniCollection_Ladder"
     },
     {
@@ -2189,7 +2189,7 @@
         "heist": false,
         "deck_spell_sets": "MiniCollect_WinCon",
         "anti_spell_sets": "MiniCollect_AntiSet_Expensive",
-        "id": 720000102,
+        "id": 72000102,
         "name_en": "ClanWarMiniCollection_Tournament"
     },
     {
@@ -2208,7 +2208,7 @@
         "gives_clan_score": false,
         "fixed_deck_order": false,
         "heist": false,
-        "id": 720000103,
+        "id": 72000103,
         "name_en": "Boosts_Friendly"
     },
     {
@@ -2230,7 +2230,7 @@
         "spawn_character_interval": 6000,
         "spawn_character_start_delay": 8000,
         "spawn_projectile": "SnowballSpell",
-        "id": 720000104,
+        "id": 72000104,
         "name_en": "Snowball_bombardment"
     },
     {
@@ -2253,7 +2253,7 @@
         "spawn_character_interval": 12000,
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
-        "id": 720000105,
+        "id": 72000105,
         "name_en": "RampUpElixirSpawnPigsMode_Friendly"
     },
     {
@@ -2276,7 +2276,7 @@
         "spawn_character_interval": 12000,
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
-        "id": 720000106,
+        "id": 72000106,
         "name_en": "DraftSpawnPigsMode_Friendly"
     },
     {
@@ -2299,7 +2299,7 @@
         "spawn_character_interval": 12000,
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
-        "id": 720000107,
+        "id": 72000107,
         "name_en": "RampUpElixirSpawnPigsMode_Tournament"
     },
     {
@@ -2322,7 +2322,7 @@
         "spawn_character_interval": 12000,
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
-        "id": 720000108,
+        "id": 72000108,
         "name_en": "EventDeckrSpawnPigsMode_Tournament"
     }
 ]
