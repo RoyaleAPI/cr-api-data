@@ -282,7 +282,7 @@
     {
         "key": "three-musketeers",
         "name": "Three Musketeers",
-        "elixir": 9,
+        "elixir": 10,
         "type": "Troop",
         "rarity": "Rare",
         "arena": 7,

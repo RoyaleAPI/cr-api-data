@@ -1,6 +1,5 @@
 csv:
-#  base: ./lib/cr-csv/assets/
-  base: /Users/sml/git/cr-devbuild/res.decoded
+  base: ./lib/cr-csv/assets/
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv
     area_effect_objects: ./csv_logic/area_effect_objects.csv
