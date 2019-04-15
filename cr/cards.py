@@ -25,7 +25,11 @@ class Cards(BaseGen):
             texts_reader = csv.DictReader(f)
             for row in texts_reader:
                 if row['Name'] == key:
-                    return int(row['Arena'])
+                    arena = row.get('Arena', 0)
+                    if arena:
+                        return int(arena)
+                    else:
+                        return 0
         return None
 
     def run(self):
@@ -46,14 +50,24 @@ class Cards(BaseGen):
 
             with open(csv_path, encoding="utf8") as f:
                 reader = csv.DictReader(f)
+                # fix prince breaking things
+                decklink_id_delta = 0
                 for i, row in enumerate(reader):
                     if i > 0:
                         card_num += 1
+
                         process = True
                         if row['NotInUse']:
                             process = False
                         elif row['Name'].lower().startswith('notinuse'):
                             process = False
+                        elif not row.get('Name'):
+                            # Wizard / Prince oddity
+                            process = False
+                            decklink_id_delta -= 1
+
+                        print(process, card_num, row)
+
                         if process:
                             name_en = self.text(row['TID'], 'EN')
                             if name_en == '':
@@ -64,10 +78,17 @@ class Cards(BaseGen):
                                 ccs = camelcase_split(name_strip)
                                 key = '-'.join(s.lower() for s in ccs)
                                 # card_key = '_'.join(s.lower() for s in ccs)
-                                decklink = card_config.sckey.format(i - 1)
+                                decklink = card_config.sckey.format(i + decklink_id_delta - 1)
                                 elixir = row.get('ManaCost')
-                                if elixir is not None:
-                                    elixir = int(elixir)
+                                if elixir:
+                                    try:
+                                        elixir = int(elixir)
+                                    except Exception as e:
+                                        print(e)
+                                        elixir = 0
+                                else:
+                                    elixir = None
+
                                 card = {
                                     'key': key,
                                     'name': name_en,
