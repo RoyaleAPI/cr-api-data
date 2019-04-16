@@ -76,7 +76,7 @@
         "type": "Troop",
         "rarity": "Epic",
         "arena": 2,
-        "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
+        "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers. Spawns 3 Skeletons when destroyed.",
         "id": 26000007
     },
     {
@@ -806,7 +806,7 @@
         "type": "Spell",
         "rarity": "Epic",
         "arena": 12,
-        "description": "Mirrors your last card played for +1 Elixir. Will not appear in your starting cards.",
+        "description": "Mirrors your last card played for +1 Elixir. Does not appear in your starting hand.",
         "id": 28000006
     },
     {
@@ -878,6 +878,16 @@
         "arena": 11,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
         "id": 28000013
+    },
+    {
+        "key": "earthquake",
+        "name": "Earthquake",
+        "elixir": 3,
+        "type": "Spell",
+        "rarity": "Rare",
+        "arena": 9,
+        "description": "Deals Damage per second to Troops and Crown Towers. Deals huge Building Damage! Does not affect flying units (it is an EARTHquake, after all).",
+        "id": 28000014
     },
     {
         "key": "barbarian-barrel",
