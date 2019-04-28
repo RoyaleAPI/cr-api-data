@@ -25,7 +25,7 @@
         "title": "Training Camp",
         "subtitle": "Training Camp",
         "arena_id": 0,
-        "league_id": "p",
+        "league_id": 0,
         "id": 54000000
     },
     {
@@ -54,7 +54,7 @@
         "title": "Arena 1",
         "subtitle": "Goblin Stadium",
         "arena_id": 1,
-        "league_id": 1,
+        "league_id": 0,
         "id": 54000001
     },
     {
@@ -83,7 +83,7 @@
         "title": "Arena 2",
         "subtitle": "Bone Pit",
         "arena_id": 2,
-        "league_id": 2,
+        "league_id": 0,
         "id": 54000002
     },
     {
@@ -112,7 +112,7 @@
         "title": "Arena 3",
         "subtitle": "Barbarian Bowl",
         "arena_id": 3,
-        "league_id": 3,
+        "league_id": 0,
         "id": 54000003
     },
     {
@@ -141,7 +141,7 @@
         "title": "Arena 4",
         "subtitle": "P.E.K.K.A's Playhouse",
         "arena_id": 4,
-        "league_id": 4,
+        "league_id": 0,
         "id": 54000004
     },
     {
@@ -170,7 +170,7 @@
         "title": "Arena 5",
         "subtitle": "Spell Valley",
         "arena_id": 5,
-        "league_id": 5,
+        "league_id": 0,
         "id": 54000005
     },
     {
@@ -199,7 +199,7 @@
         "title": "Arena 6",
         "subtitle": "Builder's Workshop",
         "arena_id": 6,
-        "league_id": 6,
+        "league_id": 0,
         "id": 54000006
     },
     {
@@ -228,7 +228,7 @@
         "title": "Arena 7",
         "subtitle": "Royal Arena",
         "arena_id": 7,
-        "league_id": 7,
+        "league_id": 0,
         "id": 54000008
     },
     {
@@ -257,7 +257,7 @@
         "title": "Arena 8",
         "subtitle": "Frozen Peak",
         "arena_id": 8,
-        "league_id": 8,
+        "league_id": 0,
         "id": 54000009
     },
     {
@@ -286,7 +286,7 @@
         "title": "Arena 9",
         "subtitle": "Jungle Arena",
         "arena_id": 9,
-        "league_id": 9,
+        "league_id": 0,
         "id": 54000010
     },
     {
@@ -315,7 +315,7 @@
         "title": "Arena 10",
         "subtitle": "Hog Mountain",
         "arena_id": 10,
-        "league_id": "L",
+        "league_id": 0,
         "id": 54000007
     },
     {
@@ -344,7 +344,7 @@
         "title": "Arena 11",
         "subtitle": "Electro Valley",
         "arena_id": 11,
-        "league_id": "c",
+        "league_id": 0,
         "id": 54000024
     },
     {
@@ -373,7 +373,7 @@
         "title": "Arena 12",
         "subtitle": "Spooky Town",
         "arena_id": 12,
-        "league_id": "T",
+        "league_id": 0,
         "id": 54000011
     },
     {
@@ -663,7 +663,7 @@
         "title": "Ultimate Champion",
         "subtitle": "Ultimate Champion",
         "arena_id": 12,
-        "league_id": 0,
+        "league_id": 10,
         "id": 54000031
     }
 ]

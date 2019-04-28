@@ -34,7 +34,8 @@ class Arenas(BaseGen):
 
         with open(csv_path, encoding="utf8") as f:
             reader = csv.DictReader(f)
-            card_id = 0
+            sc_id = 0
+
             for i, row in enumerate(reader):
                 if i > 0:
                     # skip rows with no names
@@ -43,14 +44,17 @@ class Arenas(BaseGen):
 
                     arena = {'_'.join(camelcase_split(k)).lower(): self.row_value(row, k) for k, v in row.items()
                              if k in fields}
+                    arena_id = min(12, arena["arena"])
+                    league_id = max(0, arena['arena'] - 12)
+
                     arena.update({
                         "key": self.arena_key(row),
                         "title": self.text(row["TID"], "EN"),
                         "subtitle": self.text(row["SubtitleTID"], "EN"),
-                        "arena_id": min(12, arena["arena"]),
-                        "league_id": arena["name"][-1],
+                        "arena_id": arena_id,
+                        "league_id": league_id,
                         # "id": 54000000 + i - 1
-                        "id": 54000000 + card_id
+                        "id": 54000000 + sc_id
                     })
                     for k, v in arena.copy().items():
                         if isinstance(v, str) and v.isdigit():
@@ -59,7 +63,7 @@ class Arenas(BaseGen):
                     if arena['is_in_use']:
                         arenas.append(arena)
 
-                    card_id += 1
+                    sc_id += 1
 
         arenas = sorted(arenas, key=lambda x: x["arena"])
 
