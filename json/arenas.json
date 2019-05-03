@@ -656,7 +656,7 @@
         "matchmaking_max_trophy_delta": 200,
         "matchmaking_max_seconds": 60,
         "daily_donation_capacity_limit": 360,
-        "battle_reward_gold": 40,
+        "battle_reward_gold": 44,
         "season_reward_chest": null,
         "quest_cycle": "Quests_Arena_L1",
         "key": "league0",
