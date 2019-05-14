@@ -740,6 +740,16 @@
         "id": 27000010
     },
     {
+        "key": "goblin-cage",
+        "name": "Goblin Cage",
+        "elixir": 4,
+        "type": "Building",
+        "rarity": "Rare",
+        "arena": 12,
+        "description": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler never skips leg day.",
+        "id": 27000012
+    },
+    {
         "key": "fireball",
         "name": "Fireball",
         "elixir": 4,
