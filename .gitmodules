@@ -1,3 +1,6 @@
 [submodule "lib/cr-csv"]
 	path = lib/cr-csv
 	url = https://github.com/smlbiobot/cr-csv.git
+[submodule "lib/cr-csv-parser"]
+	path = lib/cr-csv-parser
+	url = https://github.com/WillyMaikowski/cr-csv-parser.git
