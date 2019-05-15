@@ -17,15 +17,16 @@ if __name__ == '__main__':
     with open(config_path) as f:
         config = Box(yaml.safe_load(f))
 
+
     to_run = [
         # AllianceBadges,
         # Cards,
-        # Rarities,
+        Rarities,
         # ChestOrder,
         # ClanChest,
         # GameModes,
         # Regions,
-        Arenas,
+        Arenas, #done
         # TreasureChests,
         # CardStats,
         # Tournaments,

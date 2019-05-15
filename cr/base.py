@@ -54,6 +54,15 @@ class BaseGen:
             return os.path.join(self.config.json.base, self.config.json[id])
         return None
 
+    def value_dict_to_list(self, rows):
+        """Convert values in dict rows to lists"""
+        for row in rows:
+            for k, v in row.items():
+                if isinstance(v, dict):
+                    if any([str(vk).isdigit() for vk, vv in v.items()]):
+                        row[k] = list(v.values())
+        return rows
+
     @property
     def field_types(self):
         """Dict of type by field name"""
