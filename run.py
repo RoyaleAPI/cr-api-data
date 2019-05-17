@@ -21,12 +21,12 @@ if __name__ == '__main__':
     to_run = [
         # AllianceBadges,
         # Cards,
-        Rarities,
+        Rarities, # v2 done
         # ChestOrder,
         # ClanChest,
         # GameModes,
         # Regions,
-        Arenas, #done
+        Arenas, # v2 done
         # TreasureChests,
         # CardStats,
         # Tournaments,
