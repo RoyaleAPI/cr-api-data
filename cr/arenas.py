@@ -2,12 +2,10 @@
 Generate arenas JSON from APK CSV source.
 """
 
-import csv
 import os
 
 from csv2json import read_csv
 from .base import BaseGen
-from .util import camelcase_split
 
 
 class Arenas(BaseGen):
@@ -47,4 +45,3 @@ class Arenas(BaseGen):
 
         json_path = os.path.join(self.config.json.base, self.config.json.arenas)
         self.save_json(arenas, json_path)
-
