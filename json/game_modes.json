@@ -19,7 +19,7 @@
         "clan_war_description": "Play with a premade Classic Deck!",
         "battle_start_cooldown": 6000,
         "id": 72000000,
-        "name_en": "BlindDeck"
+        "name_en": "Blind Deck Challenge"
     },
     {
         "name": "DoubleElixir",
@@ -35,7 +35,7 @@
         "clan_war_description": "Elixir generates at double speed!",
         "skin_set": "ElixerPump",
         "id": 72000001,
-        "name_en": "DoubleElixir"
+        "name_en": "Double Elixir Battle"
     },
     {
         "name": "ThreeBridges",
@@ -45,7 +45,7 @@
         "overtime_seconds": 180,
         "players": "PvP",
         "id": 72000002,
-        "name_en": "ThreeBridges"
+        "name_en": "Three Bridges Challenge"
     },
     {
         "name": "HeroChallenge_draft",
@@ -57,7 +57,7 @@
         "players": "PvP",
         "dark_elixir_spawn_interval": 14000,
         "id": 72000003,
-        "name_en": "HeroChallenge_draft"
+        "name_en": "Heroes Challenge"
     },
     {
         "name": "ElectroWiz",
@@ -68,7 +68,7 @@
         "forced_deck_cards": "ElectroWizard",
         "players": "PvP",
         "id": 72000004,
-        "name_en": "ElectroWiz"
+        "name_en": "Electro Wizard Challenge"
     },
     {
         "name": "DraftMode",
@@ -82,7 +82,7 @@
         "icon": "icon_mode_draft",
         "clan_war_description": "Choose 4 cards and receive 4 from your opponent!",
         "id": 72000005,
-        "name_en": "DraftMode"
+        "name_en": "Draft Battle"
     },
     {
         "name": "Ladder",
@@ -102,7 +102,7 @@
         "players": "PvP",
         "icon": "icon_mode_1v1",
         "id": 72000007,
-        "name_en": "Friendly"
+        "name_en": "1v1 Battle"
     },
     {
         "name": "Training",
@@ -122,7 +122,7 @@
         "players": "PvP",
         "icon": "icon_tournament_bronze",
         "id": 72000009,
-        "name_en": "Tournament"
+        "name_en": "Normal Battle"
     },
     {
         "name": "Challenge",
@@ -133,7 +133,7 @@
         "players": "PvP",
         "icon": "icon_tournament_bronze",
         "id": 72000010,
-        "name_en": "Challenge"
+        "name_en": "Normal Battle"
     },
     {
         "name": "DoubleElixir_Friendly",
@@ -151,7 +151,7 @@
         "clan_war_description": "Elixir generates at double speed!",
         "skin_set": "ElixerPump",
         "id": 72000011,
-        "name_en": "DoubleElixir_Friendly"
+        "name_en": "Double Elixir Battle"
     },
     {
         "name": "BattleRam",
@@ -161,7 +161,7 @@
         "overtime_seconds": 180,
         "players": "PvP",
         "id": 72000012,
-        "name_en": "BattleRam"
+        "name_en": "Electro Wizard Challenge"
     },
     {
         "name": "DraftModeInsane",
@@ -177,7 +177,7 @@
         "players": "PvP",
         "icon": "icon_mode_2x_elixir_draft",
         "id": 72000013,
-        "name_en": "DraftModeInsane"
+        "name_en": "Double Elixir Draft"
     },
     {
         "name": "TeamVsTeam",
@@ -190,7 +190,7 @@
         "players": "TvT",
         "icon": "icon_mode_2v2",
         "id": 72000014,
-        "name_en": "TeamVsTeam"
+        "name_en": "2v2 Battle"
     },
     {
         "name": "RetroRoyale",
@@ -202,7 +202,7 @@
         "event_deck_set_limit": "Event_Retro",
         "icon": "icon_mode_retro",
         "id": 72000015,
-        "name_en": "RetroRoyale"
+        "name_en": "Retro Royale Challenge"
     },
     {
         "name": "CardRelease",
@@ -225,7 +225,7 @@
         "players": "PvP",
         "forced_deck_cards_using_card_theme": true,
         "id": 72000017,
-        "name_en": "CardReleaseDraft"
+        "name_en": "Draft Battle"
     },
     {
         "name": "PvE",
@@ -238,7 +238,7 @@
         "starting_elixir": 10,
         "players": "PvE",
         "id": 72000018,
-        "name_en": "PvE"
+        "name_en": "Puzzle Royale"
     },
     {
         "name": "TvE",
@@ -252,7 +252,7 @@
         "starting_elixir": 0,
         "players": "TvE",
         "id": 72000019,
-        "name_en": "TvE"
+        "name_en": "Clan vs Enemy"
     },
     {
         "name": "PvE_Boss",
@@ -264,7 +264,7 @@
         "starting_elixir": 10,
         "players": "PvE",
         "id": 72000020,
-        "name_en": "PvE_Boss"
+        "name_en": "Puzzle Royale"
     },
     {
         "name": "PvE_Tutorial",
@@ -274,7 +274,7 @@
         "overtime_seconds": 60,
         "players": "PvE",
         "id": 72000021,
-        "name_en": "PvE_Tutorial"
+        "name_en": "Puzzle Royale"
     },
     {
         "name": "TeamVsTeamDraft",
@@ -289,7 +289,7 @@
         "players": "TvT",
         "icon": "icon_mode_draft",
         "id": 72000022,
-        "name_en": "TeamVsTeamDraft"
+        "name_en": "2v2 Draft Battle"
     },
     {
         "name": "TeamVsTeamLadder",
@@ -303,7 +303,7 @@
         "icon": "icon_mode_2v2",
         "clan_war_description": "Play with a Clanmate!",
         "id": 72000023,
-        "name_en": "TeamVsTeamLadder"
+        "name_en": "2v2 Battle"
     },
     {
         "name": "Overtime_Tournament",
@@ -317,7 +317,7 @@
         "icon": "icon_mode_suddendeath",
         "clan_war_description": "The first player to take a tower... WINS!",
         "id": 72000024,
-        "name_en": "Overtime_Tournament"
+        "name_en": "Sudden Death Battle"
     },
     {
         "name": "GoldRush_Tournament",
@@ -333,7 +333,7 @@
         "end_confetti2": "win_battle_confetti_gold_top",
         "skin_set": "GoldRush",
         "id": 72000025,
-        "name_en": "GoldRush_Tournament"
+        "name_en": "Gold Rush"
     },
     {
         "name": "TeamVsTeamChallenge",
@@ -345,7 +345,7 @@
         "elixir_production_overtime_multiplier": 70,
         "players": "TvT",
         "id": 72000026,
-        "name_en": "TeamVsTeamChallenge"
+        "name_en": "2v2 Challenge"
     },
     {
         "name": "TripleElixir_Tournament",
@@ -362,7 +362,7 @@
         "clan_war_description": "Elixir generates at triple speed!",
         "skin_set": "ElixerPump",
         "id": 72000027,
-        "name_en": "TripleElixir_Tournament"
+        "name_en": "Triple Elixir Battle"
     },
     {
         "name": "RampUpElixir_Tournament",
@@ -374,7 +374,7 @@
         "icon": "icon_mode_ramp_up",
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
         "id": 72000028,
-        "name_en": "RampUpElixir_Tournament"
+        "name_en": "Ramp Up Battle"
     },
     {
         "name": "TeamVsTeamCrowns",
@@ -387,7 +387,7 @@
         "players": "TvT",
         "gives_clan_score": true,
         "id": 72000029,
-        "name_en": "TeamVsTeamCrowns"
+        "name_en": "2v2 Battle"
     },
     {
         "name": "TeamVsTeamDraftChallenge",
@@ -403,7 +403,7 @@
         "icon": "icon_mode_draft",
         "clan_war_description": "Choose 4 cards and receive 4 from your opponent!",
         "id": 72000030,
-        "name_en": "TeamVsTeamDraftChallenge"
+        "name_en": "2v2 Draft Battle"
     },
     {
         "name": "Overtime_Friendly",
@@ -419,7 +419,7 @@
         "icon": "icon_mode_suddendeath",
         "clan_war_description": "The first player to take a tower... WINS!",
         "id": 72000031,
-        "name_en": "Overtime_Friendly"
+        "name_en": "Sudden Death Battle"
     },
     {
         "name": "TripleElixir_Friendly",
@@ -438,7 +438,7 @@
         "clan_war_description": "Elixir generates at triple speed!",
         "skin_set": "ElixerPump",
         "id": 72000032,
-        "name_en": "TripleElixir_Friendly"
+        "name_en": "Triple Elixir Battle"
     },
     {
         "name": "RampUpElixir_Friendly",
@@ -452,7 +452,7 @@
         "icon": "icon_mode_ramp_up",
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
         "id": 72000033,
-        "name_en": "RampUpElixir_Friendly"
+        "name_en": "Ramp Up Battle"
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Friendly",
@@ -469,7 +469,7 @@
         "players": "TvT",
         "clan_war_description": "Elixir generates at double speed!",
         "id": 72000034,
-        "name_en": "TeamVsTeam_DoubleElixir_Friendly"
+        "name_en": "2v2 Double Elixir"
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Tournament",
@@ -484,7 +484,7 @@
         "players": "TvT",
         "clan_war_description": "Elixir generates at double speed!",
         "id": 72000035,
-        "name_en": "TeamVsTeam_DoubleElixir_Tournament"
+        "name_en": "2v2 Double Elixir"
     },
     {
         "name": "TeamVsTeam_Overtime_Friendly",
@@ -500,7 +500,7 @@
         "icon": "icon_mode_suddendeath",
         "clan_war_description": "The first player to take a tower... WINS!",
         "id": 72000036,
-        "name_en": "TeamVsTeam_Overtime_Friendly"
+        "name_en": "2v2 Sudden Death"
     },
     {
         "name": "TeamVsTeam_Overtime_Tournament",
@@ -514,7 +514,7 @@
         "icon": "icon_mode_suddendeath",
         "clan_war_description": "The first player to take a tower... WINS!",
         "id": 72000037,
-        "name_en": "TeamVsTeam_Overtime_Tournament"
+        "name_en": "2v2 Sudden Death"
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Friendly",
@@ -529,7 +529,7 @@
         "players": "TvT",
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
         "id": 72000038,
-        "name_en": "TeamVsTeam_RampUpElixir_Friendly"
+        "name_en": "2v2 Ramp Up"
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Tournament",
@@ -542,7 +542,7 @@
         "players": "TvT",
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
         "id": 72000039,
-        "name_en": "TeamVsTeam_RampUpElixir_Tournament"
+        "name_en": "2v2 Ramp Up"
     },
     {
         "name": "TeamVsTeam_DraftModeInsane_Friendly",
@@ -559,7 +559,7 @@
         "players": "TvT",
         "icon": "icon_mode_2x_elixir_draft",
         "id": 72000040,
-        "name_en": "TeamVsTeam_DraftModeInsane_Friendly"
+        "name_en": "2v2 Double Elixir Draft"
     },
     {
         "name": "Invalid",
@@ -578,7 +578,7 @@
         "overtime_seconds": 180,
         "players": "PvP",
         "id": 72000042,
-        "name_en": "PickMode"
+        "name_en": "Draft Pick Challenge"
     },
     {
         "name": "TeamVsTeamLadder_GoldRush",
@@ -596,7 +596,7 @@
         "end_confetti2": "win_battle_confetti_gold_top",
         "skin_set": "GoldRush",
         "id": 72000043,
-        "name_en": "TeamVsTeamLadder_GoldRush"
+        "name_en": "Gold Rush"
     },
     {
         "name": "Ladder_GoldRush",
@@ -612,7 +612,7 @@
         "end_confetti2": "win_battle_confetti_gold_top",
         "skin_set": "GoldRush",
         "id": 72000044,
-        "name_en": "Ladder_GoldRush"
+        "name_en": "Gold Rush"
     },
     {
         "name": "Touchdown",
@@ -646,7 +646,7 @@
         "end_confetti1": "win_battle_confetti_gem",
         "end_confetti2": "win_battle_confetti_gem_top",
         "id": 72000046,
-        "name_en": "TeamVsTeamLadder_GemRush"
+        "name_en": "Gem Rush"
     },
     {
         "name": "Ladder_GemRush",
@@ -661,7 +661,7 @@
         "end_confetti1": "win_battle_confetti_gem",
         "end_confetti2": "win_battle_confetti_gem_top",
         "id": 72000047,
-        "name_en": "Ladder_GemRush"
+        "name_en": "Gem Rush"
     },
     {
         "name": "GemRush_Tournament",
@@ -676,7 +676,7 @@
         "end_confetti1": "win_battle_confetti_gem",
         "end_confetti2": "win_battle_confetti_gem_top",
         "id": 72000048,
-        "name_en": "GemRush_Tournament"
+        "name_en": "Gem Rush"
     },
     {
         "name": "TeamVsTeam_Touchdown",
@@ -694,7 +694,7 @@
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
         "skin_set": "Touchdown",
         "id": 72000049,
-        "name_en": "TeamVsTeam_Touchdown"
+        "name_en": "2v2 Touchdown"
     },
     {
         "name": "Touchdown_Draft",
@@ -710,7 +710,7 @@
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
         "skin_set": "Touchdown",
         "id": 72000050,
-        "name_en": "Touchdown_Draft"
+        "name_en": "Touchdown Draft"
     },
     {
         "name": "TeamVsTeam_Touchdown_Draft",
@@ -729,7 +729,7 @@
         "clan_war_description": "Get a troop into your opponent's end zone to score!",
         "skin_set": "Touchdown",
         "id": 72000051,
-        "name_en": "TeamVsTeam_Touchdown_Draft"
+        "name_en": "2v2 Touchdown Draft"
     },
     {
         "name": "MirrorDeck",
@@ -746,7 +746,7 @@
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "battle_start_cooldown": 6000,
         "id": 72000052,
-        "name_en": "MirrorDeck"
+        "name_en": "Mirror Battle"
     },
     {
         "name": "TeamVsTeam_MirrorDeck",
@@ -763,7 +763,7 @@
         "icon": "icon_mode_mirror",
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "id": 72000053,
-        "name_en": "TeamVsTeam_MirrorDeck"
+        "name_en": "2v2 Mirror Battle"
     },
     {
         "name": "Friendly_FixedDeckOrder",
@@ -777,7 +777,7 @@
         "fixed_deck_order": true,
         "icon": "icon_mode_1v1",
         "id": 72000054,
-        "name_en": "Friendly_FixedDeckOrder"
+        "name_en": "1v1 Fixed Deck Battle"
     },
     {
         "name": "TeamVsTeam_FixedDeckOrder",
@@ -793,7 +793,7 @@
         "fixed_deck_order": true,
         "icon": "icon_mode_2v2",
         "id": 72000055,
-        "name_en": "TeamVsTeam_FixedDeckOrder"
+        "name_en": "2v2 Fixed Deck Battle"
     },
     {
         "name": "MirrorDeck_H",
@@ -809,7 +809,7 @@
         "icon": "icon_mode_mirror",
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "id": 72000056,
-        "name_en": "MirrorDeck_H"
+        "name_en": "Mirror Battle"
     },
     {
         "name": "TeamVsTeam_MirrorDeck_H",
@@ -826,7 +826,7 @@
         "icon": "icon_mode_mirror",
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "id": 72000057,
-        "name_en": "TeamVsTeam_MirrorDeck_H"
+        "name_en": "2v2 Mirror Battle"
     },
     {
         "name": "KingOfTheHill",
@@ -840,7 +840,7 @@
         "elixir_production_overtime_multiplier": 70,
         "players": "PvP",
         "id": 72000058,
-        "name_en": "KingOfTheHill"
+        "name_en": "King of the Hill"
     },
     {
         "name": "ModernRoyale",
@@ -852,7 +852,7 @@
         "event_deck_set_limit": "Event_Modern",
         "icon": "icon_mode_retro",
         "id": 72000059,
-        "name_en": "ModernRoyale"
+        "name_en": "Modern Royale"
     },
     {
         "name": "Overtime_Ladder",
@@ -868,7 +868,7 @@
         "icon": "icon_mode_suddendeath",
         "clan_war_description": "The first player to take a tower... WINS!",
         "id": 72000060,
-        "name_en": "Overtime_Ladder"
+        "name_en": "Sudden Death Battle"
     },
     {
         "name": "DoubleElixir_Ladder",
@@ -886,7 +886,7 @@
         "clan_war_description": "Elixir generates at double speed!",
         "skin_set": "ElixerPump",
         "id": 72000061,
-        "name_en": "DoubleElixir_Ladder"
+        "name_en": "Double Elixir Battle"
     },
     {
         "name": "TripleElixir_Ladder",
@@ -905,7 +905,7 @@
         "clan_war_description": "Elixir generates at triple speed!",
         "skin_set": "ElixerPump",
         "id": 72000062,
-        "name_en": "TripleElixir_Ladder"
+        "name_en": "Triple Elixir Battle"
     },
     {
         "name": "NOTINUSE1",
@@ -922,7 +922,7 @@
         "players": "TvT",
         "icon": "icon_mode_2x_elixir",
         "id": 72000063,
-        "name_en": "NOTINUSE1"
+        "name_en": "2v2 Double Elixir"
     },
     {
         "name": "NOTINUSE2",
@@ -939,7 +939,7 @@
         "players": "TvT",
         "icon": "icon_mode_2x_elixir",
         "id": 72000064,
-        "name_en": "NOTINUSE2"
+        "name_en": "2v2 Double Elixir"
     },
     {
         "name": "Showdown_Friendly",
@@ -951,7 +951,7 @@
         "icon": "icon_clan_wars",
         "clan_war_description": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
         "id": 72000065,
-        "name_en": "Showdown_Friendly"
+        "name_en": "War Deck Battle"
     },
     {
         "name": "Showdown_Ladder",
@@ -963,7 +963,7 @@
         "icon": "icon_clan_wars",
         "clan_war_description": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
         "id": 72000066,
-        "name_en": "Showdown_Ladder"
+        "name_en": "War Deck Battle"
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Ladder",
@@ -981,7 +981,7 @@
         "icon": "icon_mode_2x_elixir",
         "clan_war_description": "Elixir generates at double speed!",
         "id": 72000067,
-        "name_en": "TeamVsTeam_DoubleElixir_Ladder"
+        "name_en": "2v2 Double Elixir"
     },
     {
         "name": "TeamVsTeam_Overtime_Ladder",
@@ -997,7 +997,7 @@
         "icon": "icon_mode_suddendeath",
         "clan_war_description": "The first player to take a tower... WINS!",
         "id": 72000068,
-        "name_en": "TeamVsTeam_Overtime_Ladder"
+        "name_en": "2v2 Sudden Death"
     },
     {
         "name": "CaptureTower_Friendly",
@@ -1010,7 +1010,7 @@
         "players": "PvP",
         "icon": "icon_mode_suddendeath",
         "id": 72000069,
-        "name_en": "CaptureTower_Friendly"
+        "name_en": "Capture Tower"
     },
     {
         "name": "RampUpElixir_Ladder",
@@ -1024,7 +1024,7 @@
         "icon": "icon_mode_ramp_up",
         "clan_war_description": "Elixir generates faster and faster throughout the battle!",
         "id": 72000070,
-        "name_en": "RampUpElixir_Ladder"
+        "name_en": "Ramp Up Battle"
     },
     {
         "name": "Rage_Friendly",
@@ -1041,7 +1041,7 @@
         "global_buff": "RageModeRage",
         "looping_effect": "Rage_mode",
         "id": 72000071,
-        "name_en": "Rage_Friendly"
+        "name_en": "Rage Battle"
     },
     {
         "name": "MirrorDeck_CW",
@@ -1058,7 +1058,7 @@
         "clan_war_description": "You have the exact same deck and starting cards as your opponent!",
         "battle_start_cooldown": 6000,
         "id": 72000072,
-        "name_en": "MirrorDeck_CW"
+        "name_en": "Mirror Battle"
     },
     {
         "name": "Rage_Ladder",
@@ -1076,7 +1076,7 @@
         "global_buff": "RageModeRage",
         "looping_effect": "Rage_mode",
         "id": 72000073,
-        "name_en": "Rage_Ladder"
+        "name_en": "Rage Battle"
     },
     {
         "name": "LavaFloor_Friendly",
@@ -1093,7 +1093,7 @@
         "global_buff": "PoisonModePoison",
         "looping_effect": "LavaFloor_mode",
         "id": 72000074,
-        "name_en": "LavaFloor_Friendly"
+        "name_en": "Lava Floor Battle"
     },
     {
         "name": "Event_NewArena1",
@@ -1106,7 +1106,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena1",
         "id": 72000075,
-        "name_en": "Event_NewArena1"
+        "name_en": "Arena 1 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena2",
@@ -1119,7 +1119,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena2",
         "id": 72000076,
-        "name_en": "Event_NewArena2"
+        "name_en": "Arena 2 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena3",
@@ -1132,7 +1132,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena3",
         "id": 72000077,
-        "name_en": "Event_NewArena3"
+        "name_en": "Arena 3 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena4",
@@ -1145,7 +1145,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena4",
         "id": 72000078,
-        "name_en": "Event_NewArena4"
+        "name_en": "Arena 4 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena5",
@@ -1158,7 +1158,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena5",
         "id": 72000079,
-        "name_en": "Event_NewArena5"
+        "name_en": "Arena 5 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena6",
@@ -1171,7 +1171,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena6",
         "id": 72000080,
-        "name_en": "Event_NewArena6"
+        "name_en": "Arena 6 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena7",
@@ -1184,7 +1184,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena7",
         "id": 72000081,
-        "name_en": "Event_NewArena7"
+        "name_en": "Arena 7 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena8",
@@ -1197,7 +1197,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena8",
         "id": 72000082,
-        "name_en": "Event_NewArena8"
+        "name_en": "Arena 8 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena9",
@@ -1210,7 +1210,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena9",
         "id": 72000083,
-        "name_en": "Event_NewArena9"
+        "name_en": "Arena 9 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena10",
@@ -1223,7 +1223,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena_L",
         "id": 72000084,
-        "name_en": "Event_NewArena10"
+        "name_en": "Arena 10 Deckbuilding Challenge"
     },
     {
         "name": "Event_NewArena11",
@@ -1236,7 +1236,7 @@
         "icon": "icon_mode_retro",
         "fixed_arena": "Arena_Electric",
         "id": 72000085,
-        "name_en": "Event_NewArena11"
+        "name_en": "Arena 11 Deckbuilding Challenge"
     },
     {
         "name": "Rage_Tournament",
@@ -1253,7 +1253,7 @@
         "global_buff": "RageModeRage",
         "looping_effect": "Rage_mode",
         "id": 72000086,
-        "name_en": "Rage_Tournament"
+        "name_en": "Rage Battle"
     },
     {
         "name": "ClassicDecks_Friendly",
@@ -1282,7 +1282,7 @@
         "clan_war_description": "Play with a premade Classic Deck!",
         "battle_start_cooldown": 6000,
         "id": 72000087,
-        "name_en": "ClassicDecks_Friendly"
+        "name_en": "Classic Decks Battle"
     },
     {
         "name": "TeamVsTeam_Rage_Ladder",
@@ -1301,7 +1301,7 @@
         "global_buff": "RageModeRage",
         "looping_effect": "Rage_mode",
         "id": 72000088,
-        "name_en": "TeamVsTeam_Rage_Ladder"
+        "name_en": "Rage Battle"
     },
     {
         "name": "ThreeVsThree",
@@ -1317,7 +1317,7 @@
         "icon": "icon_mode_2v2",
         "heist": true,
         "id": 72000089,
-        "name_en": "ThreeVsThree"
+        "name_en": "3v3"
     },
     {
         "name": "ThreeVsThreeHeist",
@@ -1333,7 +1333,7 @@
         "icon": "icon_mode_2v2",
         "heist": true,
         "id": 72000090,
-        "name_en": "ThreeVsThreeHeist"
+        "name_en": "3v3 Heist"
     },
     {
         "name": "Heist_Friendly",
@@ -1349,7 +1349,7 @@
         "icon": "icon_mode_1v1",
         "heist": true,
         "id": 72000091,
-        "name_en": "Heist_Friendly"
+        "name_en": "Heist"
     },
     {
         "name": "Heist_Draft",
@@ -1365,7 +1365,7 @@
         "icon": "icon_mode_1v1",
         "heist": true,
         "id": 72000092,
-        "name_en": "Heist_Draft"
+        "name_en": "Heist Draft"
     },
     {
         "name": "Event_Shocktober",
@@ -1378,7 +1378,7 @@
         "icon": "icon_mode_1v1",
         "fixed_arena": "Arena_Electric",
         "id": 72000093,
-        "name_en": "Event_Shocktober"
+        "name_en": "Shocktober Challenge"
     },
     {
         "name": "HeroChallenge1v1",
@@ -1391,7 +1391,7 @@
         "auto_generate_dark_elixir": 21000,
         "has_dark_elixir_collector": true,
         "id": 72000094,
-        "name_en": "HeroChallenge1v1"
+        "name_en": "Heroes Challenge"
     },
     {
         "name": "TeamVsTeam_TripleElixir_Ladder",
@@ -1410,7 +1410,7 @@
         "clan_war_description": "Elixir generates at triple speed!",
         "skin_set": "ElixerPump",
         "id": 72000095,
-        "name_en": "TeamVsTeam_TripleElixir_Ladder"
+        "name_en": "Triple Elixir Battle"
     },
     {
         "name": "Heist_Tournament",
@@ -1426,7 +1426,7 @@
         "icon": "icon_mode_1v1",
         "heist": true,
         "id": 72000096,
-        "name_en": "Heist_Tournament"
+        "name_en": "Heist"
     },
     {
         "name": "SpawnPigsMode_Friendly",
@@ -1441,7 +1441,7 @@
         "spawn_character_count": 2,
         "spawn_character_start_delay": 10000,
         "id": 72000097,
-        "name_en": "SpawnPigsMode_Friendly"
+        "name_en": "Hog Race"
     },
     {
         "name": "ClanWarMiniCollection_Friendly",
@@ -1469,7 +1469,7 @@
             "MiniCollect_AntiSet_Buildings"
         ],
         "id": 72000098,
-        "name_en": "ClanWarMiniCollection_Friendly"
+        "name_en": "Clan War Deck Mode"
     },
     {
         "name": "ClassicDecks_Helsinki2016",
@@ -1490,7 +1490,7 @@
         "icon": "icon_mode_popdeck",
         "clan_war_description": "Play with a Classic Deck from the 1st Esports tournament - Helsinki 2016!",
         "id": 72000099,
-        "name_en": "ClassicDecks_Helsinki2016"
+        "name_en": "Classic Decks: Helsinki 2016"
     },
     {
         "name": "ClassicDecks_KingsCup1",
@@ -1510,7 +1510,7 @@
         "icon": "icon_mode_popdeck",
         "clan_war_description": "Play with a Classic Deck from King's Cup 1!",
         "id": 72000100,
-        "name_en": "ClassicDecks_KingsCup1"
+        "name_en": "Classic Decks: King's Cup 1"
     },
     {
         "name": "ClanWarMiniCollection_Ladder",
@@ -1538,7 +1538,7 @@
             "MiniCollect_AntiSet_Buildings"
         ],
         "id": 72000101,
-        "name_en": "ClanWarMiniCollection_Ladder"
+        "name_en": "Clan War Deck Mode"
     },
     {
         "name": "ClanWarMiniCollection_Tournament",
@@ -1566,7 +1566,7 @@
             "MiniCollect_AntiSet_Buildings"
         ],
         "id": 72000102,
-        "name_en": "ClanWarMiniCollection_Tournament"
+        "name_en": "Clan War Deck Mode"
     },
     {
         "name": "Boosts_Friendly",
@@ -1578,7 +1578,7 @@
         "players": "PvP",
         "icon": "icon_mode_1v1",
         "id": 72000103,
-        "name_en": "Boosts_Friendly"
+        "name_en": "Random Boosts"
     },
     {
         "name": "Snowball_bombardment",
@@ -1592,7 +1592,7 @@
         "spawn_character_start_delay": 8000,
         "spawn_projectile": "SnowballSpell",
         "id": 72000104,
-        "name_en": "Snowball_bombardment"
+        "name_en": "Snowball bombardment"
     },
     {
         "name": "RampUpElixirSpawnPigsMode_Friendly",
@@ -1607,7 +1607,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000105,
-        "name_en": "RampUpElixirSpawnPigsMode_Friendly"
+        "name_en": "Hog Race"
     },
     {
         "name": "DraftSpawnPigsMode_Friendly",
@@ -1622,7 +1622,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000106,
-        "name_en": "DraftSpawnPigsMode_Friendly"
+        "name_en": "Hog Race"
     },
     {
         "name": "RampUpElixirSpawnPigsMode_Tournament",
@@ -1637,7 +1637,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000107,
-        "name_en": "RampUpElixirSpawnPigsMode_Tournament"
+        "name_en": "Hog Race"
     },
     {
         "name": "EventDeckrSpawnPigsMode_Tournament",
@@ -1652,7 +1652,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000108,
-        "name_en": "EventDeckrSpawnPigsMode_Tournament"
+        "name_en": "Hog Race"
     },
     {
         "name": "RampUpElixirEventDeckSpawnPigsMode_Friendly",
@@ -1667,7 +1667,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000109,
-        "name_en": "RampUpElixirEventDeckSpawnPigsMode_Friendly"
+        "name_en": "Hog Race"
     },
     {
         "name": "RampUpElixirDraftSpawnPigsMode_Friendly",
@@ -1682,7 +1682,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000110,
-        "name_en": "RampUpElixirDraftSpawnPigsMode_Friendly"
+        "name_en": "Hog Race"
     },
     {
         "name": "TeamVsTeamSpellSupportDraft",
@@ -1698,7 +1698,7 @@
         "icon": "icon_mode_draft",
         "spell_support": true,
         "id": 72000111,
-        "name_en": "TeamVsTeamSpellSupportDraft"
+        "name_en": "2v2 Draft Battle"
     },
     {
         "name": "RampFatigue",
@@ -1711,7 +1711,7 @@
         "fatigue_amount": 100,
         "fatigue_interval": 2000,
         "id": 72000112,
-        "name_en": "RampFatigue"
+        "name_en": "Ramp Up Fatigue Mode"
     },
     {
         "name": "TestBuff",
@@ -1724,7 +1724,7 @@
         "buff_character": "MiniPekka",
         "buff_name": "Invisibility",
         "id": 72000113,
-        "name_en": "TestBuff"
+        "name_en": "Snowball bombardment"
     },
     {
         "name": "HeroChallenge_draft2",
@@ -1736,7 +1736,7 @@
         "players": "PvP",
         "auto_generate_dark_elixir": 14000,
         "id": 72000114,
-        "name_en": "HeroChallenge_draft2"
+        "name_en": "Heroes Challenge"
     },
     {
         "name": "HeroChallenge_draft3",
@@ -1750,7 +1750,7 @@
         "has_dark_elixir_collector": true,
         "capturable_building": "DarkElixirCollector",
         "id": 72000115,
-        "name_en": "HeroChallenge_draft3"
+        "name_en": "Heroes Challenge"
     },
     {
         "name": "ElixirCollectorCapture_Friendly",
@@ -1764,7 +1764,7 @@
         "capturable_building_respawn_interval": 31500,
         "elixir_spawn_interval": 21000,
         "id": 72000116,
-        "name_en": "ElixirCollectorCapture_Friendly"
+        "name_en": "1v1 Battle"
     },
     {
         "name": "CaptureTheEgg_Friendly",
@@ -1777,7 +1777,7 @@
         "capturable_building": "DragonEgg",
         "capturable_building_respawn_interval": 31500,
         "id": 72000117,
-        "name_en": "CaptureTheEgg_Friendly"
+        "name_en": "1v1 Battle"
     },
     {
         "name": "DoubleDeck_Friendly",
@@ -1791,7 +1791,7 @@
         "icon": "icon_mode_1v1",
         "deck_size": 16,
         "id": 72000118,
-        "name_en": "DoubleDeck_Friendly"
+        "name_en": "Mega Deck"
     },
     {
         "name": "DoubleDeck_Tournament",
@@ -1805,7 +1805,7 @@
         "icon": "icon_mode_1v1",
         "deck_size": 18,
         "id": 72000119,
-        "name_en": "DoubleDeck_Tournament"
+        "name_en": "Mega Deck"
     },
     {
         "name": "RampUpElixirRageJacksMode_Tournament",
@@ -1824,7 +1824,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 13500,
         "id": 72000120,
-        "name_en": "RampUpElixirRageJacksMode_Tournament"
+        "name_en": "Lumberjack Rush"
     },
     {
         "name": "EventDeck_Rage_SpawnJacks_Friendly",
@@ -1841,7 +1841,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 19000,
         "id": 72000121,
-        "name_en": "EventDeck_Rage_SpawnJacks_Friendly"
+        "name_en": "Lumberjack Rage Rush"
     },
     {
         "name": "Draft_Rage_SpawnJacks_Friendly",
@@ -1857,7 +1857,7 @@
         "spawn_character_count": 1,
         "spawn_character_start_delay": 19000,
         "id": 72000122,
-        "name_en": "Draft_Rage_SpawnJacks_Friendly"
+        "name_en": "Lumberjack Rage Draft"
     },
     {
         "name": "ElixirCollectorCapture_Tournament",
@@ -1871,7 +1871,7 @@
         "capturable_building_respawn_interval": 31500,
         "elixir_spawn_interval": 21000,
         "id": 72000123,
-        "name_en": "ElixirCollectorCapture_Tournament"
+        "name_en": "Elixir Capture"
     },
     {
         "name": "CaptureTheEgg_Tournament",
@@ -1884,6 +1884,6 @@
         "capturable_building": "DragonEgg",
         "capturable_building_respawn_interval": 31500,
         "id": 72000124,
-        "name_en": "CaptureTheEgg_Tournament"
+        "name_en": "Dragon Hunt"
     }
 ]

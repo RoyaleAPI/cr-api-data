@@ -233,6 +233,10 @@ class BaseGen:
         for k, v in row.items():
             if isinstance(v, str) and v.startswith('TID'):
                 row[k] = self.text(tid=v, lang="EN")
+        tid = row.get('tid')
+        if tid:
+            row['name_en'] = tid
+
         return row
 
     def row_parse_dict_list(self, row):
