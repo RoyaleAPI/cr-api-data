@@ -24,7 +24,7 @@ if __name__ == '__main__':
         Rarities, # v2 done
         # ChestOrder,
         # ClanChest,
-        # GameModes,
+        GameModes,
         # Regions,
         Arenas, # v2 done
         # TreasureChests,

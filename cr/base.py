@@ -88,7 +88,7 @@ class BaseGen:
                 return arena
         return None
 
-    def text(self, tid, lang):
+    def text(self, tid, lang="EN"):
         """Return field by TID and Language
 
         quests_hint = self.text('TID_HINT_QUESTS', 'EN')
@@ -227,3 +227,18 @@ class BaseGen:
     def run(self):
         """Abstract method."""
         pass
+
+    def row_parse_tid(self, row):
+        """Convert TID values into text."""
+        for k, v in row.items():
+            if isinstance(v, str) and v.startswith('TID'):
+                row[k] = self.text(tid=v, lang="EN")
+        return row
+
+    def row_parse_dict_list(self, row):
+        """Convert dict lists as simple lists."""
+        for k, v in row.items():
+            if isinstance(v, dict):
+                row[k] = list(v.values())
+        return row
+
