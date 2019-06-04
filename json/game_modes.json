@@ -739,7 +739,9 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "MirrorDeck",
+        "predefined_decks": [
+            "MirrorDeck"
+        ],
         "same_deck_on_both": true,
         "players": "PvP",
         "icon": "icon_mode_mirror",
@@ -756,7 +758,9 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "MirrorDeck2v2",
+        "predefined_decks": [
+            "MirrorDeck2v2"
+        ],
         "same_deck_on_both": true,
         "separate_team_decks": true,
         "players": "TvT",
@@ -803,7 +807,9 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "MirrorDeck_H",
+        "predefined_decks": [
+            "MirrorDeck_H"
+        ],
         "same_deck_on_both": true,
         "players": "PvP",
         "icon": "icon_mode_mirror",
@@ -819,7 +825,9 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "MirrorDeck2v2_H",
+        "predefined_decks": [
+            "MirrorDeck2v2_H"
+        ],
         "same_deck_on_both": true,
         "separate_team_decks": true,
         "players": "TvT",
@@ -1051,7 +1059,9 @@
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
-        "predefined_decks": "MirrorDeck_CW",
+        "predefined_decks": [
+            "MirrorDeck_CW"
+        ],
         "same_deck_on_both": true,
         "players": "PvP",
         "icon": "icon_mode_mirror",

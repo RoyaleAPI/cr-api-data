@@ -246,3 +246,13 @@ class BaseGen:
                 row[k] = list(v.values())
         return row
 
+    def row_force_list(self, row, key):
+        """Force a key to always output lists."""
+        for k, v in row.items():
+            if k != key:
+                continue
+
+            if isinstance(v, str):
+                row[k] = [v]
+
+        return row
