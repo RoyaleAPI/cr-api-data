@@ -278,3 +278,15 @@ class BaseGen:
                 row[k] = [v]
 
         return row
+
+    def get_card(self, sc_key=None):
+        """Convert SC card keys to keys"""
+        with open(self.json_path_by_id(id="cards")) as f:
+            cards = json.load(f)
+
+        if sc_key is not None:
+            for c in cards:
+                if c.get('sc_key') == sc_key:
+                    return c
+
+        return None

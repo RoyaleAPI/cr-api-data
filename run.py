@@ -31,13 +31,13 @@ if __name__ == '__main__':
 
     # legacy to be converted
     to_run.extend([
-        # Cards,
-        # ChestOrder,
-        # ClanChest,
-        # Regions,
-        # TreasureChests,
-        # CardStats,
-        # Tournaments,
+        Cards,
+        ChestOrder,
+        ClanChest,
+        Regions,
+        TreasureChests,
+        CardStats,
+        Tournaments,
     ])
 
     for cls in to_run:

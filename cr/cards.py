@@ -96,6 +96,7 @@ class Cards(BaseGen):
                                 card = {
                                     'key': key,
                                     'name': name_en,
+                                    'sc_key': row['Name'],
                                     'elixir': elixir,
                                     'type': card_config.type,
                                     'rarity': row['Rarity'],
