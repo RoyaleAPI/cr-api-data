@@ -1,6 +1,6 @@
 csv:
-  base: ./lib/cr-csv/assets
-#  base: /Users/sml/git/cr-csv-dev
+#  base: ./lib/cr-csv/assets
+  base: /Users/sml/git/cr-csv-dev
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv
     area_effect_objects: ./csv_logic/area_effect_objects.csv
@@ -11,6 +11,7 @@ csv:
     chest_order: ./csv_logic/chest_order.csv
     clan_chest: ./csv_logic/globals.csv
     game_modes: ./csv_logic/game_modes.csv
+    predefined_decks: ./csv_logic/predefined_decks.csv
     projectiles: ./csv_logic/projectiles.csv
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
@@ -31,6 +32,7 @@ json:
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
   game_modes: ./game_modes.json
+  predefined_decks: ./predefined_decks.json
   rarities: ./rarities.json
   regions: ./regions.json
   tournaments: ./tournaments.json

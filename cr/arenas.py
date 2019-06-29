@@ -2,8 +2,6 @@
 Generate arenas JSON from APK CSV source.
 """
 
-import os
-
 from csv2json import read_csv
 from .base import BaseGen
 
@@ -21,8 +19,7 @@ class Arenas(BaseGen):
 
     def run(self):
         """Generate json."""
-        csv_path = os.path.join(self.config.csv.base, self.config.csv.path.arenas)
-        arenas = read_csv(csv_path)
+        arenas = read_csv(self.csv_path)
 
         # add scid
         base_scid = 54000000
@@ -43,5 +40,4 @@ class Arenas(BaseGen):
         # sort arenas by trophy limit
         arenas = sorted(arenas, key=lambda x: x['trophy_limit'])
 
-        json_path = os.path.join(self.config.json.base, self.config.json.arenas)
-        self.save_json(arenas, json_path)
+        self.save_json(arenas)

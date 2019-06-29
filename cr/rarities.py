@@ -10,7 +10,7 @@ from .base import BaseGen
 
 class Rarities(BaseGen):
     def __init__(self, config):
-        super().__init__(config)
+        super().__init__(config, id="rarities")
 
     def run(self):
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.rarities)

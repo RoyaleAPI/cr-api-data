@@ -2,8 +2,6 @@
 Game modes
 """
 
-import os
-
 from csv2json import read_csv
 from .base import BaseGen
 
@@ -13,8 +11,7 @@ class GameModes(BaseGen):
         super().__init__(config, id="game_modes", null_int=True)
 
     def run(self):
-        csv_path = os.path.join(self.config.csv.base, self.config.csv.path.game_modes)
-        data_list = read_csv(csv_path)
+        data_list = read_csv(self.csv_path)
 
         out = []
         id_ = 0

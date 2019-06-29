@@ -17,21 +17,28 @@ if __name__ == '__main__':
     with open(config_path) as f:
         config = Box(yaml.safe_load(f))
 
+    to_run = []
 
-    to_run = [
-        # AllianceBadges,
+    # v2 runs
+    to_run.extend([
+        Arenas,
+        Rarities,
+        PredefinedDecks,
+        AllianceBadges,
+        GameModes,
+        Challenges,
+    ])
+
+    # legacy to be converted
+    to_run.extend([
         # Cards,
-        Rarities, # v2 done
         # ChestOrder,
         # ClanChest,
-        GameModes,
         # Regions,
-        Arenas, # v2 done
         # TreasureChests,
         # CardStats,
         # Tournaments,
-        # Challenges
-    ]
+    ])
 
     for cls in to_run:
         app = cls(config=config)

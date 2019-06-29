@@ -3,6 +3,7 @@ Clan badges
 """
 
 from .base import BaseGen
+from csv2json import read_csv
 
 
 class AllianceBadges(BaseGen):
@@ -10,7 +11,9 @@ class AllianceBadges(BaseGen):
         super().__init__(config, id="alliance_badges", null_int=True)
 
     def run(self):
-        data = self.load_csv(exclude_empty=True)
+        data = read_csv(self.csv_path)
+
+        # data = self.load_csv(exclude_empty=True)
         for id, row in enumerate(data):
             row['id'] = 16000000 + id
         self.save_json(data)

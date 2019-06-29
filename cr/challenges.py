@@ -2,46 +2,26 @@
 Challenges
 """
 
+from csv2json import read_csv
 from .base import BaseGen
+
 
 class Challenges(BaseGen):
     def __init__(self, config):
         super().__init__(config, id="challenges", null_int=False)
-        self.include_fields = [
-            'Name',
-            'GameMode', 'Enabled', 'JoinCost', 'JoinCostResource',
-            'MaxWins', 'MaxLoss', 'RewardCards', 'RewardGold',
-            'RewardSpell', 'RewardSpellMaxCount', 'TID'
-        ]
 
     def run(self):
-        data = self.load_csv()
-        out = []
-        item = None
-
-        item_count = 0
+        data = read_csv(self.csv_path)
 
         for i, row in enumerate(data):
             row_name = row.get('name')
-            if row_name is not None:
-                if item is not None:
-                    out.append(item)
-                item = row.copy()
-                item['key'] = item['name']
-                item['id'] = 65000000 + item_count
-                item_count += 1
-            else:
-                for field in ['reward_cards', 'reward_gold']:
-                    if row.get(field):
-                        if not isinstance(item.get(field), list):
-                            item[field] = [item[field]]
-                        item[field].append(row[field])
+            if row_name is None:
+                continue
+            row.update(dict(
+                key=row_name,
+                id=65000000 + i
+            ))
 
+        data = self.value_dict_to_list(data)
 
-        # include last row
-        out.append(item)
-
-        # remove disabled
-        # out = [o for o in out if o['enabled']]
-
-        self.save_json(out)
+        self.save_json(data)

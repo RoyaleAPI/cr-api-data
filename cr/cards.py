@@ -69,6 +69,10 @@ class Cards(BaseGen):
                         print(process, card_num, row)
 
                         if process:
+                            tid = row.get('TID')
+                            txt = self.text(tid, "EN")
+                            print(txt)
+
                             name_en = self.text(row['TID'], 'EN')
                             if name_en == '':
                                 name_en = row['Name']

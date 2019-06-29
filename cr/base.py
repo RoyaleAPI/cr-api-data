@@ -27,16 +27,8 @@ class BaseGen:
     def __init__(self, config, id=None, json_id=None, null_int=False):
         self.config = config
 
-        self.csv_path = None
-        self.json_path = None
-        if id is not None:
-            self.csv_path = self.csv_path_by_id(id)
-
-            if json_id is None:
-                self.json_path = self.json_path_by_id(id)
-
-        if json_id is not None:
-            self.json_path = self.json_path_by_id(json_id)
+        self._id = id
+        self._json_id = json_id
 
         self.include_fields = []
         self.exclude_fields = []
@@ -45,6 +37,22 @@ class BaseGen:
         self._arenas = None
 
         self.null_int = null_int
+
+    @property
+    def csv_path(self):
+        p = None
+        if self._id is not None:
+            p = self.csv_path_by_id(self._id)
+        return p
+
+    @property
+    def json_path(self):
+        p = None
+        if self._json_id is not None:
+            p = self.json_path_by_id(self._json_id)
+        elif self._id is not None:
+            p = self.json_path_by_id(self._id)
+        return p
 
     def csv_path_by_id(self, id):
         return os.path.join(self.config.csv.base, self.config.csv.path[id])
@@ -103,7 +111,7 @@ class BaseGen:
                 with open(csv_path, encoding="utf8") as f:
                     texts_reader = csv.DictReader(f)
                     for row in texts_reader:
-                        keys = ['v', ' ']
+                        keys = ['v', 'e', ' ']
                         for key in keys:
                             if key in row.keys():
                                 if row.get(key) == tid:
@@ -113,6 +121,20 @@ class BaseGen:
                 _text = ''
 
         return _text
+
+    def convert_row_tid(self, tid_key=None, key=None, rows=None, lang="EN", remove_tid_key=False):
+        rows = rows or []
+
+        for row in rows:
+            if tid_key in row.keys():
+                tid = row.get(tid_key)
+                if tid is not None:
+                    txt = self.text(tid, lang=lang)
+                    row[key] = txt
+                    if remove_tid_key:
+                        row.pop(tid_key)
+
+        return rows
 
     def row_value(self, row, field):
         """Row value cast with field type.

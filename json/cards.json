@@ -610,6 +610,16 @@
         "id": 26000060
     },
     {
+        "key": "fisherman",
+        "name": "Fisherman",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 10,
+        "description": "His Ranged Attack can pull enemies towards him, and pull himself to enemy buildings. He's also mastered the ancient art of 'Fish Slapping'.",
+        "id": 26000061
+    },
+    {
         "key": "magic-archer",
         "name": "Magic Archer",
         "elixir": 4,
@@ -746,7 +756,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 12,
-        "description": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler never skips leg day.",
+        "description": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler always skips leg day.",
         "id": 27000012
     },
     {
