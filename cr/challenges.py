@@ -19,8 +19,12 @@ class Challenges(BaseGen):
                 continue
             row.update(dict(
                 key=row_name,
-                id=65000000 + i
+                id=65000000 + i,
             ))
+            if row.get('tid'):
+                row.update(dict(
+                    name_en=self.text(row["tid"], "EN")
+                ))
 
         data = self.value_dict_to_list(data)
 

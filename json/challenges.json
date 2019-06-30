@@ -44,7 +44,8 @@
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_GOLD",
         "key": "Gold",
-        "id": 65000000
+        "id": 65000000,
+        "name_en": "Grand Challenge"
     },
     {
         "name": "Bronze",
@@ -91,7 +92,8 @@
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_BRONZE",
         "key": "Bronze",
-        "id": 65000001
+        "id": 65000001,
+        "name_en": "Classic Challenge"
     },
     {
         "name": "KingsCup",
