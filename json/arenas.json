@@ -1304,6 +1304,7 @@
     {
         "name": "Arena_Boat",
         "arena": 0,
+        "league": 1,
         "league_arena_swf": "sc/ui_arena.sc",
         "chest_arena": "Arena_L1",
         "tv_arena": "Arena_L1",
@@ -1345,6 +1346,7 @@
     {
         "name": "Arena_Flood",
         "arena": 0,
+        "league": 1,
         "league_arena_swf": "sc/ui_arena.sc",
         "chest_arena": "Arena_L1",
         "tv_arena": "Arena_L1",
@@ -1382,6 +1384,7 @@
     {
         "name": "Arena_Shipwreck",
         "arena": 0,
+        "league": 1,
         "league_arena_swf": "sc/ui_arena.sc",
         "chest_arena": "Arena_L1",
         "tv_arena": "Arena_L1",
