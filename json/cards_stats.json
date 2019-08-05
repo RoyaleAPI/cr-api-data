@@ -527,14 +527,14 @@
             "sight_range": 5000,
             "deploy_time": 1000,
             "speed": 45,
-            "hitpoints": 2600,
+            "hitpoints": 2350,
             "hit_speed": 1800,
             "load_time": 1300,
             "damage": 510,
             "load_first_hit": false,
             "load_after_retarget": false,
             "all_targets_hit": false,
-            "range": 750,
+            "range": 1600,
             "special_ignore_buildings": false,
             "special_attacks_to_ignore_list": false,
             "attacks_ground": true,
@@ -587,15 +587,15 @@
             "speed_en": "slow",
             "dps": 283.3333333333333,
             "hitpoints_per_level": [
-                2600,
-                2860,
-                3146,
-                3458,
-                3796,
-                4160,
-                4576,
-                5018,
-                5512
+                2350,
+                2585,
+                2843,
+                3125,
+                3431,
+                3760,
+                4136,
+                4535,
+                4982
             ],
             "damage_per_level": [
                 510,
@@ -1516,7 +1516,7 @@
             "special_attacks_to_ignore_list": false,
             "attacks_ground": true,
             "attacks_air": false,
-            "area_damage_radius": 2400,
+            "area_damage_radius": 1900,
             "target_only_buildings": false,
             "target_only_troops": false,
             "prestige_swf": "sc/chr_prestige2_dl.sc",
@@ -3907,8 +3907,8 @@
             "deploy_time": 1000,
             "speed": 120,
             "hitpoints": 1060,
-            "hit_speed": 700,
-            "load_time": 300,
+            "hit_speed": 800,
+            "load_time": 400,
             "damage": 200,
             "load_first_hit": false,
             "load_after_retarget": false,
@@ -3965,7 +3965,7 @@
             "summon_character": "RageBarbarian",
             "summon_number": 1,
             "speed_en": "very fast",
-            "dps": 285.7142857142857,
+            "dps": 250.0,
             "hitpoints_per_level": [
                 1060,
                 1166,
@@ -3983,12 +3983,12 @@
                 314
             ],
             "dps_per_level": [
-                285,
-                314,
-                345,
-                380,
-                417,
-                448
+                250,
+                275,
+                302,
+                332,
+                365,
+                392
             ]
         },
         {
@@ -8007,8 +8007,8 @@
             "deploy_time": 1000,
             "speed": 60,
             "hitpoints": 490,
-            "hit_speed": 1000,
-            "load_time": 400,
+            "hit_speed": 1100,
+            "load_time": 600,
             "load_first_hit": false,
             "load_after_retarget": false,
             "projectile": "EliteArcherArrow",
@@ -8077,20 +8077,20 @@
                 769
             ],
             "damage_per_level": [
-                96,
-                105,
-                116,
-                127,
-                140,
-                150
+                111,
+                122,
+                134,
+                147,
+                162,
+                174
             ],
             "dps_per_level": [
-                96,
-                105,
-                116,
-                127,
-                140,
-                150
+                111,
+                122,
+                134,
+                147,
+                162,
+                174
             ],
             "projectile_data": {
                 "name": "EliteArcherArrow",
@@ -8100,7 +8100,7 @@
                 "homing_time": 100,
                 "homing_min_distance": 5000,
                 "hit_effect_at_projectile": false,
-                "damage": 96,
+                "damage": 111,
                 "radius": 250,
                 "aoe_to_air": true,
                 "aoe_to_ground": true,
@@ -8120,21 +8120,21 @@
                 "drag_back_as_attractor": false,
                 "check_collisions": false,
                 "damage_per_level": [
-                    96,
-                    105,
-                    116,
-                    127,
-                    140,
-                    150
+                    111,
+                    122,
+                    134,
+                    147,
+                    162,
+                    174
                 ],
-                "dps": 96,
+                "dps": 111,
                 "dps_per_level": [
-                    96,
-                    105,
-                    116,
-                    127,
-                    140,
-                    150
+                    111,
+                    122,
+                    134,
+                    147,
+                    162,
+                    174
                 ]
             }
         },
@@ -8853,7 +8853,7 @@
             "sight_range": 7500,
             "deploy_time": 1000,
             "speed": 60,
-            "hitpoints": 800,
+            "hitpoints": 881,
             "hit_speed": 1500,
             "load_time": 1200,
             "damage": 190,
@@ -8862,7 +8862,7 @@
             "all_targets_hit": false,
             "range": 1200,
             "special_min_range": 3500,
-            "special_range": 6500,
+            "special_range": 7000,
             "special_load_time": 1000,
             "special_ignore_buildings": false,
             "special_attacks_to_ignore_list": false,
@@ -8923,12 +8923,12 @@
             "speed_en": "medium",
             "dps": 126.66666666666667,
             "hitpoints_per_level": [
-                800,
-                880,
-                968,
-                1064,
-                1168,
-                1256
+                881,
+                969,
+                1066,
+                1171,
+                1286,
+                1383
             ],
             "damage_per_level": [
                 190,
@@ -15685,7 +15685,7 @@
             "prestige_red_export_name2": "barb_barrel_roll_projectile_red_prestige",
             "homing": false,
             "hit_effect_at_projectile": false,
-            "damage": 165,
+            "damage": 140,
             "aoe_to_air": false,
             "aoe_to_ground": true,
             "only_enemies": true,
@@ -15708,27 +15708,27 @@
             "drag_back_as_attractor": false,
             "check_collisions": false,
             "damage_per_level": [
-                165,
-                181,
-                199,
-                219,
-                240,
-                264,
-                290,
-                318,
-                349
+                140,
+                154,
+                169,
+                186,
+                204,
+                224,
+                246,
+                270,
+                296
             ],
-            "dps": 825,
+            "dps": 700,
             "dps_per_level": [
-                825,
-                907,
-                998,
-                1097,
-                1204,
-                1320,
-                1452,
-                1592,
-                1749
+                700,
+                770,
+                847,
+                931,
+                1022,
+                1120,
+                1232,
+                1351,
+                1484
             ]
         },
         {
@@ -15739,7 +15739,7 @@
             "homing_time": 100,
             "homing_min_distance": 5000,
             "hit_effect_at_projectile": false,
-            "damage": 96,
+            "damage": 111,
             "radius": 250,
             "aoe_to_air": true,
             "aoe_to_ground": true,
@@ -15759,21 +15759,21 @@
             "drag_back_as_attractor": false,
             "check_collisions": false,
             "damage_per_level": [
-                96,
-                105,
-                116,
-                127,
-                140,
-                150
+                111,
+                122,
+                134,
+                147,
+                162,
+                174
             ],
-            "dps": 96,
+            "dps": 111,
             "dps_per_level": [
-                96,
-                105,
-                116,
-                127,
-                140,
-                150
+                111,
+                122,
+                134,
+                147,
+                162,
+                174
             ]
         },
         {

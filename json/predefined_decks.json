@@ -2732,13 +2732,13 @@
         "name_en": "Ice Bow"
     },
     {
-        "name": "Blind_Classic_9",
+        "name": "Blind_Classic_Graveyard",
         "spells": [
             "graveyard",
             "cannon-cart",
             "ice-wizard",
             "baby-dragon",
-            "tombstone",
+            "goblin-cage",
             "barbarian-barrel",
             "tornado",
             "poison"
@@ -3407,5 +3407,105 @@
         ],
         "tid": "TID_Blind_FloodHound4",
         "name_en": "Lava-Loon"
+    },
+    {
+        "name": "Blind_Classic_HogQuake",
+        "spells": [
+            "hog-rider",
+            "valkyrie",
+            "archers",
+            "skeletons",
+            "inferno-tower",
+            "barbarian-barrel",
+            "giant-snowball",
+            "earthquake"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_HOGQUAKE",
+        "name_en": "Hog-Quake!"
+    },
+    {
+        "name": "Blind_Classic_RamRush",
+        "spells": [
+            "ram-rider",
+            "bandit",
+            "lumberjack",
+            "musketeer",
+            "giant-snowball",
+            "barbarian-barrel",
+            "ice-golem",
+            "minions"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_RAMRUSH",
+        "name_en": "Ram Rushers"
+    },
+    {
+        "name": "Blind_Classic_GiantPrince",
+        "spells": [
+            "giant",
+            "the-log",
+            "zap",
+            "fireball",
+            "prince",
+            "electro-dragon",
+            "mega-minion",
+            "miner"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_GIANTPRINCE",
+        "name_en": "Gigantic Prince"
+    },
+    {
+        "name": "Blind_Classic_Balloon",
+        "spells": [
+            "balloon",
+            "ice-golem",
+            "ice-spirit",
+            "giant-snowball",
+            "lumberjack",
+            "musketeer",
+            "bats",
+            "barbarian-barrel"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_BALLOONCYCLE",
+        "name_en": "Snow Balloons"
     }
 ]

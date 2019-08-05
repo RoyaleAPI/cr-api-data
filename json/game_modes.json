@@ -1274,12 +1274,12 @@
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
         "predefined_decks": [
-            "Blind_Classic_HogRider",
-            "Blind_Classic_RoyalGiant",
-            "Blind_Classic_Giant",
-            "Blind_Classic_Pekka",
+            "Blind_Classic_HogQuake",
+            "Blind_Classic_RamRush",
+            "Blind_Classic_GiantPrince",
+            "Blind_Classic_Balloon",
             "Blind_Classic_Golem",
-            "Blind_Classic_LogBait"
+            "Blind_Classic_Graveyard"
         ],
         "separate_team_decks": true,
         "players": "PvP",

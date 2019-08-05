@@ -35,7 +35,7 @@ if __name__ == '__main__':
         ChestOrder,
         ClanChest,
         Regions,
-        TreasureChests,
+        # TreasureChests,
         CardStats,
         Tournaments,
     ])
