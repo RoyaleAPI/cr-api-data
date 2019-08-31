@@ -21,23 +21,23 @@ if __name__ == '__main__':
 
     # v2 runs
     to_run.extend([
-        Arenas,
-        Rarities,
-        PredefinedDecks,
-        AllianceBadges,
-        GameModes,
-        Challenges,
+        # Arenas,
+        # Rarities,
+        # PredefinedDecks,
+        # AllianceBadges,
+        # GameModes,
+        # Challenges,
     ])
 
     # legacy to be converted
     to_run.extend([
-        Cards,
-        ChestOrder,
-        ClanChest,
-        Regions,
+        # Cards,
+        # ChestOrder,
+        # ClanChest,
+        # Regions,
         # TreasureChests,
         CardStats,
-        Tournaments,
+        # Tournaments,
     ])
 
     for cls in to_run:

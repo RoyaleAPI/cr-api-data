@@ -674,7 +674,7 @@
         "key": "fisherman",
         "name": "Fisherman",
         "sc_key": "Fisherman",
-        "elixir": 4,
+        "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 10,

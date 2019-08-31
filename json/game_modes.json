@@ -1985,10 +1985,10 @@
         "predefined_decks": [
             "Blind_Classic_RoyalHogs",
             "Blind_Classic_MegaKnight",
-            "Blind_Classic_Mortar",
+            "Blind_Classic_LavaClone",
             "Blind_Classic_GoblinGiant",
-            "Blind_Classic_Xbow",
-            "Blind_Classic_LavaLoon"
+            "Blind_Classic_HogRider",
+            "Blind_Classic_Balloon"
         ],
         "separate_team_decks": true,
         "players": "PvP",
@@ -2266,5 +2266,42 @@
         "clan_war_description": "Play with a Classic Deck from King's Cup 1!",
         "id": 72000149,
         "name_en": "Take To The Skies"
+    },
+    {
+        "name": "SpawnBanditMode_Ladder",
+        "tid": "Bandit Dash!",
+        "card_level_adjustment": "Ladder",
+        "deck_selection": "Collection",
+        "overtime_seconds": 180,
+        "players": "PvP",
+        "icon": "icon_mode_1v1",
+        "fixed_arena": "Arena9",
+        "clan_war_description": "Bandits dash from your Towers swiftly, defend your Towers!",
+        "spawn_character": "Assassin",
+        "spawn_character_interval": 8000,
+        "spawn_character_count": 1,
+        "spawn_character_start_delay": 4000,
+        "spell_support": true,
+        "id": 72000150,
+        "name_en": "Bandit Dash!"
+    },
+    {
+        "name": "LegendaryParty_Blind",
+        "tid": "Legendary Party!",
+        "card_level_adjustment": "Friendly",
+        "deck_selection": "Predefined",
+        "overtime_seconds": 180,
+        "predefined_decks": [
+            "LegendaryParty_1",
+            "LegendaryParty_2",
+            "LegendaryParty_3"
+        ],
+        "separate_team_decks": true,
+        "players": "PvP",
+        "icon": "icon_mode_popdeck",
+        "clan_war_description": "Play with a premade Classic Deck!",
+        "battle_start_cooldown": 6000,
+        "id": 72000151,
+        "name_en": "Legendary Party!"
     }
 ]

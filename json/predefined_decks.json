@@ -3507,5 +3507,105 @@
         ],
         "tid": "TID_CLASSIC_BALLOONCYCLE",
         "name_en": "Snow Balloons"
+    },
+    {
+        "name": "Blind_Classic_LavaClone",
+        "spells": [
+            "lava-hound",
+            "baby-dragon",
+            "flying-machine",
+            "bats",
+            "clone",
+            "lumberjack",
+            "skeleton-army",
+            "zap"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_LAVACLONE",
+        "name_en": "Lava Clones"
+    },
+    {
+        "name": "LegendaryParty_1",
+        "spells": [
+            "mega-knight",
+            "ram-rider",
+            "night-witch",
+            "royal-ghost",
+            "bandit",
+            "ice-wizard",
+            "zap",
+            "lightning"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLIND_LEGENDARYPARTY1",
+        "name_en": "Mega Rider"
+    },
+    {
+        "name": "LegendaryParty_2",
+        "spells": [
+            "lava-hound",
+            "graveyard",
+            "electro-wizard",
+            "miner",
+            "lumberjack",
+            "magic-archer",
+            "the-log",
+            "rocket"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLIND_LEGENDARYPARTY2",
+        "name_en": "Grave Hound"
+    },
+    {
+        "name": "LegendaryParty_3",
+        "spells": [
+            "lumberjack",
+            "fisherman",
+            "princess",
+            "sparky",
+            "inferno-dragon",
+            "ice-wizard",
+            "barbarian-barrel",
+            "fireball"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLIND_LEGENDARYPARTY3",
+        "name_en": "Man & Machine"
     }
 ]
