@@ -49,4 +49,9 @@ class TextsGen(BaseGen):
             )
         )
 
-        self.save_json(out)
+        # convert list to dict
+        ret = dict()
+        for o in out:
+            ret[o.get('sc_key')] = o
+
+        self.save_json(ret)
