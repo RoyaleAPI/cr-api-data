@@ -35,6 +35,7 @@ json:
   predefined_decks: ./predefined_decks.json
   rarities: ./rarities.json
   regions: ./regions.json
+  texts: ./texts.json
   tournaments: ./tournaments.json
   treasure_chests: ./treasure_chests.json
 

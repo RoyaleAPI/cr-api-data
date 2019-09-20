@@ -21,6 +21,7 @@ if __name__ == '__main__':
 
     # v2 runs
     to_run.extend([
+        TextsGen,
         # Arenas,
         # Rarities,
         # PredefinedDecks,
