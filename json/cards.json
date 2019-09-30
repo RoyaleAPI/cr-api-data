@@ -704,6 +704,17 @@
         "id": 26000063
     },
     {
+        "key": "elixir-golem",
+        "name": "Elixir Golem",
+        "sc_key": "ElixirGolem",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Rare",
+        "arena": 12,
+        "description": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. A Blob gives your opponent 1 Elixir when destroyed!",
+        "id": 26000067
+    },
+    {
         "key": "cannon",
         "name": "Cannon",
         "sc_key": "Cannon",

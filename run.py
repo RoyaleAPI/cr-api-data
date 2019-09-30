@@ -32,12 +32,12 @@ if __name__ == '__main__':
 
     # legacy to be converted
     to_run.extend([
-        # Cards,
+        Cards,
         # ChestOrder,
         # ClanChest,
         # Regions,
         # TreasureChests,
-        CardStats,
+        # CardStats,
         # Tournaments,
     ])
 
