@@ -24,9 +24,9 @@ if __name__ == '__main__':
         TextsGen,
         # Arenas,
         # Rarities,
-        # PredefinedDecks,
+        PredefinedDecks,
         # AllianceBadges,
-        # GameModes,
+        GameModes,
         # Challenges,
     ])
 

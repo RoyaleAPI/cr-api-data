@@ -2760,13 +2760,13 @@
         "name": "Blind_Classic_GoblinGiant",
         "spells": [
             "goblin-giant",
-            "goblin-gang",
-            "spear-goblins",
-            "bats",
+            "goblin-cage",
+            "dark-prince",
+            "electro-wizard",
             "sparky",
-            "miner",
-            "minion-horde",
-            "zap"
+            "mega-minion",
+            "giant-snowball",
+            "lightning"
         ],
         "spell_level": [
             1,
