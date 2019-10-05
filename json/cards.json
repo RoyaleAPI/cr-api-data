@@ -641,7 +641,7 @@
         "key": "wall-breakers",
         "name": "Wall Breakers",
         "sc_key": "Wallbreakers",
-        "elixir": 3,
+        "elixir": 2,
         "type": "Troop",
         "rarity": "Epic",
         "arena": 0,
