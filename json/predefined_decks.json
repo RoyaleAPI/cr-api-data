@@ -3607,5 +3607,55 @@
         ],
         "tid": "TID_BLIND_LEGENDARYPARTY3",
         "name_en": "Man & Machine"
+    },
+    {
+        "name": "Blind_Classic_PrinceBait",
+        "spells": [
+            "prince",
+            "goblin-gang",
+            "goblin-barrel",
+            "dart-goblin",
+            "rascals",
+            "princess",
+            "the-log",
+            "rocket"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_PRINCEBAIT",
+        "name_en": "Prince Bait"
+    },
+    {
+        "name": "Blind_Classic_GSkellyLoon",
+        "spells": [
+            "giant-skeleton",
+            "balloon",
+            "bats",
+            "skeletons",
+            "miner",
+            "fisherman",
+            "hunter",
+            "giant-snowball"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC_GSKELLYLOON",
+        "name_en": "Fishin' for 'Loons"
     }
 ]
