@@ -38,6 +38,41 @@ class BaseGen:
 
         self.null_int = null_int
 
+        self._all_texts = None
+        
+    @property
+    def all_texts(self):
+        """Load all texts as a dict"""
+        if self._all_texts is None:
+            csv_paths = [
+                os.path.join(self.config.csv.base, self.config.csv.path.texts),
+                os.path.join(self.config.csv.base, self.config.csv.path.texts_patch)
+            ]
+
+            rows = []
+            self._all_texts = {}
+            for csv_path in csv_paths:
+                with open(csv_path, encoding="utf8") as f:
+                    texts_reader = csv.DictReader(f)
+                    for row in texts_reader:
+                        # define SC key
+                        keys = ['v', 'e', ' ']
+                        for key in keys:
+                            if key in row.keys():
+                                if row.get(key):
+                                    row['sc_key'] = row.get(key)
+                        # replace quotes
+                        for k, v in row.items():
+                            if v:
+                                row[k.lower()] = v.replace('\q', '\"')
+                                row.pop(k)
+                    # add to rows
+                    rows.append(row)
+
+            if row.get('sc_key'):
+                self._all_texts[row.get('sc_key')] = row
+        return self._all_texts
+
     @property
     def csv_path(self):
         p = None
@@ -254,10 +289,16 @@ class BaseGen:
         """Convert TID values into text."""
         for k, v in row.items():
             if isinstance(v, str) and v.startswith('TID'):
-                row[k] = self.text(tid=v, lang="EN")
-        tid = row.get('tid')
-        if tid:
-            row['name_en'] = tid
+                translated = self.text(tid=v, lang="EN")
+                if k.lower() != 'tid':
+                    row[k] = translated
+
+        if row.get('tid'):
+            row['name_en'] = self.text(tid=row.get('tid'), lang="EN")
+
+        # tid = row.get('tid')
+        # if tid:
+        #     row['name_en'] = tid
 
         return row
 
@@ -278,6 +319,26 @@ class BaseGen:
                 row[k] = [v]
 
         return row
+
+    def row_parse_lang(self, row, key):
+        """Convert specific key to a list of language options.
+
+        If key is `name`, add key `name_lang` followed by a dict of
+        language keys
+        """
+        if not key:
+            return row
+        value = row.get(key)
+        if not value:
+            return row
+        if value:
+            assert value.startswith('TID')
+        langs = self.all_texts.get(key)
+        if langs:
+            row[f'{key}_lang'] = langs
+        return row
+
+
 
     def get_card(self, sc_key=None):
         """Convert SC card keys to keys"""

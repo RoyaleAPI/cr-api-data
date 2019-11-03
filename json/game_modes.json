@@ -1,7 +1,7 @@
 [
     {
         "name": "BlindDeck",
-        "tid": "Blind Deck Challenge",
+        "tid": "TID_BLIND_DECK_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -27,7 +27,7 @@
     },
     {
         "name": "DoubleElixir",
-        "tid": "Double Elixir Battle",
+        "tid": "TID_DOUBLE_ELIXIR_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -48,7 +48,7 @@
     },
     {
         "name": "ThreeBridges",
-        "tid": "Three Bridges Challenge",
+        "tid": "TID_THREE_BRIDGES_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -59,7 +59,7 @@
     },
     {
         "name": "HeroChallenge_draft",
-        "tid": "Heroes Challenge",
+        "tid": "TID_HERO_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -72,7 +72,7 @@
     },
     {
         "name": "ElectroWiz",
-        "tid": "Electro Wizard Challenge",
+        "tid": "TID_CHALLENGE_ELECTRO_WIZ",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -84,7 +84,7 @@
     },
     {
         "name": "DraftMode",
-        "tid": "Draft Battle",
+        "tid": "TID_DRAFT_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -106,12 +106,13 @@
         "overtime_seconds": 60,
         "players": "PvP",
         "valid_ladder_mode": true,
+        "no_draws": true,
         "id": 72000006,
         "name_en": "Ladder"
     },
     {
         "name": "Friendly",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -134,7 +135,7 @@
     },
     {
         "name": "Tournament",
-        "tid": "Normal Battle",
+        "tid": "TID_TOURNAMENT_1V1",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -147,7 +148,7 @@
     },
     {
         "name": "Challenge",
-        "tid": "Normal Battle",
+        "tid": "TID_TOURNAMENT_1V1",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -160,7 +161,7 @@
     },
     {
         "name": "DoubleElixir_Friendly",
-        "tid": "Double Elixir Battle",
+        "tid": "TID_DOUBLE_ELIXIR_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -179,7 +180,7 @@
     },
     {
         "name": "BattleRam",
-        "tid": "Electro Wizard Challenge",
+        "tid": "TID_CHALLENGE_ELECTRO_WIZ",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -190,7 +191,7 @@
     },
     {
         "name": "DraftModeInsane",
-        "tid": "Double Elixir Draft",
+        "tid": "TID_GAMEMODE_DRAFT_INSANE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -210,7 +211,7 @@
     },
     {
         "name": "TeamVsTeam",
-        "tid": "2v2 Battle",
+        "tid": "TID_TEAM_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -225,7 +226,7 @@
     },
     {
         "name": "RetroRoyale",
-        "tid": "Retro Royale Challenge",
+        "tid": "TID_RETRO_ROYALE_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -250,7 +251,7 @@
     },
     {
         "name": "CardReleaseDraft",
-        "tid": "Draft Battle",
+        "tid": "TID_DRAFT_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -262,7 +263,7 @@
     },
     {
         "name": "PvE",
-        "tid": "Puzzle Royale",
+        "tid": "TID_PUZZLE_MODE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -276,7 +277,7 @@
     },
     {
         "name": "TvE",
-        "tid": "Clan vs Enemy",
+        "tid": "TID_TEAM_VS_ENEMY",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -291,7 +292,7 @@
     },
     {
         "name": "PvE_Boss",
-        "tid": "Puzzle Royale",
+        "tid": "TID_PUZZLE_MODE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -304,7 +305,7 @@
     },
     {
         "name": "PvE_Tutorial",
-        "tid": "Puzzle Royale",
+        "tid": "TID_PUZZLE_MODE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -315,7 +316,7 @@
     },
     {
         "name": "TeamVsTeamDraft",
-        "tid": "2v2 Draft Battle",
+        "tid": "TID_TEAM_CHALLENGE_DRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -334,7 +335,7 @@
     },
     {
         "name": "TeamVsTeamLadder",
-        "tid": "2v2 Battle",
+        "tid": "TID_TEAM_CHALLENGE_LADDER",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -351,7 +352,7 @@
     },
     {
         "name": "Overtime_Tournament",
-        "tid": "Sudden Death Battle",
+        "tid": "TID_GAMEMODE_OVERTIME",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -368,7 +369,7 @@
     },
     {
         "name": "GoldRush_Tournament",
-        "tid": "Gold Rush",
+        "tid": "TID_GOLDRUSH_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -388,7 +389,7 @@
     },
     {
         "name": "TeamVsTeamChallenge",
-        "tid": "2v2 Challenge",
+        "tid": "TID_TEAM_CHALLENGE_SURVIVAL",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -402,7 +403,7 @@
     },
     {
         "name": "TripleElixir_Tournament",
-        "tid": "Triple Elixir Battle",
+        "tid": "TID_TRIPLE_ELIXIR",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -422,7 +423,7 @@
     },
     {
         "name": "RampUpElixir_Tournament",
-        "tid": "Ramp Up Battle",
+        "tid": "TID_RAMP_UP_ELIXIR",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -437,7 +438,7 @@
     },
     {
         "name": "TeamVsTeamCrowns",
-        "tid": "2v2 Battle",
+        "tid": "TID_TEAM_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -451,7 +452,7 @@
     },
     {
         "name": "TeamVsTeamDraftChallenge",
-        "tid": "2v2 Draft Battle",
+        "tid": "TID_TEAM_CHALLENGE_DRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -470,7 +471,7 @@
     },
     {
         "name": "Overtime_Friendly",
-        "tid": "Sudden Death Battle",
+        "tid": "TID_GAMEMODE_OVERTIME",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -487,7 +488,7 @@
     },
     {
         "name": "TripleElixir_Friendly",
-        "tid": "Triple Elixir Battle",
+        "tid": "TID_TRIPLE_ELIXIR",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -507,7 +508,7 @@
     },
     {
         "name": "RampUpElixir_Friendly",
-        "tid": "Ramp Up Battle",
+        "tid": "TID_RAMP_UP_ELIXIR",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -522,7 +523,7 @@
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Friendly",
-        "tid": "2v2 Double Elixir",
+        "tid": "TID_GAMEMODE_DOUBLE_ELIXIR_2v2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -540,7 +541,7 @@
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Tournament",
-        "tid": "2v2 Double Elixir",
+        "tid": "TID_GAMEMODE_DOUBLE_ELIXIR_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -558,7 +559,7 @@
     },
     {
         "name": "TeamVsTeam_Overtime_Friendly",
-        "tid": "2v2 Sudden Death",
+        "tid": "TID_GAMEMODE_OVERTIME_2v2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -575,7 +576,7 @@
     },
     {
         "name": "TeamVsTeam_Overtime_Tournament",
-        "tid": "2v2 Sudden Death",
+        "tid": "TID_GAMEMODE_OVERTIME_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -592,7 +593,7 @@
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Friendly",
-        "tid": "2v2 Ramp Up",
+        "tid": "TID_GAMEMODE_RAMPUP_ELIXIR_2v2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -608,7 +609,7 @@
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Tournament",
-        "tid": "2v2 Ramp Up",
+        "tid": "TID_GAMEMODE_RAMPUP_ELIXIR_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -624,7 +625,7 @@
     },
     {
         "name": "TeamVsTeam_DraftModeInsane_Friendly",
-        "tid": "2v2 Double Elixir Draft",
+        "tid": "TID_GAMEMODE_DRAFT_INSANE_2v2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -653,7 +654,7 @@
     },
     {
         "name": "PickMode",
-        "tid": "Draft Pick Challenge",
+        "tid": "TID_DRAFT_PICK_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Pick",
         "overtime_seconds": 180,
@@ -664,7 +665,7 @@
     },
     {
         "name": "TeamVsTeamLadder_GoldRush",
-        "tid": "Gold Rush",
+        "tid": "TID_GOLDRUSH_CHALLENGE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -680,12 +681,13 @@
         "skin_add_death_effect": "gold_tower_coins1",
         "skin_add_death_effect_king": "gold_tower_coins2",
         "valid_ladder_mode": true,
+        "no_draws": true,
         "id": 72000043,
         "name_en": "Gold Rush"
     },
     {
         "name": "Ladder_GoldRush",
-        "tid": "Gold Rush",
+        "tid": "TID_GOLDRUSH_CHALLENGE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -699,12 +701,13 @@
         "skin_add_death_effect": "gold_tower_coins1",
         "skin_add_death_effect_king": "gold_tower_coins2",
         "valid_ladder_mode": true,
+        "no_draws": true,
         "id": 72000044,
         "name_en": "Gold Rush"
     },
     {
         "name": "Touchdown",
-        "tid": "Touchdown",
+        "tid": "TID_GAMEMODE_TOUCHDOWN",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -732,6 +735,7 @@
         "gold_per_tower3": 10,
         "end_confetti1": "win_battle_confetti_gem",
         "end_confetti2": "win_battle_confetti_gem_top",
+        "no_draws": true,
         "id": 72000046,
         "name_en": "TeamVsTeamLadder_GemRush"
     },
@@ -746,6 +750,7 @@
         "gold_per_tower3": 10,
         "end_confetti1": "win_battle_confetti_gem",
         "end_confetti2": "win_battle_confetti_gem_top",
+        "no_draws": true,
         "id": 72000047,
         "name_en": "Ladder_GemRush"
     },
@@ -760,17 +765,16 @@
         "gold_per_tower3": 10,
         "end_confetti1": "win_battle_confetti_gem",
         "end_confetti2": "win_battle_confetti_gem_top",
+        "no_draws": true,
         "id": 72000048,
         "name_en": "GemRush_Tournament"
     },
     {
         "name": "TeamVsTeam_Touchdown",
-        "tid": "2v2 Touchdown",
+        "tid": "TID_GAMEMODE_TOUCHDOWN_2V2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
-        "elixir_production_multiplier": 85,
-        "elixir_production_overtime_multiplier": 70,
         "players": "TvT",
         "target_touchdowns": 3,
         "fixed_arena": "Arena_TouchdownTest",
@@ -783,7 +787,7 @@
     },
     {
         "name": "Touchdown_Draft",
-        "tid": "Touchdown Draft",
+        "tid": "TID_GAMEMODE_TOUCHDOWN_DRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -801,12 +805,10 @@
     },
     {
         "name": "TeamVsTeam_Touchdown_Draft",
-        "tid": "2v2 Touchdown Draft",
+        "tid": "TID_GAMEMODE_TOUCHDOWN_DRAFT_2V2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
-        "elixir_production_multiplier": 85,
-        "elixir_production_overtime_multiplier": 70,
         "players": "TvT",
         "target_touchdowns": 3,
         "icon": "icon_mode_touchdown",
@@ -822,7 +824,7 @@
     },
     {
         "name": "MirrorDeck",
-        "tid": "Mirror Battle",
+        "tid": "TID_MIRROR_DECK_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -841,7 +843,7 @@
     },
     {
         "name": "TeamVsTeam_MirrorDeck",
-        "tid": "2v2 Mirror Battle",
+        "tid": "TID_MIRROR_DECK_CHALLENGE_2V2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -860,7 +862,7 @@
     },
     {
         "name": "Friendly_FixedDeckOrder",
-        "tid": "1v1 Fixed Deck Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1_FD",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -874,7 +876,7 @@
     },
     {
         "name": "TeamVsTeam_FixedDeckOrder",
-        "tid": "2v2 Fixed Deck Battle",
+        "tid": "TID_TEAM_CHALLENGE_FD",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -890,7 +892,7 @@
     },
     {
         "name": "MirrorDeck_H",
-        "tid": "Mirror Battle",
+        "tid": "TID_MIRROR_DECK_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -908,7 +910,7 @@
     },
     {
         "name": "TeamVsTeam_MirrorDeck_H",
-        "tid": "2v2 Mirror Battle",
+        "tid": "TID_MIRROR_DECK_CHALLENGE_2V2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -927,7 +929,7 @@
     },
     {
         "name": "KingOfTheHill",
-        "tid": "King of the Hill",
+        "tid": "TID_GAMEMODE_KING_OF_THE_HILL",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -940,7 +942,7 @@
     },
     {
         "name": "ModernRoyale",
-        "tid": "Modern Royale",
+        "tid": "TID_MODERN_ROYALE_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -954,7 +956,7 @@
     },
     {
         "name": "Overtime_Ladder",
-        "tid": "Sudden Death Battle",
+        "tid": "TID_GAMEMODE_OVERTIME",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -971,7 +973,7 @@
     },
     {
         "name": "DoubleElixir_Ladder",
-        "tid": "Double Elixir Battle",
+        "tid": "TID_DOUBLE_ELIXIR_CHALLENGE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -990,7 +992,7 @@
     },
     {
         "name": "TripleElixir_Ladder",
-        "tid": "Triple Elixir Battle",
+        "tid": "TID_TRIPLE_ELIXIR",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1010,7 +1012,7 @@
     },
     {
         "name": "NOTINUSE1",
-        "tid": "2v2 Double Elixir",
+        "tid": "TID_GAMEMODE_DOUBLE_ELIXIR_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1027,7 +1029,7 @@
     },
     {
         "name": "NOTINUSE2",
-        "tid": "2v2 Double Elixir",
+        "tid": "TID_GAMEMODE_DOUBLE_ELIXIR_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1044,7 +1046,7 @@
     },
     {
         "name": "Showdown_Friendly",
-        "tid": "War Deck Battle",
+        "tid": "TID_SHOWDOWN_BATTLE_NAME",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1058,7 +1060,7 @@
     },
     {
         "name": "Showdown_Ladder",
-        "tid": "War Deck Battle",
+        "tid": "TID_SHOWDOWN_BATTLE_NAME",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1072,7 +1074,7 @@
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Ladder",
-        "tid": "2v2 Double Elixir",
+        "tid": "TID_GAMEMODE_DOUBLE_ELIXIR_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1091,7 +1093,7 @@
     },
     {
         "name": "TeamVsTeam_Overtime_Ladder",
-        "tid": "2v2 Sudden Death",
+        "tid": "TID_GAMEMODE_OVERTIME_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1108,7 +1110,7 @@
     },
     {
         "name": "CaptureTower_Friendly",
-        "tid": "Capture Tower",
+        "tid": "TID_GAMEMODE_CAPTURE_TOWER",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1120,7 +1122,7 @@
     },
     {
         "name": "RampUpElixir_Ladder",
-        "tid": "Ramp Up Battle",
+        "tid": "TID_RAMP_UP_ELIXIR",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1135,7 +1137,7 @@
     },
     {
         "name": "Rage_Friendly",
-        "tid": "Rage Battle",
+        "tid": "TID_GAMEMODE_RAGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1154,7 +1156,7 @@
     },
     {
         "name": "MirrorDeck_CW",
-        "tid": "Mirror Battle",
+        "tid": "TID_MIRROR_DECK_CHALLENGE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -1175,7 +1177,7 @@
     },
     {
         "name": "Rage_Ladder",
-        "tid": "Rage Battle",
+        "tid": "TID_GAMEMODE_RAGE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1194,7 +1196,7 @@
     },
     {
         "name": "LavaFloor_Friendly",
-        "tid": "Lava Floor Battle",
+        "tid": "TID_GAMEMODE_LAVA_FLOOR",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1210,7 +1212,7 @@
     },
     {
         "name": "Event_NewArena1",
-        "tid": "Arena 1 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1225,7 +1227,7 @@
     },
     {
         "name": "Event_NewArena2",
-        "tid": "Arena 2 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1240,7 +1242,7 @@
     },
     {
         "name": "Event_NewArena3",
-        "tid": "Arena 3 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA3",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1255,7 +1257,7 @@
     },
     {
         "name": "Event_NewArena4",
-        "tid": "Arena 4 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA4",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1270,7 +1272,7 @@
     },
     {
         "name": "Event_NewArena5",
-        "tid": "Arena 5 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA5",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1285,7 +1287,7 @@
     },
     {
         "name": "Event_NewArena6",
-        "tid": "Arena 6 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA6",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1300,7 +1302,7 @@
     },
     {
         "name": "Event_NewArena7",
-        "tid": "Arena 7 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA7",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1315,7 +1317,7 @@
     },
     {
         "name": "Event_NewArena8",
-        "tid": "Arena 8 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA8",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1330,7 +1332,7 @@
     },
     {
         "name": "Event_NewArena9",
-        "tid": "Arena 9 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA9",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1345,7 +1347,7 @@
     },
     {
         "name": "Event_NewArena10",
-        "tid": "Arena 10 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA10",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1360,7 +1362,7 @@
     },
     {
         "name": "Event_NewArena11",
-        "tid": "Arena 11 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA11",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1375,7 +1377,7 @@
     },
     {
         "name": "Rage_Tournament",
-        "tid": "Rage Battle",
+        "tid": "TID_GAMEMODE_RAGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1392,17 +1394,17 @@
     },
     {
         "name": "ClassicDecks_Friendly",
-        "tid": "Classic Decks Battle",
+        "tid": "TID_POPULAR_DECK_BATTLE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
         "predefined_decks": [
-            "Blind_Classic_RoyalHogs",
-            "Blind_Classic_RamRush",
-            "Blind_Classic_PrinceBait",
-            "Blind_Classic_GSkellyLoon",
-            "Blind_Classic_Graveyard",
-            "Blind_Classic_Golem"
+            "Blind_Classic_GiantPrince",
+            "Blind_Classic_Balloon",
+            "Blind_Classic_LavaClone",
+            "Blind_Classic_HogQuake",
+            "Blind_Classic_Xbow",
+            "Blind_Classic_Mortar"
         ],
         "separate_team_decks": true,
         "players": "PvP",
@@ -1418,7 +1420,7 @@
     },
     {
         "name": "TeamVsTeam_Rage_Ladder",
-        "tid": "2v2 Rage Mode",
+        "tid": "TID_GAMEMODE_RAGE_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1438,7 +1440,7 @@
     },
     {
         "name": "ThreeVsThree",
-        "tid": "3v3",
+        "tid": "TID_GAMEMODE_3V3",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1453,7 +1455,7 @@
     },
     {
         "name": "ThreeVsThreeHeist",
-        "tid": "3v3 Heist",
+        "tid": "TID_GAMEMODE_3V3_HEIST",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1468,7 +1470,7 @@
     },
     {
         "name": "Heist_Friendly",
-        "tid": "Heist",
+        "tid": "TID_GAMEMODE_HEIST",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1484,7 +1486,7 @@
     },
     {
         "name": "Heist_Draft",
-        "tid": "Heist Draft",
+        "tid": "TID_GAMEMODE_HEIST_DRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -1502,7 +1504,7 @@
     },
     {
         "name": "Event_Shocktober",
-        "tid": "Shocktober Challenge",
+        "tid": "TID_CHALLENGE_SHOCKTOBER",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1517,7 +1519,7 @@
     },
     {
         "name": "HeroChallenge1v1",
-        "tid": "Heroes Challenge",
+        "tid": "TID_HERO_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1531,7 +1533,7 @@
     },
     {
         "name": "TeamVsTeam_TripleElixir_Ladder",
-        "tid": "Triple Elixir Battle",
+        "tid": "TID_TRIPLE_ELIXIR",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1551,7 +1553,7 @@
     },
     {
         "name": "Heist_Tournament",
-        "tid": "Heist",
+        "tid": "TID_GAMEMODE_HEIST",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1567,7 +1569,7 @@
     },
     {
         "name": "SpawnPigsMode_Friendly",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1585,7 +1587,7 @@
     },
     {
         "name": "ClanWarMiniCollection_Friendly",
-        "tid": "Clan War Deck Mode",
+        "tid": "TID_CLAN_WAR_COLLECTION_MODE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1615,7 +1617,7 @@
     },
     {
         "name": "ClassicDecks_Helsinki2016",
-        "tid": "Classic Decks: Helsinki 2016",
+        "tid": "TID_ClassicDecks_Helsinki2016",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -1638,7 +1640,7 @@
     },
     {
         "name": "ClassicDecks_KingsCup1",
-        "tid": "Classic Decks: King's Cup 1",
+        "tid": "TID_ClassicDecks_KingsCup1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -1660,7 +1662,7 @@
     },
     {
         "name": "ClanWarMiniCollection_Ladder",
-        "tid": "Clan War Deck Mode",
+        "tid": "TID_CLAN_WAR_COLLECTION_MODE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1689,7 +1691,7 @@
     },
     {
         "name": "ClanWarMiniCollection_Tournament",
-        "tid": "Clan War Deck Mode",
+        "tid": "TID_CLAN_WAR_COLLECTION_MODE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1719,7 +1721,7 @@
     },
     {
         "name": "Boosts_Friendly",
-        "tid": "Random Boosts",
+        "tid": "TID_GAMEMODE_RANDOM_BOOSTS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1732,7 +1734,7 @@
     },
     {
         "name": "Snowball_bombardment",
-        "tid": "Snowball bombardment",
+        "tid": "TID_SNOWBALL_BOMBARDMENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1747,7 +1749,7 @@
     },
     {
         "name": "RampUpElixirSpawnPigsMode_Friendly",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1765,7 +1767,7 @@
     },
     {
         "name": "DraftSpawnPigsMode_Friendly",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -1785,7 +1787,7 @@
     },
     {
         "name": "RampUpElixirSpawnPigsMode_Tournament",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1803,7 +1805,7 @@
     },
     {
         "name": "EventDeckrSpawnPigsMode_Tournament",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Tournament",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1821,7 +1823,7 @@
     },
     {
         "name": "RampUpElixirEventDeckSpawnPigsMode_Friendly",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1839,7 +1841,7 @@
     },
     {
         "name": "RampUpElixirDraftSpawnPigsMode_Friendly",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -1859,7 +1861,7 @@
     },
     {
         "name": "TeamVsTeamSpellSupportDraft",
-        "tid": "2v2 Draft Battle",
+        "tid": "TID_TEAM_CHALLENGE_DRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -1876,7 +1878,7 @@
     },
     {
         "name": "RampFatigue",
-        "tid": "Ramp Up Fatigue Mode",
+        "tid": "TID_RAMP_UP_FATIGUE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 120,
@@ -1890,7 +1892,7 @@
     },
     {
         "name": "TestBuff",
-        "tid": "Snowball bombardment",
+        "tid": "TID_SNOWBALL_BOMBARDMENT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1904,7 +1906,7 @@
     },
     {
         "name": "HeroChallenge_draft2",
-        "tid": "Heroes Challenge",
+        "tid": "TID_HERO_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -1917,7 +1919,7 @@
     },
     {
         "name": "HeroChallenge_draft3",
-        "tid": "Heroes Challenge",
+        "tid": "TID_HERO_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -1932,7 +1934,7 @@
     },
     {
         "name": "ElixirCollectorCapture_Friendly",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1949,7 +1951,7 @@
     },
     {
         "name": "CaptureTheEgg_Friendly",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1965,7 +1967,7 @@
     },
     {
         "name": "DoubleDeck_Friendly",
-        "tid": "Mega Deck",
+        "tid": "TID_MEGA_DECK",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -1980,7 +1982,7 @@
     },
     {
         "name": "DoubleDeck_Tournament",
-        "tid": "Mega Deck",
+        "tid": "TID_MEGA_DECK",
         "card_level_adjustment": "Tournament",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -1996,7 +1998,7 @@
     },
     {
         "name": "RampUpElixirRageJacksMode_Tournament",
-        "tid": "Lumberjack Rush",
+        "tid": "TID_GAMEMODE_SPAWN_JACKS_EVENT",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2017,7 +2019,7 @@
     },
     {
         "name": "EventDeck_Rage_SpawnJacks_Friendly",
-        "tid": "Lumberjack Rage Rush",
+        "tid": "TID_GAMEMODE_EVENT_RAGE_SPAWNJACKS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -2037,7 +2039,7 @@
     },
     {
         "name": "Draft_Rage_SpawnJacks_Friendly",
-        "tid": "Lumberjack Rage Draft",
+        "tid": "TID_GAMEMODE_DRAFT_RAGE_SPAWNJACKS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2058,7 +2060,7 @@
     },
     {
         "name": "ElixirCollectorCapture_Tournament",
-        "tid": "Elixir Capture",
+        "tid": "TID_CAPTURE_THE_ELIXIR_STORAGE_MODE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2075,7 +2077,7 @@
     },
     {
         "name": "CaptureTheEgg_Tournament",
-        "tid": "Dragon Hunt",
+        "tid": "TID_CAPTURE_THE_EGG_MODE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2091,7 +2093,7 @@
     },
     {
         "name": "Obstacles_Friendly",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2104,7 +2106,7 @@
     },
     {
         "name": "Mega_Boss_PVE",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2116,7 +2118,7 @@
     },
     {
         "name": "CaptureTheFish_Friendly",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2132,7 +2134,7 @@
     },
     {
         "name": "RockyBoat_Friendly",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2146,7 +2148,7 @@
     },
     {
         "name": "BlindDeck_FloodHounds",
-        "tid": "Take To The Skies",
+        "tid": "TID_BLIND_FLOODHOUND",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -2169,7 +2171,7 @@
     },
     {
         "name": "Neutral_Fisherman",
-        "tid": "1v1 Battle",
+        "tid": "TID_FRIENDLY_BATTLE_1V1",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2184,7 +2186,7 @@
     },
     {
         "name": "ClassicDecks2_Friendly",
-        "tid": "Classic Decks Battle",
+        "tid": "TID_POPULAR_DECK_BATTLE",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -2210,7 +2212,7 @@
     },
     {
         "name": "Heist_Ladder",
-        "tid": "Heist",
+        "tid": "TID_GAMEMODE_HEIST",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2228,7 +2230,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_Tournament",
-        "tid": "Wall Breaker Party",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2247,7 +2249,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_Ladder",
-        "tid": "Wall Breaker Party",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2266,7 +2268,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_Draft",
-        "tid": "Wall Breaker Party Draft",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2287,7 +2289,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_2v2_Tournament",
-        "tid": "2v2 Wall Breaker Party",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2306,7 +2308,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_2v2_Draft",
-        "tid": "2v2 Wall Breaker Party Draft",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS_2v2_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2327,7 +2329,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_2v2_Ladder",
-        "tid": "2v2 Wall Breaker Party",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2346,7 +2348,7 @@
     },
     {
         "name": "RampUpElixirSpawnWBsMode_Friendly",
-        "tid": "Wall Breaker Party",
+        "tid": "TID_GAMEMODE_SPAWN_WALLBREAKERS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2365,7 +2367,7 @@
     },
     {
         "name": "NeutralFisherman_Friendly",
-        "tid": "Wild Fisherman Battle",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2381,7 +2383,7 @@
     },
     {
         "name": "NeutralFisherman_Tournament",
-        "tid": "Wild Fisherman Battle",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2397,7 +2399,7 @@
     },
     {
         "name": "NeutralFisherman_Ladder",
-        "tid": "Wild Fisherman Battle",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2412,7 +2414,7 @@
     },
     {
         "name": "NeutralFisherman_Draft",
-        "tid": "Wild Fisherman Draft",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN_DRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2429,7 +2431,7 @@
     },
     {
         "name": "NeutralFisherman_Draft_2v2",
-        "tid": "2v2 Wild Fisherman Draft",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN_DRAFT_2v2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2446,7 +2448,7 @@
     },
     {
         "name": "NeutralFisherman_Ladder_2v2",
-        "tid": "2v2 Wild Fisherman Battle",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2461,7 +2463,7 @@
     },
     {
         "name": "NeutralFisherman_Tournament_2v2",
-        "tid": "2v2 Wild Fisherman Battle",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2477,7 +2479,7 @@
     },
     {
         "name": "NeutralFisherman_Friendly_2v2",
-        "tid": "2v2 Wild Fisherman Battle",
+        "tid": "TID_GAMEMODE_NEUTRALFISHERMAN_2v2",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2493,7 +2495,7 @@
     },
     {
         "name": "CaptureTheFish_Tournament",
-        "tid": "Fisherman's Catch",
+        "tid": "TID_CAPTURE_THE_FISHERMAN",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2509,7 +2511,7 @@
     },
     {
         "name": "BlindDeck_FloodHounds_2v2",
-        "tid": "Take To The Skies",
+        "tid": "TID_BLIND_FLOODHOUND",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -2532,7 +2534,7 @@
     },
     {
         "name": "EventDeck_LegsAndSpells",
-        "tid": "Legendary Party",
+        "tid": "TID_CHALLENGE_LEGSANDSPELLS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -2547,7 +2549,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_Tournament",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2567,7 +2569,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_Ladder",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2586,7 +2588,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_Draft",
-        "tid": "Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2607,7 +2609,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_2v2_Tournament",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2627,7 +2629,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_2v2_Draft",
-        "tid": "2v2 Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_2v2_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2648,7 +2650,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_2v2_Ladder",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2667,7 +2669,7 @@
     },
     {
         "name": "RampUpElixirSpawnGuardsMode_Friendly",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2687,7 +2689,7 @@
     },
     {
         "name": "SpawnGuardsMode_Tournament",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2708,7 +2710,7 @@
     },
     {
         "name": "SpawnGuardsMode_Ladder",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2728,7 +2730,7 @@
     },
     {
         "name": "SpawnGuardsMode_Draft",
-        "tid": "Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2750,7 +2752,7 @@
     },
     {
         "name": "SpawnGuardsMode_2v2_Tournament",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2771,7 +2773,7 @@
     },
     {
         "name": "SpawnGuardsMode_2v2_Draft",
-        "tid": "2v2 Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_2v2_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2793,7 +2795,7 @@
     },
     {
         "name": "SpawnGuardsMode_2v2_Ladder",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2813,7 +2815,7 @@
     },
     {
         "name": "SpawnGuardsMode_Friendly",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_GUARDS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2834,7 +2836,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_Tournament",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2853,7 +2855,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_Ladder",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2871,7 +2873,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_Draft",
-        "tid": "Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2891,7 +2893,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_2v2_Tournament",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2910,7 +2912,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_2v2_Draft",
-        "tid": "2v2 Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_2v2_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -2930,7 +2932,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_2v2_Ladder",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2948,7 +2950,7 @@
     },
     {
         "name": "SpawnSkeletonsMode_Friendly",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2967,7 +2969,7 @@
     },
     {
         "name": "GraveyardOrb_Ladder",
-        "tid": "Elixir Capture",
+        "tid": "TID_CAPTURE_THE_ELIXIR_STORAGE_MODE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -2980,7 +2982,7 @@
     },
     {
         "name": "SpawnBanditMode_Tournament",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3000,7 +3002,7 @@
     },
     {
         "name": "SpawnBanditMode_Ladder",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3020,7 +3022,7 @@
     },
     {
         "name": "SpawnBanditMode_Draft",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -3042,7 +3044,7 @@
     },
     {
         "name": "SpawnBanditMode_2v2_Tournament",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3062,7 +3064,7 @@
     },
     {
         "name": "SpawnBanditMode_2v2_Draft",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -3084,7 +3086,7 @@
     },
     {
         "name": "SpawnBanditMode_2v2_Ladder",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3104,7 +3106,7 @@
     },
     {
         "name": "SpawnBanditMode_Friendly",
-        "tid": "Bandit Dash!",
+        "tid": "TID_GAMEMODE_SPAWN_BANDIT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3124,7 +3126,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_Tournament",
-        "tid": "Ghost Parade",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3143,7 +3145,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_Ladder",
-        "tid": "Ghost Parade",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3162,7 +3164,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_Draft",
-        "tid": "Ghost Parade Draft",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -3183,7 +3185,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_2v2_Tournament",
-        "tid": "2v2 Ghost Parade",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3202,7 +3204,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_2v2_Draft",
-        "tid": "2v2 Ghost Parade Draft",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST_2v2_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -3223,7 +3225,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_2v2_Ladder",
-        "tid": "2v2 Ghost Parade",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3242,7 +3244,7 @@
     },
     {
         "name": "RampUpElixirSpawnGhostMode_Friendly",
-        "tid": "Ghost Parade",
+        "tid": "TID_GAMEMODE_SPAWN_GHOST",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3261,7 +3263,7 @@
     },
     {
         "name": "RampUpElixirSkeletonParty_Friendly",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3283,7 +3285,7 @@
     },
     {
         "name": "RampUpElixirSkeletonParty_Draft",
-        "tid": "Grave Guards Draft",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_Draft",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Draft",
         "overtime_seconds": 180,
@@ -3307,7 +3309,7 @@
     },
     {
         "name": "RampUpElixirSkeletonParty_2v2",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_2v2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3329,7 +3331,7 @@
     },
     {
         "name": "RampUpElixirSkeletonParty_2v2_Tournament",
-        "tid": "2v2 Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS_2v2",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3351,7 +3353,7 @@
     },
     {
         "name": "RampUpElixirSkeletonParty_Tournament",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3373,7 +3375,7 @@
     },
     {
         "name": "RampUpElixirSkeletonParty_Ladder",
-        "tid": "Grave Guards",
+        "tid": "TID_GAMEMODE_SPAWN_SKELETONS",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3395,7 +3397,7 @@
     },
     {
         "name": "LegendaryParty_Blind",
-        "tid": "Legendary Party",
+        "tid": "TID_CHALLENGE_LEGSANDSPELLS",
         "card_level_adjustment": "Friendly",
         "deck_selection": "Predefined",
         "overtime_seconds": 180,
@@ -3418,7 +3420,7 @@
     },
     {
         "name": "Draft_Competitive",
-        "tid": "Triple Draft",
+        "tid": "TID_GAMEMODE_TRIPLEDRAFT",
         "card_level_adjustment": "Friendly",
         "deck_selection": "DraftCompetitive",
         "overtime_seconds": 180,
@@ -3435,7 +3437,7 @@
     },
     {
         "name": "RampUpElixirSpawnPigsMode_Ladder",
-        "tid": "Hog Race",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_EVENT",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3453,7 +3455,7 @@
     },
     {
         "name": "RampUpElixirSpawnPigsMode_2v2_Ladder",
-        "tid": "Hog Race 2v2",
+        "tid": "TID_GAMEMODE_SPAWN_PIGS_2V2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3471,7 +3473,7 @@
     },
     {
         "name": "RampUpElixirRageJacksMode_Ladder",
-        "tid": "Lumberjack Rush",
+        "tid": "TID_GAMEMODE_SPAWN_JACKS_EVENT",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3493,7 +3495,7 @@
     },
     {
         "name": "RampUpElixirRageJacksMode_2v2_Ladder",
-        "tid": "Lumberjack Rush 2v2",
+        "tid": "TID_GAMEMODE_SPAWN_JACKS_EVENT_2V2",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3515,7 +3517,7 @@
     },
     {
         "name": "CrownRush_Tournament",
-        "tid": "Crown Rush",
+        "tid": "TID_CROWNRUSH_CHALLENGE",
         "card_level_adjustment": "Tournament",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3534,7 +3536,7 @@
     },
     {
         "name": "TeamVsTeamLadder_CrownRush",
-        "tid": "Crown Rush",
+        "tid": "TID_CROWNRUSH_CHALLENGE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 180,
@@ -3549,12 +3551,13 @@
         "skin_add_death_effect": "crown_tower_death1",
         "skin_add_death_effect_king": "crown_tower_death2",
         "valid_ladder_mode": true,
+        "no_draws": true,
         "id": 72000200,
         "name_en": "Crown Rush"
     },
     {
         "name": "Ladder_CrownRush",
-        "tid": "Crown Rush",
+        "tid": "TID_CROWNRUSH_CHALLENGE",
         "card_level_adjustment": "Ladder",
         "deck_selection": "Collection",
         "overtime_seconds": 60,
@@ -3567,12 +3570,13 @@
         "skin_add_death_effect": "crown_tower_death1",
         "skin_add_death_effect_king": "crown_tower_death2",
         "valid_ladder_mode": true,
+        "no_draws": true,
         "id": 72000201,
         "name_en": "Crown Rush"
     },
     {
         "name": "Event_ElixirGolemTease",
-        "tid": "Arena 11 Deckbuilding Challenge",
+        "tid": "TID_CHALLENGE_NEWARENA11",
         "card_level_adjustment": "Friendly",
         "deck_selection": "EventDeck",
         "overtime_seconds": 180,
@@ -3585,5 +3589,43 @@
         "no_draws": true,
         "id": 72000202,
         "name_en": "Arena 11 Deckbuilding Challenge"
+    },
+    {
+        "name": "Touchdown_MegaDeck_Challenge",
+        "tid": "TID_GAMEMODE_TOUCHDOWN",
+        "card_level_adjustment": "Tournament",
+        "deck_selection": "EventDeck",
+        "overtime_seconds": 180,
+        "elixir_production_multiplier": 200,
+        "players": "PvP",
+        "target_touchdowns": 3,
+        "icon": "icon_mode_touchdown",
+        "fixed_arena": "Arena_TouchdownTest",
+        "clan_war_description": "Get a troop into your opponent's end zone to score!",
+        "description_tid": "Get a troop into your opponent's end zone to score!",
+        "skin_set": "Touchdown",
+        "deck_size": 18,
+        "valid_challenge_mode": true,
+        "id": 72000203,
+        "name_en": "Touchdown"
+    },
+    {
+        "name": "Touchdown_MegaDeck_Ladder",
+        "tid": "TID_GAMEMODE_TOUCHDOWN",
+        "card_level_adjustment": "Ladder",
+        "deck_selection": "EventDeck",
+        "overtime_seconds": 180,
+        "elixir_production_multiplier": 200,
+        "players": "PvP",
+        "target_touchdowns": 3,
+        "icon": "icon_mode_touchdown",
+        "fixed_arena": "Arena_TouchdownTest",
+        "clan_war_description": "Get a troop into your opponent's end zone to score!",
+        "description_tid": "Get a troop into your opponent's end zone to score!",
+        "skin_set": "Touchdown",
+        "deck_size": 18,
+        "valid_party_mode": true,
+        "id": 72000204,
+        "name_en": "Touchdown"
     }
 ]
