@@ -102,7 +102,11 @@ class Cards(BaseGen):
                                     'rarity': row['Rarity'],
                                     'arena': self.arena_id(row['UnlockArena']),
                                     'description': self.text(row['TID_INFO'], 'EN'),
-                                    'id': int(decklink)
+                                    'id': int(decklink),
+                                    '_lang': {
+                                        'name': self.text_all_lang(row['TID']),
+                                        'description': self.text_all_lang(row['TID_INFO']),
+                                    }
                                 }
 
                                 # skip unreleased cards

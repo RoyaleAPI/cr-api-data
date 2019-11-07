@@ -25,6 +25,7 @@ class GameModes(BaseGen):
                 id_ += 1
 
                 row = self.row_parse_tid(row)
+                row = self.row_parse_lang(row, row.get('tid'))
                 row = self.row_parse_dict_list(row)
                 row = self.row_force_list(row, "predefined_decks")
 

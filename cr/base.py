@@ -64,13 +64,15 @@ class BaseGen:
                         # replace quotes
                         for k, v in row.items():
                             if v:
-                                row[k.lower()] = v.replace('\q', '\"')
-                                row.pop(k)
-                    # add to rows
-                    rows.append(row)
+                                row[k] = v.replace('\q', '\"')
 
-            if row.get('sc_key'):
-                self._all_texts[row.get('sc_key')] = row
+                        # add to rows
+                        rows.append(row)
+
+            for row in rows:
+                if row.get('sc_key'):
+                    self._all_texts[row.get('sc_key')] = row
+
         return self._all_texts
 
     @property
@@ -131,31 +133,43 @@ class BaseGen:
                 return arena
         return None
 
+    def text_all_lang(self, tid):
+        """Return TID fields in all languages as a dict."""
+        r = self.all_texts.get(tid)
+        # remove single digit key
+        r = {k: v for k, v in r.items() if len(k) > 1}
+        # convert language key to lower case
+        r = {k.lower():v for k, v in r.items()}
+        return r
+
     def text(self, tid, lang="EN"):
         """Return field by TID and Language
 
         quests_hint = self.text('TID_HINT_QUESTS', 'EN')
         """
-        csv_paths = [
-            os.path.join(self.config.csv.base, self.config.csv.path.texts),
-            os.path.join(self.config.csv.base, self.config.csv.path.texts_patch)
-        ]
-        _text = None
-        while _text is None:
-            for csv_path in csv_paths:
-                with open(csv_path, encoding="utf8") as f:
-                    texts_reader = csv.DictReader(f)
-                    for row in texts_reader:
-                        keys = ['v', 'e', ' ']
-                        for key in keys:
-                            if key in row.keys():
-                                if row.get(key) == tid:
-                                    s = row[lang]
-                                    _text = s.replace('\q', '\"')
-            if _text is None:
-                _text = ''
+        v = self.all_texts.get(tid, {})
+        t = v.get(lang)
+        return t
+        # csv_paths = [
+        #     os.path.join(self.config.csv.base, self.config.csv.path.texts),
+        #     os.path.join(self.config.csv.base, self.config.csv.path.texts_patch)
+        # ]
+        # _text = None
+        # while _text is None:
+        #     for csv_path in csv_paths:
+        #         with open(csv_path, encoding="utf8") as f:
+        #             texts_reader = csv.DictReader(f)
+        #             for row in texts_reader:
+        #                 keys = ['v', 'e', ' ']
+        #                 for key in keys:
+        #                     if key in row.keys():
+        #                         if row.get(key) == tid:
+        #                             s = row[lang]
+        #                             _text = s.replace('\q', '\"')
+        #     if _text is None:
+        #         _text = ''
 
-        return _text
+        # return _text
 
     def convert_row_tid(self, tid_key=None, key=None, rows=None, lang="EN", remove_tid_key=False):
         rows = rows or []
@@ -287,25 +301,28 @@ class BaseGen:
 
     def row_parse_tid(self, row):
         """Convert TID values into text."""
-        for k, v in row.items():
+        for k, v in row.copy().items():
             if isinstance(v, str) and v.startswith('TID'):
                 translated = self.text(tid=v, lang="EN")
                 if k.lower() != 'tid':
                     row[k] = translated
 
+                # add language fields
+                r = self.text_all_lang(tid=v)
+
+                if "_lang" not in row:
+                    row['_lang'] = {}
+                row['_lang'][k] = r
+
         if row.get('tid'):
             row['name_en'] = self.text(tid=row.get('tid'), lang="EN")
-
-        # tid = row.get('tid')
-        # if tid:
-        #     row['name_en'] = tid
 
         return row
 
     def row_parse_dict_list(self, row):
         """Convert dict lists as simple lists."""
         for k, v in row.items():
-            if isinstance(v, dict):
+            if isinstance(v, dict) and 'lang' not in k:
                 row[k] = list(v.values())
         return row
 
