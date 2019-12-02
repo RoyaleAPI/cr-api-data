@@ -145,8 +145,12 @@ class CardStats(BaseGen):
 
     def include_item(self, item):
         """Determine if item should be included in output."""
-        if item['name'].startswith('NOTINUSE'):
+        if item.get('name', '').startswith('NOTINUSE'):
             return False
+        else:
+            pass
+            # print("Item has no name key")
+            # print(item)
         return True
 
     def included_items(self, items):
@@ -155,14 +159,14 @@ class CardStats(BaseGen):
 
     def card_props(self, card_key):
         for card in self._cards_json:
-            if card['name'] == card_key:
+            if card.get('name') == card_key:
                 return card
         return {}
 
     def inject_card_props(self, items):
         cards = []
         for item in items.copy():
-            item.update(self.card_props(item['name']))
+            item.update(self.card_props(item.get('name')))
             cards.append(item)
         return cards
 
