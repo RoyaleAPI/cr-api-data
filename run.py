@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
     # legacy to be converted
     to_run.extend([
-        # Cards,
+        Cards,
         # ChestOrder,
         # ClanChest,
         # Regions,
@@ -41,6 +41,15 @@ if __name__ == '__main__':
         # Tournaments,
     ])
 
+    # i18n
+    i18_to_run = [
+        Cards,
+    ]
+
     for cls in to_run:
         app = cls(config=config)
+        app.run()
+
+    for cls in i18_to_run:
+        app = cls(config=config, i18n=True)
         app.run()

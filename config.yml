@@ -27,6 +27,7 @@ json:
   arenas: ./arenas.json
   buildings: ./buildings.json
   cards: ./cards.json
+  cards_i18n: ./cards_i18n.json
   cards_stats: ./cards_stats.json
   challenges: ./challenges.json
   chest_order: ./chest_order.json

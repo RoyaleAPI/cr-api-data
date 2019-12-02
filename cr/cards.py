@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.INFO)
 
 
 class Cards(BaseGen):
-    def __init__(self, config):
-        super().__init__(config)
+    def __init__(self, config, **kwargs):
+        super().__init__(config, **kwargs)
 
     def arena_id(self, key):
         """Return arena integer id by arena key."""
@@ -109,6 +109,15 @@ class Cards(BaseGen):
                                     # }
                                 }
 
+                                print(self.i18n)
+                                if self.i18n:
+                                    card.update({
+                                        '_lang': {
+                                            'name': self.text_all_lang(row['TID']),
+                                            'description': self.text_all_lang(row['TID_INFO']),
+                                        }
+                                    })
+
                                 # skip unreleased cards
                                 if key in ['wolf-rider', 'prison-goblin']:
                                     continue
@@ -125,6 +134,10 @@ class Cards(BaseGen):
         for card_config in self.config.cards:
             card_num = card_type(card_config, card_num)
 
-        json_path = os.path.join(self.config.json.base, self.config.json.cards)
+        if self.i18n:
+            json_path = os.path.join(self.config.json.base, self.config.json.cards_i18n)
+        else:
+            json_path = os.path.join(self.config.json.base, self.config.json.cards)
+
 
         self.save_json(cards, json_path)

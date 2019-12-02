@@ -24,7 +24,7 @@ class BaseGen:
         null_int: if null value for int fields should be null of 0. Default: False, i.e. 0
     """
 
-    def __init__(self, config, id=None, json_id=None, null_int=False):
+    def __init__(self, config, id=None, json_id=None, null_int=False, i18n=False):
         self.config = config
 
         self._id = id
@@ -37,6 +37,7 @@ class BaseGen:
         self._arenas = None
 
         self.null_int = null_int
+        self.i18n = i18n
 
         self._all_texts = None
         
