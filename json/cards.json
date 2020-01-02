@@ -704,6 +704,17 @@
         "id": 26000063
     },
     {
+        "key": "firecracker",
+        "name": "Firecracker",
+        "sc_key": "Firecracker",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Common",
+        "arena": 10,
+        "description": "Shoots a firework that explodes upon impact, damaging the target and showering anything directly behind it with sparks. This is what happens when Archers get bored!",
+        "id": 26000064
+    },
+    {
         "key": "elixir-golem",
         "name": "Elixir Golem",
         "sc_key": "ElixirGolem",
@@ -722,7 +733,7 @@
         "type": "Troop",
         "rarity": "Rare",
         "arena": 12,
-        "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to friendly Troops. Outside of combat she passively heals herself!",
+        "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
         "id": 26000068
     },
     {
