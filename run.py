@@ -21,24 +21,24 @@ if __name__ == '__main__':
 
     # v2 runs
     to_run.extend([
-        # TextsGen,
+        TextsGen,
         # Arenas,
         # Rarities,
-        # PredefinedDecks,
+        PredefinedDecks,
         # AllianceBadges,
-        # GameModes,
-        # Challenges,
+        GameModes,
+        Challenges,
     ])
 
     # legacy to be converted
     to_run.extend([
         Cards,
-        # ChestOrder,
+        ChestOrder,
         # ClanChest,
         # Regions,
-        # TreasureChests,
+        TreasureChests,
         CardStats,
-        # Tournaments,
+        Tournaments,
     ])
 
     # i18n

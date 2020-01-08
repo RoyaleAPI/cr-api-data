@@ -45,7 +45,7 @@ class TextsGen(BaseGen):
         out.extend(
             self.convert_text(
                 self.csv_path_by_id(id="texts_patch"),
-                first_key=" "
+                first_key="e"
             )
         )
 

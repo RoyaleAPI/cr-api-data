@@ -247,246 +247,246 @@
         "name": "Silver_Arena1",
         "base_chest": "Silver",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena1",
         "base_chest": "Gold",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena1",
         "base_chest": "Magic",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena1",
         "base_chest": "Free",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena1",
         "base_chest": "Star",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena2",
         "base_chest": "Silver",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena2",
         "base_chest": "Gold",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena2",
         "base_chest": "Magic",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena2",
         "base_chest": "Free",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena2",
         "base_chest": "Star",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena3",
         "base_chest": "Silver",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena3",
         "base_chest": "Gold",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena3",
         "base_chest": "Magic",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena3",
         "base_chest": "Free",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena3",
         "base_chest": "Star",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena4",
         "base_chest": "Silver",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena4",
         "base_chest": "Gold",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena4",
         "base_chest": "Magic",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena4",
         "base_chest": "Free",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena4",
         "base_chest": "Star",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena5",
         "base_chest": "Silver",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena5",
         "base_chest": "Gold",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena5",
         "base_chest": "Magic",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena5",
         "base_chest": "Free",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena5",
         "base_chest": "Star",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena6",
         "base_chest": "Silver",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena6",
         "base_chest": "Gold",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena6",
         "base_chest": "Magic",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena6",
         "base_chest": "Free",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena6",
         "base_chest": "Star",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena_L",
         "base_chest": "Silver",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena_L",
         "base_chest": "Gold",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena_L",
         "base_chest": "Magic",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena_L",
         "base_chest": "Free",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena_L",
         "base_chest": "Star",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant",
@@ -550,197 +550,197 @@
         "name": "Giant_Arena1",
         "base_chest": "Giant",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena1",
         "base_chest": "Super",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena2",
         "base_chest": "Giant",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena2",
         "base_chest": "Super",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena3",
         "base_chest": "Giant",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena3",
         "base_chest": "Super",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena4",
         "base_chest": "Giant",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena4",
         "base_chest": "Super",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena5",
         "base_chest": "Giant",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena5",
         "base_chest": "Super",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena6",
         "base_chest": "Giant",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena6",
         "base_chest": "Super",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena7",
         "base_chest": "Giant",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena7",
         "base_chest": "Super",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena_L",
         "base_chest": "Giant",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena_L",
         "base_chest": "Super",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena7",
         "base_chest": "Silver",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena7",
         "base_chest": "Gold",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena7",
         "base_chest": "Magic",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena7",
         "base_chest": "Free",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena7",
         "base_chest": "Star",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena8",
         "base_chest": "Giant",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena8",
         "base_chest": "Super",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena8",
         "base_chest": "Silver",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena8",
         "base_chest": "Gold",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena8",
         "base_chest": "Magic",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena8",
         "base_chest": "Free",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena8",
         "base_chest": "Star",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st",
@@ -762,8 +762,8 @@
         "tap_sound_shop": "sound_openChest_magical",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd",
@@ -785,8 +785,8 @@
         "tap_sound_shop": "sound_openChest_gold",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd",
@@ -808,8 +808,8 @@
         "tap_sound_shop": "sound_openChest_iron",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther",
@@ -831,296 +831,296 @@
         "tap_sound_shop": "sound_openChest_wood",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena1",
         "base_chest": "Tournament1st",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena1",
         "base_chest": "Tournament2nd",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena1",
         "base_chest": "Tournament3rd",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena1",
         "base_chest": "TournamentOther",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena2",
         "base_chest": "Tournament1st",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena2",
         "base_chest": "Tournament2nd",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena2",
         "base_chest": "Tournament3rd",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena2",
         "base_chest": "TournamentOther",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena3",
         "base_chest": "Tournament1st",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena3",
         "base_chest": "Tournament2nd",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena3",
         "base_chest": "Tournament3rd",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena3",
         "base_chest": "TournamentOther",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena4",
         "base_chest": "Tournament1st",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena4",
         "base_chest": "Tournament2nd",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena4",
         "base_chest": "Tournament3rd",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena4",
         "base_chest": "TournamentOther",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena5",
         "base_chest": "Tournament1st",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena5",
         "base_chest": "Tournament2nd",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena5",
         "base_chest": "Tournament3rd",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena5",
         "base_chest": "TournamentOther",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena6",
         "base_chest": "Tournament1st",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena6",
         "base_chest": "Tournament2nd",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena6",
         "base_chest": "Tournament3rd",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena6",
         "base_chest": "TournamentOther",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena7",
         "base_chest": "Tournament1st",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena7",
         "base_chest": "Tournament2nd",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena7",
         "base_chest": "Tournament3rd",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena7",
         "base_chest": "TournamentOther",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena8",
         "base_chest": "Tournament1st",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena8",
         "base_chest": "Tournament2nd",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena8",
         "base_chest": "Tournament3rd",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena8",
         "base_chest": "TournamentOther",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_L",
         "base_chest": "Tournament1st",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_L",
         "base_chest": "Tournament2nd",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_L",
         "base_chest": "Tournament3rd",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_L",
         "base_chest": "TournamentOther",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Legendary",
@@ -1185,8 +1185,8 @@
         "arena": "Arena1",
         "random_spells": 6,
         "different_spells": 3,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena2",
@@ -1194,8 +1194,8 @@
         "arena": "Arena2",
         "random_spells": 8,
         "different_spells": 3,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena3",
@@ -1203,8 +1203,8 @@
         "arena": "Arena3",
         "random_spells": 10,
         "different_spells": 4,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena4",
@@ -1212,8 +1212,8 @@
         "arena": "Arena4",
         "random_spells": 12,
         "different_spells": 4,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena5",
@@ -1221,8 +1221,8 @@
         "arena": "Arena5",
         "random_spells": 13,
         "different_spells": 4,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena6",
@@ -1230,8 +1230,8 @@
         "arena": "Arena6",
         "random_spells": 15,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena7",
@@ -1239,8 +1239,8 @@
         "arena": "Arena7",
         "random_spells": 17,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena8",
@@ -1248,8 +1248,8 @@
         "arena": "Arena8",
         "random_spells": 19,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena_L",
@@ -1257,8 +1257,8 @@
         "arena": "Arena_L",
         "random_spells": 20,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze",
@@ -1279,8 +1279,8 @@
         "tap_sound_shop": "sound_openChest_wood",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold",
@@ -1301,152 +1301,152 @@
         "tap_sound_shop": "sound_openChest_wood",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena1",
         "base_chest": "Survival_Bronze",
         "arena": "Arena1",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena1",
         "base_chest": "Survival_Gold",
         "arena": "Arena1",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena2",
         "base_chest": "Survival_Bronze",
         "arena": "Arena2",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena2",
         "base_chest": "Survival_Gold",
         "arena": "Arena2",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena3",
         "base_chest": "Survival_Bronze",
         "arena": "Arena3",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena3",
         "base_chest": "Survival_Gold",
         "arena": "Arena3",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena4",
         "base_chest": "Survival_Bronze",
         "arena": "Arena4",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena4",
         "base_chest": "Survival_Gold",
         "arena": "Arena4",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena5",
         "base_chest": "Survival_Bronze",
         "arena": "Arena5",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena5",
         "base_chest": "Survival_Gold",
         "arena": "Arena5",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena6",
         "base_chest": "Survival_Bronze",
         "arena": "Arena6",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena6",
         "base_chest": "Survival_Gold",
         "arena": "Arena6",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena7",
         "base_chest": "Survival_Bronze",
         "arena": "Arena7",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena7",
         "base_chest": "Survival_Gold",
         "arena": "Arena7",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena8",
         "base_chest": "Survival_Bronze",
         "arena": "Arena8",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena8",
         "base_chest": "Survival_Gold",
         "arena": "Arena8",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena_L",
         "base_chest": "Survival_Bronze",
         "arena": "Arena_L",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena_L",
         "base_chest": "Survival_Gold",
         "arena": "Arena_L",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_2",
@@ -1467,8 +1467,8 @@
         "tap_sound_shop": "sound_openChest_magical",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_2",
@@ -1489,8 +1489,8 @@
         "tap_sound_shop": "sound_openChest_gold",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_2",
@@ -1511,8 +1511,8 @@
         "tap_sound_shop": "sound_openChest_iron",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_2",
@@ -1533,331 +1533,331 @@
         "tap_sound_shop": "sound_openChest_wood",
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena1_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena1_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena1_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena1_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena2_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena2_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena2_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena2_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena2",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena3_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena3_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena3_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena3_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena3",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena4_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena4_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena4_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena4_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena4",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena5_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena5_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena5_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena5_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena5",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena6_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena6_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena6_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena6_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena6",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena7_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena7_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena7_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena7_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena7",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena8_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena8_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena8_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena8_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena8",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_L_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_L_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_L_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_L_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena_L",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena9",
         "base_chest": "Giant",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena9",
         "base_chest": "Super",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena9",
         "base_chest": "Silver",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena9",
         "base_chest": "Gold",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena9",
         "base_chest": "Magic",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena9",
@@ -1865,172 +1865,172 @@
         "arena": "Arena9",
         "random_spells": 20,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena9",
         "base_chest": "Free",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena9",
         "base_chest": "Star",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena9",
         "base_chest": "Tournament1st",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena9",
         "base_chest": "Tournament2nd",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena9",
         "base_chest": "Tournament3rd",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena9",
         "base_chest": "TournamentOther",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena9_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena9_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena9_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena9_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena9",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena9",
         "base_chest": "Survival_Bronze",
         "arena": "Arena9",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena9",
         "base_chest": "Survival_Gold",
         "arena": "Arena9",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_1_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_2_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_3_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_4_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_5_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_6_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_7_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_8_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_9_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_10_old",
         "base_chest": "ClanCrownChest",
         "arena": "TrainingCamp",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest",
@@ -2052,112 +2052,112 @@
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena1",
         "base_chest": "ClanCrownChest",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena2",
         "base_chest": "ClanCrownChest",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena3",
         "base_chest": "ClanCrownChest",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena4",
         "base_chest": "ClanCrownChest",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena5",
         "base_chest": "ClanCrownChest",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena6",
         "base_chest": "ClanCrownChest",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena7",
         "base_chest": "ClanCrownChest",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena8",
         "base_chest": "ClanCrownChest",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena9",
         "base_chest": "ClanCrownChest",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena_L",
         "base_chest": "ClanCrownChest",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena_T",
         "base_chest": "Giant",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena_T",
         "base_chest": "Super",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena_T",
         "base_chest": "Silver",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena_T",
         "base_chest": "Gold",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena_T",
         "base_chest": "Magic",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena_T",
@@ -2165,109 +2165,109 @@
         "arena": "Arena_T",
         "random_spells": 20,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena_T",
         "base_chest": "Free",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena_T",
         "base_chest": "Star",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_T",
         "base_chest": "Tournament1st",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_T",
         "base_chest": "Tournament2nd",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_T",
         "base_chest": "Tournament3rd",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_T",
         "base_chest": "TournamentOther",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_T_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_T_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_T_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_T_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena_T",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena_T",
         "base_chest": "Survival_Bronze",
         "arena": "Arena_T",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena_T",
         "base_chest": "Survival_Gold",
         "arena": "Arena_T",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena_T",
         "base_chest": "ClanCrownChest",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SeasonReward_L1",
@@ -2294,7 +2294,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L2",
@@ -2321,7 +2321,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L3",
@@ -2348,7 +2348,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L4",
@@ -2375,7 +2375,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L5",
@@ -2402,7 +2402,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L6",
@@ -2429,7 +2429,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L7",
@@ -2456,7 +2456,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L8",
@@ -2483,7 +2483,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonReward_L9",
@@ -2510,7 +2510,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft",
@@ -2537,7 +2537,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena1",
@@ -2564,7 +2564,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena2",
@@ -2591,7 +2591,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena3",
@@ -2618,7 +2618,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena4",
@@ -2645,7 +2645,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena5",
@@ -2672,7 +2672,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena6",
@@ -2699,7 +2699,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena7",
@@ -2726,7 +2726,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena8",
@@ -2753,7 +2753,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena9",
@@ -2780,7 +2780,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena_L",
@@ -2807,7 +2807,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena_T",
@@ -2834,7 +2834,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_StarterPack_T",
@@ -2861,7 +2861,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Newbie3_1",
@@ -3060,7 +3060,6 @@
         "sort_value": 4,
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
-        "boosted_chest": true,
         "has_season_pass_rerolls": true,
         "name_en": "Golden Chest",
         "notification": "Golden Chest unlocked!"
@@ -3069,127 +3068,127 @@
         "name": "StarBoosted_Arena1",
         "base_chest": "StarBoosted",
         "arena": "Arena1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena2",
         "base_chest": "StarBoosted",
         "arena": "Arena2",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena3",
         "base_chest": "StarBoosted",
         "arena": "Arena3",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena4",
         "base_chest": "StarBoosted",
         "arena": "Arena4",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena5",
         "base_chest": "StarBoosted",
         "arena": "Arena5",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena6",
         "base_chest": "StarBoosted",
         "arena": "Arena6",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena7",
         "base_chest": "StarBoosted",
         "arena": "Arena7",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena8",
         "base_chest": "StarBoosted",
         "arena": "Arena8",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena9",
         "base_chest": "StarBoosted",
         "arena": "Arena9",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena_L",
         "base_chest": "StarBoosted",
         "arena": "Arena_L",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena_T",
         "base_chest": "StarBoosted",
         "arena": "Arena_T",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena_Electric",
         "base_chest": "Giant",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena_Electric",
         "base_chest": "Super",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena_Electric",
         "base_chest": "Silver",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena_Electric",
         "base_chest": "Gold",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena_Electric",
         "base_chest": "Magic",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena_Electric",
         "base_chest": "Free",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena_Electric",
         "base_chest": "Star",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena_Electric",
@@ -3197,24 +3196,24 @@
         "arena": "Arena_Electric",
         "random_spells": 20,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena_Electric",
         "base_chest": "Survival_Bronze",
         "arena": "Arena_Electric",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena_Electric",
         "base_chest": "Survival_Gold",
         "arena": "Arena_Electric",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SeasonReward_Electric",
@@ -3241,7 +3240,7 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Draft_Arena_Electric",
@@ -3268,85 +3267,85 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena_Electric",
         "base_chest": "StarBoosted",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena_Electric",
         "base_chest": "ClanCrownChest",
         "arena": "Arena_Electric",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_Electric",
         "base_chest": "Tournament1st",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_Electric",
         "base_chest": "Tournament2nd",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_Electric",
         "base_chest": "Tournament3rd",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_Electric",
         "base_chest": "TournamentOther",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_Electric_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_Electric_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_Electric_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_Electric_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena_Electric",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena1",
@@ -3379,7 +3378,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena2",
@@ -3412,7 +3411,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena3",
@@ -3445,7 +3444,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena4",
@@ -3478,7 +3477,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena5",
@@ -3511,7 +3510,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena6",
@@ -3544,7 +3543,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena7",
@@ -3577,7 +3576,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena8",
@@ -3610,7 +3609,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena9",
@@ -3643,7 +3642,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena_L",
@@ -3676,7 +3675,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena_Electric",
@@ -3709,7 +3708,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena_T",
@@ -3742,7 +3741,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_0_Arena1",
@@ -3773,7 +3772,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_0_Arena2",
@@ -3804,7 +3803,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_0_Arena3",
@@ -3835,7 +3834,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_0_Arena4",
@@ -3867,7 +3866,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena5",
@@ -3899,7 +3898,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena6",
@@ -3931,7 +3930,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena7",
@@ -3963,7 +3962,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena8",
@@ -3995,7 +3994,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena9",
@@ -4027,7 +4026,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena_L",
@@ -4059,7 +4058,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena_Electric",
@@ -4091,7 +4090,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena_T",
@@ -4123,7 +4122,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Arena1",
@@ -4154,7 +4153,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Arena2",
@@ -4185,7 +4184,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Arena3",
@@ -4216,7 +4215,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Arena4",
@@ -4248,7 +4247,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Arena5",
@@ -4280,7 +4279,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Arena6",
@@ -4312,7 +4311,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena7",
@@ -4345,7 +4344,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena8",
@@ -4378,7 +4377,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena9",
@@ -4411,7 +4410,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena_L",
@@ -4444,7 +4443,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena_Electric",
@@ -4477,7 +4476,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena_T",
@@ -4510,7 +4509,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena1",
@@ -4541,7 +4540,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena2",
@@ -4572,7 +4571,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena3",
@@ -4603,7 +4602,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena4",
@@ -4635,7 +4634,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "CollectionDayWin",
@@ -4661,7 +4660,7 @@
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
         "name_en": "Clan Cards Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "CollectionDayLose",
@@ -4687,7 +4686,7 @@
         "icon_swf": "sc/ui_chest.sc",
         "icon_export_name": "chest_item_generic",
         "name_en": "Clan Cards Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeasonBronze",
@@ -4714,7 +4713,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason3rdBronze",
@@ -4741,7 +4740,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason2ndBronze",
@@ -4768,7 +4767,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason1stBronze",
@@ -4795,7 +4794,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeasonSilver",
@@ -4822,7 +4821,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason3rdSilver",
@@ -4849,7 +4848,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason2ndSilver",
@@ -4876,7 +4875,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason1stSilver",
@@ -4903,7 +4902,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeasonGold",
@@ -4930,7 +4929,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason3rdGold",
@@ -4957,7 +4956,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason2ndGold",
@@ -4984,7 +4983,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason1stGold",
@@ -5011,7 +5010,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeasonLegendary",
@@ -5038,7 +5037,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason3rdLegendary",
@@ -5065,7 +5064,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason2ndLegendary",
@@ -5092,7 +5091,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarSeason1stLegendary",
@@ -5119,7 +5118,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Clan Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarEndChest_Bronze",
@@ -5147,7 +5146,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Season Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarEndChest_Silver",
@@ -5175,7 +5174,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Season Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarEndChest_Gold",
@@ -5203,7 +5202,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Season Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "WarEndChest_Legendary",
@@ -5231,7 +5230,7 @@
         "override_arena_with_current": true,
         "use_fixed_spell_count": true,
         "name_en": "Season Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SuperLightning",
@@ -5267,145 +5266,145 @@
         "base_chest": "SuperLightning",
         "arena": "Arena1",
         "num_rerolls": 3,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena2",
         "base_chest": "SuperLightning",
         "arena": "Arena2",
         "num_rerolls": 3,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena3",
         "base_chest": "SuperLightning",
         "arena": "Arena3",
         "num_rerolls": 4,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena4",
         "base_chest": "SuperLightning",
         "arena": "Arena4",
         "num_rerolls": 4,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena5",
         "base_chest": "SuperLightning",
         "arena": "Arena5",
         "num_rerolls": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena6",
         "base_chest": "SuperLightning",
         "arena": "Arena6",
         "num_rerolls": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena7",
         "base_chest": "SuperLightning",
         "arena": "Arena7",
         "num_rerolls": 6,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena8",
         "base_chest": "SuperLightning",
         "arena": "Arena8",
         "num_rerolls": 6,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena9",
         "base_chest": "SuperLightning",
         "arena": "Arena9",
         "num_rerolls": 7,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena_L",
         "base_chest": "SuperLightning",
         "arena": "Arena_L",
         "num_rerolls": 7,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena_Electric",
         "base_chest": "SuperLightning",
         "arena": "Arena_Electric",
         "num_rerolls": 8,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena_T",
         "base_chest": "SuperLightning",
         "arena": "Arena_T",
         "num_rerolls": 8,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Giant_Arena_L1",
         "base_chest": "Giant",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Super_Arena_L1",
         "base_chest": "Super",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Silver_Arena_L1",
         "base_chest": "Silver",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Gold_Arena_L1",
         "base_chest": "Gold",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Magic_Arena_L1",
         "base_chest": "Magic",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Free_Arena_L1",
         "base_chest": "Free",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Star_Arena_L1",
         "base_chest": "Star",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Epic_Arena_L1",
@@ -5413,24 +5412,24 @@
         "arena": "Arena_L1",
         "random_spells": 20,
         "different_spells": 5,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Bronze_Arena_L1",
         "base_chest": "Survival_Bronze",
         "arena": "Arena_L1",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Survival_Gold_Arena_L1",
         "base_chest": "Survival_Gold",
         "arena": "Arena_L1",
         "survival_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Draft_Arena_L1",
@@ -5457,85 +5456,85 @@
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_chests_draft_small",
         "name_en": "Draft Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "StarBoosted_Arena_L1",
         "base_chest": "StarBoosted",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "ClanCrownChest_Arena_L1",
         "base_chest": "ClanCrownChest",
         "arena": "Arena_L1",
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_L1",
         "base_chest": "Tournament1st",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_L1",
         "base_chest": "Tournament2nd",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_L1",
         "base_chest": "Tournament3rd",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_L1",
         "base_chest": "TournamentOther",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament1st_Arena_L1_2",
         "base_chest": "Tournament1st_2",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament2nd_Arena_L1_2",
         "base_chest": "Tournament2nd_2",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Tournament3rd_Arena_L1_2",
         "base_chest": "Tournament3rd_2",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "TournamentOther_Arena_L1_2",
         "base_chest": "TournamentOther_2",
         "arena": "Arena_L1",
         "tournament_chest": true,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "Shop_Small_1_Arena_L1",
@@ -5568,7 +5567,7 @@
         "no_catchup": true,
         "no_random_card_amount": true,
         "name_en": "Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Medium_1_Arena_L1",
@@ -5600,7 +5599,7 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Fortune Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "Shop_Large_Legendary_Arena_L1",
@@ -5633,15 +5632,15 @@
         "allow_multiple_new_cards": true,
         "no_random_card_amount": true,
         "name_en": "Legendary King's Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SuperLightning_Arena_L1",
         "base_chest": "SuperLightning",
         "arena": "Arena_L1",
         "num_rerolls": 8,
-        "name_en": "",
-        "notification": ""
+        "name_en": null,
+        "notification": null
     },
     {
         "name": "SeasonPass_Pro_T1",
@@ -5667,7 +5666,7 @@
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
         "name_en": "Common Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonPass_Pro_T2",
@@ -5693,7 +5692,7 @@
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
         "name_en": "Rare Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonPass_Pro_T3",
@@ -5719,7 +5718,7 @@
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
         "name_en": "Epic Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonPass_Pro_T4",
@@ -5743,8 +5742,8 @@
         "has_season_pass_rerolls": true,
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
-        "name_en": "Legendary Lightning Chest",
-        "notification": ""
+        "name_en": "Legendary Chest",
+        "notification": null
     },
     {
         "name": "SeasonPass_Rookie_T1",
@@ -5769,7 +5768,7 @@
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
         "name_en": "Common Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonPass_Rookie_T2",
@@ -5794,7 +5793,7 @@
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
         "name_en": "Rare Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonPass_Rookie_T3",
@@ -5819,7 +5818,7 @@
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
         "name_en": "Epic Lightning Chest",
-        "notification": ""
+        "notification": null
     },
     {
         "name": "SeasonPass_Rookie_T4",
@@ -5843,7 +5842,7 @@
         "has_season_pass_rerolls": true,
         "use_fixed_spell_count": true,
         "no_random_card_amount": true,
-        "name_en": "Legendary Lightning Chest",
-        "notification": ""
+        "name_en": "Legendary Chest",
+        "notification": null
     }
 ]
