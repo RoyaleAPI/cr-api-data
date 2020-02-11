@@ -1,11 +1,12 @@
 csv:
 #  base: /Users/sml/Dropbox/cr-ipa/Clash_Royale-3.2077_enterprise-20191129095242.67761.16.ipa.Payload/res.working
-  base: /Users/sml/git/cr-csv/assets
-#  base: /Users/sml/git/cr-devbuild/res.working
+#  base: /Users/sml/git/cr-csv/assets
+  base: /Users/sml/git/cr-devbuild/res.working
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv
     area_effect_objects: ./csv_logic/area_effect_objects.csv
     arenas: ./csv_logic/arenas.csv
+    battle_timelines: ./csv_logic/battle_timelines.csv
     buildings: ./csv_logic/buildings.csv
     challenges: ./csv_logic/survival_modes.csv
     characters: ./csv_logic/characters.csv
@@ -26,6 +27,7 @@ json:
   base: ./json/
   alliance_badges: ./alliance_badges.json
   arenas: ./arenas.json
+  battle_timelines: ./battle_timelines.json
   buildings: ./buildings.json
   cards: ./cards.json
   cards_i18n: ./cards_i18n.json

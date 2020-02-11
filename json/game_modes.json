@@ -5123,12 +5123,12 @@
         "deck_selection": "Predefined",
         "battle_timeline": "Default",
         "predefined_decks": [
-            "Blind_Classic_7",
-            "Blind_Classic_Graveyard",
-            "Blind_Classic_Xbow",
-            "Blind_Classic_MegaKnight",
-            "Blind_Classic_HogRider",
-            "Blind_Classic_Balloon"
+            "Blind_Classic_RoyalHogs",
+            "Blind_Classic_Pekka",
+            "Blind_Classic_LavaLoon",
+            "Blind_Classic_LogBait",
+            "Blind_Classic_RoyalGiant",
+            "Blind_Classic_GiantPrince"
         ],
         "separate_team_decks": true,
         "players": "PvP",
@@ -14508,7 +14508,7 @@
     {
         "name": "Event_FirecrackerTease",
         "tid": "TID_EVENTDECK_FIRECRACKER",
-        "card_level_adjustment": "Friendly",
+        "card_level_adjustment": "Tournament",
         "deck_selection": "EventDeck",
         "battle_timeline": "Default",
         "forced_deck_cards": "Firecracker",

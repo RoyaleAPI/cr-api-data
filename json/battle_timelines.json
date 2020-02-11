@@ -1,0 +1,496 @@
+[
+    {
+        "name": "Default",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 6,
+        "elixir_rate_length": [
+            120,
+            120,
+            60
+        ],
+        "elixir_full_bar_ms": [
+            28000,
+            14000,
+            9300
+        ],
+        "elixir_rate_visible": [
+            10,
+            20,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            120,
+            120,
+            60
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350
+        ],
+        "id": 72000000,
+        "name_en": "Default"
+    },
+    {
+        "name": "RampUp",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 3,
+        "elixir_rate_length": [
+            60,
+            60,
+            60,
+            60,
+            60
+        ],
+        "elixir_full_bar_ms": [
+            28000,
+            14000,
+            9300,
+            7000,
+            5600
+        ],
+        "elixir_rate_visible": [
+            10,
+            20,
+            30,
+            40,
+            50
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            60,
+            60,
+            60,
+            60,
+            60
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350,
+            250,
+            200
+        ],
+        "event_time": [
+            60,
+            120,
+            180,
+            240
+        ],
+        "event_type": [
+            "PlaySound",
+            "PlaySound",
+            "PlaySound",
+            "PlaySound"
+        ],
+        "event_string_parameter1": [
+            "60sec_warn_01",
+            "60sec_warn_01",
+            "60sec_warn_01",
+            "60sec_warn_01"
+        ],
+        "id": 72000001,
+        "name_en": "RampUp"
+    },
+    {
+        "name": "DoubleElixir",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 0,
+        "elixir_rate_length": 300,
+        "elixir_full_bar_ms": 14000,
+        "elixir_rate_visible": 20,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 300,
+        "next_spell_cooldown_ms": 500,
+        "id": 72000002,
+        "name_en": "DoubleElixir"
+    },
+    {
+        "name": "TripleElixir",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 0,
+        "elixir_rate_length": 300,
+        "elixir_full_bar_ms": 9300,
+        "elixir_rate_visible": 30,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 300,
+        "next_spell_cooldown_ms": 350,
+        "id": 72000003,
+        "name_en": "TripleElixir"
+    },
+    {
+        "name": "TeamVsTeam",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 6,
+        "elixir_rate_length": [
+            120,
+            120,
+            60
+        ],
+        "elixir_full_bar_ms": [
+            40000,
+            20000,
+            13300
+        ],
+        "elixir_rate_visible": [
+            10,
+            20,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            120,
+            120,
+            60
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350
+        ],
+        "id": 72000004,
+        "name_en": "TeamVsTeam"
+    },
+    {
+        "name": "TeamVsTeam_DoubleElixir",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 0,
+        "elixir_rate_length": 300,
+        "elixir_full_bar_ms": 20000,
+        "elixir_rate_visible": 20,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 300,
+        "next_spell_cooldown_ms": 500,
+        "id": 72000005,
+        "name_en": "TeamVsTeam_DoubleElixir"
+    },
+    {
+        "name": "TeamVsTeam_TripleElixir",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 0,
+        "elixir_rate_length": 300,
+        "elixir_full_bar_ms": 13300,
+        "elixir_rate_visible": 30,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 300,
+        "next_spell_cooldown_ms": 350,
+        "id": 72000006,
+        "name_en": "TeamVsTeam_TripleElixir"
+    },
+    {
+        "name": "TeamVsTeam_RampUp",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 3,
+        "elixir_rate_length": [
+            60,
+            60,
+            60,
+            60,
+            60
+        ],
+        "elixir_full_bar_ms": [
+            40000,
+            20000,
+            13300,
+            10000,
+            8000
+        ],
+        "elixir_rate_visible": [
+            10,
+            20,
+            30,
+            40,
+            50
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            60,
+            60,
+            60,
+            60,
+            60
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350,
+            250,
+            200
+        ],
+        "event_time": [
+            60,
+            120,
+            180,
+            240
+        ],
+        "event_type": [
+            "PlaySound",
+            "PlaySound",
+            "PlaySound",
+            "PlaySound"
+        ],
+        "event_string_parameter1": [
+            "60sec_warn_01",
+            "60sec_warn_01",
+            "60sec_warn_01",
+            "60sec_warn_01"
+        ],
+        "id": 72000007,
+        "name_en": "TeamVsTeam_RampUp"
+    },
+    {
+        "name": "SuddenDeath",
+        "section_length": 300,
+        "section_type": "Overtime",
+        "starting_elixir": 6,
+        "elixir_rate_length": [
+            120,
+            180
+        ],
+        "elixir_full_bar_ms": [
+            14000,
+            9300
+        ],
+        "elixir_rate_visible": [
+            20,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            120,
+            180
+        ],
+        "next_spell_cooldown_ms": [
+            500,
+            350
+        ],
+        "id": 72000008,
+        "name_en": "SuddenDeath"
+    },
+    {
+        "name": "RageMode",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 6,
+        "elixir_rate_length": [
+            120,
+            120,
+            60
+        ],
+        "elixir_full_bar_ms": [
+            20750,
+            10550,
+            7000
+        ],
+        "elixir_rate_visible": [
+            13,
+            27,
+            40
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            120,
+            120,
+            60
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350
+        ],
+        "id": 72000009,
+        "name_en": "RageMode"
+    },
+    {
+        "name": "Tutorial",
+        "section_length": 0,
+        "section_type": "Normal",
+        "starting_elixir": 6,
+        "elixir_rate_length": 0,
+        "elixir_full_bar_ms": 28000,
+        "elixir_rate_visible": 10,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 0,
+        "next_spell_cooldown_ms": 2000,
+        "id": 72000010,
+        "name_en": "Tutorial"
+    },
+    {
+        "name": "Spawning",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 3,
+        "elixir_rate_length": [
+            60,
+            120,
+            120
+        ],
+        "elixir_full_bar_ms": [
+            28000,
+            14000,
+            9300
+        ],
+        "elixir_rate_visible": [
+            10,
+            20,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            60,
+            120,
+            120
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350
+        ],
+        "id": 72000011,
+        "name_en": "Spawning"
+    },
+    {
+        "name": "TeamVsTeam_Spawning",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 3,
+        "elixir_rate_length": [
+            60,
+            120,
+            120
+        ],
+        "elixir_full_bar_ms": [
+            40000,
+            20000,
+            13300
+        ],
+        "elixir_rate_visible": [
+            10,
+            20,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            60,
+            120,
+            120
+        ],
+        "next_spell_cooldown_ms": [
+            1000,
+            500,
+            350
+        ],
+        "id": 72000012,
+        "name_en": "TeamVsTeam_Spawning"
+    }
+]

@@ -1,5 +1,6 @@
 from .alliance_badges import AllianceBadges
 from .arenas import Arenas
+from .battle_timelines import BattleTimelines
 from .cards import Cards
 from .cards_stats import CardStats
 from .challenges import Challenges
