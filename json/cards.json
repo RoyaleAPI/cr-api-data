@@ -1065,5 +1065,16 @@
         "arena": 8,
         "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down.",
         "id": 28000017
+    },
+    {
+        "key": "royal-delivery",
+        "name": "Royal Delivery",
+        "sc_key": "RoyalDelivery",
+        "elixir": 3,
+        "type": "Spell",
+        "rarity": "Common",
+        "arena": 12,
+        "description": "No need to sign for this package! Dropped from the sky, it damages and knocks back enemy Troops before delivering a Royal Recruit. The empty box is also handy for espionage.",
+        "id": 28000018
     }
 ]

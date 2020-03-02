@@ -93,6 +93,9 @@ class Cards(BaseGen):
                                 else:
                                     elixir = None
 
+                                description = self.text(row['TID_INFO'], 'EN')
+                                description = description.replace('\\n\\n', ' ')
+
                                 card = {
                                     'key': key,
                                     'name': name_en,
@@ -101,7 +104,7 @@ class Cards(BaseGen):
                                     'type': card_config.type,
                                     'rarity': row['Rarity'],
                                     'arena': self.arena_id(row['UnlockArena']),
-                                    'description': self.text(row['TID_INFO'], 'EN'),
+                                    'description': description,
                                     'id': int(decklink),
                                     # '_lang': {
                                     #     'name': self.text_all_lang(row['TID']),

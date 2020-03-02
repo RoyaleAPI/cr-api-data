@@ -23,8 +23,8 @@ if __name__ == '__main__':
     to_run.extend([
         TextsGen,
         BattleTimelines,
-        # Arenas,
-        # Rarities,
+        Arenas,
+        Rarities,
         PredefinedDecks,
         # AllianceBadges,
         GameModes,
@@ -35,8 +35,8 @@ if __name__ == '__main__':
     to_run.extend([
         Cards,
         ChestOrder,
-        # ClanChest,
-        # Regions,
+        ClanChest,
+        Regions,
         TreasureChests,
         CardStats,
         Tournaments,

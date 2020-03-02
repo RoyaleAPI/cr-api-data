@@ -492,5 +492,25 @@
         ],
         "id": 72000012,
         "name_en": "TeamVsTeam_Spawning"
+    },
+    {
+        "name": "7xElixir",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": 0,
+        "elixir_rate_length": 300,
+        "elixir_full_bar_ms": 4000,
+        "elixir_rate_visible": 70,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 300,
+        "next_spell_cooldown_ms": 50,
+        "id": 72000013,
+        "name_en": "7xElixir"
     }
 ]

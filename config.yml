@@ -1,7 +1,8 @@
 csv:
 #  base: /Users/sml/Dropbox/cr-ipa/Clash_Royale-3.2077_enterprise-20191129095242.67761.16.ipa.Payload/res.working
-#  base: /Users/sml/git/cr-csv/assets
-  base: /Users/sml/git/cr-devbuild/res.working
+  base: /Users/sml/git/cr-csv/assets
+#  base: /Users/sml/git/cr-csv-dev
+#  base: /Users/sml/Dropbox/cr-devbuild/20200229-a
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv
     area_effect_objects: ./csv_logic/area_effect_objects.csv

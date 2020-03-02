@@ -5915,5 +5915,66 @@
                 "sc_key": "TID_SPELL_INFO_SNOWBALL"
             }
         }
+    },
+    {
+        "key": "royal-delivery",
+        "name": "Royal Delivery",
+        "sc_key": "RoyalDelivery",
+        "elixir": 3,
+        "type": "Spell",
+        "rarity": "Common",
+        "arena": 12,
+        "description": "No need to sign for this package! Dropped from the sky, it damages and knocks back enemy Troops before delivering a Royal Recruit. The empty box is also handy for espionage.",
+        "id": 28000018,
+        "_lang": {
+            "name": {
+                "en": "Royal Delivery",
+                "fr": "Colis royal",
+                "de": "Königliche Luftpost",
+                "es": "Paquete real",
+                "it": "Consegna Royale",
+                "nl": "Koninklijk pakketje",
+                "no": "Kongelig levering",
+                "tr": "Kraliyet Paketi",
+                "jp": "ロイヤルデリバリー",
+                "kr": "로얄 택배",
+                "ru": "Королевская почта",
+                "ar": "الطرد الملكي",
+                "pt": "Encomenda Real",
+                "cn": "皇家速递",
+                "cnt": "皇家快遞",
+                "fa": "محموله سلطنتی",
+                "id": "Bingkisan Royal",
+                "ms": "Bungkusan Diraja",
+                "th": "พัสดุหลวง",
+                "fi": "Kuninkaallinen lähetys",
+                "vi": "Bưu kiện Hoàng gia",
+                "sc_key": "TID_SPELL_ROYAL_DELIVERY"
+            },
+            "description": {
+                "en": "No need to sign for this package!\\n\\nDropped from the sky, it damages and knocks back enemy Troops before delivering a Royal Recruit.\\n\\nThe empty box is also handy for espionage.",
+                "fr": "Pas d'accusé de réception nécessaire.\\n\\nLivré par les airs, le colis inflige des dégâts et projette les unités ennemies en arrière, avant de libérer une recrue royale.\\n\\nLa boîte vide est aussi très pratique pour l'espionnage.",
+                "de": "Für dieses Paket ist keine Unterschrift nötig!\\n\\nDiese vom Himmel fallende Kiste fügt gegnerischen Truppen Schaden zu und stößt sie zurück. Anschließend lässt sie einen Königsrekruten auf den Gegner los.\\n\\nDie leere Kiste eignet sich hervorragend für Spionageeinsätze.",
+                "es": "¡Atención, atención! ¡Entrega especial del correo del reino!\\n\\nEl paquete cae del cielo y causa daño y desplaza hacia atrás a las tropas enemigas.\\n\\nAl impactar, la caja se rompe y libera a un recluta real listo para luchar.",
+                "it": "C'è posta per te!\\n\\nDanneggia e respinge le truppe nemiche quando piomba dal cielo, per poi rivelare il suo contenuto: una recluta Royale.\\n\\nLa cassa vuota è anche un ottimo nascondiglio.",
+                "nl": "Voor dit pakketje hoef je niet te tekenen!\\n\\nHet koninklijk pakketje valt uit de lucht waardoor vijandelijke troepen schade oplopen en worden teruggeduwd. Vervolgens komt een koninklijke rekruut tevoorschijn.\\n\\nDe lege doos is bovendien handig voor spionage.",
+                "no": "Denne pakken trenger du ikke kvittere for!\\n\\nNår den slippes fra himmelen, skader den og slår tilbake fiendens tropper før den leverer en kongelig rekrutt.\\n\\nDen tomme kassen er også fin å ha til spionasje.",
+                "tr": "Teslim almak için imza gerekmiyor!\\n\\nGökten bırakılan bu paket yere düştüğünde patlayıp hasar verdiği birlikleri geri itiyor ve içinden bir Muhafız çıkıyor.\\n\\nBoş kutu da gizlenmek için oldukça kullanışlı.",
+                "jp": "受け取りのサインは不要です！\\n\\nこの荷物は空から投下され、敵にダメージを与えてノックバックさせたうえで、中から見習い親衛隊が飛び出します。\\n\\n空箱も、身を隠したい時などにご利用いただけます。",
+                "kr": "수령 확인 서명은 필요는 없습니다!\\n\\n하늘에서 떨어진 택배 상자가 적 유닛에 피해를 주고 뒤로 밀쳐냅니다. 상자 안에는 로얄 훈련병이 들어있습니다!\\n\\n빈 상자는 정찰용으로도 유용합니다.",
+                "ru": "Расписываться за получение не обязательно!\\n\\nС не ба падает посылка, которая наносит урон вражеским воинам и отбрасывает их назад, после чего из нее появляется королевский рекрут.\\n\\nА из пустого ящика удобно шпионить.",
+                "ar": "لا داعي للتوقيع على تسلم هذا الطرد.\\n\\nسيسقط الطرد من السماء ليلحق ضررًا بقوات الأعداء ويدفعهم للخلف قبل أن يمدك بمجند ملكي.\\n\\nأما الصندوق الفارغ، فيمكن أن يصبح أداة مفيدة للتجسس.",
+                "pt": "Isso sim é pior que a encomenda!\\n\\nAo ser lançada na arena, inflige dano e empurra as tropas inimigas para, em seguida, liberar um Recruta Real.\\n\\nA caixa vazia serve também como esconderijo.",
+                "cn": "签不签收由不得你！！\\n\\n一个箱子从天而降，击退目标范围内的敌军并对其造成伤害，最后放出一名皇家卫队新兵。\\n\\n用过的箱子还是谍报特工的绝佳伪装。",
+                "cnt": "快遞到囉！但簽收與否由不得人！！\\n\\n箱子從天而降，擊退目標範圍內的敵軍並對其造成傷害，最後放出一名皇家新兵。\\n\\n箱子真的是用來潛行的最佳掩護。！",
+                "fa": "نیازی به امضای دریافت‌کننده نیست!\\n\\nاز آسمون پایین می‌افته، آسیب وارد می‌کنه و قبل از تحویل سرباز سلطتنی، نیروها رو به عقب پرت می‌کنه.\\n\\nجعبه خالی به درد جاسوسی هم می‌خوره.",
+                "id": "Inilah bingkisan yang memacu jantung semua orang!\\n\\nSaat jatuh dari langit, peleton lawan akan terhantam mundur dan dari bingkisan tersebut seorang Tentara Royal akan keluar.\\n\\nJangan lupa untuk mendaur ulang kotak bingkisannya, ya!",
+                "ms": "Tak perlu tandatangan untuk pakej ni!\\n\\nDijatuhkan dari langit, ia merosakkan dan menolak askar musuh sebelum keluarnya seorang Rekrut Diraja.\\n\\nKotak kosong itu juga sesuai untuk pengintipan.",
+                "th": "ไม่จำเป็นต้องเซ็นชื่อรับพัสดุ!\\n\\nเมื่อร่วงหล่นจากฟ้า พัสดุจะสร้างความเสียหายและกระแทกกองกำลังของศัตรูให้กระเด็นถอยหลังก่อนส่งทหารเกณฑ์หลวงออกมา\\n\\nแถมทาสแมวยังใช้กล่องเปล่าใส่นายท่านได้อีกต่างหาก",
+                "fi": "Tätä lähetystä ei tarvitse kuitata!\\n\\nPudotessaan taivaalta se aiheuttaa tuhoa ja työntää vihollisjoukkoja taaksepäin ja vapauttaa sitten kuninkaallisen soturin.\\n\\nTyhjä laatikko sopii hyvin myös vakoiluun.",
+                "vi": "Không cần gửi bảo đảm kiện hàng này đâu!\\n\\nNó sẽ rơi thẳng từ trên trời xuống, gây sát thương và đánh bật các binh lính địch trước khi giải phóng một Tân binh Hoàng gia.\\n\\nNếu anh ta có đi làm gián điệp thì cái thùng rỗng này cũng rất hữu ích đấy!",
+                "sc_key": "TID_SPELL_INFO_ROYAL_DELIVERY"
+            }
+        }
     }
 ]
