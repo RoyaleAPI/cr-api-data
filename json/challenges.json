@@ -45,6 +45,32 @@
         "tid": "TID_PUBLIC_TOURNAMENT_GOLD",
         "key": "Gold",
         "id": 65000000,
+        "_lang": {
+            "tid": {
+                "en": "Grand Challenge",
+                "fr": "Super défi",
+                "de": "Große Herausforderung",
+                "es": "Gran desafío",
+                "it": "Sfida grandiosa",
+                "nl": "Nobele uitdaging",
+                "no": "Stor utfordring",
+                "tr": "Büyük Mücadele",
+                "jp": "グランドチャレンジ",
+                "kr": "그랜드 도전",
+                "ru": "Большое испытание",
+                "ar": "تحدٍ كبير",
+                "pt": "Grande desafio",
+                "cn": "终极挑战",
+                "cnt": "終極挑戰",
+                "fa": "چالش اعظم",
+                "id": "Tantangan Akbar",
+                "ms": "Cabaran Besar",
+                "th": "ความท้าทายใหญ่",
+                "fi": "Suurhaaste",
+                "vi": "Đại Thử thách",
+                "sc_key": "TID_PUBLIC_TOURNAMENT_GOLD"
+            }
+        },
         "name_en": "Grand Challenge"
     },
     {
@@ -93,6 +119,32 @@
         "tid": "TID_PUBLIC_TOURNAMENT_BRONZE",
         "key": "Bronze",
         "id": 65000001,
+        "_lang": {
+            "tid": {
+                "en": "Classic Challenge",
+                "fr": "Défi classique",
+                "de": "Klassische Herausforderung",
+                "es": "Desafío clásico",
+                "it": "Sfida classica",
+                "nl": "Klassieke uitdaging",
+                "no": "Klassisk utfordring",
+                "tr": "Klasik Mücadele",
+                "jp": "クラシックチャレンジ",
+                "kr": "클래식 도전",
+                "ru": "Классическое испытание",
+                "ar": "التحدي التقليدي",
+                "pt": "Desafio clássico",
+                "cn": "经典挑战",
+                "cnt": "經典挑戰",
+                "fa": "چالش کلاسیک",
+                "id": "Tantangan Klasik",
+                "ms": "Cabaran Klasik",
+                "th": "ความท้าทายคลาสสิก",
+                "fi": "Klassinen haaste",
+                "vi": "Thử thách Cổ điển",
+                "sc_key": "TID_PUBLIC_TOURNAMENT_BRONZE"
+            }
+        },
         "name_en": "Classic Challenge"
     },
     {

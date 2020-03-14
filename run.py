@@ -26,7 +26,7 @@ if __name__ == '__main__':
         Arenas,
         Rarities,
         PredefinedDecks,
-        # AllianceBadges,
+        AllianceBadges,
         GameModes,
         Challenges,
     ])

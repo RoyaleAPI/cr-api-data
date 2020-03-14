@@ -21,6 +21,8 @@ class Challenges(BaseGen):
                 key=row_name,
                 id=65000000 + i,
             ))
+            row = self.row_parse_tid(row)
+            row = self.row_parse_lang(row, row.get('tid'))
             if row.get('tid'):
                 row.update(dict(
                     name_en=self.text(row["tid"], "EN")

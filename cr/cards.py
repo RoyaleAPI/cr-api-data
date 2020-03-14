@@ -112,7 +112,6 @@ class Cards(BaseGen):
                                     # }
                                 }
 
-                                print(self.i18n)
                                 if self.i18n:
                                     card.update({
                                         '_lang': {
