@@ -1045,14 +1045,14 @@
         "id": 28000015
     },
     {
-        "key": "heal",
-        "name": "Heal",
+        "key": "heal-spirit",
+        "name": "Heal Spirit",
         "sc_key": "Heal",
         "elixir": 1,
         "type": "Spell",
         "rarity": "Rare",
         "arena": 10,
-        "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
+        "description": "A little ball of sunshine that jumps on enemies but heals your Troops.",
         "id": 28000016
     },
     {
