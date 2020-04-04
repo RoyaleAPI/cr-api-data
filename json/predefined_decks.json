@@ -2690,7 +2690,7 @@
             "bandit",
             "valkyrie",
             "miner",
-            "giant-snowball",
+            "barbarian-barrel",
             "elixir-collector"
         ],
         "spell_level": [
@@ -3043,7 +3043,7 @@
             "barbarian-hut",
             "dart-goblin",
             "barbarian-barrel",
-            "heal"
+            "heal-spirit"
         ],
         "spell_level": [
             1,
@@ -3657,5 +3657,105 @@
         ],
         "tid": "TID_CLASSIC_GSKELLYLOON",
         "name_en": "Fishin' for 'Loons"
+    },
+    {
+        "name": "Blind_LuckyLadies1",
+        "spells": [
+            "giant",
+            "the-log",
+            "zap",
+            "fireball",
+            "witch",
+            "musketeer",
+            "mega-minion",
+            "miner"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLINDDECK_LUCKYLADIES1",
+        "name_en": "Lucky Ladies #1"
+    },
+    {
+        "name": "Blind_LuckyLadies2",
+        "spells": [
+            "pekka",
+            "minions",
+            "firecracker",
+            "electro-wizard",
+            "ram-rider",
+            "bandit",
+            "arrows",
+            "poison"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLINDDECK_LUCKYLADIES2",
+        "name_en": "Lucky Ladies #2"
+    },
+    {
+        "name": "Blind_LuckyLadies3",
+        "spells": [
+            "princess",
+            "goblin-gang",
+            "goblin-barrel",
+            "firecracker",
+            "rascals",
+            "prince",
+            "barbarian-barrel",
+            "rocket"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLINDDECK_LUCKYLADIES3",
+        "name_en": "Lucky Ladies #3"
+    },
+    {
+        "name": "Blind_LuckyLadies4",
+        "spells": [
+            "three-musketeers",
+            "minion-horde",
+            "goblin-gang",
+            "bandit",
+            "valkyrie",
+            "miner",
+            "giant-snowball",
+            "barbarian-barrel"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_BLINDDECK_LUCKYLADIES4",
+        "name_en": "Lucky Ladies #4"
     }
 ]
