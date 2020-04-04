@@ -1175,7 +1175,33 @@
             "SetRandom3to5Any"
         ],
         "tid": "TID_BLIND_DECK_RANDOM",
-        "name_en": "Random Mix"
+        "name_en": "Random Mix",
+        "_lang": {
+            "name": {
+                "en": "Random Mix",
+                "fr": "Mélange aléatoire",
+                "de": "Zufallsmix",
+                "es": "Selección aleatoria",
+                "it": "Guazzabuglio",
+                "nl": "Willekeurige mix",
+                "no": "Tilfeldig blanding",
+                "tr": "Rastgele Karışık",
+                "jp": "ランダムミックス",
+                "kr": "랜덤 믹스",
+                "ru": "Случайный выбор",
+                "ar": "خليط عشوائي",
+                "pt": "Seleção aleatória",
+                "cn": "随机卡组",
+                "cnt": "隨機牌組",
+                "fa": "ترکیب تصادفی",
+                "id": "Campuran Acak",
+                "ms": "Campuran Rawak",
+                "th": "ชุดสุ่ม",
+                "fi": "Sattumanvarainen sekoitus",
+                "vi": "Pha trộn Ngẫu nhiên",
+                "sc_key": "TID_BLIND_DECK_RANDOM"
+            }
+        }
     },
     {
         "name": "BlindDeck2",
@@ -1190,7 +1216,33 @@
             "SetRandomAll"
         ],
         "tid": "TID_BLIND_DECK_RANDOM",
-        "name_en": "Random Mix"
+        "name_en": "Random Mix",
+        "_lang": {
+            "name": {
+                "en": "Random Mix",
+                "fr": "Mélange aléatoire",
+                "de": "Zufallsmix",
+                "es": "Selección aleatoria",
+                "it": "Guazzabuglio",
+                "nl": "Willekeurige mix",
+                "no": "Tilfeldig blanding",
+                "tr": "Rastgele Karışık",
+                "jp": "ランダムミックス",
+                "kr": "랜덤 믹스",
+                "ru": "Случайный выбор",
+                "ar": "خليط عشوائي",
+                "pt": "Seleção aleatória",
+                "cn": "随机卡组",
+                "cnt": "隨機牌組",
+                "fa": "ترکیب تصادفی",
+                "id": "Campuran Acak",
+                "ms": "Campuran Rawak",
+                "th": "ชุดสุ่ม",
+                "fi": "Sattumanvarainen sekoitus",
+                "vi": "Pha trộn Ngẫu nhiên",
+                "sc_key": "TID_BLIND_DECK_RANDOM"
+            }
+        }
     },
     {
         "name": "FixedDeck1",
@@ -1215,7 +1267,33 @@
             "SetFixedSwarm"
         ],
         "tid": "TID_BLIND_DECK1",
-        "name_en": "X-Bowler"
+        "name_en": "X-Bowler",
+        "_lang": {
+            "name": {
+                "en": "X-Bowler",
+                "fr": "Bouliste-X",
+                "de": "X-Bowler",
+                "es": "Lanzaballesta",
+                "it": "Bocciatore-X",
+                "nl": "X-bowler",
+                "no": "X-bowler",
+                "tr": "X-Atıcı",
+                "jp": "クロスボウラー",
+                "kr": "크로스 볼러",
+                "ru": "Арбалет",
+                "ar": "X-باولر",
+                "pt": "X-Lançador",
+                "cn": "巨石投手连弩流",
+                "cnt": "巨石投手連弩流",
+                "fa": "له‌کننده ایکس",
+                "id": "Bowler X",
+                "ms": "Pembaling-X",
+                "th": "นักยิงคันศรเอ็กซ์",
+                "fi": "Jousi ja keila",
+                "vi": "Tháp Thạch thủ",
+                "sc_key": "TID_BLIND_DECK1"
+            }
+        }
     },
     {
         "name": "FixedDeck2",
@@ -1240,7 +1318,33 @@
             "SetFixedBuildingDefense"
         ],
         "tid": "TID_BLIND_DECK2",
-        "name_en": "The Frozen Hog"
+        "name_en": "The Frozen Hog",
+        "_lang": {
+            "name": {
+                "en": "The Frozen Hog",
+                "fr": "Le cochon gelé",
+                "de": "Das gefrorene Schwein",
+                "es": "El puerco de hielo",
+                "it": "Suino surgelato",
+                "nl": "Het bevroren varken",
+                "no": "Frossent villsvin",
+                "tr": "Donmuş Domuz",
+                "jp": "フリーズホグ",
+                "kr": "얼음 호그",
+                "ru": "Замороженный кабан",
+                "ar": "الخنزير المتجمد",
+                "pt": "Corredor Congelado",
+                "cn": "冰冻法术野猪流",
+                "cnt": "冰凍法術野豬流",
+                "fa": "خوک منجمد",
+                "id": "Babi Beku",
+                "ms": "Khinzir Beku",
+                "th": "หมูป่าแช่แข็ง",
+                "fi": "Jääkarju",
+                "vi": "Lợn Đông",
+                "sc_key": "TID_BLIND_DECK2"
+            }
+        }
     },
     {
         "name": "FixedDeck3",
@@ -1265,7 +1369,33 @@
             "SetFixedSpirit"
         ],
         "tid": "TID_BLIND_DECK3",
-        "name_en": "The Raging Balloon"
+        "name_en": "The Raging Balloon",
+        "_lang": {
+            "name": {
+                "en": "The Raging Balloon",
+                "fr": "Le ballon déchaîné",
+                "de": "Der Sturmballon",
+                "es": "Furia bombástica",
+                "it": "La mongolfiera scatenata",
+                "nl": "De woedende ballon",
+                "no": "Rasende ballong",
+                "tr": "Öfkeli Balon",
+                "jp": "レイジバルーン",
+                "kr": "분노 비행선",
+                "ru": "Яростный шар",
+                "ar": "البالون المستشاط",
+                "pt": "Balão Enfurecido",
+                "cn": "狂暴法术气球流",
+                "cnt": "狂暴法術氣球流",
+                "fa": "بالن خشمگین",
+                "id": "Balon Amarah",
+                "ms": "Belon Kemarahan",
+                "th": "บอลลูนคลั่ง",
+                "fi": "Raivokas kuumailmapallo",
+                "vi": "Khinh khí cầu Phá hoại",
+                "sc_key": "TID_BLIND_DECK3"
+            }
+        }
     },
     {
         "name": "FixedDeck4",
@@ -1290,7 +1420,33 @@
             "SetFixedSpirit"
         ],
         "tid": "TID_BLIND_DECK4",
-        "name_en": "Mirror, Miner, Muskies"
+        "name_en": "Mirror, Miner, Muskies",
+        "_lang": {
+            "name": {
+                "en": "Mirror, Miner, Muskies",
+                "fr": "Miroir, mineur, mousquetaires",
+                "de": "Spiegel, Tunnelgräber, Musketiere",
+                "es": "Espejo, minero y mosquetera",
+                "it": "Pala, moschetto e specchio",
+                "nl": "Spiegel, mijnwerker, musketiers",
+                "no": "Speil, graver, musketerer",
+                "tr": "Ayna, Madenci, Silahşorler",
+                "jp": "ミラーディガーマスケット",
+                "kr": "반사경, 광부, 머스킷병",
+                "ru": "Зеркало, шахтер, мушкетеры",
+                "ar": "مرآة، عامل المنجم، روائح عطرة",
+                "pt": "Espelho, Mineiro, Mosqueteiras",
+                "cn": "镜像矿工三枪流",
+                "cnt": "鏡像礦工三槍流",
+                "fa": "آینه، معدنچی، تفنگدارها",
+                "id": "Cermin, Penambang, Musketeer",
+                "ms": "Cermin, Pelombong, Muskies",
+                "th": "กระจก, คนงานเหมือง, สามทหารเสือ",
+                "fi": "Peili, kaivosmies, musketit",
+                "vi": "Gương, Thợ mỏ, Toán Ngự lâm",
+                "sc_key": "TID_BLIND_DECK4"
+            }
+        }
     },
     {
         "name": "FixedDeck5",
@@ -1315,7 +1471,33 @@
             "SetFixedDamageSpellMid"
         ],
         "tid": "TID_BLIND_DECK5",
-        "name_en": "Go-Log-Go"
+        "name_en": "Go-Log-Go",
+        "_lang": {
+            "name": {
+                "en": "Go-Log-Go",
+                "fr": "Allez la bûche !",
+                "de": "Auf geht´s, Kampfholz!",
+                "es": "¡Vamos, tronco!",
+                "it": "Tronchi a go-go",
+                "nl": "Rol, stam, rol",
+                "no": "Tømmerhogst",
+                "tr": "Bastır Tomruk Bastır",
+                "jp": "ゴーローゴー",
+                "kr": "고고 통나무",
+                "ru": "Вперед, бревно",
+                "ar": "اتجه إلى السجلات",
+                "pt": "Vai-Tronco-Vai",
+                "cn": "戈仑石人滚木流",
+                "cnt": "戈侖石人滾木流",
+                "fa": "Go-Log-Go",
+                "id": "Go-Log-Go",
+                "ms": "Pergi, Log, Pergi",
+                "th": "เดอะล็อกลุยเลย",
+                "fi": "Anna mennä tukki!",
+                "vi": "Gỗ lăn Tiến lên",
+                "sc_key": "TID_BLIND_DECK5"
+            }
+        }
     },
     {
         "name": "FixedDeck6",
@@ -1340,7 +1522,33 @@
             "SetFixedCheapFlying"
         ],
         "tid": "TID_BLIND_DECK6",
-        "name_en": "Dark Lighting"
+        "name_en": "Dark Lighting",
+        "_lang": {
+            "name": {
+                "en": "Dark Lighting",
+                "fr": "Foudre noire",
+                "de": "Dunkle Beleuchtung",
+                "es": "Rayo oscuro",
+                "it": "Chiaroscuro",
+                "nl": "Licht in de duisternis",
+                "no": "Mørk belysning",
+                "tr": "Koyu Aydınlatma",
+                "jp": "ダークライトニング",
+                "kr": "다크 라이트",
+                "ru": "Черная молния",
+                "ar": "إنارة الظلام",
+                "pt": "Relâmpago das Trevas",
+                "cn": "黑暗王子雷电流",
+                "cnt": "黑暗王子雷電流",
+                "fa": "روشنایی تاریک",
+                "id": "Kilat Hitam",
+                "ms": "Kilat Kegelapan",
+                "th": "สายฟ้ามืด",
+                "fi": "Tumma salama",
+                "vi": "Sét Hắc ám",
+                "sc_key": "TID_BLIND_DECK6"
+            }
+        }
     },
     {
         "name": "MirrorDeck",
@@ -1356,7 +1564,33 @@
             "MirrorSet"
         ],
         "tid": "TID_MIRROR_DECK",
-        "name_en": "Mirror Deck"
+        "name_en": "Mirror Deck",
+        "_lang": {
+            "name": {
+                "en": "Mirror Deck",
+                "fr": "Deck miroir",
+                "de": "Spiegeldeck",
+                "es": "Mazo duplicado",
+                "it": "Mazzo Specchio",
+                "nl": "Spiegelkaarten",
+                "no": "Speilkort",
+                "tr": "Ayna Destesi",
+                "jp": "鏡デッキ",
+                "kr": "반사경 덱",
+                "ru": "Зеркальная колода",
+                "ar": "مجموعة معركة المرآة",
+                "pt": "Deck do Espelho",
+                "cn": "镜像卡组",
+                "cnt": "鏡像牌組",
+                "fa": "دسته نبرد آینه",
+                "id": "Dek Cermin",
+                "ms": "Dek Cermin",
+                "th": "สำรับลอกเลียน",
+                "fi": "Peilipakka",
+                "vi": "Bộ thẻ Gương",
+                "sc_key": "TID_MIRROR_DECK"
+            }
+        }
     },
     {
         "name": "MirrorDeck2v2",
@@ -1372,7 +1606,33 @@
             "MirrorSet"
         ],
         "tid": "TID_MIRROR_DECK",
-        "name_en": "Mirror Deck"
+        "name_en": "Mirror Deck",
+        "_lang": {
+            "name": {
+                "en": "Mirror Deck",
+                "fr": "Deck miroir",
+                "de": "Spiegeldeck",
+                "es": "Mazo duplicado",
+                "it": "Mazzo Specchio",
+                "nl": "Spiegelkaarten",
+                "no": "Speilkort",
+                "tr": "Ayna Destesi",
+                "jp": "鏡デッキ",
+                "kr": "반사경 덱",
+                "ru": "Зеркальная колода",
+                "ar": "مجموعة معركة المرآة",
+                "pt": "Deck do Espelho",
+                "cn": "镜像卡组",
+                "cnt": "鏡像牌組",
+                "fa": "دسته نبرد آینه",
+                "id": "Dek Cermin",
+                "ms": "Dek Cermin",
+                "th": "สำรับลอกเลียน",
+                "fi": "Peilipakka",
+                "vi": "Bộ thẻ Gương",
+                "sc_key": "TID_MIRROR_DECK"
+            }
+        }
     },
     {
         "name": "MirrorDeck_H",
@@ -1388,7 +1648,33 @@
             "SetMirror_H"
         ],
         "tid": "TID_MIRROR_DECK",
-        "name_en": "Mirror Deck"
+        "name_en": "Mirror Deck",
+        "_lang": {
+            "name": {
+                "en": "Mirror Deck",
+                "fr": "Deck miroir",
+                "de": "Spiegeldeck",
+                "es": "Mazo duplicado",
+                "it": "Mazzo Specchio",
+                "nl": "Spiegelkaarten",
+                "no": "Speilkort",
+                "tr": "Ayna Destesi",
+                "jp": "鏡デッキ",
+                "kr": "반사경 덱",
+                "ru": "Зеркальная колода",
+                "ar": "مجموعة معركة المرآة",
+                "pt": "Deck do Espelho",
+                "cn": "镜像卡组",
+                "cnt": "鏡像牌組",
+                "fa": "دسته نبرد آینه",
+                "id": "Dek Cermin",
+                "ms": "Dek Cermin",
+                "th": "สำรับลอกเลียน",
+                "fi": "Peilipakka",
+                "vi": "Bộ thẻ Gương",
+                "sc_key": "TID_MIRROR_DECK"
+            }
+        }
     },
     {
         "name": "MirrorDeck2v2_H",
@@ -1404,7 +1690,33 @@
             "SetMirror_H"
         ],
         "tid": "TID_MIRROR_DECK",
-        "name_en": "Mirror Deck"
+        "name_en": "Mirror Deck",
+        "_lang": {
+            "name": {
+                "en": "Mirror Deck",
+                "fr": "Deck miroir",
+                "de": "Spiegeldeck",
+                "es": "Mazo duplicado",
+                "it": "Mazzo Specchio",
+                "nl": "Spiegelkaarten",
+                "no": "Speilkort",
+                "tr": "Ayna Destesi",
+                "jp": "鏡デッキ",
+                "kr": "반사경 덱",
+                "ru": "Зеркальная колода",
+                "ar": "مجموعة معركة المرآة",
+                "pt": "Deck do Espelho",
+                "cn": "镜像卡组",
+                "cnt": "鏡像牌組",
+                "fa": "دسته نبرد آینه",
+                "id": "Dek Cermin",
+                "ms": "Dek Cermin",
+                "th": "สำรับลอกเลียน",
+                "fi": "Peilipakka",
+                "vi": "Bộ thẻ Gương",
+                "sc_key": "TID_MIRROR_DECK"
+            }
+        }
     },
     {
         "name": "KC_VitaminC",
@@ -1429,7 +1741,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_1",
-        "name_en": "Vitamin C"
+        "name_en": "Vitamin C",
+        "_lang": {
+            "name": {
+                "en": "Vitamin C",
+                "fr": "Vitamin C",
+                "de": "Vitamin C",
+                "es": "Vitamina C",
+                "it": "Vitamin C",
+                "nl": "Vitamin C",
+                "no": "Vitamin C",
+                "tr": "C Vitamini",
+                "jp": "Vitamin C",
+                "kr": "Vitamin C",
+                "ru": "Витамин C",
+                "ar": "فيتامين ج",
+                "pt": "Vitamina C",
+                "cn": "维他命C",
+                "cnt": "維他命C",
+                "fa": "Vitamin C",
+                "id": "Vitamin C",
+                "ms": "Vitamin C",
+                "th": "วิตามินซี",
+                "fi": "C-vitamiini",
+                "vi": "Vitamin C",
+                "sc_key": "TID_BLIND_DECK_KC_1"
+            }
+        }
     },
     {
         "name": "KC_VivaLaSparky",
@@ -1454,7 +1792,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_2",
-        "name_en": "Viva la Sparky"
+        "name_en": "Viva la Sparky",
+        "_lang": {
+            "name": {
+                "en": "Viva la Sparky",
+                "fr": "Viva la Sparky",
+                "de": "Viva la Sparky",
+                "es": "¡Viva Chispitas!",
+                "it": "Viva la Sparky",
+                "nl": "Viva la Sparky",
+                "no": "Viva la gnist",
+                "tr": "Kıvılcım Çok Yaşa",
+                "jp": "Viva la Sparky",
+                "kr": "Viva la Sparky",
+                "ru": "Вива ла Спарки",
+                "ar": "يحيا السباركي",
+                "pt": "Viva la Sparky",
+                "cn": "电磁炮万岁",
+                "cnt": "電磁炮萬歲",
+                "fa": "Viva la Sparky",
+                "id": "Viva la Sparky",
+                "ms": "Viva la Sparky",
+                "th": "สปาร์คกี้จงเจริญ",
+                "fi": "Eläköön kipinä!",
+                "vi": "Sparky Vạn tuế",
+                "sc_key": "TID_BLIND_DECK_KC_2"
+            }
+        }
     },
     {
         "name": "KC_TowerTornados",
@@ -1479,7 +1843,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_3",
-        "name_en": "Tower Tornados"
+        "name_en": "Tower Tornados",
+        "_lang": {
+            "name": {
+                "en": "Tower Tornados",
+                "fr": "Tower Tornados",
+                "de": "Tower Tornados",
+                "es": "Tornados de torres",
+                "it": "Tower Tornados",
+                "nl": "Tower Tornados",
+                "no": "Tårntornadoer",
+                "tr": "Kule Kasırgaları",
+                "jp": "Tower Tornados",
+                "kr": "Tower Tornados",
+                "ru": "Башни торнадо",
+                "ar": "إعصارات البرج",
+                "pt": "Torre Tornado",
+                "cn": "蹭塔飓风",
+                "cnt": "塔與龍捲風",
+                "fa": "Tower Tornados",
+                "id": "Tornado Benteng",
+                "ms": "Tower Tornados",
+                "th": "ทอร์นาโดหอคอย",
+                "fi": "Tornitornadot",
+                "vi": "Tháp Lốc xoáy",
+                "sc_key": "TID_BLIND_DECK_KC_3"
+            }
+        }
     },
     {
         "name": "KC_MetaMaulers",
@@ -1504,7 +1894,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_4",
-        "name_en": "Meta Maulers"
+        "name_en": "Meta Maulers",
+        "_lang": {
+            "name": {
+                "en": "Meta Maulers",
+                "fr": "Meta Maulers",
+                "de": "Meta Maulers",
+                "es": "Metadestructores",
+                "it": "Meta Maulers",
+                "nl": "Meta Maulers",
+                "no": "Metamosere",
+                "tr": "Meta Eziciler",
+                "jp": "Meta Maulers",
+                "kr": "Meta Maulers",
+                "ru": "Метамучители",
+                "ar": "مصارعو الذات",
+                "pt": "Meta Maulers",
+                "cn": "铁拳出击",
+                "cnt": "鐵拳出擊",
+                "fa": "Meta Maulers",
+                "id": "Peninju Meta",
+                "ms": "Meta Maulers",
+                "th": "ลงมือลงแรง",
+                "fi": "Voitontavoittelijat",
+                "vi": "Sát thủ Meta",
+                "sc_key": "TID_BLIND_DECK_KC_4"
+            }
+        }
     },
     {
         "name": "KC_MisplacedRockets",
@@ -1529,7 +1945,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_5",
-        "name_en": "Misplaced Rockets"
+        "name_en": "Misplaced Rockets",
+        "_lang": {
+            "name": {
+                "en": "Misplaced Rockets",
+                "fr": "Misplaced Rockets",
+                "de": "Misplaced Rockets",
+                "es": "Cohetes sin control",
+                "it": "Misplaced Rockets",
+                "nl": "Misplaced Rockets",
+                "no": "Feilplasserte raketter",
+                "tr": "Kayıp Roketler",
+                "jp": "Misplaced Rockets",
+                "kr": "Misplaced Rockets",
+                "ru": "Потерянные ракеты",
+                "ar": "صواريخ في غير محلها",
+                "pt": "Misplaced Rockets",
+                "cn": "跑偏的火箭",
+                "cnt": "跑偏的火箭",
+                "fa": "Misplaced Rockets",
+                "id": "Roket Salah Tempat",
+                "ms": "Misplaced Rockets",
+                "th": "จรวดหายไปไหน",
+                "fi": "Raketit vinossa",
+                "vi": "Tên lửa đặt nhầm chỗ",
+                "sc_key": "TID_BLIND_DECK_KC_5"
+            }
+        }
     },
     {
         "name": "KC_SaltyGoblins",
@@ -1554,7 +1996,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_6",
-        "name_en": "Salty Goblins"
+        "name_en": "Salty Goblins",
+        "_lang": {
+            "name": {
+                "en": "Salty Goblins",
+                "fr": "Salty Goblins",
+                "de": "Salty Goblins",
+                "es": "Duendes salados",
+                "it": "Salty Goblins",
+                "nl": "Salty Goblins",
+                "no": "Salte nisser",
+                "tr": "Tuzlu Goblinler",
+                "jp": "Salty Goblins",
+                "kr": "Salty Goblins",
+                "ru": "Соленые гоблины",
+                "ar": "غيلان ملحية",
+                "pt": "Salty Goblins",
+                "cn": "狂躁哥布林",
+                "cnt": "狂躁哥布林",
+                "fa": "Salty Goblins",
+                "id": "Goblin Asin",
+                "ms": "Salty Goblins",
+                "th": "ก็อบลินงุ่นง่าน",
+                "fi": "Äkäiset hiidet",
+                "vi": "Yêu tinh Hóm hỉnh",
+                "sc_key": "TID_BLIND_DECK_KC_6"
+            }
+        }
     },
     {
         "name": "KC_SparkyMasters",
@@ -1579,7 +2047,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_7",
-        "name_en": "Sparky Masters"
+        "name_en": "Sparky Masters",
+        "_lang": {
+            "name": {
+                "en": "Sparky Masters",
+                "fr": "Sparky Masters",
+                "de": "Sparky Masters",
+                "es": "Maestros de Chispitas",
+                "it": "Sparky Masters",
+                "nl": "Sparky Masters",
+                "no": "Gnistrende mestere",
+                "tr": "Kıvılcım Ustaları",
+                "jp": "Sparky Masters",
+                "kr": "Sparky Masters",
+                "ru": "Повелители Спарки",
+                "ar": "أساتذة سباركي",
+                "pt": "Sparky Masters",
+                "cn": "电磁炮大师",
+                "cnt": "電磁炮大師",
+                "fa": "Sparky Masters",
+                "id": "Master Sparky",
+                "ms": "Sparky Masters",
+                "th": "สปาร์คกี้ยอดฝีมือ",
+                "fi": "Kipinämestarit",
+                "vi": "Cao thủ Sparky",
+                "sc_key": "TID_BLIND_DECK_KC_7"
+            }
+        }
     },
     {
         "name": "KC_TheUltraNytes",
@@ -1604,7 +2098,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_KC_8",
-        "name_en": "The Ultra Nytes"
+        "name_en": "The Ultra Nytes",
+        "_lang": {
+            "name": {
+                "en": "The Ultra Nytes",
+                "fr": "The Ultra Nytes",
+                "de": "The Ultra Nytes",
+                "es": "Los ultranoches",
+                "it": "The Ultra Nytes",
+                "nl": "The Ultra Nytes",
+                "no": "Nattridderne",
+                "tr": "Ultra Geceler",
+                "jp": "The Ultra Nytes",
+                "kr": "The Ultra Nytes",
+                "ru": "Ультраниты",
+                "ar": "كائنات نايتس الاستثنائية",
+                "pt": "The Ultra Nytes",
+                "cn": "暗夜超骑",
+                "cnt": "暗夜超騎",
+                "fa": "The Ultra Nytes",
+                "id": "Ultra Nyte",
+                "ms": "The Ultra Nytes",
+                "th": "รวมพลอัศวิน",
+                "fi": "Superpelurit",
+                "vi": "Đêm Siêu cấp",
+                "sc_key": "TID_BLIND_DECK_KC_8"
+            }
+        }
     },
     {
         "name": "YTCHA_Trymacs",
@@ -1629,7 +2149,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_1",
-        "name_en": "Trymacs's deck"
+        "name_en": "Trymacs's deck",
+        "_lang": {
+            "name": {
+                "en": "Trymacs's deck",
+                "fr": "Deck de Trymacs",
+                "de": "Trymacs' Deck",
+                "es": "Mazo de Trymacs",
+                "it": "Mazzo di Trymacs",
+                "nl": "Trymacs´ set",
+                "no": "Trymacs´ kampkort",
+                "tr": "Trymacs'in destesi",
+                "jp": "Trymacsのデッキ",
+                "kr": "Trymacs의 덱",
+                "ru": "Колода Trymacs",
+                "ar": "مجموعة معركة Trymac",
+                "pt": "Deck do Trymacs",
+                "cn": "Trymacs推荐卡组",
+                "cnt": "Trymacs推薦牌組",
+                "fa": "دسته نبرد Trymacs",
+                "id": "Dek Trymacs",
+                "ms": "Dek Trymac",
+                "th": "สำรับของ Trymacs",
+                "fi": "Trymacsin pakka",
+                "vi": "Bộ thẻ của Trymacs",
+                "sc_key": "TID_BLIND_DECK_YTCHA_1"
+            }
+        }
     },
     {
         "name": "YTCHA_kiokio",
@@ -1654,7 +2200,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_2",
-        "name_en": "kiokio's deck"
+        "name_en": "kiokio's deck",
+        "_lang": {
+            "name": {
+                "en": "kiokio's deck",
+                "fr": "Deck de kiokio",
+                "de": "kiokios Deck",
+                "es": "Mazo de kiokio",
+                "it": "Mazzo di kiokio",
+                "nl": "kiokio´s set",
+                "no": "kiokios kampkort",
+                "tr": "kiokio'nun destesi",
+                "jp": "きおきおのデッキ",
+                "kr": "kiokio의 덱",
+                "ru": "Колода kiokio",
+                "ar": "مجموعة معركة kiokio",
+                "pt": "Deck do kiokio",
+                "cn": "kiokio推荐卡组",
+                "cnt": "kiokio推薦牌組",
+                "fa": "دسته نبرد kiokio",
+                "id": "Dek kiokio",
+                "ms": "Dek kiokio",
+                "th": "สำรับของ kioki",
+                "fi": "kiokion pakka",
+                "vi": "Bộ thẻ của kiokio",
+                "sc_key": "TID_BLIND_DECK_YTCHA_2"
+            }
+        }
     },
     {
         "name": "YTCHA_Alvaro845",
@@ -1679,7 +2251,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_3",
-        "name_en": "Alvaro845's deck"
+        "name_en": "Alvaro845's deck",
+        "_lang": {
+            "name": {
+                "en": "Alvaro845's deck",
+                "fr": "Deck d'Alvaro845",
+                "de": "Alvaro845s Deck",
+                "es": "Mazo de Alvaro845",
+                "it": "Mazzo di Alvaro845",
+                "nl": "Alvaro845's set",
+                "no": "Alvaro845s kampkort",
+                "tr": "Alvaro845'in destesi",
+                "jp": "Alvaro845のデッキ",
+                "kr": "Alvaro845의 덱",
+                "ru": "Колода Alvaro845",
+                "ar": "مجموعة معركة Alvaro845",
+                "pt": "Deck do Alvaro845",
+                "cn": "Alvaro845推荐卡组",
+                "cnt": "Alvaro845推薦牌組",
+                "fa": "دسته نبرد Alvaro845",
+                "id": "Dek Alvaro845",
+                "ms": "Dek Alvaro845",
+                "th": "สำรับของ Alvaro845",
+                "fi": "Alvaro845:n pakka",
+                "vi": "Bộ thẻ của Alvaro845",
+                "sc_key": "TID_BLIND_DECK_YTCHA_3"
+            }
+        }
     },
     {
         "name": "YTCHA_ClashWithAsh",
@@ -1704,7 +2302,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_4",
-        "name_en": "Clash with Ash's deck"
+        "name_en": "Clash with Ash's deck",
+        "_lang": {
+            "name": {
+                "en": "Clash with Ash's deck",
+                "fr": "Deck de Clash with Ash",
+                "de": "Clash with Ashs Deck",
+                "es": "Mazo de Clash with Ash",
+                "it": "Mazzo di Clash with Ash",
+                "nl": "Clash met Ash´ set",
+                "no": "Clash with Ash´ kampkort",
+                "tr": "Clash with Ash'in destesi",
+                "jp": "Clash with Ashのデッキ",
+                "kr": "Clash with Ash의 덱",
+                "ru": "Колода Clash with Ash",
+                "ar": "مجموعة معركة Clash with Ash",
+                "pt": "Deck do Clash with Ash",
+                "cn": "Clash with Ash推荐卡组",
+                "cnt": "Clash with Ash推薦牌組",
+                "fa": "جنگ با دسته نبرد Ash",
+                "id": "Dek Clash with Ash",
+                "ms": "Dek Clash with Ash",
+                "th": "อัดด้วยสำรับของ Ash",
+                "fi": "Clash with Ashin pakka",
+                "vi": "Bộ thẻ của Clash with Ash",
+                "sc_key": "TID_BLIND_DECK_YTCHA_4"
+            }
+        }
     },
     {
         "name": "YTCHA_Grax",
@@ -1729,7 +2353,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_5",
-        "name_en": "Grax's deck"
+        "name_en": "Grax's deck",
+        "_lang": {
+            "name": {
+                "en": "Grax's deck",
+                "fr": "Deck de Grax",
+                "de": "Grax‘ Deck",
+                "es": "Mazo de Grax",
+                "it": "Mazzo di Grax",
+                "nl": "Grax´ set",
+                "no": "Grax´ kampkort",
+                "tr": "Grax'ın destesi",
+                "jp": "Graxのデッキ",
+                "kr": "Grax의 덱",
+                "ru": "Колода Grax",
+                "ar": "مجموعة معركة Grax",
+                "pt": "Deck do Grax",
+                "cn": "Grax推荐卡组",
+                "cnt": "Grax推薦牌組",
+                "fa": "دسته نبرد Grax",
+                "id": "Dek Grax",
+                "ms": "Dek Grax",
+                "th": "สำรับของ Grax",
+                "fi": "Graxin pakka",
+                "vi": "Bộ thẻ của Grax",
+                "sc_key": "TID_BLIND_DECK_YTCHA_5"
+            }
+        }
     },
     {
         "name": "YTCHA_Godspeed",
@@ -1754,7 +2404,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_6",
-        "name_en": "Godspeed's deck"
+        "name_en": "Godspeed's deck",
+        "_lang": {
+            "name": {
+                "en": "Godspeed's deck",
+                "fr": "Deck de Godspeed",
+                "de": "Godspeeds Deck",
+                "es": "Mazo de Godspeed",
+                "it": "Mazzo di Godspeed",
+                "nl": "Godspeeds set",
+                "no": "Godspeeds kampkort",
+                "tr": "Godspeed'in destesi",
+                "jp": "Godspeedのデッキ",
+                "kr": "Godspeed의 덱",
+                "ru": "Колода Godspeed",
+                "ar": "مجموعة معركة Godspeed",
+                "pt": "Deck do Godspeed",
+                "cn": "老高推荐卡组",
+                "cnt": "老高推薦牌組",
+                "fa": "دسته نبرد Godspeed",
+                "id": "Dek Godspeed",
+                "ms": "Dek Godspeed",
+                "th": "สำรับของ Godspeed",
+                "fi": "Godspeedin pakka",
+                "vi": "Bộ thẻ của Godspeed",
+                "sc_key": "TID_BLIND_DECK_YTCHA_6"
+            }
+        }
     },
     {
         "name": "YTCHA_Trapa",
@@ -1779,7 +2455,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_7",
-        "name_en": "Trapa's deck"
+        "name_en": "Trapa's deck",
+        "_lang": {
+            "name": {
+                "en": "Trapa's deck",
+                "fr": "Deck de Trapa",
+                "de": "Trapas Deck",
+                "es": "Mazo de Trapa",
+                "it": "Mazzo di Trapa",
+                "nl": "Trapa's set",
+                "no": "Trapas kampkort",
+                "tr": "Trapa'nın destesi",
+                "jp": "Trapaのデッキ",
+                "kr": "Trapa의 덱",
+                "ru": "Колода Trapa",
+                "ar": "مجموعة معركة Trapa",
+                "pt": "Deck do Trapa",
+                "cn": "Trapa推荐卡组",
+                "cnt": "Trapa推薦牌組",
+                "fa": "دسته نبرد Trapa",
+                "id": "Dek Trapa",
+                "ms": "Dek Trapa",
+                "th": "สำรับของ Trapa",
+                "fi": "Trapan pakka",
+                "vi": "Bộ thẻ của Trapa",
+                "sc_key": "TID_BLIND_DECK_YTCHA_7"
+            }
+        }
     },
     {
         "name": "YTCHA_JUNE",
@@ -1804,7 +2506,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_8",
-        "name_en": "JUNE's deck"
+        "name_en": "JUNE's deck",
+        "_lang": {
+            "name": {
+                "en": "JUNE's deck",
+                "fr": "Deck de JUNE",
+                "de": "JUNEs Deck",
+                "es": "Mazo de JUNE",
+                "it": "Mazzo di JUNE",
+                "nl": "JUNE´s set",
+                "no": "JUNEs kampkort",
+                "tr": "JUNE'un destesi",
+                "jp": "JUNEのデッキ",
+                "kr": "JUNE의 덱",
+                "ru": "Колода JUNE",
+                "ar": "مجموعة معركة JUNE",
+                "pt": "Deck do JUNE",
+                "cn": "JUNE推荐卡组",
+                "cnt": "JUNE推薦牌組",
+                "fa": "دسته نبرد JUNE",
+                "id": "Dek JUNE",
+                "ms": "Dek JUNE",
+                "th": "สำรับของ JUNE",
+                "fi": "JUNEn pakka",
+                "vi": "Bộ thẻ của JUNE",
+                "sc_key": "TID_BLIND_DECK_YTCHA_8"
+            }
+        }
     },
     {
         "name": "YTCHA_Flakespower",
@@ -1829,7 +2557,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_9",
-        "name_en": "Flakes Power's deck"
+        "name_en": "Flakes Power's deck",
+        "_lang": {
+            "name": {
+                "en": "Flakes Power's deck",
+                "fr": "Deck de Flakes Power",
+                "de": "Flakes Powers Deck",
+                "es": "Mazo de Flakes Power",
+                "it": "Mazzo di Flakes Power",
+                "nl": "Flakes Powers set",
+                "no": "Flakes Powers kampkort",
+                "tr": "Flakes Power'ın destesi",
+                "jp": "Flakes Powerのデッキ",
+                "kr": "Flakes Power의 덱",
+                "ru": "Колода Flakes Power",
+                "ar": "مجموعة معركة Flakes Power",
+                "pt": "Deck do Flakes Power",
+                "cn": "Flakes Power推荐卡组",
+                "cnt": "Flakes Power推薦牌組",
+                "fa": "دسته نبرد Flakes Power",
+                "id": "Dek Flakes Power",
+                "ms": "Dek Flakes Power",
+                "th": "สำรับของ Flakes Power",
+                "fi": "Flakes Powerin pakka",
+                "vi": "Bộ thẻ của Flakes Power",
+                "sc_key": "TID_BLIND_DECK_YTCHA_9"
+            }
+        }
     },
     {
         "name": "YTCHA_Yarn",
@@ -1854,7 +2608,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_YTCHA_10",
-        "name_en": "Orange Juice's deck"
+        "name_en": "Orange Juice's deck",
+        "_lang": {
+            "name": {
+                "en": "Orange Juice's deck",
+                "fr": "Deck d'Orange Juice",
+                "de": "Orange Juices Deck",
+                "es": "Mazo de Orange Juice",
+                "it": "Mazzo di Orange Juice",
+                "nl": "Orange Juice´ set",
+                "no": "Orange Juices kampkort",
+                "tr": "Orange Juice'un destesi",
+                "jp": "Orange Juiceのデッキ",
+                "kr": "Orange Juice의 덱",
+                "ru": "Колода Orange Juice",
+                "ar": "مجموعة معركة Orange Juice",
+                "pt": "Deck do Orange Juice",
+                "cn": "Orange Juice推荐卡组",
+                "cnt": "Orange Juice推薦牌組",
+                "fa": "دسته نبرد Orange Juice",
+                "id": "Dek Orange Juice",
+                "ms": "Dek Orange Juice",
+                "th": "สำรับของ Orange Juice",
+                "fi": "Orange Juicen pakka",
+                "vi": "Bộ thẻ của Orange Juice",
+                "sc_key": "TID_BLIND_DECK_YTCHA_10"
+            }
+        }
     },
     {
         "name": "CCGS_Berin",
@@ -1879,7 +2659,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_1",
-        "name_en": "Berin's deck"
+        "name_en": "Berin's deck",
+        "_lang": {
+            "name": {
+                "en": "Berin's deck",
+                "fr": "Deck de Berin",
+                "de": "Berins Deck",
+                "es": "Mazo de Berin",
+                "it": "Mazzo di Berin",
+                "nl": "Berins set",
+                "no": "Berins kampkort",
+                "tr": "Berin'in destesi",
+                "jp": "Berinのデッキ",
+                "kr": "Berin의 덱",
+                "ru": "Колода Berin",
+                "ar": "مجموعة معركة Berin",
+                "pt": "Deck do Berin",
+                "cn": "Berin推荐卡组",
+                "cnt": "Berin推薦牌組",
+                "fa": "دسته نبرد Berin",
+                "id": "Dek Berin",
+                "ms": "Dek Berin",
+                "th": "สำรับของ Berin",
+                "fi": "Berinin pakka",
+                "vi": "Bộ thẻ của Berin",
+                "sc_key": "TID_BLIND_DECK_CCGS_1"
+            }
+        }
     },
     {
         "name": "CCGS_ElecTr1fy",
@@ -1904,7 +2710,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_2",
-        "name_en": "ElecTr1fy's deck"
+        "name_en": "ElecTr1fy's deck",
+        "_lang": {
+            "name": {
+                "en": "ElecTr1fy's deck",
+                "fr": "Deck d'ElecTr1fy",
+                "de": "ElecTr1fys Deck",
+                "es": "Mazo de ElecTr1fy",
+                "it": "Mazzo di ElecTr1fy",
+                "nl": "ElecTr1fy's set",
+                "no": "ElecTr1fys kampkort",
+                "tr": "ElecTr1fy'ın destesi",
+                "jp": "ElecTr1fyのデッキ",
+                "kr": "ElecTr1fy의 덱",
+                "ru": "Колода ElecTr1fy",
+                "ar": "مجموعة معركة ElecTr1fy",
+                "pt": "Deck do ElecTr1fy",
+                "cn": "ElecTr1fy推荐卡组",
+                "cnt": "ElecTr1fy推薦牌組",
+                "fa": "دسته نبرد ElecTr1fy",
+                "id": "Dek ElecTr1fy",
+                "ms": "Dek ElecTr1fy",
+                "th": "สำรับของ ElecTr1fy",
+                "fi": "ElecTr1fyn pakka",
+                "vi": "Bộ thẻ của ElecTr1fy",
+                "sc_key": "TID_BLIND_DECK_CCGS_2"
+            }
+        }
     },
     {
         "name": "CCGS_Fuchi",
@@ -1929,7 +2761,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_3",
-        "name_en": "Fuchi's deck"
+        "name_en": "Fuchi's deck",
+        "_lang": {
+            "name": {
+                "en": "Fuchi's deck",
+                "fr": "Deck de Fuchi",
+                "de": "Fuchis Deck",
+                "es": "Mazo de Fuchi",
+                "it": "Mazzo di Fuchi",
+                "nl": "Fuchi's set",
+                "no": "Fuchis kampkort",
+                "tr": "Fuchi'nin destesi",
+                "jp": "フチのデッキ",
+                "kr": "Fuchi의 덱",
+                "ru": "Колода Fuchi",
+                "ar": "مجموعة معركة Fuchi",
+                "pt": "Deck do Fuchi",
+                "cn": "Fuchi推荐卡组",
+                "cnt": "Fuchi推薦牌組",
+                "fa": "دسته نبرد Fuchi",
+                "id": "Dek Fuchi",
+                "ms": "Dek Fuchi",
+                "th": "สำรับของ Fuchi",
+                "fi": "Fuchin pakka",
+                "vi": "Bộ thẻ của Fuchi",
+                "sc_key": "TID_BLIND_DECK_CCGS_3"
+            }
+        }
     },
     {
         "name": "CCGS_AdrianPiedra",
@@ -1954,7 +2812,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_4",
-        "name_en": "Adrian Piedra's deck"
+        "name_en": "Adrian Piedra's deck",
+        "_lang": {
+            "name": {
+                "en": "Adrian Piedra's deck",
+                "fr": "Deck d'Adrian Piedra",
+                "de": "Adrian Piedras Deck",
+                "es": "Mazo de Adrian Piedra",
+                "it": "Mazzo di Adrian Piedra",
+                "nl": "Adrian Piedra's set",
+                "no": "Adrian Piedras kampkort",
+                "tr": "Adrian Piedra'nın destesi",
+                "jp": "Adrian Piedraのデッキ",
+                "kr": "Adrian Piedra의 덱",
+                "ru": "Колода Adrian Piedra",
+                "ar": "مجموعة معركة Adrian Piedra",
+                "pt": "Deck do Adrian Piedra",
+                "cn": "Adrian Piedra推荐卡组",
+                "cnt": "Adrian Piedra推薦牌組",
+                "fa": "دسته نبرد Adrian Piedra",
+                "id": "Dek Adrian Piedra",
+                "ms": "Dek Adrian Piedra",
+                "th": "สำรับของ Adrian Piedra",
+                "fi": "Adrian Piedran pakka",
+                "vi": "Bộ thẻ của Adrian Piedra",
+                "sc_key": "TID_BLIND_DECK_CCGS_4"
+            }
+        }
     },
     {
         "name": "CCGS_YaoYao",
@@ -1979,7 +2863,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_5",
-        "name_en": "YaoYao's deck"
+        "name_en": "YaoYao's deck",
+        "_lang": {
+            "name": {
+                "en": "YaoYao's deck",
+                "fr": "Deck de YaoYao",
+                "de": "YaoYaos Deck",
+                "es": "Mazo de YaoYao",
+                "it": "Mazzo di YaoYao",
+                "nl": "YaoYao's set",
+                "no": "YaoYaos kampkort",
+                "tr": "YaoYao'nun destesi",
+                "jp": "YaoYaoのデッキ",
+                "kr": "YaoYao의 덱",
+                "ru": "Колода YaoYao",
+                "ar": "مجموعة معركة YaoYao",
+                "pt": "Deck do YaoYao",
+                "cn": "YaoYao推荐卡组",
+                "cnt": "YaoYao推薦牌組",
+                "fa": "دسته نبرد YaoYao",
+                "id": "Dek YaoYao",
+                "ms": "Dek YaoYao",
+                "th": "สำรับของ YaoYao",
+                "fi": "YaoYaon pakka",
+                "vi": "Bộ thẻ của YaoYao",
+                "sc_key": "TID_BLIND_DECK_CCGS_5"
+            }
+        }
     },
     {
         "name": "CCGS_Amaterasu",
@@ -2004,7 +2914,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_6",
-        "name_en": "Amaterasu's deck"
+        "name_en": "Amaterasu's deck",
+        "_lang": {
+            "name": {
+                "en": "Amaterasu's deck",
+                "fr": "Deck d'Amaterasu",
+                "de": "Amaterasus Deck",
+                "es": "Mazo de Amaterasu",
+                "it": "Mazzo di Amaterasu",
+                "nl": "Amaterasu's set",
+                "no": "Amaterasus kampkort",
+                "tr": "Amaterasu'nun destesi",
+                "jp": "アマテラスのデッキ",
+                "kr": "Amaterasu의 덱",
+                "ru": "Колода Amaterasu",
+                "ar": "مجموعة معركة Amaterasu",
+                "pt": "Deck do Amaterasu",
+                "cn": "Amaterasu推荐卡组",
+                "cnt": "Amaterasu推薦牌組",
+                "fa": "دسته نبرد Amaterasu",
+                "id": "Dek Amaterasu",
+                "ms": "Dek Amaterasu",
+                "th": "สำรับของ Amaterasu",
+                "fi": "Amaterasun pakka",
+                "vi": "Bộ thẻ của Amaterasu",
+                "sc_key": "TID_BLIND_DECK_CCGS_6"
+            }
+        }
     },
     {
         "name": "CCGS_X-BowMaster",
@@ -2029,7 +2965,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_7",
-        "name_en": "X-Bow Master's deck"
+        "name_en": "X-Bow Master's deck",
+        "_lang": {
+            "name": {
+                "en": "X-Bow Master's deck",
+                "fr": "Deck d'X-Bow Master",
+                "de": "X-Bow Masters Deck",
+                "es": "Mazo de X-Bow Master",
+                "it": "Mazzo di X-Bow Master",
+                "nl": "X-Bow Masters set",
+                "no": "X-Bow Masters kampkort",
+                "tr": "X-Bow Master'ın destesi",
+                "jp": "X-Bow Masterのデッキ",
+                "kr": "X-Bow Master의 덱",
+                "ru": "Колода X-Bow Master",
+                "ar": "مجموعة معركة X-Bow Master",
+                "pt": "Deck do X-Bow Master",
+                "cn": "X-Bow Master推荐卡组",
+                "cnt": "X-Bow Master推薦牌組",
+                "fa": "دسته نبرد X-Bow Master",
+                "id": "Dek X-Bow Master",
+                "ms": "Dek X-Bow Master",
+                "th": "สำรับของ X-Bow Master",
+                "fi": "X-Bow Masterin pakka",
+                "vi": "Bộ thẻ của X-Bow Master",
+                "sc_key": "TID_BLIND_DECK_CCGS_7"
+            }
+        }
     },
     {
         "name": "CCGS_Musicmaster",
@@ -2054,7 +3016,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_8",
-        "name_en": "Musicmaster's deck"
+        "name_en": "Musicmaster's deck",
+        "_lang": {
+            "name": {
+                "en": "Musicmaster's deck",
+                "fr": "Deck de Musicmaster",
+                "de": "Musicmasters Deck",
+                "es": "Mazo de Musicmaster",
+                "it": "Mazzo di Musicmaster",
+                "nl": "Musicmasters set",
+                "no": "Musicmasters kampkort",
+                "tr": "Musicmaster'ın destesi",
+                "jp": "Musicmasterのデッキ",
+                "kr": "Musicmaster의 덱",
+                "ru": "Колода Musicmaster",
+                "ar": "مجموعة معركة Musicmaster",
+                "pt": "Deck do Musicmaster",
+                "cn": "Musicmaster推荐卡组",
+                "cnt": "Musicmaster推薦牌組",
+                "fa": "دسته نبرد Musicmaster",
+                "id": "Dek Musicmaster",
+                "ms": "Dek Musicmaster",
+                "th": "สำรับของ Musicmaster",
+                "fi": "Musicmasterin pakka",
+                "vi": "Bộ thẻ của Musicmaster",
+                "sc_key": "TID_BLIND_DECK_CCGS_8"
+            }
+        }
     },
     {
         "name": "CCGS_Coltonw83",
@@ -2079,7 +3067,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_9",
-        "name_en": "Coltonw83's deck"
+        "name_en": "Coltonw83's deck",
+        "_lang": {
+            "name": {
+                "en": "Coltonw83's deck",
+                "fr": "Deck de Coltonw83",
+                "de": "Coltonw83s Deck",
+                "es": "Mazo de Coltonw83",
+                "it": "Mazzo di Coltonw83",
+                "nl": "Coltonw83's set",
+                "no": "Coltonw83s kampkort",
+                "tr": "Coltonw83'ün destesi",
+                "jp": "Coltonw83のデッキ",
+                "kr": "Coltonw83의 덱",
+                "ru": "Колода Coltonw83",
+                "ar": "مجموعة معركة Coltonw83",
+                "pt": "Deck do Coltonw83",
+                "cn": "Coltonw83推荐卡组",
+                "cnt": "Coltonw83推薦牌組",
+                "fa": "دسته نبرد Coltonw83",
+                "id": "Dek Coltonw83",
+                "ms": "Dek Coltonw83",
+                "th": "สำรับของ Coltonw83",
+                "fi": "Coltonw83:n pakka",
+                "vi": "Bộ thẻ của Coltonw83",
+                "sc_key": "TID_BLIND_DECK_CCGS_9"
+            }
+        }
     },
     {
         "name": "CCGS_Loupanji",
@@ -2104,7 +3118,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_10",
-        "name_en": "Loupanji's deck"
+        "name_en": "Loupanji's deck",
+        "_lang": {
+            "name": {
+                "en": "Loupanji's deck",
+                "fr": "Deck de Loupanji",
+                "de": "Loupanjis Deck",
+                "es": "Mazo de Loupanji",
+                "it": "Mazzo di Loupanji",
+                "nl": "Loupanji's set",
+                "no": "Loupanjis kampkort",
+                "tr": "Loupanji'nin destesi",
+                "jp": "Loupanjiのデッキ",
+                "kr": "Loupanji의 덱",
+                "ru": "Колода Loupanji",
+                "ar": "مجموعة معركة Loupanji",
+                "pt": "Deck do Loupanji",
+                "cn": "Loupanji推荐卡组",
+                "cnt": "Loupanji推薦牌組",
+                "fa": "دسته نبرد Loupanji",
+                "id": "Dek Loupanji",
+                "ms": "Dek Loupanji",
+                "th": "สำรับของ Loupanji",
+                "fi": "Loupanjin pakka",
+                "vi": "Bộ thẻ của Loupanji",
+                "sc_key": "TID_BLIND_DECK_CCGS_10"
+            }
+        }
     },
     {
         "name": "CCGS_Sergioramos",
@@ -2129,7 +3169,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_CCGS_11",
-        "name_en": "Sergioramos's deck"
+        "name_en": "Sergioramos's deck",
+        "_lang": {
+            "name": {
+                "en": "Sergioramos's deck",
+                "fr": "Deck de Sergioramos",
+                "de": "Sergioramos‘ Deck",
+                "es": "Mazo de Sergioramos",
+                "it": "Mazzo di Sergioramos",
+                "nl": "Sergioramos' set",
+                "no": "Sergioramos' kampkort",
+                "tr": "Sergioramos'un destesi",
+                "jp": "Sergioramosのデッキ",
+                "kr": "Sergioramos의 덱",
+                "ru": "Колода Sergioramos",
+                "ar": "مجموعة معركة Sergioramos",
+                "pt": "Deck do Sergioramos",
+                "cn": "Sergioramos推荐卡组",
+                "cnt": "Sergioramos推薦牌組",
+                "fa": "دسته نبرد Sergioramos",
+                "id": "Dek Sergioramos",
+                "ms": "Dek Sergioramos",
+                "th": "สำรับของ Sergioramos",
+                "fi": "Sergioramosin pakka",
+                "vi": "Bộ thẻ của Sergioramos",
+                "sc_key": "TID_BLIND_DECK_CCGS_11"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_1",
@@ -2154,7 +3220,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_1",
-        "name_en": "Balloon Parade"
+        "name_en": "Balloon Parade",
+        "_lang": {
+            "name": {
+                "en": "Balloon Parade",
+                "fr": "Valse des ballons",
+                "de": "Ballonparade",
+                "es": "Desfile de globos",
+                "it": "Mongolfiere all'attacco",
+                "nl": "Ballonnenparade",
+                "no": "Ballongparade",
+                "tr": "Balon Geçidi",
+                "jp": "バルーン祭り",
+                "kr": "광벌 덱",
+                "ru": "Парад шаров",
+                "ar": "موكب البالون",
+                "pt": "Desfile com Balões",
+                "cn": "矿球横行",
+                "cnt": "礦工氣球",
+                "fa": "رژه بالن",
+                "id": "Parade Balon",
+                "ms": "Perarakan Belon",
+                "th": "ขบวนบอลลูน",
+                "fi": "Kuumailmapallojen paraati",
+                "vi": "Khinh khí cầu Diễu hành",
+                "sc_key": "TID_BLIND_DECK_REDDIT_1"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_2",
@@ -2179,7 +3271,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_2",
-        "name_en": "Woodland Warriors"
+        "name_en": "Woodland Warriors",
+        "_lang": {
+            "name": {
+                "en": "Woodland Warriors",
+                "fr": "Guerriers au bois",
+                "de": "Waldkrieger",
+                "es": "Guerreros del bosque",
+                "it": "Guerrieri dei boschi",
+                "nl": "Woudstrijders",
+                "no": "Skogens krigere",
+                "tr": "Orman Savaşçıları",
+                "jp": "森の戦士たち",
+                "kr": "도틀램 덱",
+                "ru": "Лесные воины",
+                "ar": "محاربو الغابة",
+                "pt": "Guerreiros da Floresta",
+                "cn": "刺客攻城槌",
+                "cnt": "刺客攻城槌",
+                "fa": "جنگجویان جنگل",
+                "id": "Prajurit Hutan",
+                "ms": "Wira Perhutanan",
+                "th": "นักรบแดนป่า",
+                "fi": "Metsien soturit",
+                "vi": "Chiến binh Rừng núi",
+                "sc_key": "TID_BLIND_DECK_REDDIT_2"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_3",
@@ -2204,7 +3322,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_3",
-        "name_en": "Ghostly Bridge Spam"
+        "name_en": "Ghostly Bridge Spam",
+        "_lang": {
+            "name": {
+                "en": "Ghostly Bridge Spam",
+                "fr": "Attaque fantôme du pont",
+                "de": "Geisterhafter Bridge-Spam",
+                "es": "Avalancha fantasmal",
+                "it": "Incursione spettrale",
+                "nl": "Spookachtige spammer",
+                "no": "Spøkelsesspam",
+                "tr": "Hayalet Köprü Yığınağı",
+                "jp": "ゴーストブリッジパニック",
+                "kr": "닼틀램 덱",
+                "ru": "Призраки и принцы",
+                "ar": "جسر الأشباح المزعج",
+                "pt": "Gangue do Fantasma",
+                "cn": "幽灵攻城槌",
+                "cnt": "幽靈攻城槌",
+                "fa": "پل تسخیر شده",
+                "id": "Spam Jembatan Berhantu",
+                "ms": "Spam Diraja",
+                "th": "ยัดสะพานวิญญาณหลอน",
+                "fi": "Aavemainen siltahyökkäys",
+                "vi": "Bóng ma Quấy rối Chiếc cầu",
+                "sc_key": "TID_BLIND_DECK_REDDIT_3"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_4",
@@ -2229,7 +3373,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_4",
-        "name_en": "Miner-magic"
+        "name_en": "Miner-magic",
+        "_lang": {
+            "name": {
+                "en": "Miner-magic",
+                "fr": "Mineur magique",
+                "de": "Tunnelgräbermagie",
+                "es": "Magia minera",
+                "it": "Minatori e incantesimi",
+                "nl": "Mijnwerkersmagie",
+                "no": "Gravermagi",
+                "tr": "Büyülü Madenci",
+                "jp": "ディガーマジック",
+                "kr": "뇌전광독 덱",
+                "ru": "Магия шахт",
+                "ar": "سحر عمال المناجم",
+                "pt": "Magia da Mina",
+                "cn": "毒矿武神",
+                "cnt": "毒礦武神",
+                "fa": "جادوی معدنی",
+                "id": "Sihir Penambang",
+                "ms": "Keajaiban Pelombong",
+                "th": "มนตร์คนงานเหมือง",
+                "fi": "Maanalaista magiaa",
+                "vi": "Thợ mỏ và phép thuật",
+                "sc_key": "TID_BLIND_DECK_REDDIT_4"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_5",
@@ -2254,7 +3424,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_5",
-        "name_en": "Mineroon"
+        "name_en": "Mineroon",
+        "_lang": {
+            "name": {
+                "en": "Mineroon",
+                "fr": "Minelon",
+                "de": "Gräberballon",
+                "es": "Minero bombástico",
+                "it": "Sopra e sotto",
+                "nl": "Mijnwerkersballon",
+                "no": "Gravellong",
+                "tr": "Madenci Balon",
+                "jp": "ディガルーン",
+                "kr": "페광벌 덱",
+                "ru": "Шахтеры и шары",
+                "ar": "بالونات المنجم",
+                "pt": "Gangue da Mina",
+                "cn": "毒矿气球",
+                "cnt": "毒礦氣球",
+                "fa": "سم‌چی",
+                "id": "Penambanglon",
+                "ms": "Belombong",
+                "th": "บอลลูนคนงานเหมือง",
+                "fi": "Alitse ja ylitse",
+                "vi": "Thợ mỏ và Khinh khí cầu",
+                "sc_key": "TID_BLIND_DECK_REDDIT_5"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_6",
@@ -2279,7 +3475,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_6",
-        "name_en": "Magical Miner Poison"
+        "name_en": "Magical Miner Poison",
+        "_lang": {
+            "name": {
+                "en": "Magical Miner Poison",
+                "fr": "Poison mineur magique",
+                "de": "Giftige Tunnelgräbermagie",
+                "es": "Veneno minero mágico",
+                "it": "Tunnel e contaminazioni",
+                "nl": "Magisch mijnwerkersgif",
+                "no": "Magisk gravergift",
+                "tr": "Büyülü Zehirli Madenci",
+                "jp": "マジカルディガーポイズン",
+                "kr": "도둑광독 덱",
+                "ru": "Волшебный яд шахт",
+                "ar": "سم عمال المناجم السحري",
+                "pt": "Veneno Mágico da Mina",
+                "cn": "毒矿刺客",
+                "cnt": "毒礦刺客",
+                "fa": "معدن سمی جادو",
+                "id": "Racun Penambang Sihir",
+                "ms": "Racun Pelombong Ajaib",
+                "th": "พิษคนงานเหมืองพลังเวท",
+                "fi": "Kaivosmiehen maaginen myrkky",
+                "vi": "Độc dược Thợ mỏ Phép thuật",
+                "sc_key": "TID_BLIND_DECK_REDDIT_6"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_7",
@@ -2304,7 +3526,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_7",
-        "name_en": "Magic Double Prince"
+        "name_en": "Magic Double Prince",
+        "_lang": {
+            "name": {
+                "en": "Magic Double Prince",
+                "fr": "Princes magiques",
+                "de": "Magischer Doppelprinz",
+                "es": "Doble príncipe mágico",
+                "it": "Assalto principesco",
+                "nl": "Magische dubbele prins",
+                "no": "Magisk dobbel prins",
+                "tr": "Büyülü Çift Prens",
+                "jp": "マジックダブルプリンス",
+                "kr": "자쌍프 덱",
+                "ru": "Волшебные принцы",
+                "ar": "سحر الأميرين",
+                "pt": "Príncipes Mágicos",
+                "cn": "双王巨人",
+                "cnt": "巨人雙王子",
+                "fa": "تیراندازی با شاهزاده‌ها",
+                "id": "Pangeran Ganda Sihir",
+                "ms": "Putera Berganda Ajaib",
+                "th": "พลังมนตราเจ้าชายคู่",
+                "fi": "Taianomainen tuplaprinssi",
+                "vi": "Hai Hoàng tử và Phép thuật",
+                "sc_key": "TID_BLIND_DECK_REDDIT_7"
+            }
+        }
     },
     {
         "name": "Blind_Reddit_8",
@@ -2329,7 +3577,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_REDDIT_8",
-        "name_en": "Dank Magical Ram"
+        "name_en": "Dank Magical Ram",
+        "_lang": {
+            "name": {
+                "en": "Dank Magical Ram",
+                "fr": "Bélier magique",
+                "de": "Mächtige Magieramme",
+                "es": "Embestida mágica",
+                "it": "Arieti magici",
+                "nl": "Gave magische ram",
+                "no": "Klam magisk rambukk",
+                "tr": "Fırtınalı Büyülü Koçbaşı",
+                "jp": "マジカル攻城バーバリアン",
+                "kr": "닼프토네 덱",
+                "ru": "Волшебный таран",
+                "ar": "المدق السحري الشديد",
+                "pt": "Gangue do Aríete",
+                "cn": "黑王攻城槌",
+                "cnt": "黑王攻城槌",
+                "fa": "دژکوب جادوی سیاه",
+                "id": "Pendobrak Sihir Basah",
+                "ms": "Perempuh Ajaib Hebat",
+                "th": "ซุงมนตราเยือกเย็น",
+                "fi": "Maaginen muurinmurtaja",
+                "vi": "Vũ khí phá thành Phép thuật Lạnh lùng",
+                "sc_key": "TID_BLIND_DECK_REDDIT_8"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_1",
@@ -2354,7 +3628,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_1",
-        "name_en": "Ghosts 'n Goblins"
+        "name_en": "Ghosts 'n Goblins",
+        "_lang": {
+            "name": {
+                "en": "Ghosts 'n Goblins",
+                "fr": "Fantômes et gobelins",
+                "de": "Geister & Kobolde",
+                "es": "Fantasmas y duendes",
+                "it": "Assalto spaverdoso",
+                "nl": "Spookachtige kobolden",
+                "no": "Nisser og skrømt",
+                "tr": "Hayaletler ve Goblinler",
+                "jp": "ゴーストゴブリン",
+                "kr": "유령 x 고블린",
+                "ru": "Призраки и гоблины",
+                "ar": "أشباح وغيلان",
+                "pt": "Goblins mal-assombrados",
+                "cn": "幽灵气球哥布林",
+                "cnt": "幽靈氣球哥布林",
+                "fa": "ارواح گابلین‌ها",
+                "id": "Hantu dan Goblin",
+                "ms": "Hantu dan Goblin",
+                "th": "ผีและก็อบลิน",
+                "fi": "Haamuja ja hiisiä",
+                "vi": "Bóng ma và Yêu tinh",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_1"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_2",
@@ -2379,7 +3679,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_2",
-        "name_en": "Gobnado"
+        "name_en": "Gobnado",
+        "_lang": {
+            "name": {
+                "en": "Gobnado",
+                "fr": "Tempête gobeline",
+                "de": "Koboldnado",
+                "es": "Duendetrón",
+                "it": "Goblinado",
+                "nl": "Koboldnado",
+                "no": "Nissenado",
+                "tr": "Goblin Kasırgası",
+                "jp": "ゴブネード",
+                "kr": "토블린",
+                "ru": "Гоблинский вихрь",
+                "ar": "إعصار الغيلان",
+                "pt": "Goblinado",
+                "cn": "绿飓风",
+                "cnt": "綠色風暴",
+                "fa": "طوفان گابلین",
+                "id": "Gobnado",
+                "ms": "Gobnado",
+                "th": "ก็อบนาร์โด",
+                "fi": "Hiisitornado",
+                "vi": "Yêu tinh và Lốc xoáy",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_2"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_3",
@@ -2404,7 +3730,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_3",
-        "name_en": "Downton Gobbey"
+        "name_en": "Downton Gobbey",
+        "_lang": {
+            "name": {
+                "en": "Downton Gobbey",
+                "fr": "Les gobelins s'amusent",
+                "de": "Großkalibrige Kobolde",
+                "es": "Duendes al poder",
+                "it": "La scorta verde",
+                "nl": "Downton Kobbey",
+                "no": "Downton Nissey",
+                "tr": "Downton Gobbey",
+                "jp": "渡る世間はゴブリンばかり",
+                "kr": "고블린 지구",
+                "ru": "Гоббатство Даунтон",
+                "ar": "شارع الغولية",
+                "pt": "Goblins de Elite",
+                "cn": "哥布林庄园",
+                "cnt": "哥布林莊園",
+                "fa": "گابلین سلطنتی",
+                "id": "Gerombolan Goblin",
+                "ms": "Kejutan Goblin",
+                "th": "ดาวน์ตัน ก็อบบี้",
+                "fi": "Hiisien viemää",
+                "vi": "Yêu tinh vùng Downton",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_3"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_4",
@@ -2429,7 +3781,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_4",
-        "name_en": "Gobsmacked"
+        "name_en": "Gobsmacked",
+        "_lang": {
+            "name": {
+                "en": "Gobsmacked",
+                "fr": "Gobelins babas",
+                "de": "K.-o.-Bolde",
+                "es": "¿Dónde está el duende?",
+                "it": "Goblin e sassate",
+                "nl": "Magische kobolden",
+                "no": "Nissen på lasset",
+                "tr": "Gob Vurdu",
+                "jp": "ゴブリンスマック",
+                "kr": "블링블링 고블린",
+                "ru": "Полный шок",
+                "ar": "سحر الغيلان",
+                "pt": "Pancadaria de Goblin",
+                "cn": "飞斧石人哥布林",
+                "cnt": "飛斧石人哥布林",
+                "fa": "گابلین‌گیر",
+                "id": "Hantaman Goblin",
+                "ms": "Sokongan Goblin",
+                "th": "ก็อบฟาดเรียบ",
+                "fi": "Hiisi-isku",
+                "vi": "Yêu tinh và Thạch nhân",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_4"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_5",
@@ -2454,7 +3832,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_5",
-        "name_en": "Barrels on Barrels"
+        "name_en": "Barrels on Barrels",
+        "_lang": {
+            "name": {
+                "en": "Barrels on Barrels",
+                "fr": "Fût après fût",
+                "de": "Unfassbare Fässer",
+                "es": "¿Duende se han metido?",
+                "it": "Barili su barili",
+                "nl": "Tonnen en tonnen",
+                "no": "Tønner på tønner",
+                "tr": "Variller Üstünde Variller",
+                "jp": "タルフェス",
+                "kr": "통통통",
+                "ru": "Бочки на бочках",
+                "ar": "براميل في براميل",
+                "pt": "Chuva de Barris",
+                "cn": "双桶来袭",
+                "cnt": "雙桶來襲",
+                "fa": "بشکه روی بشکه",
+                "id": "Tong dalam Tong",
+                "ms": "Gandaan Tong",
+                "th": "ถังแล้วถังอีก",
+                "fi": "Tynnyrivyöry",
+                "vi": "Thùng và Thùng",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_5"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_6",
@@ -2479,7 +3883,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_6",
-        "name_en": "3 Gobsketeers"
+        "name_en": "3 Gobsketeers",
+        "_lang": {
+            "name": {
+                "en": "3 Gobsketeers",
+                "fr": "Les 3 mousquobelins",
+                "de": "Die drei Koboldiere",
+                "es": "Los duendes del zodiaco",
+                "it": "Goblin e moschettieri",
+                "nl": "Drie koboldtiers",
+                "no": "3 nisseterer",
+                "tr": "3 Goblin Silahşörleri",
+                "jp": "トリプルゴブリン銃士",
+                "kr": "고블린 삼총사",
+                "ru": "Гоблинская троица",
+                "ar": "3 فارسات وغيلان",
+                "pt": "Mosqueteiras Goblinadas",
+                "cn": "三枪哥布林",
+                "cnt": "三槍哥布林",
+                "fa": "3 گابلین تفنگدار",
+                "id": "3 Gobsketeer",
+                "ms": "3 Gobsketeer",
+                "th": "สามทหารเสือก็อบลิน",
+                "fi": "3 hiisimuskettia",
+                "vi": "Yêu tinh và 3 nàng ngự lâm",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_6"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_7",
@@ -2504,7 +3934,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_7",
-        "name_en": "Gobdown"
+        "name_en": "Gobdown",
+        "_lang": {
+            "name": {
+                "en": "Gobdown",
+                "fr": "Combelin",
+                "de": "Groß, grün und gierig",
+                "es": "Con mucho duende",
+                "it": "Davide e Golia",
+                "nl": "Koboldenkracht",
+                "no": "Nisselig",
+                "tr": "Gob Aşağı",
+                "jp": "ゴブリンラッシュ",
+                "kr": "고블린 쇼다운",
+                "ru": "Гоб-стоп",
+                "ar": "بطش الغيلان",
+                "pt": "Boliche de Goblin",
+                "cn": "双胖哥布林",
+                "cnt": "綠巨人",
+                "fa": "گابلین‌انداز",
+                "id": "Kejutan Goblin",
+                "ms": "Gerombolan Goblin",
+                "th": "ก็อบลินร่วง",
+                "fi": "Hiisitulva",
+                "vi": "Yêu tinh xuất trận",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_7"
+            }
+        }
     },
     {
         "name": "Blind_Goblin_8",
@@ -2529,7 +3985,33 @@
             1
         ],
         "tid": "TID_BLIND_DECK_GOBLIN_8",
-        "name_en": "Mined the Bait"
+        "name_en": "Mined the Bait",
+        "_lang": {
+            "name": {
+                "en": "Mined the Bait",
+                "fr": "Mine de rien",
+                "de": "Tunnelraubzug",
+                "es": "¡Cuidado con el duende!",
+                "it": "Goblin e talpe",
+                "nl": "Mijnkobolder",
+                "no": "Utvant agnet",
+                "tr": "Yemi Mayınladık",
+                "jp": "足元にご注意ください",
+                "kr": "미끼 조심",
+                "ru": "Подземная наживка",
+                "ar": "منجم الغيلان",
+                "pt": "Mina de Goblins",
+                "cn": "掘地飞桶",
+                "cnt": "掘地飛桶",
+                "fa": "گابلین بارون",
+                "id": "Goblin Penggali",
+                "ms": "Umpan Pelombong",
+                "th": "ระวังเหยื่อล่อ",
+                "fi": "Hiisi maan uumenissa",
+                "vi": "Thợ mỏ và Mồi nhử",
+                "sc_key": "TID_BLIND_DECK_GOBLIN_8"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Giant",
@@ -2554,7 +4036,33 @@
             1
         ],
         "tid": "TID_CLASSIC1_GIANT",
-        "name_en": "Giant Muskets"
+        "name_en": "Giant Muskets",
+        "_lang": {
+            "name": {
+                "en": "Giant Muskets",
+                "fr": "Mousquets géants",
+                "de": "Riesenmusketen",
+                "es": "Gigante y mosqueteras",
+                "it": "Moschetti giganti",
+                "nl": "Reusachtige musketten",
+                "no": "Kjempemusketter",
+                "tr": "Dev ile Silahşor",
+                "jp": "巨大マスケット銃",
+                "kr": "자이언트 머스킷",
+                "ru": "Гигантские мушкеты",
+                "ar": "البنادق العملاقة",
+                "pt": "Mosquetes Gigantes",
+                "cn": "经典胖子三枪",
+                "cnt": "巨人三槍",
+                "fa": "تفنگ‌های غول‌پیکر",
+                "id": "Musket Raksasa",
+                "ms": "Musketeer Gergasi",
+                "th": "ศึกยักษ์และปืน",
+                "fi": "Jätti-musketti",
+                "vi": "Khổng Ngự lâm",
+                "sc_key": "TID_CLASSIC1_GIANT"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Golem",
@@ -2579,7 +4087,33 @@
             1
         ],
         "tid": "TID_CLASSIC2_GOLEM",
-        "name_en": "Golem Beatdown"
+        "name_en": "Golem Beatdown",
+        "_lang": {
+            "name": {
+                "en": "Golem Beatdown",
+                "fr": "Cœur de pierre",
+                "de": "Golem-Beatdown",
+                "es": "Gólem Beatdown",
+                "it": "Operazione Golem",
+                "nl": "Bliksemende golem",
+                "no": "Golemlesting",
+                "tr": "Golem Saldırısı",
+                "jp": "ゴーレムの拳",
+                "kr": "골렘 나무꾼",
+                "ru": "Големы-головорезы",
+                "ar": "مطحنة الغولم",
+                "pt": "Pancadaria de Golem",
+                "cn": "大闪暗夜石",
+                "cnt": "大閃暗夜石",
+                "fa": "ضربه‌های گالم",
+                "id": "Golem Penghancur",
+                "ms": "Keganasan Golem",
+                "th": "โกเล็มตีเละ",
+                "fi": "Golemin löylytys",
+                "vi": "Thạch nhân Quyết chiến",
+                "sc_key": "TID_CLASSIC2_GOLEM"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Pekka",
@@ -2604,7 +4138,33 @@
             1
         ],
         "tid": "TID_CLASSIC3_PEKKA",
-        "name_en": "P.E.K.K.A Ram"
+        "name_en": "P.E.K.K.A Ram",
+        "_lang": {
+            "name": {
+                "en": "P.E.K.K.A Ram",
+                "fr": "P.E.K.K.A bélier",
+                "de": "P.E.K.K.A.-Rammbock",
+                "es": "Ariete de P.E.K.K.A.",
+                "it": "P.E.K.K.Ariete",
+                "nl": "P.E.K.K.A.-ram",
+                "no": "P.E.K.K.A-rambukk",
+                "tr": "P.E.K.K.A Darbesi",
+                "jp": "攻城 P.E.K.K.A",
+                "kr": "페카 램",
+                "ru": "П.Е.К.К.А.-таран",
+                "ar": "مدق بيكا",
+                "pt": "Aríete de P.E.K.K.A",
+                "cn": "皮卡攻城槌",
+                "cnt": "皮卡攻城槌",
+                "fa": "دژکوب P.E.K.K.A",
+                "id": "P.E.K.K.A Melibas",
+                "ms": "Hentaman P.E.K.K.A",
+                "th": "ซุง P.E.K.K.A",
+                "fi": "P.E.K.K.A.-murtaja",
+                "vi": "Vũ khí phá thành và P.E.K.K.A",
+                "sc_key": "TID_CLASSIC3_PEKKA"
+            }
+        }
     },
     {
         "name": "Blind_Classic_LavaLoon",
@@ -2629,7 +4189,33 @@
             1
         ],
         "tid": "TID_CLASSIC4_LAVALOON",
-        "name_en": "LavaLoon"
+        "name_en": "LavaLoon",
+        "_lang": {
+            "name": {
+                "en": "LavaLoon",
+                "fr": "Molosse ballon",
+                "de": "Lavaballon",
+                "es": "LaVaLoon",
+                "it": "Mongolfiera lavica",
+                "nl": "Lavalon",
+                "no": "Lavalong",
+                "tr": "Lav Balon",
+                "jp": "ラヴァルーン",
+                "kr": "라벌",
+                "ru": "Лавашар",
+                "ar": "بالون كلب الحمم",
+                "pt": "Lava Voadora",
+                "cn": "经典狗球",
+                "cnt": "經典狗球",
+                "fa": "لاوالون",
+                "id": "Lavalon",
+                "ms": "Lavaloon",
+                "th": "ลาวาลูน",
+                "fi": "Laavapallo",
+                "vi": "Nham khuyển và Khinh khí cầu",
+                "sc_key": "TID_CLASSIC4_LAVALOON"
+            }
+        }
     },
     {
         "name": "Blind_Classic_LogBait",
@@ -2654,7 +4240,33 @@
             1
         ],
         "tid": "TID_CLASSIC5_SPELLBAIT",
-        "name_en": "Spell Bait"
+        "name_en": "Spell Bait",
+        "_lang": {
+            "name": {
+                "en": "Spell Bait",
+                "fr": "Jeu du sort",
+                "de": "Spell Bait",
+                "es": "Anzuelo de hechizos",
+                "it": "Esca per incantesimi",
+                "nl": "Spreukenaas",
+                "no": "Formelmat",
+                "tr": "Büyü Tuzağı",
+                "jp": "呪文の罠",
+                "kr": "토블린 통",
+                "ru": "Наживка из заклинаний",
+                "ar": "استدراج التعويذات",
+                "pt": "Isca de Feitiços",
+                "cn": "自闭飞桶",
+                "cnt": "自閉飛桶",
+                "fa": "طعمه طلسم",
+                "id": "Umpan Mantra",
+                "ms": "Umpan Sihir",
+                "th": "เหยื่ออาคม",
+                "fi": "Loitsusyötti",
+                "vi": "Thần chú Quấy rối",
+                "sc_key": "TID_CLASSIC5_SPELLBAIT"
+            }
+        }
     },
     {
         "name": "Blind_Classic_RoyalGiant",
@@ -2679,7 +4291,33 @@
             1
         ],
         "tid": "TID_CLASSIC6_ROYALGIANT",
-        "name_en": "Royal Pain"
+        "name_en": "Royal Pain",
+        "_lang": {
+            "name": {
+                "en": "Royal Pain",
+                "fr": "Douleur royale",
+                "de": "Das tut weh",
+                "es": "Dolor noble",
+                "it": "Assedio Royale",
+                "nl": "Koninklijke lastpak",
+                "no": "Kongelig smerte",
+                "tr": "Kraliyet Ağrısı",
+                "jp": "王者の憂鬱",
+                "kr": "상처엔 로얄",
+                "ru": "Королевская боль",
+                "ar": "الألم الملكي",
+                "pt": "Dor Real",
+                "cn": "熔炉皇家巨人",
+                "cnt": "皇巨熔爐套",
+                "fa": "سوز سلطنتی",
+                "id": "Kesakitan Royal",
+                "ms": "Penyeksaan Diraja",
+                "th": "มหาเจ็บ",
+                "fi": "Kuninkaallinen jätti",
+                "vi": "Kẻ Phá đám",
+                "sc_key": "TID_CLASSIC6_ROYALGIANT"
+            }
+        }
     },
     {
         "name": "Blind_Classic_7",
@@ -2704,7 +4342,33 @@
             1
         ],
         "tid": "TID_CLASSIC7_THREEMUSKY",
-        "name_en": "Girl Firepower"
+        "name_en": "Girl Firepower",
+        "_lang": {
+            "name": {
+                "en": "Girl Firepower",
+                "fr": "Filles à mousquets",
+                "de": "Frauenpower",
+                "es": "Chicas al poder",
+                "it": "Donne al potere",
+                "nl": "Meidenvuurkracht",
+                "no": "Jentekraft",
+                "tr": "Atıcı Kızlar",
+                "jp": "女性のチカラ",
+                "kr": "걸크러쉬",
+                "ru": "Огневая мощь девчонок",
+                "ar": "فارسات النار",
+                "pt": "Bonde das Poderosas",
+                "cn": "矿工三枪",
+                "cnt": "礦工三槍",
+                "fa": "دختری با قدرت آتشین",
+                "id": "Kekuatan Perempuan",
+                "ms": "Kekuatan Wanita",
+                "th": "สาวน้อยปืนแรง",
+                "fi": "Tytöt tulittaa",
+                "vi": "Nữ Hỏa Lực",
+                "sc_key": "TID_CLASSIC7_THREEMUSKY"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Xbow",
@@ -2729,7 +4393,33 @@
             1
         ],
         "tid": "TID_CLASSIC8_XBOW",
-        "name_en": "Ice Bow"
+        "name_en": "Ice Bow",
+        "_lang": {
+            "name": {
+                "en": "Ice Bow",
+                "fr": "Arc de glace",
+                "de": "Eisbogen",
+                "es": "Ballesta helada",
+                "it": "Arco ghiacciato",
+                "nl": "IJsboog",
+                "no": "Isbue",
+                "tr": "Buzdan Yay",
+                "jp": "氷の弓",
+                "kr": "얼음 석궁",
+                "ru": "Ледяной арбалет",
+                "ar": "قوس الثلج",
+                "pt": "Arco de Gelo",
+                "cn": "经典连弩",
+                "cnt": "冰人連弩",
+                "fa": "کمان یخی",
+                "id": "Busur Es",
+                "ms": "Busur Ais",
+                "th": "ธนูน้ำแข็ง",
+                "fi": "Jääjousi",
+                "vi": "Cung Băng",
+                "sc_key": "TID_CLASSIC8_XBOW"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Graveyard",
@@ -2754,7 +4444,33 @@
             1
         ],
         "tid": "TID_CLASSIC9_GRAVEYARD",
-        "name_en": "Cold Dead Hands"
+        "name_en": "Cold Dead Hands",
+        "_lang": {
+            "name": {
+                "en": "Cold Dead Hands",
+                "fr": "De main morte",
+                "de": "Skelettfest",
+                "es": "No es serio este cementerio",
+                "it": "Morti di freddo",
+                "nl": "Doodskoude handen",
+                "no": "Kalde, døde hender",
+                "tr": "Donmuş Eller",
+                "jp": "冷たい手",
+                "kr": "무덤",
+                "ru": "Холодные мертвые руки",
+                "ar": "أيادي الأموات الباردة",
+                "pt": "Mãos de Defunto",
+                "cn": "炮车墓园",
+                "cnt": "炮車墓園",
+                "fa": "دست‌های سرد بی‌روح",
+                "id": "Tangan Dingin Kematian",
+                "ms": "Tangan Orang Mati",
+                "th": "มือมัจจุราชเย็นเยือก",
+                "fi": "Kylmät kalman kädet",
+                "vi": "Bàn Tay Chết Cóng",
+                "sc_key": "TID_CLASSIC9_GRAVEYARD"
+            }
+        }
     },
     {
         "name": "Blind_Classic_GoblinGiant",
@@ -2779,7 +4495,33 @@
             1
         ],
         "tid": "TID_CLASSIC10_GOBGIANT",
-        "name_en": "Spark the Goblin"
+        "name_en": "Spark the Goblin",
+        "_lang": {
+            "name": {
+                "en": "Spark the Goblin",
+                "fr": "Gobelin zappeur",
+                "de": "Koboldarmee",
+                "es": "Duende gigante y Chispitas",
+                "it": "Goblin scintillanti",
+                "nl": "Ontsteek de kobold",
+                "no": "Tenn nissens gnist",
+                "tr": "Goblini Ateşle",
+                "jp": "燃えよゴブリン",
+                "kr": "고블린 스파크",
+                "ru": "Заводной гоблин",
+                "ar": "سباركي الغول",
+                "pt": "Goblin Eletrizante",
+                "cn": "绿巨人电车",
+                "cnt": "綠巨人電車",
+                "fa": "گابلین جرقه",
+                "id": "Sulut Goblin",
+                "ms": "Percikan Goblin",
+                "th": "จุดประกายก็อบลิน",
+                "fi": "Kipinöivät hiidet",
+                "vi": "Sparky và Yêu tinh",
+                "sc_key": "TID_CLASSIC10_GOBGIANT"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Mortar",
@@ -2804,7 +4546,33 @@
             1
         ],
         "tid": "TID_CLASSIC11_MORTAR",
-        "name_en": "Mortar Swarms"
+        "name_en": "Mortar Swarms",
+        "_lang": {
+            "name": {
+                "en": "Mortar Swarms",
+                "fr": "Essaim mortier",
+                "de": "Minenwerfer-Schwärme",
+                "es": "Multitudes con mortero",
+                "it": "Schiera di mortai",
+                "nl": "Mortierenzwermen",
+                "no": "Mortersvermer",
+                "tr": "Havan Yığınağı",
+                "jp": "迫撃砲と群れ",
+                "kr": "박격포와 친구들",
+                "ru": "Рой мортир",
+                "ar": "أسراب مدافع الهاون",
+                "pt": "Morteiro Enxameado",
+                "cn": "迫击炮人海",
+                "cnt": "迫炮人海流",
+                "fa": "جوخه‌های خمپاره‌انداز",
+                "id": "Kawanan Mortir",
+                "ms": "Kerumunan Mortar",
+                "th": "กองทัพปืนครก",
+                "fi": "Mörssäriparvet",
+                "vi": "Đoàn Súng Cối",
+                "sc_key": "TID_CLASSIC11_MORTAR"
+            }
+        }
     },
     {
         "name": "Blind_Classic_MegaKnight",
@@ -2829,7 +4597,33 @@
             1
         ],
         "tid": "TID_CLASSIC12_MEGAKNIGHT",
-        "name_en": "Mega Goblins"
+        "name_en": "Mega Goblins",
+        "_lang": {
+            "name": {
+                "en": "Mega Goblins",
+                "fr": "Mégagobelins",
+                "de": "Mega-Kobolde",
+                "es": "Megaduendes",
+                "it": "Il cavaliere e i goblin",
+                "nl": "Megakobolden",
+                "no": "Meganisser",
+                "tr": "Mega Goblinler",
+                "jp": "メガゴブリン",
+                "kr": "메가 고블린",
+                "ru": "Мегагоблины",
+                "ar": "الغيلان العملاقة",
+                "pt": "Mega + Goblin",
+                "cn": "超骑哥布林",
+                "cnt": "超騎哥布林",
+                "fa": "مگا گابلین‌ها",
+                "id": "Goblin Mega",
+                "ms": "Goblin Mega",
+                "th": "เมก้าก็อบลิน",
+                "fi": "Megahiidet",
+                "vi": "Yêu tinh Siêu cấp",
+                "sc_key": "TID_CLASSIC12_MEGAKNIGHT"
+            }
+        }
     },
     {
         "name": "Blind_Classic_HogRider",
@@ -2854,7 +4648,33 @@
             1
         ],
         "tid": "TID_CLASSIC13_HOGRIDER",
-        "name_en": "Hog'Nado"
+        "name_en": "Hog'Nado",
+        "_lang": {
+            "name": {
+                "en": "Hog'Nado",
+                "fr": "Chevaucheur de tornade",
+                "de": "Schweinesturm",
+                "es": "Tornado y montapuercos",
+                "it": "Tornado suino",
+                "nl": "Varkensnado",
+                "no": "Svinado",
+                "tr": "Domuz Kasırgası",
+                "jp": "ホグトルネード",
+                "kr": "호그네이도",
+                "ru": "Кабанадо",
+                "ar": "إعصار الخنازير",
+                "pt": "Porco Turbinado",
+                "cn": "飓风屠夫猪",
+                "cnt": "旋風屠夫豬",
+                "fa": "خوک‌باد",
+                "id": "Tornado Babi",
+                "ms": "KhinNado",
+                "th": "ทอร์นาโดหมูป่า",
+                "fi": "Karjutornado",
+                "vi": "Trư Cuồng phong",
+                "sc_key": "TID_CLASSIC13_HOGRIDER"
+            }
+        }
     },
     {
         "name": "Blind_Classic_RoyalHogs",
@@ -2879,7 +4699,33 @@
             1
         ],
         "tid": "TID_CLASSIC14_ROYALHOGS",
-        "name_en": "Pigs on Parade"
+        "name_en": "Pigs on Parade",
+        "_lang": {
+            "name": {
+                "en": "Pigs on Parade",
+                "fr": "Parade de cochons",
+                "de": "Schweinchenparade",
+                "es": "Puercos en fuga",
+                "it": "Parata porcina",
+                "nl": "Varkensparade",
+                "no": "Griser på utstilling",
+                "tr": "Domuz Geçidi",
+                "jp": "ホグパレード",
+                "kr": "호그 퍼레이드",
+                "ru": "Свиньи на параде",
+                "ar": "استعراض الخنازير",
+                "pt": "Marcha dos Porcos",
+                "cn": "猪猪飞行器",
+                "cnt": "皇豬飛行器",
+                "fa": "خوک‌های خرامان",
+                "id": "Parade Babi",
+                "ms": "Perarakan Khinzir",
+                "th": "พาเหรดหมูป่าหลวง",
+                "fi": "Possuparaati",
+                "vi": "Trư Hoành tráng",
+                "sc_key": "TID_CLASSIC14_ROYALHOGS"
+            }
+        }
     },
     {
         "name": "MirrorDeck_CW",
@@ -2895,7 +4741,33 @@
             "MirrorCW_DirectDamage"
         ],
         "tid": "TID_MIRROR_DECK",
-        "name_en": "Mirror Deck"
+        "name_en": "Mirror Deck",
+        "_lang": {
+            "name": {
+                "en": "Mirror Deck",
+                "fr": "Deck miroir",
+                "de": "Spiegeldeck",
+                "es": "Mazo duplicado",
+                "it": "Mazzo Specchio",
+                "nl": "Spiegelkaarten",
+                "no": "Speilkort",
+                "tr": "Ayna Destesi",
+                "jp": "鏡デッキ",
+                "kr": "반사경 덱",
+                "ru": "Зеркальная колода",
+                "ar": "مجموعة معركة المرآة",
+                "pt": "Deck do Espelho",
+                "cn": "镜像卡组",
+                "cnt": "鏡像牌組",
+                "fa": "دسته نبرد آینه",
+                "id": "Dek Cermin",
+                "ms": "Dek Cermin",
+                "th": "สำรับลอกเลียน",
+                "fi": "Peilipakka",
+                "vi": "Bộ thẻ Gương",
+                "sc_key": "TID_MIRROR_DECK"
+            }
+        }
     },
     {
         "name": "DeckAITest",
@@ -2956,7 +4828,33 @@
             1
         ],
         "tid": "TID_CRLBlind_Queso",
-        "name_en": "Team Queso"
+        "name_en": "Team Queso",
+        "_lang": {
+            "name": {
+                "en": "Team Queso",
+                "fr": "Team Queso",
+                "de": "Team Queso",
+                "es": "Team Queso",
+                "it": "Team Queso",
+                "nl": "Team Queso",
+                "no": "Team Queso",
+                "tr": "Team Queso",
+                "jp": "Team Queso",
+                "kr": "Team Queso",
+                "ru": "Team Queso",
+                "ar": "Team Queso",
+                "pt": "Team Queso",
+                "cn": "Team Queso",
+                "cnt": "Team Queso",
+                "fa": "Team Queso",
+                "id": "Team Queso",
+                "ms": "Team Queso",
+                "th": "Team Queso",
+                "fi": "Team Queso",
+                "vi": "Team Queso",
+                "sc_key": "TID_CRLBlind_Queso"
+            }
+        }
     },
     {
         "name": "CRLWorlds_Nova",
@@ -2981,7 +4879,33 @@
             1
         ],
         "tid": "TID_CRLBlind_Nova",
-        "name_en": "Nova Esports"
+        "name_en": "Nova Esports",
+        "_lang": {
+            "name": {
+                "en": "Nova Esports",
+                "fr": "Nova Esports",
+                "de": "Nova Esports",
+                "es": "Nova Esports",
+                "it": "Nova Esports",
+                "nl": "Nova Esports",
+                "no": "Nova Esports",
+                "tr": "Nova Esports",
+                "jp": "Nova Esports",
+                "kr": "Nova Esports",
+                "ru": "Nova Esports",
+                "ar": "Nova Esports",
+                "pt": "Nova Esports",
+                "cn": "Nova Esports",
+                "cnt": "Nova Esports",
+                "fa": "Nova Esports",
+                "id": "Nova Esports",
+                "ms": "Nova Esports",
+                "th": "Nova Esports",
+                "fi": "Nova Esports",
+                "vi": "Nova Esports",
+                "sc_key": "TID_CRLBlind_Nova"
+            }
+        }
     },
     {
         "name": "CRLWorlds_Ponos",
@@ -3006,7 +4930,33 @@
             1
         ],
         "tid": "TID_CRLBlind_Ponos",
-        "name_en": "PONOS Sports"
+        "name_en": "PONOS Sports",
+        "_lang": {
+            "name": {
+                "en": "PONOS Sports",
+                "fr": "PONOS Sports",
+                "de": "PONOS Sports",
+                "es": "PONOS Sports",
+                "it": "PONOS Sports",
+                "nl": "PONOS Sports",
+                "no": "PONOS Sports",
+                "tr": "PONOS Sports",
+                "jp": "PONOS Sports",
+                "kr": "PONOS Sports",
+                "ru": "PONOS Sports",
+                "ar": "PONOS Sports",
+                "pt": "PONOS Sports",
+                "cn": "PONOS Sports",
+                "cnt": "PONOS Sports",
+                "fa": "PONOS Sports",
+                "id": "PONOS Sports",
+                "ms": "PONOS Sports",
+                "th": "PONOS Sports",
+                "fi": "PONOS Sports",
+                "vi": "PONOS Sports",
+                "sc_key": "TID_CRLBlind_Ponos"
+            }
+        }
     },
     {
         "name": "CRLWorlds_Vivo",
@@ -3031,7 +4981,33 @@
             1
         ],
         "tid": "TID_CRLBlind_Vivo",
-        "name_en": "Vivo Keyd"
+        "name_en": "Vivo Keyd",
+        "_lang": {
+            "name": {
+                "en": "Vivo Keyd",
+                "fr": "Vivo Keyd",
+                "de": "Vivo Keyd",
+                "es": "Vivo Keyd",
+                "it": "Vivo Keyd",
+                "nl": "Vivo Keyd",
+                "no": "Vivo Keyd",
+                "tr": "Vivo Keyd",
+                "jp": "Vivo Keyd",
+                "kr": "Vivo Keyd",
+                "ru": "Vivo Keyd",
+                "ar": "Vivo Keyd",
+                "pt": "Vivo Keyd",
+                "cn": "Vivo Keyd",
+                "cnt": "Vivo Keyd",
+                "fa": "Vivo Keyd",
+                "id": "Vivo Keyd",
+                "ms": "Vivo Keyd",
+                "th": "Vivo Keyd",
+                "fi": "Vivo Keyd",
+                "vi": "Vivo Keyd",
+                "sc_key": "TID_CRLBlind_Vivo"
+            }
+        }
     },
     {
         "name": "CRLWorlds_Immortals",
@@ -3056,7 +5032,33 @@
             1
         ],
         "tid": "TID_CRLBlind_Immortals",
-        "name_en": "Immortals"
+        "name_en": "Immortals",
+        "_lang": {
+            "name": {
+                "en": "Immortals",
+                "fr": "Immortals",
+                "de": "Immortals",
+                "es": "Immortals",
+                "it": "Immortals",
+                "nl": "Immortals",
+                "no": "Immortals",
+                "tr": "Immortals",
+                "jp": "Immortals",
+                "kr": "Immortals",
+                "ru": "Immortals",
+                "ar": "Immortals",
+                "pt": "Immortals",
+                "cn": "Immortals",
+                "cnt": "Immortals",
+                "fa": "Immortals",
+                "id": "Immortals",
+                "ms": "Immortals",
+                "th": "Immortals",
+                "fi": "Immortals",
+                "vi": "Immortals",
+                "sc_key": "TID_CRLBlind_Immortals"
+            }
+        }
     },
     {
         "name": "CRLWorlds_KZDX",
@@ -3081,7 +5083,33 @@
             1
         ],
         "tid": "TID_CRLBlind_KZDX",
-        "name_en": "KING-ZONE DragonX"
+        "name_en": "KING-ZONE DragonX",
+        "_lang": {
+            "name": {
+                "en": "KING-ZONE DragonX",
+                "fr": "KING-ZONE DragonX",
+                "de": "KING-ZONE DragonX",
+                "es": "KING-ZONE DragonX",
+                "it": "KING-ZONE DragonX",
+                "nl": "KING-ZONE DragonX",
+                "no": "KING-ZONE DragonX",
+                "tr": "KING-ZONE DragonX",
+                "jp": "KING-ZONE DragonX",
+                "kr": "KING-ZONE DragonX",
+                "ru": "KING-ZONE DragonX",
+                "ar": "KING-ZONE DragonX",
+                "pt": "KING-ZONE DragonX",
+                "cn": "KING-ZONE DragonX",
+                "cnt": "KING-ZONE DragonX",
+                "fa": "KING-ZONE DragonX",
+                "id": "KING-ZONE DragonX",
+                "ms": "KING-ZONE DragonX",
+                "th": "KING-ZONE DragonX",
+                "fi": "KING-ZONE DragonX",
+                "vi": "KING-ZONE DragonX",
+                "sc_key": "TID_CRLBlind_KZDX"
+            }
+        }
     },
     {
         "name": "ClassicKC1_YaoYao",
@@ -3106,7 +5134,33 @@
             1
         ],
         "tid": "TID_ClassicKC1_YaoYao",
-        "name_en": "YaoYao (1st)"
+        "name_en": "YaoYao (1st)",
+        "_lang": {
+            "name": {
+                "en": "YaoYao (1st)",
+                "fr": "YaoYao (1er)",
+                "de": "YaoYao (1.)",
+                "es": "YaoYao (1.º)",
+                "it": "YaoYao (primo posto)",
+                "nl": "YaoYao (1ste)",
+                "no": "YaoYao (1.)",
+                "tr": "YaoYao (1.)",
+                "jp": "YaoYao（優勝）",
+                "kr": "YaoYao (1위)",
+                "ru": "YaoYao (1 место)",
+                "ar": "YaoYao (المركز 1)",
+                "pt": "YaoYao (1º)",
+                "cn": "YaoYao（第一名）",
+                "cnt": "YaoYao（第一名）",
+                "fa": "YaoYao (اول)",
+                "id": "YaoYao (Juara 1)",
+                "ms": "YaoYao (Pertama)",
+                "th": "YaoYao (ที่ 1)",
+                "fi": "YaoYao (1.)",
+                "vi": "YaoYao (Hạng 1)",
+                "sc_key": "TID_ClassicKC1_YaoYao"
+            }
+        }
     },
     {
         "name": "ClassicKC1_Colton",
@@ -3131,7 +5185,33 @@
             1
         ],
         "tid": "TID_ClassicKC1_Colton",
-        "name_en": "Coltonw83 (2nd)"
+        "name_en": "Coltonw83 (2nd)",
+        "_lang": {
+            "name": {
+                "en": "Coltonw83 (2nd)",
+                "fr": "Coltonw83 (2e)",
+                "de": "Coltonw83 (2.)",
+                "es": "Coltonw83 (2.º)",
+                "it": "Coltonw83 (secondo posto)",
+                "nl": "Coltonw83 (2de)",
+                "no": "Coltonw83 (2.)",
+                "tr": "Coltonw83 (2.)",
+                "jp": "Coltonw83（準優勝）",
+                "kr": "Coltonw83 (2위)",
+                "ru": "Coltonw83 (2 место)",
+                "ar": "Coltonw83 (المركز 2)",
+                "pt": "Coltonw83 (2º)",
+                "cn": "Coltonw83（第二名）",
+                "cnt": "Coltonw83（第二名）",
+                "fa": "Coltonw83 (دوم)",
+                "id": "Coltonw83 (Juara 2)",
+                "ms": "Coltonw83 (Kedua)",
+                "th": "Coltonw83 (ที่ 2)",
+                "fi": "Coltonw83 (2.)",
+                "vi": "Coltonw83 (Hạng 2)",
+                "sc_key": "TID_ClassicKC1_Colton"
+            }
+        }
     },
     {
         "name": "ClassicKC1_ChiefPat",
@@ -3156,7 +5236,33 @@
             1
         ],
         "tid": "TID_ClassicKC1_ChiefPat",
-        "name_en": "ChiefPat (Top 4)"
+        "name_en": "ChiefPat (Top 4)",
+        "_lang": {
+            "name": {
+                "en": "ChiefPat (Top 4)",
+                "fr": "ChiefPat (top 4)",
+                "de": "ChiefPat (Top 4)",
+                "es": "ChiefPat (Top 4)",
+                "it": "ChiefPat (top 4)",
+                "nl": "ChiefPat (top 4)",
+                "no": "ChiefPat (topp 4)",
+                "tr": "ChiefPat (İlk 4)",
+                "jp": "ChiefPat（ベスト4）",
+                "kr": "ChiefPat (4강)",
+                "ru": "ChiefPat (топ-4)",
+                "ar": "ChiefPat (الأربعة الأوائل)",
+                "pt": "ChiefPat (Top 4)",
+                "cn": "ChiefPat（四强）",
+                "cnt": "ChiefPat（四強）",
+                "fa": "ChiefPat (4 نفر برتر)",
+                "id": "ChiefPat (4 Teratas)",
+                "ms": "ChiefPat (4 Teratas)",
+                "th": "ChiefPat (4 คนสุดท้าย)",
+                "fi": "ChiefPat (top 4)",
+                "vi": "ChiefPat (Top 4)",
+                "sc_key": "TID_ClassicKC1_ChiefPat"
+            }
+        }
     },
     {
         "name": "ClassicKC1_TopNotch",
@@ -3181,7 +5287,33 @@
             1
         ],
         "tid": "TID_ClassicKC1_TopNotch",
-        "name_en": "TopNotch (Top 4)"
+        "name_en": "TopNotch (Top 4)",
+        "_lang": {
+            "name": {
+                "en": "TopNotch (Top 4)",
+                "fr": "TopNotch (top 4)",
+                "de": "TopNotch (Top 4)",
+                "es": "TopNotch (Top 4)",
+                "it": "TopNotch (top 4)",
+                "nl": "TopNotch (top 4)",
+                "no": "TopNotch (topp 4)",
+                "tr": "TopNotch (İlk 4)",
+                "jp": "TopNotch（ベスト4）",
+                "kr": "TopNotch (4강)",
+                "ru": "TopNotch (топ-4)",
+                "ar": "TopNotch (الأربعة الأوائل)",
+                "pt": "TopNotch (Top 4)",
+                "cn": "TopNotch（四强）",
+                "cnt": "TopNotch（四強）",
+                "fa": "TopNotch (4 نفر برتر)",
+                "id": "TopNotch (4 Teratas)",
+                "ms": "TopNotch (4 Teratas)",
+                "th": "TopNotch (4 คนสุดท้าย)",
+                "fi": "TopNotch (top 4)",
+                "vi": "TopNotch (Top 4)",
+                "sc_key": "TID_ClassicKC1_TopNotch"
+            }
+        }
     },
     {
         "name": "ClassicHKI_Jason",
@@ -3206,7 +5338,33 @@
             1
         ],
         "tid": "TID_ClassicHKI_Jason",
-        "name_en": "Jason (1st)"
+        "name_en": "Jason (1st)",
+        "_lang": {
+            "name": {
+                "en": "Jason (1st)",
+                "fr": "Jason (1er)",
+                "de": "Jason (1.)",
+                "es": "Jason (1.º)",
+                "it": "Jason (primo posto)",
+                "nl": "Jason (1ste)",
+                "no": "Jason (1.)",
+                "tr": "Jason (1.)",
+                "jp": "Jason（優勝）",
+                "kr": "Jason (1위)",
+                "ru": "Jason (1 место)",
+                "ar": "Jason (المركز 1)",
+                "pt": "Jason (1º)",
+                "cn": "Jason（第一名）",
+                "cnt": "Jason（第一名）",
+                "fa": "Jason (اول)",
+                "id": "Jason (Juara 1)",
+                "ms": "Jason (Pertama)",
+                "th": "Jason (ที่ 1)",
+                "fi": "Jason (1.)",
+                "vi": "Jason (Hạng 1)",
+                "sc_key": "TID_ClassicHKI_Jason"
+            }
+        }
     },
     {
         "name": "ClassicHKI_Steroidi",
@@ -3231,7 +5389,33 @@
             1
         ],
         "tid": "TID_ClassicHKI_Steroidi",
-        "name_en": "Steroidi69 (2nd)"
+        "name_en": "Steroidi69 (2nd)",
+        "_lang": {
+            "name": {
+                "en": "Steroidi69 (2nd)",
+                "fr": "Steroidi69 (2e)",
+                "de": "Steroidi69 (2.)",
+                "es": "Steroidi69 (2.º)",
+                "it": "Steroidi69 (secondo posto)",
+                "nl": "Steroidi69 (2de)",
+                "no": "Steroidi69 (2.)",
+                "tr": "Steroidi69 (2.)",
+                "jp": "Steroidi69（準優勝）",
+                "kr": "Steroidi69 (2위)",
+                "ru": "Steroidi69 (2 место)",
+                "ar": "Steroidi69 (المركز 2)",
+                "pt": "Steroidi69 (2º)",
+                "cn": "Steroidi69（第二名）",
+                "cnt": "Steroidi69（第二名）",
+                "fa": "Steroidi69 (دوم)",
+                "id": "Steroidi69 (Juara 2)",
+                "ms": "Steroidi69 (Kedua)",
+                "th": "Steroidi69 (ที่ 2)",
+                "fi": "Steroidi69 (2.)",
+                "vi": "Steroidi69 (Hạng 2)",
+                "sc_key": "TID_ClassicHKI_Steroidi"
+            }
+        }
     },
     {
         "name": "ClassicHKI_Naazime",
@@ -3256,7 +5440,33 @@
             1
         ],
         "tid": "TID_ClassicHKI_Naazime",
-        "name_en": "Naazime (Top 4)"
+        "name_en": "Naazime (Top 4)",
+        "_lang": {
+            "name": {
+                "en": "Naazime (Top 4)",
+                "fr": "Naazime (top 4)",
+                "de": "Naazime (Top 4)",
+                "es": "Naazime (Top 4)",
+                "it": "Naazime (top 4)",
+                "nl": "Naazime (top 4)",
+                "no": "Naazime (topp 4)",
+                "tr": "Naazime (İlk 4)",
+                "jp": "Naazime（ベスト4）",
+                "kr": "Naazime (4강)",
+                "ru": "Naazime (топ-4)",
+                "ar": "Naazime (الأربعة الأوائل)",
+                "pt": "Naazime (Top 4)",
+                "cn": "Naazime（四强）",
+                "cnt": "Naazime（四強）",
+                "fa": "Naazime (4 نفر برتر)",
+                "id": "Naazime (4 Teratas)",
+                "ms": "Naazime (4 Teratas)",
+                "th": "Naazime (4 คนสุดท้าย)",
+                "fi": "Naazime (top 4)",
+                "vi": "Naazime (Top 4)",
+                "sc_key": "TID_ClassicHKI_Naazime"
+            }
+        }
     },
     {
         "name": "ClassicHKI_Elfe",
@@ -3281,7 +5491,33 @@
             1
         ],
         "tid": "TID_ClassicHKI_Elfe",
-        "name_en": "Elfe (Top 4)"
+        "name_en": "Elfe (Top 4)",
+        "_lang": {
+            "name": {
+                "en": "Elfe (Top 4)",
+                "fr": "Elfe (top 4)",
+                "de": "Elfe (Top 4)",
+                "es": "Elfe (Top 4)",
+                "it": "Elfe (top 4)",
+                "nl": "Elfe (top 4)",
+                "no": "Elfe (topp 4)",
+                "tr": "Elfe (İlk 4)",
+                "jp": "Elfe（ベスト4）",
+                "kr": "Elfe (4강)",
+                "ru": "Elfe (топ-4)",
+                "ar": "Elfe (الأربعة الأوائل)",
+                "pt": "Elfe (Top 4)",
+                "cn": "Elfe（四强）",
+                "cnt": "Elfe（四強）",
+                "fa": "Elfe (4 نفر برتر)",
+                "id": "Elfe (4 Teratas)",
+                "ms": "Elfe (4 Teratas)",
+                "th": "Elfe (4 คนสุดท้าย)",
+                "fi": "Elfe (top 4)",
+                "vi": "Elfe (Top 4)",
+                "sc_key": "TID_ClassicHKI_Elfe"
+            }
+        }
     },
     {
         "name": "ClassicHKI_ClashWithAsh",
@@ -3306,7 +5542,33 @@
             1
         ],
         "tid": "TID_ClassicHKI_ClashWithAsh",
-        "name_en": "ClashWithAsh (Top 8)"
+        "name_en": "ClashWithAsh (Top 8)",
+        "_lang": {
+            "name": {
+                "en": "ClashWithAsh (Top 8)",
+                "fr": "ClashWithAsh (top 8)",
+                "de": "ClashWithAsh (Top 8)",
+                "es": "ClashWithAsh (Top 8)",
+                "it": "ClashWithAsh (top 8)",
+                "nl": "ClashWithAsh (top 8)",
+                "no": "ClashWithAsh (topp 8)",
+                "tr": "ClashWithAsh (İlk 8)",
+                "jp": "ClashWithAsh（ベスト8）",
+                "kr": "ClashWithAsh (8강)",
+                "ru": "ClashWithAsh (топ-8)",
+                "ar": "ClashWithAsh (الثمانية الأوائل)",
+                "pt": "ClashWithAsh (Top 8)",
+                "cn": "ClashWithAsh（八强）",
+                "cnt": "ClashWithAsh（八強）",
+                "fa": "ClashWithAsh ( 8 نفر برتر)",
+                "id": "ClashWithAsh (8 Teratas)",
+                "ms": "ClashWithAsh (8 Teratas)",
+                "th": "ClashWithAsh (8 คนสุดท้าย)",
+                "fi": "ClashWithAsh (top 8)",
+                "vi": "ClashWithAsh (Top 8)",
+                "sc_key": "TID_ClassicHKI_ClashWithAsh"
+            }
+        }
     },
     {
         "name": "FloodHounds_1",
@@ -3331,7 +5593,33 @@
             1
         ],
         "tid": "TID_Blind_FloodHound1",
-        "name_en": "Triple Lizards"
+        "name_en": "Triple Lizards",
+        "_lang": {
+            "name": {
+                "en": "Triple Lizards",
+                "fr": "Triple lézard",
+                "de": "Drei Drachen",
+                "es": "Triple dragón",
+                "it": "Lucertole volanti",
+                "nl": "Driedubbele hagedissen",
+                "no": "Tredoble øgler",
+                "tr": "Üç Sürüngen",
+                "jp": "ドラゴン三兄弟",
+                "kr": "트리플 드래곤",
+                "ru": "Тройка ящеров",
+                "ar": "السحالي الثلاث",
+                "pt": "Lagartos Triplos",
+                "cn": "天狗三龙",
+                "cnt": "天狗三龍",
+                "fa": "سوسمار سه برابر",
+                "id": "Tiga Reptil",
+                "ms": "Tiga Naga",
+                "th": "สามสหาย",
+                "fi": "Kolmoisliskot",
+                "vi": "Ba con thằn lằn con",
+                "sc_key": "TID_Blind_FloodHound1"
+            }
+        }
     },
     {
         "name": "FloodHounds_2",
@@ -3356,7 +5644,33 @@
             1
         ],
         "tid": "TID_Blind_FloodHound2",
-        "name_en": "Flying Minions"
+        "name_en": "Flying Minions",
+        "_lang": {
+            "name": {
+                "en": "Flying Minions",
+                "fr": "Gargouilles volantes",
+                "de": "Fliegende Lakaien",
+                "es": "Sabuesbirros",
+                "it": "Sgherri lavici",
+                "nl": "Vliegende gunstelingen",
+                "no": "Flygende lakeier",
+                "tr": "Uçan Minyonlar",
+                "jp": "空の戦士たち",
+                "kr": "라바 미니언",
+                "ru": "Летучие миньоны",
+                "ar": "المينيون الطائرة",
+                "pt": "Servos Voadores",
+                "cn": "天狗亡灵",
+                "cnt": "天狗亡靈",
+                "fa": "مینیون‌های پرنده",
+                "id": "Minion Terbang",
+                "ms": "Konco Berterbangan",
+                "th": "ลูกกระจ๊อกเหินฟ้า",
+                "fi": "Kätevät kätyrit",
+                "vi": "Minion tung cánh",
+                "sc_key": "TID_Blind_FloodHound2"
+            }
+        }
     },
     {
         "name": "FloodHounds_3",
@@ -3381,7 +5695,33 @@
             1
         ],
         "tid": "TID_Blind_FloodHound3",
-        "name_en": "Clone Hounds"
+        "name_en": "Clone Hounds",
+        "_lang": {
+            "name": {
+                "en": "Clone Hounds",
+                "fr": "Molosses clonés",
+                "de": "Klonhunde",
+                "es": "Sabuesos clonados",
+                "it": "Cloni lavici",
+                "nl": "Kloonhonden",
+                "no": "Klonehunder",
+                "tr": "Klon Tazılar",
+                "jp": "クローンハウンド",
+                "kr": "하운드 복제",
+                "ru": "Гончие-клоны",
+                "ar": "الكلاب المستنسخة",
+                "pt": "Hounds Clonados",
+                "cn": "天狗克隆",
+                "cnt": "天狗複製",
+                "fa": "سگ‌های شبیه‌سازی‌شده",
+                "id": "Anjing Klona",
+                "ms": "Klon Buru Lava",
+                "th": "สุนัขร่างโคลน",
+                "fi": "Kloonihurtat",
+                "vi": "Khuyển Nhân bản",
+                "sc_key": "TID_Blind_FloodHound3"
+            }
+        }
     },
     {
         "name": "FloodHounds_4",
@@ -3406,7 +5746,33 @@
             1
         ],
         "tid": "TID_Blind_FloodHound4",
-        "name_en": "Lava-Loon"
+        "name_en": "Lava-Loon",
+        "_lang": {
+            "name": {
+                "en": "Lava-Loon",
+                "fr": "Lavaloon",
+                "de": "LavaLoon",
+                "es": "LavaLoon",
+                "it": "Mongolfiera lavica",
+                "nl": "Lavalon",
+                "no": "Lavalong",
+                "tr": "Lavbalon",
+                "jp": "ラヴァルーン",
+                "kr": "라바룬",
+                "ru": "Адские шары",
+                "ar": "بالون كلب الحمم",
+                "pt": "Lava Voadora",
+                "cn": "狗球机甲",
+                "cnt": "狗球重甲",
+                "fa": "لاوا-لون",
+                "id": "Balon Lava",
+                "ms": "LavaLon",
+                "th": "บอลลูนลาวา",
+                "fi": "Laavapallot",
+                "vi": "Khí cầu Nham khuyển",
+                "sc_key": "TID_Blind_FloodHound4"
+            }
+        }
     },
     {
         "name": "Blind_Classic_HogQuake",
@@ -3431,7 +5797,33 @@
             1
         ],
         "tid": "TID_CLASSIC_HOGQUAKE",
-        "name_en": "Hog-Quake!"
+        "name_en": "Hog-Quake!",
+        "_lang": {
+            "name": {
+                "en": "Hog-Quake!",
+                "fr": "Chevaucheur trembleur",
+                "de": "Schweinebeben!",
+                "es": "¡Puercomoto!",
+                "it": "Domatori alla ri-scossa",
+                "nl": "Varkensbeving!",
+                "no": "Svinskjelv!",
+                "tr": "Domuz Depremi!",
+                "jp": "ホグクエイク",
+                "kr": "호그지진",
+                "ru": "Кабанотрясение!",
+                "ar": "زلزال راكب الخنزير",
+                "pt": "Corredor Sísmico",
+                "cn": "地震野猪",
+                "cnt": "地震豬",
+                "fa": "خوک-لرزه!",
+                "id": "Gempa Babi!",
+                "ms": "Gempa Khinzir!",
+                "th": "คนขี่หมูป่าสั่นสะท้าน!",
+                "fi": "Karjujäristys!",
+                "vi": "Trư Động đất!",
+                "sc_key": "TID_CLASSIC_HOGQUAKE"
+            }
+        }
     },
     {
         "name": "Blind_Classic_RamRush",
@@ -3456,7 +5848,33 @@
             1
         ],
         "tid": "TID_CLASSIC_RAMRUSH",
-        "name_en": "Ram Rushers"
+        "name_en": "Ram Rushers",
+        "_lang": {
+            "name": {
+                "en": "Ram Rushers",
+                "fr": "Bélier rageur",
+                "de": "Widderstürmer",
+                "es": "Montacarneros y leñador",
+                "it": "Assalto frenetico",
+                "nl": "Ramrazers",
+                "no": "Tømmerbukker",
+                "tr": "Koşan Koçlar",
+                "jp": "ラムラッシュ",
+                "kr": "램 러시",
+                "ru": "Бараны-хулиганы",
+                "ar": "الكبش الغاضب",
+                "pt": "Carneiro Lenhador",
+                "cn": "蛮羊冲锋",
+                "cnt": "蠻羊衝鋒",
+                "fa": "قوچ قلچماق",
+                "id": "Balap Domba",
+                "ms": "Rempuhan Bebiri",
+                "th": "คนขี่แกะบุกทะลวง",
+                "fi": "Pässirynnäkkö",
+                "vi": "Thợ đốn Thành",
+                "sc_key": "TID_CLASSIC_RAMRUSH"
+            }
+        }
     },
     {
         "name": "Blind_Classic_GiantPrince",
@@ -3481,7 +5899,33 @@
             1
         ],
         "tid": "TID_CLASSIC_GIANTPRINCE",
-        "name_en": "Gigantic Prince"
+        "name_en": "Gigantic Prince",
+        "_lang": {
+            "name": {
+                "en": "Gigantic Prince",
+                "fr": "Prince géant",
+                "de": "Riesiger Prinz",
+                "es": "Gigante y príncipe",
+                "it": "Principe gigantesco",
+                "nl": "Reuzenprins",
+                "no": "Gigantisk prins",
+                "tr": "Dev Prens",
+                "jp": "ジャイアントプリンス",
+                "kr": "자이언트 프린스",
+                "ru": "Гигантский принц",
+                "ar": "الأمير العملاق",
+                "pt": "Príncipe Gigante",
+                "cn": "巨人王子",
+                "cnt": "巨人礦王",
+                "fa": "شاهزاده غول‌آسا",
+                "id": "Pangeran Gigantik",
+                "ms": "Putera Gergasi",
+                "th": "เจ้าชายร่างยักษ์",
+                "fi": "Jättimäinen prinssi",
+                "vi": "Hoàng tử Khổng lồ",
+                "sc_key": "TID_CLASSIC_GIANTPRINCE"
+            }
+        }
     },
     {
         "name": "Blind_Classic_Balloon",
@@ -3506,7 +5950,33 @@
             1
         ],
         "tid": "TID_CLASSIC_BALLOONCYCLE",
-        "name_en": "Snow Balloons"
+        "name_en": "Snow Balloons",
+        "_lang": {
+            "name": {
+                "en": "Snow Balloons",
+                "fr": "Ballons de glace",
+                "de": "Schneeballons",
+                "es": "Globos helados",
+                "it": "Mongolfiere glaciali",
+                "nl": "Sneeuwballonnen",
+                "no": "Snøballonger",
+                "tr": "Kar Balonları",
+                "jp": "スノーバルーン",
+                "kr": "스노우 벌룬",
+                "ru": "Снежные шары",
+                "ar": "بالونات الثلج",
+                "pt": "Balões de Neve",
+                "cn": "小费气球",
+                "cnt": "急凍冰球",
+                "fa": "بالن‌های برفی",
+                "id": "Balon Salju",
+                "ms": "Belon Salji",
+                "th": "บอลลูนหิมะ",
+                "fi": "Kylmäilmapallot",
+                "vi": "Khí cầu Tuyết",
+                "sc_key": "TID_CLASSIC_BALLOONCYCLE"
+            }
+        }
     },
     {
         "name": "Blind_Classic_LavaClone",
@@ -3531,7 +6001,33 @@
             1
         ],
         "tid": "TID_CLASSIC_LAVACLONE",
-        "name_en": "Lava Clones"
+        "name_en": "Lava Clones",
+        "_lang": {
+            "name": {
+                "en": "Lava Clones",
+                "fr": "Clones de lave",
+                "de": "Lavaklone",
+                "es": "Clones de lava",
+                "it": "Cloni infuocati",
+                "nl": "Lavaklonen",
+                "no": "Lavakloner",
+                "tr": "Lav Klonları",
+                "jp": "ラヴァクローン",
+                "kr": "라바 복제",
+                "ru": "Адские клоны",
+                "ar": "مستنسخات الحمم",
+                "pt": "Lava Clones",
+                "cn": "克隆天狗",
+                "cnt": "空軍複製",
+                "fa": "شبیه‌سازی لاوا",
+                "id": "Klona Lava",
+                "ms": "Klon Lava",
+                "th": "ร่างโคลนลาวา",
+                "fi": "Laavakloonit",
+                "vi": "Nham Khuyển Nhân bản",
+                "sc_key": "TID_CLASSIC_LAVACLONE"
+            }
+        }
     },
     {
         "name": "LegendaryParty_1",
@@ -3556,7 +6052,33 @@
             1
         ],
         "tid": "TID_BLIND_LEGENDARYPARTY1",
-        "name_en": "Mega Rider"
+        "name_en": "Mega Rider",
+        "_lang": {
+            "name": {
+                "en": "Mega Rider",
+                "fr": "Méga bélier",
+                "de": "Megareiter",
+                "es": "Megacarneros",
+                "it": "Gran domatrice",
+                "nl": "Megarijder",
+                "no": "Megarytter",
+                "tr": "Mega Binici",
+                "jp": "メガライダー",
+                "kr": "메가 라이더",
+                "ru": "Мегавсадница",
+                "ar": "الراكب العملاق",
+                "pt": "Megadomadora",
+                "cn": "蛮羊超骑",
+                "cnt": "超騎蠻羊",
+                "fa": "سواران برتر",
+                "id": "Penunggang Mega",
+                "ms": "Penunggang Mega",
+                "th": "คนขี่เมก้า",
+                "fi": "Megaratsastaja",
+                "vi": "Kỵ sĩ Siêu cấp",
+                "sc_key": "TID_BLIND_LEGENDARYPARTY1"
+            }
+        }
     },
     {
         "name": "LegendaryParty_2",
@@ -3581,7 +6103,33 @@
             1
         ],
         "tid": "TID_BLIND_LEGENDARYPARTY2",
-        "name_en": "Grave Hound"
+        "name_en": "Grave Hound",
+        "_lang": {
+            "name": {
+                "en": "Grave Hound",
+                "fr": "Molosse cimetière",
+                "de": "Friedhofshund",
+                "es": "Sabueso y cementerio",
+                "it": "Mastini e scheletrini",
+                "nl": "Grafhond",
+                "no": "Gravhund",
+                "tr": "Mezar Tazısı",
+                "jp": "墓荒らし",
+                "kr": "무덤 하운드",
+                "ru": "Кладбищенская гончая",
+                "ar": "كلب المقابر",
+                "pt": "Cemitério e Hound",
+                "cn": "天狗墓园",
+                "cnt": "天狗墓園",
+                "fa": "قبر چوبی",
+                "id": "Anjing Kuburan",
+                "ms": "Anjing Kuburan",
+                "th": "สุนัขเฝ้าสุสาน",
+                "fi": "Hautahurtta",
+                "vi": "Khuyển Trộm mộ",
+                "sc_key": "TID_BLIND_LEGENDARYPARTY2"
+            }
+        }
     },
     {
         "name": "LegendaryParty_3",
@@ -3606,7 +6154,33 @@
             1
         ],
         "tid": "TID_BLIND_LEGENDARYPARTY3",
-        "name_en": "Man & Machine"
+        "name_en": "Man & Machine",
+        "_lang": {
+            "name": {
+                "en": "Man & Machine",
+                "fr": "Homme et machine",
+                "de": "Mensch und Maschine",
+                "es": "Pescador y chispitas",
+                "it": "Uomo e macchina",
+                "nl": "Mens en machine",
+                "no": "Mann og maskin",
+                "tr": "İnsan ve Makine",
+                "jp": "マシンと共闘",
+                "kr": "사람과 기계",
+                "ru": "Человек и машина",
+                "ar": "الإنسان والآلة",
+                "pt": "Homem e máquina",
+                "cn": "渔夫电车",
+                "cnt": "漁大師電車",
+                "fa": "ماهی‌گیر و ماشین",
+                "id": "Manusia & Mesin",
+                "ms": "Manusia & Jentera",
+                "th": "มนุษย์กับจักรกล",
+                "fi": "Mies ja kone",
+                "vi": "Người & Máy",
+                "sc_key": "TID_BLIND_LEGENDARYPARTY3"
+            }
+        }
     },
     {
         "name": "Blind_Classic_PrinceBait",
@@ -3631,7 +6205,33 @@
             1
         ],
         "tid": "TID_CLASSIC_PRINCEBAIT",
-        "name_en": "Prince Bait"
+        "name_en": "Prince Bait",
+        "_lang": {
+            "name": {
+                "en": "Prince Bait",
+                "fr": "Appât à prince",
+                "de": "Prinzen-Bait",
+                "es": "Anzuelo con príncipe",
+                "it": "Esca principesca",
+                "nl": "Prinsenaas",
+                "no": "Prinseagn",
+                "tr": "Prens Tuzağı",
+                "jp": "プリンスのおとり",
+                "kr": "프린스 미끼",
+                "ru": "Наживка с принцем",
+                "ar": "طُعم الأمير",
+                "pt": "Isca de Príncipe",
+                "cn": "王子飞桶",
+                "cnt": "王子飛桶",
+                "fa": "طعمه‌ی شاهزاده",
+                "id": "Umpan Pangeran",
+                "ms": "Umpan Putera",
+                "th": "เจ้าชายล่อเหยื่อ",
+                "fi": "Prinssisyötti",
+                "vi": "Hoàng tử Mồi nhử",
+                "sc_key": "TID_CLASSIC_PRINCEBAIT"
+            }
+        }
     },
     {
         "name": "Blind_Classic_GSkellyLoon",
@@ -3656,7 +6256,33 @@
             1
         ],
         "tid": "TID_CLASSIC_GSKELLYLOON",
-        "name_en": "Fishin' for 'Loons"
+        "name_en": "Fishin' for 'Loons",
+        "_lang": {
+            "name": {
+                "en": "Fishin' for 'Loons",
+                "fr": "Pêche au ballon",
+                "de": "Ballon und Meer",
+                "es": "Pescando globos",
+                "it": "A pesca di mongolfiere",
+                "nl": "Vissen naar ballonnen",
+                "no": "Ballongfiske",
+                "tr": "Balon Avı",
+                "jp": "バルーン釣り",
+                "kr": "비행선 낚시꾼",
+                "ru": "Рыбалка с шарами",
+                "ar": "صيد البالونات",
+                "pt": "Pescando Loons",
+                "cn": "渔夫气球",
+                "cnt": "漁大師氣球",
+                "fa": "صید اسکلتی",
+                "id": "Memancing Balon",
+                "ms": "Memancing Belon",
+                "th": "แก๊งค์ชาวประมง",
+                "fi": "Palloja ja kalastusta",
+                "vi": "Khí cầu Thả câu",
+                "sc_key": "TID_CLASSIC_GSKELLYLOON"
+            }
+        }
     },
     {
         "name": "Blind_LuckyLadies1",
@@ -3681,7 +6307,33 @@
             1
         ],
         "tid": "TID_BLINDDECK_LUCKYLADIES1",
-        "name_en": "Lucky Ladies #1"
+        "name_en": "Lucky Ladies #1",
+        "_lang": {
+            "name": {
+                "en": "Lucky Ladies #1",
+                "fr": "Chanceuses n° 1",
+                "de": "Glücksfeen #1",
+                "es": "Mujeres poderosas #1",
+                "it": "Donne vincenti n. 1",
+                "nl": "Dappere dames #1",
+                "no": "Heldige damer #1",
+                "tr": "Şanslı Kızlar #1",
+                "jp": "ラッキーレディー 1",
+                "kr": "럭키 레이디 #1",
+                "ru": "Музы сражений № 1",
+                "ar": "المحظوظات 1",
+                "pt": "Moças de sorte nº 1",
+                "cn": "幸运女神#1",
+                "cnt": "幸運女神#1",
+                "fa": "خانوم‌های خوشبخت #1",
+                "id": "Wanita Beruntung #1",
+                "ms": "Wanita Bertuah #1",
+                "th": "สตรีนำโชค #1",
+                "fi": "Mahtileidit 1",
+                "vi": "Các quý cô may mắn #1",
+                "sc_key": "TID_BLINDDECK_LUCKYLADIES1"
+            }
+        }
     },
     {
         "name": "Blind_LuckyLadies2",
@@ -3706,7 +6358,33 @@
             1
         ],
         "tid": "TID_BLINDDECK_LUCKYLADIES2",
-        "name_en": "Lucky Ladies #2"
+        "name_en": "Lucky Ladies #2",
+        "_lang": {
+            "name": {
+                "en": "Lucky Ladies #2",
+                "fr": "Chanceuses n° 2",
+                "de": "Glücksfeen #2",
+                "es": "Mujeres poderosas #2",
+                "it": "Donne vincenti n. 2",
+                "nl": "Dappere dames #2",
+                "no": "Heldige damer #2",
+                "tr": "Şanslı Kızlar #2",
+                "jp": "ラッキーレディー 2",
+                "kr": "럭키 레이디 #2",
+                "ru": "Музы сражений № 2",
+                "ar": "المحظوظات 2",
+                "pt": "Moças de sorte nº 2",
+                "cn": "幸运女神#2",
+                "cnt": "幸運女神#2",
+                "fa": "خانوم‌های خوشبخت #2",
+                "id": "Wanita Beruntung #2",
+                "ms": "Wanita Bertuah #2",
+                "th": "สตรีนำโชค #2",
+                "fi": "Mahtileidit 2",
+                "vi": "Các quý cô may mắn #2",
+                "sc_key": "TID_BLINDDECK_LUCKYLADIES2"
+            }
+        }
     },
     {
         "name": "Blind_LuckyLadies3",
@@ -3731,7 +6409,33 @@
             1
         ],
         "tid": "TID_BLINDDECK_LUCKYLADIES3",
-        "name_en": "Lucky Ladies #3"
+        "name_en": "Lucky Ladies #3",
+        "_lang": {
+            "name": {
+                "en": "Lucky Ladies #3",
+                "fr": "Chanceuses n° 3",
+                "de": "Glücksfeen #3",
+                "es": "Mujeres poderosas #3",
+                "it": "Donne vincenti n. 3",
+                "nl": "Dappere dames #3",
+                "no": "Heldige damer #3",
+                "tr": "Şanslı Kızlar #3",
+                "jp": "ラッキーレディー 3",
+                "kr": "럭키 레이디 #3",
+                "ru": "Музы сражений № 3",
+                "ar": "المحظوظات 3",
+                "pt": "Moças de sorte nº 3",
+                "cn": "幸运女神#3",
+                "cnt": "幸運女神#3",
+                "fa": "خانوم‌های خوشبخت #3",
+                "id": "Wanita Beruntung #3",
+                "ms": "Wanita Bertuah #3",
+                "th": "สตรีนำโชค #3",
+                "fi": "Mahtileidit 3",
+                "vi": "Các quý cô may mắn #3",
+                "sc_key": "TID_BLINDDECK_LUCKYLADIES3"
+            }
+        }
     },
     {
         "name": "Blind_LuckyLadies4",
@@ -3756,6 +6460,32 @@
             1
         ],
         "tid": "TID_BLINDDECK_LUCKYLADIES4",
-        "name_en": "Lucky Ladies #4"
+        "name_en": "Lucky Ladies #4",
+        "_lang": {
+            "name": {
+                "en": "Lucky Ladies #4",
+                "fr": "Chanceuses n° 4",
+                "de": "Glücksfeen #4",
+                "es": "Mujeres poderosas #4",
+                "it": "Donne vincenti n. 4",
+                "nl": "Dappere dames #4",
+                "no": "Heldige damer #4",
+                "tr": "Şanslı Kızlar #4",
+                "jp": "ラッキーレディー 4",
+                "kr": "럭키 레이디 #4",
+                "ru": "Музы сражений № 4",
+                "ar": "المحظوظات 4",
+                "pt": "Moças de sorte nº 4",
+                "cn": "幸运女神#4",
+                "cnt": "幸運女神#4",
+                "fa": "خانوم‌های خوشبخت #4",
+                "id": "Wanita Beruntung #4",
+                "ms": "Wanita Bertuah #4",
+                "th": "สตรีนำโชค #4",
+                "fi": "Mahtileidit 4",
+                "vi": "Các quý cô may mắn #4",
+                "sc_key": "TID_BLINDDECK_LUCKYLADIES4"
+            }
+        }
     }
 ]

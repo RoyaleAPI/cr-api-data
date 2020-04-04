@@ -12,6 +12,7 @@ from .base import BaseGen
 class PredefinedDecks(BaseGen):
     def __init__(self, config):
         super().__init__(config)
+        self.i18n = True
 
     def run(self):
         csv_path = os.path.join(self.config.csv.base, self.config.csv.path.predefined_decks)
@@ -29,6 +30,15 @@ class PredefinedDecks(BaseGen):
                     if card is not None:
                         cards.append(card.get('key'))
                 row['spells'] = cards
+
+            if self.i18n:
+                tid = row.get('tid')
+                if tid:
+                    row.update({
+                        '_lang': {
+                            'name': self.text_all_lang(tid),
+                        }
+                    })
 
         json_path = os.path.join(self.config.json.base, self.config.json.predefined_decks)
         self.save_json(rows, json_path)
