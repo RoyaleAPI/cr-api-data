@@ -19,6 +19,7 @@ csv:
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
     spells_characters: ./csv_logic/spells_characters.csv
+    spell_sets: ./csv_logic/spell_sets.csv
     texts: ./csv_client/texts.csv
     texts_patch: ./csv_client/texts_patch.csv
     tournaments: ./csv_logic/tournament_tiers.csv
@@ -40,6 +41,7 @@ json:
   predefined_decks: ./predefined_decks.json
   rarities: ./rarities.json
   regions: ./regions.json
+  spell_sets: ./spell_sets.json
   texts: ./texts.json
   tournaments: ./tournaments.json
   treasure_chests: ./treasure_chests.json

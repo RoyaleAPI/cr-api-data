@@ -29,6 +29,7 @@ if __name__ == '__main__':
         AllianceBadges,
         GameModes,
         Challenges,
+        SpellSets,
     ])
 
     # legacy to be converted
