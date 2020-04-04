@@ -13,6 +13,7 @@ csv:
     characters: ./csv_logic/characters.csv
     chest_order: ./csv_logic/chest_order.csv
     clan_chest: ./csv_logic/globals.csv
+    draft_deck: ./csv_logic/draft_deck.csv
     game_modes: ./csv_logic/game_modes.csv
     predefined_decks: ./csv_logic/predefined_decks.csv
     projectiles: ./csv_logic/projectiles.csv
@@ -37,6 +38,7 @@ json:
   challenges: ./challenges.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
+  draft_deck: ./draft_deck.json
   game_modes: ./game_modes.json
   predefined_decks: ./predefined_decks.json
   rarities: ./rarities.json

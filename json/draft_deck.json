@@ -1,0 +1,295 @@
+[
+    {
+        "name": "Draft_old",
+        "required_sets": [
+            "Draft_AllRandom",
+            "Draft_DamageSpell",
+            "Draft_AntiAir",
+            "Draft_AntiAir2",
+            "Draft_MainAttack"
+        ],
+        "optional_sets": [
+            "Draft_TankUnit",
+            "Draft_3costUnit",
+            "Draft_4costUnit",
+            "Draft_5costUnit",
+            "Draft_Aggressive",
+            "Draft_Buildings",
+            "Draft_CheapDudes",
+            "Draft_CoolStuff",
+            "Draft_Legendary",
+            "Draft_CheapCards"
+        ]
+    },
+    {
+        "name": "TEST_Draft_balance_test",
+        "required_sets": [
+            "TEST_Draft_All_live_cards",
+            "Draft_DamageSpell",
+            "Draft_AntiAir",
+            "Draft_AntiAir2",
+            "Draft_MainAttack"
+        ],
+        "optional_sets": [
+            "Draft_TankUnit",
+            "Draft_3costUnit",
+            "Draft_4costUnit",
+            "Draft_5costUnit",
+            "Draft_Aggressive",
+            "Draft_Buildings",
+            "Draft_CheapDudes",
+            "Draft_CoolStuff",
+            "Draft_Legendary",
+            "Draft_CheapCards"
+        ]
+    },
+    {
+        "name": "TEST_Draft_new_cards_test",
+        "required_sets": [
+            "TEST_Draft_New_cards",
+            "Draft_DamageSpell",
+            "Draft_AntiAir",
+            "Draft_AntiAir2",
+            "Draft_MainAttack"
+        ],
+        "optional_sets": [
+            "Draft_TankUnit",
+            "Draft_3costUnit",
+            "Draft_4costUnit",
+            "Draft_5costUnit",
+            "Draft_Aggressive",
+            "Draft_Buildings",
+            "Draft_CheapDudes",
+            "Draft_CoolStuff",
+            "Draft_Legendary",
+            "Draft_CheapCards"
+        ]
+    },
+    {
+        "name": "TEST_Draft_new_cards_daily_test",
+        "required_sets": [
+            "TEST_Draft_New_cards_daily",
+            "Draft_DamageSpell",
+            "Draft_AntiAir",
+            "Draft_AntiAir2",
+            "Draft_MainAttack"
+        ],
+        "optional_sets": [
+            "Draft_TankUnit",
+            "Draft_3costUnit",
+            "Draft_4costUnit",
+            "Draft_5costUnit",
+            "Draft_Aggressive",
+            "Draft_Buildings",
+            "Draft_CheapDudes",
+            "Draft_CoolStuff",
+            "Draft_Legendary",
+            "Draft_CheapCards"
+        ]
+    },
+    {
+        "name": "Draft_Touchdown_v1",
+        "required_sets": [
+            "Draft_TD_FastRunners",
+            "Draft_TD_BigRunners",
+            "Draft_TD_AntiAir",
+            "Draft_TD_Melee",
+            "Draft_TD_Buildings",
+            "Draft_TD_DamageSpells"
+        ],
+        "optional_sets": [
+            "Draft_TD_Buildings",
+            "Draft_TD_DamageSpells",
+            "Draft_TD_AntiAir",
+            "Draft_TD_CheapDudes"
+        ]
+    },
+    {
+        "name": "Draft_H_v1",
+        "required_sets": [
+            "Draft_H_any",
+            "Draft_H_any",
+            "Draft_H_any",
+            "Draft_H_any",
+            "Draft_H_any",
+            "Draft_H_any",
+            "Draft_H_any",
+            "Draft_H_any"
+        ]
+    },
+    {
+        "name": "Draft_v1_dec_card_release",
+        "required_sets": [
+            "Draft_DecNewCards",
+            "Draft_AllRandom",
+            "Draft_DamageSpell",
+            "Draft_AntiAir",
+            "Draft_AntiAir2",
+            "Draft_MainAttack"
+        ],
+        "optional_sets": [
+            "Draft_TankUnit",
+            "Draft_3costUnit",
+            "Draft_4costUnit",
+            "Draft_5costUnit",
+            "Draft_Aggressive",
+            "Draft_Buildings",
+            "Draft_CheapDudes",
+            "Draft_CoolStuff",
+            "Draft_Legendary",
+            "Draft_CheapCards"
+        ]
+    },
+    {
+        "name": "Draft_v1",
+        "required_sets": [
+            "Draft_RH_TankUnit",
+            "Draft_RH_AntiAir",
+            "Draft_RH_Distractions",
+            "Draft_RH_DirectDamage",
+            "Draft_RH_WinCons"
+        ],
+        "optional_sets": [
+            "Draft_RH_Investment",
+            "Draft_RH_Punish",
+            "Draft_RH_HitTower",
+            "Draft_RH_VersatileLegs",
+            "Draft_RH_TankSupport",
+            "Draft_RH_AntiTank",
+            "Draft_RH_2ndSpell",
+            "Draft_RH_Splash",
+            "Draft_RH_MiniTank",
+            "Draft_RH_Basic3s",
+            "Draft_RH_CycleUnder3",
+            "Draft_RH_CheapAntiAir"
+        ]
+    },
+    {
+        "name": "Draft_SnowHogs",
+        "required_sets": [
+            "Draft_RH_TankUnit",
+            "Draft_RH_AntiAir",
+            "Draft_RH_CycleUnder3",
+            "Draft_RH_DirectDamage",
+            "Draft_RH_Punish"
+        ],
+        "optional_sets": [
+            "Draft_RH_Investment",
+            "Draft_RH_HitTower",
+            "Draft_RH_CombatTricks",
+            "Draft_RH_VersatileLegs",
+            "Draft_RH_TankSupport",
+            "Draft_RH_AntiTank",
+            "Draft_RH_Distractions",
+            "Draft_RH_Splash",
+            "Draft_RH_MiniTank",
+            "Draft_RH_WinCons",
+            "Draft_RH_Basic3s",
+            "Draft_RH_2ndSpell"
+        ]
+    },
+    {
+        "name": "Draft_Level5to8",
+        "required_sets": [
+            "Draft_58_Tank",
+            "Draft_58_Spell",
+            "Draft_58_AntiAir",
+            "Draft_58_Distractions",
+            "Draft_58_AntiTank",
+            "Draft_58_Buildings",
+            "Draft_58_WinCons",
+            "Draft_58_Splash"
+        ]
+    },
+    {
+        "name": "Draft_NewCardsTest",
+        "required_sets": [
+            "Draft_TEST_TankUnit",
+            "Draft_TEST_AntiAir",
+            "Draft_TEST_Distractions",
+            "Draft_TEST_DirectDamage",
+            "Draft_TEST_WinCons"
+        ],
+        "optional_sets": [
+            "Draft_TEST_Investment",
+            "Draft_TEST_Punish",
+            "Draft_TEST_HitTower",
+            "Draft_TEST_CombatTricks",
+            "Draft_TEST_VersatileLegs",
+            "Draft_TEST_TankSupport",
+            "Draft_TEST_AntiTank",
+            "Draft_TEST_2ndSpell",
+            "Draft_TEST_Splash",
+            "Draft_TEST_MiniTank",
+            "Draft_TEST_Basic3s",
+            "Draft_TEST_CycleUnder3",
+            "Draft_TEST_CheapAntiAir"
+        ]
+    },
+    {
+        "name": "Draft_Promo",
+        "required_sets": [
+            "Draft_RH_TankUnit",
+            "Draft_Promo",
+            "Draft_RH_Distractions",
+            "Draft_RH_DirectDamage",
+            "Draft_RH_WinCons"
+        ],
+        "optional_sets": [
+            "Draft_RH_Punish",
+            "Draft_Promo_HitTower",
+            "Draft_RH_CombatTricks",
+            "Draft_Promo_VersatileLegs",
+            "Draft_Promo_TankSupport",
+            "Draft_Promo_AntiTank",
+            "Draft_RH_2ndSpell",
+            "Draft_Promo_Splash",
+            "Draft_RH_MiniTank",
+            "Draft_RH_Basic3s",
+            "Draft_RH_CycleUnder3",
+            "Draft_Promo_CheapAntiAir"
+        ]
+    },
+    {
+        "name": "Draft_2017",
+        "required_sets": [
+            "Draft_2017_TankUnit",
+            "Draft_2017_AntiAir",
+            "Draft_2017_Distractions",
+            "Draft_2017_DirectDamage",
+            "Draft_2017_AntiTank",
+            "Draft_2017_WinCons"
+        ],
+        "optional_sets": [
+            "Draft_2017_Investment",
+            "Draft_2017_Punish",
+            "Draft_2017_VersatileLegs",
+            "Draft_2017_TankSupport",
+            "Draft_2017_2ndSpell",
+            "Draft_2017_Splash",
+            "Draft_2017_MiniTank",
+            "Draft_2017_Basic3s",
+            "Draft_2017_CycleUnder3",
+            "Draft_2017_CheapAntiAir"
+        ]
+    },
+    {
+        "name": "Draft_TestSpellSupport"
+    },
+    {
+        "name": "Draft_Competitive",
+        "required_sets": [
+            "Draft_Comp_WinCon",
+            "Draft_Comp_SmallSpell",
+            "Draft_Comp_BigSpell",
+            "Draft_Comp_AntiAir",
+            "Draft_Comp_CheapAntiAir"
+        ],
+        "optional_sets": [
+            "Draft_Comp_TankSupport",
+            "Draft_Comp_AntiTank",
+            "Draft_Comp_MiniTank",
+            "Draft_Comp_Distractions"
+        ]
+    }
+]

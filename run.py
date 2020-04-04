@@ -30,6 +30,7 @@ if __name__ == '__main__':
         GameModes,
         Challenges,
         SpellSets,
+        DraftDeck,
     ])
 
     # legacy to be converted
