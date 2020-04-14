@@ -27,7 +27,12 @@ class SpellSets(BaseGen):
                     card_keys.append(spell)
                 else:
                     card_keys.append(card.get('key'))
-            row['spells'] = card_keys
+            # ensure uniques: battle healer is listed twice in-game
+            unique_card_keys = []
+            for c in card_keys:
+                if c not in unique_card_keys:
+                    unique_card_keys.append(c)
+            row['spells'] = unique_card_keys
 
 
 

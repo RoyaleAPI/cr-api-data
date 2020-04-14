@@ -1478,8 +1478,7 @@
             "dart-goblin",
             "flying-machine",
             "goblin-gang",
-            "spear-goblins",
-            "flying-machine"
+            "spear-goblins"
         ]
     },
     {
@@ -1623,7 +1622,6 @@
             "goblin-barrel",
             "miner",
             "royal-hogs",
-            "royal-giant",
             "skeleton-barrel",
             "ram-rider",
             "wall-breakers",
@@ -2090,7 +2088,6 @@
             "pekka",
             "royal-giant",
             "valkyrie",
-            "knight",
             "balloon",
             "hog-rider",
             "royal-hogs",
@@ -3664,12 +3661,6 @@
             "poison",
             "ice-wizard",
             "princess",
-            "fire-spirits",
-            "furnace",
-            "guards",
-            "miner",
-            "sparky",
-            "lava-hound",
             "ice-spirit",
             "bowler",
             "the-log",
@@ -4028,8 +4019,7 @@
             "fisherman",
             "battle-healer",
             "dark-prince",
-            "royal-ghost",
-            "battle-healer"
+            "royal-ghost"
         ]
     },
     {
@@ -4228,8 +4218,6 @@
             "ice-wizard",
             "princess",
             "dark-prince",
-            "miner",
-            "lava-hound",
             "ice-spirit",
             "bowler",
             "the-log",

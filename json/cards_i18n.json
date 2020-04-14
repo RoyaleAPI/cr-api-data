@@ -5802,7 +5802,7 @@
         "type": "Spell",
         "rarity": "Rare",
         "arena": 10,
-        "description": "A mischevious Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops! R.I.P. Heal\\n2017 – 2020\\nAlas, we hardly used ye.",
+        "description": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops! R.I.P. Heal\\n2017 – 2020\\nAlas, we hardly used ye.",
         "id": 28000016,
         "_lang": {
             "name": {
@@ -5830,7 +5830,7 @@
                 "sc_key": "TID_SPELL_HEAL_SPIRIT"
             },
             "description": {
-                "en": "A mischevious Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\\n\\nR.I.P. Heal\\n2017 – 2020\\nAlas, we hardly used ye.",
+                "en": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\\n\\nR.I.P. Heal\\n2017 – 2020\\nAlas, we hardly used ye.",
                 "fr": "Un esprit espiègle qui se jette sur les ennemis, leur cause des dégâts et laisse derrière lui un puissant effet de soin qui restaure les points de vie des troupes alliées.\\n\\nAu revoir, au revoir Guérison !\\nOn t'aimait bien...\\nMais on t'utilisait pas..",
                 "de": "Ein schlitzohriger Geist, der sich auf Feinde stürzt, Schaden verursacht und einen mächtigen Heilungseffekt zurücklässt, der Trefferpunkte verbündeter Truppen wiederherstellt!\\nRuhe in Frieden, Heilungszauber.\\n2017 – 2020\\nVernachlässigt und verlassen trittst du",
                 "es": "Es un espíritu travieso que inflige daño a los rivales al atacarlos, y esparce un poderoso efecto sanador que restaura los puntos de vida de las tropas aliadas cercanas.\\nHechizo de curación, ¡nunca te olvidaremos!\\n(2017-2020)\\nAunque, a decir verdad, casi nadie lo echa de menos...",
