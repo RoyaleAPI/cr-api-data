@@ -30,7 +30,7 @@ Run `./run.py`
 
 https://royaleapi.github.io/cr-api-data/json/cards.json
 
-![last-commit](https://img.shields.io/github/last-commit/royaleapi/cr-api-data?style=flat-square)
+![last-commit](https://img.shields.io/github/last-commit/royaleapi/cr-api-data?style=for-the-badge)
 
 
 
