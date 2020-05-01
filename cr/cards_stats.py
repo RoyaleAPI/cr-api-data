@@ -106,6 +106,13 @@ class Projectiles(CardTypes):
         super().__init__(config, id="projectiles")
 
 
+class CharacterBuffs(CardTypes):
+    """Characters."""
+
+    def __init__(self, config):
+        super().__init__(config, id="character_buffs")
+
+
 class CardStats(BaseGen):
     """Card stats"""
     max_levels = dict(
@@ -239,6 +246,15 @@ class CardStats(BaseGen):
             o.append(item)
         return o
 
+    def add_extended_features(self, items, name_field, feature_items):
+        for item in items:
+            name = item.get(name_field)
+            if name:
+                for f_item in feature_items:
+                    if f_item.get('name') == name:
+                        item[f"{name_field}_data"] = f_item
+        return items
+
     def run(self):
         buildings = Buildings(self.config)
         buildings_data = buildings.load_csv(exclude_empty=True)
@@ -254,6 +270,9 @@ class CardStats(BaseGen):
 
         spells_characters = SpellsCharacters(self.config)
         spells_characters_data = spells_characters.load_csv(exclude_empty=True)
+
+        character_buffs = CharacterBuffs(self.config)
+        character_buffs_data = character_buffs.load_csv(exclude_empty=True)
 
         for c in characters_data:
             for s in spells_characters_data:
@@ -276,6 +295,7 @@ class CardStats(BaseGen):
         building_items = self.included_items(buildings_data)
         spell_items = self.included_items(area_effect_objects_data)
         projectile_items = self.included_items(projectiles_data)
+        character_buff_items = self.included_items(character_buffs_data)
 
         troop_items = self.calc_per_level(troop_items, 'hitpoints', 'hitpoints_per_level')
         troop_items = self.calc_per_level(troop_items, 'damage', 'damage_per_level')
@@ -293,6 +313,19 @@ class CardStats(BaseGen):
         projectile_items = self.calc_dps(projectile_items)
         projectile_items = self.calc_per_level(projectile_items, 'dps', 'dps_per_level')
 
+
+        # add character buffs to items
+        buffs = ['target_buff', 'buff']
+        items_group = [
+            troop_items,
+            building_items,
+            spell_items,
+            projectile_items
+        ]
+        for buff in buffs:
+            for items in items_group:
+                items = self.add_extended_features(items, buff, character_buff_items)
+
         # inject projectile data
         troop_items = self.add_projectile(troop_items, projectile_items)
 
@@ -300,5 +333,6 @@ class CardStats(BaseGen):
             "troop": troop_items,
             "building": building_items,
             "spell": spell_items,
-            "projectile": projectile_items
+            "projectile": projectile_items,
+            "character_buff_items": character_buff_items,
         })
