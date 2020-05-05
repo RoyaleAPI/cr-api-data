@@ -1008,7 +1008,7 @@
         "type": "Spell",
         "rarity": "Epic",
         "arena": 5,
-        "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
+        "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet.",
         "id": 28000012
     },
     {

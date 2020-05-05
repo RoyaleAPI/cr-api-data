@@ -1,7 +1,6 @@
 csv:
   base: /Users/sml/git/cr-csv/assets
 #  base: /Users/sml/git/cr-csv-dev
-#  base: /Users/sml/Dropbox/cr-devbuild/20200229-a
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv
     area_effect_objects: ./csv_logic/area_effect_objects.csv
@@ -10,6 +9,7 @@ csv:
     buildings: ./csv_logic/buildings.csv
     challenges: ./csv_logic/survival_modes.csv
     characters: ./csv_logic/characters.csv
+    character_buffs: ./csv_logic/character_buffs.csv
     chest_order: ./csv_logic/chest_order.csv
     clan_chest: ./csv_logic/globals.csv
     draft_deck: ./csv_logic/draft_deck.csv

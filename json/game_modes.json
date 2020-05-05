@@ -5123,12 +5123,12 @@
         "deck_selection": "Predefined",
         "battle_timeline": "Default",
         "predefined_decks": [
-            "Blind_Classic_PrinceBait",
-            "Blind_Classic_Pekka",
-            "Blind_Classic_Mortar",
-            "Blind_Classic_RoyalGiant",
-            "Blind_Classic_Golem",
-            "Blind_Classic_LavaLoon"
+            "Blind_Classic_RoyalHogs",
+            "Blind_Classic_MegaKnight",
+            "Blind_Classic_LavaClone",
+            "Blind_Classic_HogRider",
+            "Blind_Classic_GoblinGiant",
+            "Blind_Classic_Balloon"
         ],
         "separate_team_decks": true,
         "players": "PvP",

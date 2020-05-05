@@ -1597,9 +1597,7 @@
             "knight",
             "valkyrie",
             "mini-pekka",
-            "ice-golem",
             "miner",
-            "baby-dragon",
             "dark-prince",
             "rascals",
             "prince",
@@ -1661,7 +1659,8 @@
             "bandit",
             "royal-ghost",
             "fisherman",
-            "firecracker"
+            "firecracker",
+            "royal-delivery"
         ]
     },
     {
