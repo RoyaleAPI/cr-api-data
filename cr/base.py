@@ -40,6 +40,8 @@ class BaseGen:
         self.i18n = i18n
 
         self._all_texts = None
+
+        self._items = None
         
     @property
     def all_texts(self):
@@ -65,7 +67,9 @@ class BaseGen:
                         # replace quotes
                         for k, v in row.items():
                             if v:
-                                row[k] = v.replace('\q', '\"')
+                                value = v.replace('\q', '\"')
+                                value = value.replace('\\n', '\n')
+                                row[k] = value
 
                         # add to rows
                         rows.append(row)
@@ -278,6 +282,7 @@ class BaseGen:
                     items.append(item)
 
         return items
+
 
     def load_json(self, json_path=None):
         """Load json from path."""

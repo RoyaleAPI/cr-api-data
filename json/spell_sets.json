@@ -2075,69 +2075,71 @@
         ]
     },
     {
-        "name": "MirrorCW_Tank",
+        "name": "MirrorCW_BigWinCon",
         "spells": [
-            "rascals",
             "giant",
-            "giant-skeleton",
             "golem",
-            "knight",
+            "goblin-giant",
             "lava-hound",
-            "mega-knight",
-            "pekka",
             "royal-giant",
-            "valkyrie",
-            "balloon",
-            "hog-rider",
             "royal-hogs",
-            "miner"
+            "ram-rider",
+            "balloon",
+            "graveyard"
         ]
     },
     {
-        "name": "MirrorCW_TankSupport",
+        "name": "MirrorCW_SmallWinCon",
+        "spells": [
+            "elixir-golem",
+            "miner",
+            "hog-rider",
+            "wall-breakers",
+            "skeleton-barrel",
+            "goblin-barrel",
+            "battle-ram"
+        ]
+    },
+    {
+        "name": "MirrorCW_Brawler",
+        "spells": [
+            "rascals",
+            "knight",
+            "valkyrie",
+            "battle-healer",
+            "lumberjack",
+            "mini-pekka",
+            "prince",
+            "dark-prince",
+            "mega-knight",
+            "pekka",
+            "royal-ghost",
+            "bandit",
+            "night-witch",
+            "elite-barbarians",
+            "barbarians",
+            "goblin-cage"
+        ]
+    },
+    {
+        "name": "MirrorCW_AntiAir",
         "spells": [
             "baby-dragon",
+            "inferno-dragon",
+            "electro-dragon",
             "executioner",
-            "rascals",
-            "bowler",
             "minion-horde",
-            "dark-prince",
-            "night-witch",
             "flying-machine",
             "hunter",
             "magic-archer",
             "mega-minion",
             "musketeer",
-            "prince",
             "witch",
             "wizard",
-            "sparky",
             "zappies",
-            "graveyard",
-            "hog-rider",
-            "royal-hogs",
-            "battle-ram",
-            "bandit"
-        ]
-    },
-    {
-        "name": "MirrorCW_AntiTank",
-        "spells": [
-            "elite-barbarians",
-            "cannon-cart",
-            "barbarians",
-            "bomb-tower",
-            "cannon",
-            "giant-skeleton",
-            "witch",
-            "inferno-dragon",
-            "lumberjack",
-            "inferno-tower",
-            "mini-pekka",
-            "tesla",
-            "hunter",
-            "sparky",
-            "tombstone"
+            "firecracker",
+            "dart-goblin",
+            "archers"
         ]
     },
     {
@@ -2152,7 +2154,8 @@
             "electro-wizard",
             "inferno-dragon",
             "lumberjack",
-            "royal-ghost"
+            "royal-ghost",
+            "fisherman"
         ]
     },
     {
@@ -2161,39 +2164,14 @@
             "fire-spirits",
             "goblin-gang",
             "goblins",
-            "ice-golem",
             "ice-spirit",
             "minions",
             "skeleton-army",
-            "skeleton-barrel",
             "skeletons",
             "guards",
             "spear-goblins",
-            "barbarian-barrel",
+            "heal-spirit",
             "bats"
-        ]
-    },
-    {
-        "name": "MirrorCW_AntiAir",
-        "spells": [
-            "arrows",
-            "baby-dragon",
-            "archers",
-            "ice-wizard",
-            "tornado",
-            "wizard",
-            "magic-archer",
-            "executioner",
-            "dart-goblin",
-            "electro-wizard",
-            "flying-machine",
-            "hunter",
-            "mega-minion",
-            "minion-horde",
-            "minions",
-            "musketeer",
-            "princess",
-            "spear-goblins"
         ]
     },
     {
@@ -2206,7 +2184,10 @@
             "poison",
             "rocket",
             "zap",
-            "giant-snowball"
+            "giant-snowball",
+            "barbarian-barrel",
+            "royal-delivery",
+            "earthquake"
         ]
     },
     {
@@ -3278,7 +3259,9 @@
             "prince",
             "dark-prince",
             "bandit",
-            "royal-ghost"
+            "royal-ghost",
+            "battle-healer",
+            "fisherman"
         ]
     },
     {
@@ -3296,7 +3279,10 @@
             "lava-hound",
             "mortar",
             "x-bow",
-            "goblin-giant"
+            "goblin-giant",
+            "ram-rider",
+            "wall-breakers",
+            "elixir-golem"
         ]
     },
     {
@@ -3304,9 +3290,8 @@
         "spells": [
             "mini-pekka",
             "hunter",
-            "goblins",
-            "goblin-gang",
             "pekka",
+            "mega-knight",
             "cannon-cart",
             "inferno-dragon",
             "bowler",
@@ -3315,12 +3300,14 @@
             "elite-barbarians",
             "sparky",
             "tombstone",
+            "cannon",
             "bomb-tower",
             "inferno-tower",
             "tesla",
             "furnace",
             "goblin-hut",
-            "barbarian-hut"
+            "barbarian-hut",
+            "goblin-cage"
         ]
     },
     {
@@ -3335,6 +3322,7 @@
             "minion-horde",
             "mega-minion",
             "wizard",
+            "witch",
             "flying-machine",
             "three-musketeers",
             "princess",
@@ -3344,7 +3332,9 @@
             "executioner",
             "magic-archer",
             "zappies",
-            "electro-wizard"
+            "electro-wizard",
+            "firecracker",
+            "electro-dragon"
         ]
     },
     {
@@ -3361,7 +3351,9 @@
             "fire-spirits",
             "ice-spirit",
             "ice-golem",
-            "barbarians"
+            "barbarians",
+            "skeleton-barrel",
+            "heal-spirit"
         ]
     },
     {
@@ -3372,7 +3364,8 @@
             "barbarian-barrel",
             "arrows",
             "giant-snowball",
-            "tornado"
+            "tornado",
+            "royal-delivery"
         ]
     },
     {
@@ -3382,7 +3375,8 @@
             "poison",
             "rocket",
             "lightning",
-            "freeze"
+            "freeze",
+            "earthquake"
         ]
     },
     {
@@ -4266,69 +4260,69 @@
         "spells": [
             "knight",
             "archers",
-            "arrows",
-            "minions",
-            "fireball",
-            "mini-pekka",
-            "musketeer",
-            "skeleton-army",
-            "baby-dragon",
-            "wall-breakers",
             "goblins",
-            "spear-goblins",
-            "hog-rider",
-            "goblin-barrel",
-            "hunter",
+            "minions",
             "skeletons",
-            "bomber",
             "valkyrie",
-            "tombstone",
+            "skeleton-army",
+            "bomber",
+            "musketeer",
+            "baby-dragon",
+            "mini-pekka",
+            "spear-goblins",
             "cannon",
-            "battle-ram",
-            "barbarian-barrel",
+            "mortar",
+            "bomb-tower",
+            "tesla",
+            "tombstone",
+            "fireball",
+            "arrows",
+            "rage",
+            "goblin-barrel",
+            "mirror",
             "zap",
-            "mega-minion",
-            "miner",
-            "bats",
             "fire-spirits",
             "furnace",
-            "tornado",
-            "poison",
-            "magic-archer",
-            "night-witch",
-            "skeleton-barrel",
-            "mortar",
-            "flying-machine",
-            "the-log",
-            "inferno-dragon",
             "guards",
-            "dark-prince",
-            "princess",
-            "ice-spirit",
-            "giant-snowball",
-            "ice-golem",
-            "freeze",
-            "lumberjack",
+            "miner",
+            "poison",
             "ice-wizard",
-            "goblin-gang",
-            "dart-goblin",
-            "earthquake",
-            "bandit",
-            "firecracker",
-            "bomb-tower",
-            "heal-spirit",
-            "rage",
-            "fisherman",
-            "tesla",
-            "elixir-golem",
-            "zappies",
+            "princess",
+            "dark-prince",
+            "ice-spirit",
+            "the-log",
+            "lumberjack",
+            "ice-golem",
+            "mega-minion",
+            "inferno-dragon",
             "clone",
+            "tornado",
             "electro-wizard",
+            "battle-ram",
+            "dart-goblin",
+            "goblin-gang",
+            "bats",
+            "night-witch",
+            "bandit",
+            "heal-spirit",
+            "skeleton-barrel",
+            "flying-machine",
+            "hunter",
+            "zappies",
+            "royal-ghost",
+            "magic-archer",
+            "barbarian-barrel",
+            "giant-snowball",
+            "wall-breakers",
+            "earthquake",
             "goblin-cage",
+            "fisherman",
+            "elixir-golem",
             "battle-healer",
+            "firecracker",
             "royal-delivery",
-            "mirror",
-            "royal-ghost"
+            "hog-rider",
+            "freeze"
         ]
     },
     {
@@ -4362,6 +4356,7 @@
             "zap",
             "arrows",
             "fireball",
+            "royal-delivery",
             "earthquake",
             "poison",
             "tornado",
@@ -4372,8 +4367,7 @@
             "inferno-tower",
             "elixir-collector",
             "cannon-cart",
-            "cannon",
-            "royal-delivery"
+            "cannon"
         ]
     }
 ]

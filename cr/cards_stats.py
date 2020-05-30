@@ -5,6 +5,7 @@ Combine multiple CSVs for a unified json file.
 
 import json
 import os
+import copy
 
 from .base import BaseGen
 
@@ -64,11 +65,11 @@ class CardTypes(BaseGen):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.exclude_fields = [
-            "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback", "PushbackAll", "MinPushback",
-            "MaximumTargets", "ProjectileStartHeight", "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone",
-            "AttractPercentage", "HealthBar", "HealthBarOffsetY"
-        ]
+        # self.exclude_fields = [
+        #     "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback", "PushbackAll", "MinPushback",
+        #     "MaximumTargets", "ProjectileStartHeight", "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone",
+        #     "AttractPercentage", "HealthBar", "HealthBarOffsetY"
+        # ]
 
 
 class Buildings(CardTypes):
@@ -90,6 +91,8 @@ class Characters(CardTypes):
 
     def __init__(self, config):
         super().__init__(config, id="characters")
+
+
 
 
 class SpellsCharacters(CardTypes):
@@ -142,17 +145,21 @@ class CardStats(BaseGen):
     def __init__(self, config):
         super().__init__(config, json_id="cards_stats")
         self.config = config
-        self.exclude_fields = [
-            "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback", "PushbackAll", "MinPushback",
-            "MaximumTargets", "ProjectileStartHeight", "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone",
-            "AttractPercentage", "HealthBar"
-        ]
+        # self.exclude_fields = [
+        #     "LoopingEffect", "OneShotEffect", "ScaledEffect", "HitEffect", "Pushback", "PushbackAll", "MinPushback",
+        #     "MaximumTargets", "ProjectileStartHeight", "ProjectilesToCenter", "SpawnsAEO", "ControlsBuff", "Clone",
+        #     "AttractPercentage", "HealthBar"
+        # ]
         self._cards_json = self.load_json(os.path.join(self.config.json.base, self.config.json.cards))
         self._rarities = None
 
     def include_item(self, item):
         """Determine if item should be included in output."""
-        if item.get('name', '').startswith('NOTINUSE'):
+        name = item.get('name')
+        if name is None:
+            return False
+
+        if name.startswith('NOTINUSE'):
             return False
         else:
             pass
@@ -257,7 +264,7 @@ class CardStats(BaseGen):
 
     def run(self):
         buildings = Buildings(self.config)
-        buildings_data = buildings.load_csv(exclude_empty=True)
+        buildings_data = buildings.load_csv(exclude_empty=False)
         buildings_data = self.inject_card_props(buildings_data)
 
         area_effect_objects = AreaEffectsObjects(self.config)
@@ -265,33 +272,43 @@ class CardStats(BaseGen):
         area_effect_objects_data = self.inject_card_props(area_effect_objects_data)
 
         characters = Characters(self.config)
-        characters_data = characters.load_csv(exclude_empty=True)
+        characters_data = characters.load_csv(exclude_empty=False)
         characters_data = self.inject_card_props(characters_data)
 
         spells_characters = SpellsCharacters(self.config)
-        spells_characters_data = spells_characters.load_csv(exclude_empty=True)
+        spells_characters_data = spells_characters.load_csv(exclude_empty=False)
 
         character_buffs = CharacterBuffs(self.config)
-        character_buffs_data = character_buffs.load_csv(exclude_empty=True)
+        character_buffs_data = character_buffs.load_csv(exclude_empty=False)
+
+        def find_character(name):
+            for item in characters_data:
+                if item.get('name') == name:
+                    return item
+            return None
 
         for c in characters_data:
             for s in spells_characters_data:
                 if c.get('name') == s.get('name'):
                     c.update(dict(
                         summon_character=s.get('summon_character'),
-                        summon_number=s.get('summon_number') or 1
+                        summon_number=s.get('summon_number') or 0,
+                        summon_character_second=s.get('summon_character_second'),
+                        summon_character_second_count=s.get('summon_character_second_count') or 0,
                     ))
+
 
         projectiles = Projectiles(self.config)
         projectiles_data = projectiles.load_csv(exclude_empty=True)
         projectiles_data = self.inject_card_props(projectiles_data)
 
         troops = []
-        for character_data in characters_data:
+        # for character_data in characters_data:
+        for character_data in spells_characters_data:
             troop = TroopCard(character_data)
             troops.append(troop.to_dict())
 
-        troop_items = self.included_items(characters_data)
+        troop_items = self.included_items(spells_characters_data)
         building_items = self.included_items(buildings_data)
         spell_items = self.included_items(area_effect_objects_data)
         projectile_items = self.included_items(projectiles_data)
@@ -329,10 +346,19 @@ class CardStats(BaseGen):
         # inject projectile data
         troop_items = self.add_projectile(troop_items, projectile_items)
 
+        # add full summon character object
+        # for troop_item in troop_items:
+        #     chr = troop_item.get("summon_character")
+        #     if chr is not None:
+        #         troop_item['summon_character_obj'] = copy.deepcopy(find_character(chr))
+
+
+
         self.save_json({
             "troop": troop_items,
             "building": building_items,
             "spell": spell_items,
             "projectile": projectile_items,
+            "characters": characters_data,
             "character_buff_items": character_buff_items,
         })

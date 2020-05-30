@@ -4732,12 +4732,12 @@
         "spells": [],
         "spell_level": 1,
         "random_spell_sets": [
-            "MirrorCW_Tank",
-            "MirrorCW_TankSupport",
-            "MirrorCW_AntiTank",
+            "MirrorCW_SmallWinCon",
+            "MirrorCW_BigWinCon",
+            "MirrorCW_AntiAir",
+            "MirrorCW_Brawler",
             "MirrorCW_CheapLeggy",
             "MirrorCW_Distractions",
-            "MirrorCW_AntiAir",
             "MirrorCW_DirectDamage"
         ],
         "tid": "TID_MIRROR_DECK",
