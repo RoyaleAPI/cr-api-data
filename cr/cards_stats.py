@@ -9,6 +9,20 @@ import copy
 
 from .base import BaseGen
 
+CARDS_JSON = None
+import json
+
+def sc_key_to_key(name):
+    global CARDS_JSON
+    if CARDS_JSON is None:
+        with open('/Users/sml/git/cr-api-data/json/cards.json') as f:
+            CARDS_JSON = json.load(f)
+    for item in CARDS_JSON:
+        if item.get('sc_key') == name:
+            return item.get('key')
+    return None
+
+
 
 class Card:
     """Data about a single card."""
@@ -352,6 +366,12 @@ class CardStats(BaseGen):
         #     if chr is not None:
         #         troop_item['summon_character_obj'] = copy.deepcopy(find_character(chr))
 
+
+        # insert card keys from constants
+
+        for items in [troop_items, building_items, spell_items]:
+            for item in items:
+                item['key'] = sc_key_to_key(item.get('name'))
 
 
         self.save_json({

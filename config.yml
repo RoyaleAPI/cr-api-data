@@ -1,6 +1,6 @@
 csv:
-#  base: /Users/sml/git/cr-csv/assets
-  base: /Users/sml/git/cr-csv-dev
+  base: /Users/sml/git/cr-csv/assets
+#  base: /Users/sml/git/cr-csv-dev
 #  base: /Users/sml/Dropbox/cr-devbuild/20200528-ipa/res.working
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv

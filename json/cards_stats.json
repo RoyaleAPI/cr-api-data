@@ -79,7 +79,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "knight"
         },
         {
             "name": "Archer",
@@ -104,7 +105,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -160,7 +161,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "archers"
         },
         {
             "name": "Goblins",
@@ -185,7 +187,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -241,7 +243,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "goblins"
         },
         {
             "name": "Giant",
@@ -322,7 +325,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "giant"
         },
         {
             "name": "Pekka",
@@ -403,7 +407,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "pekka"
         },
         {
             "name": "Minions",
@@ -428,7 +433,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 150,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -484,7 +489,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "minions"
         },
         {
             "name": "Balloon",
@@ -565,7 +571,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "balloon"
         },
         {
             "name": "Witch",
@@ -646,7 +653,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "witch"
         },
         {
             "name": "Barbarians",
@@ -671,7 +679,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 700,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 150,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -727,7 +735,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "barbarians"
         },
         {
             "name": "Golem",
@@ -808,7 +817,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "golem"
         },
         {
             "name": "Skeletons",
@@ -889,7 +899,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "skeletons"
         },
         {
             "name": "Valkyrie",
@@ -970,7 +981,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "valkyrie"
         },
         {
             "name": "SkeletonArmy",
@@ -1051,7 +1063,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "skeleton-army"
         },
         {
             "name": "Bomber",
@@ -1132,7 +1145,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "bomber"
         },
         {
             "name": "Musketeer",
@@ -1213,7 +1227,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "musketeer"
         },
         {
             "name": "BabyDragon",
@@ -1294,7 +1309,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "baby-dragon"
         },
         {
             "name": "Prince",
@@ -1375,7 +1391,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "prince"
         },
         {
             "name": "Wizard",
@@ -1456,7 +1473,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "wizard"
         },
         {
             "name": "MiniPekka",
@@ -1537,7 +1555,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "mini-pekka"
         },
         {
             "name": "SpearGoblins",
@@ -1562,7 +1581,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -1618,7 +1637,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "spear-goblins"
         },
         {
             "name": "GiantSkeleton",
@@ -1699,7 +1719,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "giant-skeleton"
         },
         {
             "name": "HogRider",
@@ -1780,7 +1801,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "hog-rider"
         },
         {
             "name": "MinionHorde",
@@ -1805,7 +1827,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 150,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -1861,7 +1883,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "minion-horde"
         },
         {
             "name": "IceWizard",
@@ -1942,7 +1965,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "ice-wizard"
         },
         {
             "name": "RoyalGiant",
@@ -2023,7 +2047,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "royal-giant"
         },
         {
             "name": "SkeletonWarriors",
@@ -2048,7 +2073,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -2104,7 +2129,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "guards"
         },
         {
             "name": "Princess",
@@ -2185,7 +2211,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "princess"
         },
         {
             "name": "DarkPrince",
@@ -2266,7 +2293,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "dark-prince"
         },
         {
             "name": "ThreeMusketeers",
@@ -2291,7 +2319,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 500,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -2347,7 +2375,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "three-musketeers"
         },
         {
             "name": "LavaHound",
@@ -2428,7 +2457,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "lava-hound"
         },
         {
             "name": "IceSpirits",
@@ -2509,7 +2539,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "ice-spirit"
         },
         {
             "name": "FireSpirits",
@@ -2534,7 +2565,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 0,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -2590,7 +2621,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "fire-spirits"
         },
         {
             "name": "Miner",
@@ -2671,7 +2703,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "miner"
         },
         {
             "name": "ZapMachine",
@@ -2752,7 +2785,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "sparky"
         },
         {
             "name": "Bowler",
@@ -2833,7 +2867,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "bowler"
         },
         {
             "name": "RageBarbarian",
@@ -2914,7 +2949,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "lumberjack"
         },
         {
             "name": "BattleRam",
@@ -2995,7 +3031,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "battle-ram"
         },
         {
             "name": "InfernoDragon",
@@ -3076,7 +3113,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "inferno-dragon"
         },
         {
             "name": "IceGolemite",
@@ -3157,7 +3195,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "ice-golem"
         },
         {
             "name": "MegaMinion",
@@ -3238,7 +3277,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "mega-minion"
         },
         {
             "name": "BlowdartGoblin",
@@ -3319,7 +3359,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "dart-goblin"
         },
         {
             "name": "GoblinGang",
@@ -3344,7 +3385,7 @@
             "summon_character_second_count": 2,
             "summon_radius": 1000,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 150,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -3400,7 +3441,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "goblin-gang"
         },
         {
             "name": "ElectroWizard",
@@ -3481,7 +3523,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "electro-wizard"
         },
         {
             "name": "AngryBarbarians",
@@ -3506,7 +3549,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 700,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -3562,7 +3605,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "elite-barbarians"
         },
         {
             "name": "Hunter",
@@ -3643,7 +3687,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "hunter"
         },
         {
             "name": "AxeMan",
@@ -3724,7 +3769,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "executioner"
         },
         {
             "name": "Assassin",
@@ -3805,7 +3851,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "bandit"
         },
         {
             "name": "RoyalRecruits",
@@ -3830,7 +3877,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 500,
             "summon_width": 14000,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -3886,7 +3933,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "royal-recruits"
         },
         {
             "name": "DarkWitch",
@@ -3967,7 +4015,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "night-witch"
         },
         {
             "name": "Bats",
@@ -3992,7 +4041,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 750,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 150,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -4048,7 +4097,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "bats"
         },
         {
             "name": "Ghost",
@@ -4129,7 +4179,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "royal-ghost"
         },
         {
             "name": "RamRider",
@@ -4210,7 +4261,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "ram-rider"
         },
         {
             "name": "MiniSparkys",
@@ -4235,7 +4287,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 1000,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 150,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -4291,7 +4343,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "zappies"
         },
         {
             "name": "Rascals",
@@ -4317,7 +4370,7 @@
             "summon_radius": 1900,
             "summon_width": 0,
             "summon_deploy_delay": 0,
-            "summon_deploy_delay_second": 100,
+            "summon_deploy_delay_second": 150,
             "character_skin": null,
             "character_skin2": null,
             "radius": 0,
@@ -4372,7 +4425,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "rascals"
         },
         {
             "name": "MovingCannon",
@@ -4453,7 +4507,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "cannon-cart"
         },
         {
             "name": "MegaKnight",
@@ -4591,7 +4646,8 @@
                     648,
                     697
                 ]
-            }
+            },
+            "key": "mega-knight"
         },
         {
             "name": "SkeletonBalloon",
@@ -4672,7 +4728,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "skeleton-barrel"
         },
         {
             "name": "DartBarrell",
@@ -4753,7 +4810,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "flying-machine"
         },
         {
             "name": "Wallbreakers",
@@ -4778,7 +4836,7 @@
             "summon_character_second_count": 0,
             "summon_radius": 750,
             "summon_width": 0,
-            "summon_deploy_delay": 100,
+            "summon_deploy_delay": 0,
             "summon_deploy_delay_second": 0,
             "character_skin": null,
             "character_skin2": null,
@@ -4834,7 +4892,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "wall-breakers"
         },
         {
             "name": "RoyalHogs",
@@ -4915,7 +4974,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "royal-hogs"
         },
         {
             "name": "GoblinGiant",
@@ -4996,7 +5056,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "goblin-giant"
         },
         {
             "name": "Fisherman",
@@ -5077,7 +5138,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "fisherman"
         },
         {
             "name": "EliteArcher",
@@ -5158,7 +5220,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "magic-archer"
         },
         {
             "name": "ElectroDragon",
@@ -5239,7 +5302,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "electro-dragon"
         },
         {
             "name": "Firecracker",
@@ -5320,7 +5384,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "firecracker"
         },
         {
             "name": "ElixirGolem",
@@ -5401,7 +5466,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "elixir-golem"
         },
         {
             "name": "BattleHealer",
@@ -5482,7 +5548,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "battle-healer"
         },
         {
             "name": "SkeletonDragons",
@@ -5563,7 +5630,8 @@
             "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "skeleton-dragons"
         }
     ],
     "building": [
@@ -5821,7 +5889,8 @@
                 8136
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "PrincessTower",
@@ -6077,7 +6146,8 @@
                 4746
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "Cannon",
@@ -6594,7 +6664,8 @@
                 1348
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "goblin-hut"
         },
         {
             "name": "Mortar",
@@ -7124,7 +7195,8 @@
                 51,
                 56
             ],
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "inferno-tower"
         },
         {
             "name": "BombTower",
@@ -7163,7 +7235,7 @@
             "death_push_back": 0,
             "attack_push_back": 0,
             "melee_pushback": 0,
-            "life_time": 25000,
+            "life_time": 35000,
             "projectile_special": null,
             "projectile_effect_special": null,
             "area_damage_radius": 0,
@@ -7378,7 +7450,8 @@
                 1798
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "bomb-tower"
         },
         {
             "name": "BarbarianHut",
@@ -7632,7 +7705,8 @@
                 2318
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "barbarian-hut"
         },
         {
             "name": "Tesla",
@@ -8164,7 +8238,8 @@
                 1419
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "Xbow",
@@ -8415,7 +8490,8 @@
                 2204
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "x-bow"
         },
         {
             "name": "Tombstone",
@@ -8917,7 +8993,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BalloonBomb",
@@ -9158,7 +9235,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "FirespiritHut",
@@ -9412,7 +9490,8 @@
                 1348
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "furnace"
         },
         {
             "name": "RageBarbarianBottle",
@@ -9652,7 +9731,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "KingTowerMiddle",
@@ -9892,7 +9972,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "MagicBomb",
@@ -10133,7 +10214,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "SkeletonContainer",
@@ -10373,7 +10455,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "DummyKingTower",
@@ -10613,7 +10696,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "DummyKingTower2",
@@ -10869,7 +10953,8 @@
                 8136
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "PrincessTowerSwapping",
@@ -11125,7 +11210,8 @@
                 4746
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "CaptureTower",
@@ -11396,7 +11482,8 @@
                 278,
                 305
             ],
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "CaptureTowerTop",
@@ -11652,7 +11739,8 @@
                 2373
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "GoblinCage",
@@ -11906,7 +11994,8 @@
                 1278
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "goblin-cage"
         },
         {
             "name": "ObstacleBush",
@@ -12147,7 +12236,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "KingTower3",
@@ -12403,7 +12493,8 @@
                 10170
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "HeistStorage",
@@ -12658,7 +12749,8 @@
                 20340
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "HeistStorage3",
@@ -12898,7 +12990,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BoostRage",
@@ -13138,7 +13231,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BoostClone",
@@ -13378,7 +13472,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BoostSpearGoblins",
@@ -13618,7 +13713,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BoostGrowth",
@@ -13858,7 +13954,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BoostHeal",
@@ -14098,7 +14195,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BoostShield",
@@ -14338,7 +14436,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "CloneBottle",
@@ -14578,7 +14677,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "GoblinCannon",
@@ -14834,7 +14934,8 @@
                 1898
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "BombTowerBomb",
@@ -15075,7 +15176,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "DarkElixir",
@@ -15315,7 +15417,8 @@
             "convert_on_kill": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "DarkElixirCollector",
@@ -15570,7 +15673,8 @@
                 1525
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "ElixirCollectorNeutral",
@@ -15826,7 +15930,8 @@
                 3390
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "DragonEgg",
@@ -16082,7 +16187,8 @@
                 3390
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "Fisherbarrel",
@@ -16323,7 +16429,8 @@
             "name_en": "Knight",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "FishBoat",
@@ -16579,7 +16686,8 @@
                 3390
             ],
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "CommonBomb",
@@ -16820,7 +16928,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "ThrownBomb",
@@ -17061,7 +17170,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "RoyalDelivery",
@@ -17302,7 +17412,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": "royal-delivery"
         },
         {
             "name": "CommonBomb3",
@@ -17543,7 +17654,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "CommonBomb4",
@@ -17784,7 +17896,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "CommonBomb5",
@@ -18025,7 +18138,8 @@
             "name_en": "Bomb",
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         }
     ],
     "spell": [
@@ -18672,7 +18786,8 @@
                 "hit_tick_from_source": false,
                 "morph_target": null,
                 "name_en": "Rage"
-            }
+            },
+            "key": null
         },
         {
             "name": "Graveyard",
@@ -18840,7 +18955,8 @@
                 "hit_tick_from_source": false,
                 "morph_target": null,
                 "name_en": "Slowdown"
-            }
+            },
+            "key": null
         },
         {
             "name": "Tornado",
@@ -19171,7 +19287,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": "heal-spirit"
         },
         {
             "name": "Shield",
@@ -19276,7 +19393,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "Earthquake",
@@ -19350,9 +19468,9 @@
                 "hit_frequency": 1000,
                 "damage_reduction": 0,
                 "heal_per_second": 0,
-                "hit_speed_multiplier": 0,
-                "speed_multiplier": -50,
-                "spawn_speed_multiplier": 0,
+                "hit_speed_multiplier": -35,
+                "speed_multiplier": -35,
+                "spawn_speed_multiplier": -35,
                 "invisible": false,
                 "remove_on_attack": false,
                 "remove_on_heal": false,
@@ -19494,7 +19612,8 @@
                 "hit_tick_from_source": false,
                 "morph_target": null,
                 "name_en": "Rage"
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostClone",
@@ -19600,7 +19719,8 @@
                 "hit_tick_from_source": false,
                 "morph_target": null,
                 "name_en": "Clone"
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostHeal",
@@ -19705,7 +19825,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostGrowth",
@@ -19810,7 +19931,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostSpearGoblins",
@@ -19915,7 +20037,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostShield",
@@ -20020,7 +20143,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostRageBottle",
@@ -20125,7 +20249,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "BoostCloneBottle",
@@ -20230,7 +20355,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "ElectroWizardZap",
@@ -20351,7 +20477,8 @@
                 "hit_tick_from_source": false,
                 "morph_target": null,
                 "name_en": "Stun"
-            }
+            },
+            "key": null
         },
         {
             "name": "DarkElixir",
@@ -20456,7 +20583,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "ElixirDrop",
@@ -20561,7 +20689,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "GraveyardOrb",
@@ -20616,7 +20745,8 @@
             "death_spawn_character": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         },
         {
             "name": "HealSpirit",
@@ -20721,7 +20851,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "BattleHealerHeal",
@@ -20826,7 +20957,8 @@
                 "override_projectile": null,
                 "hit_tick_from_source": false,
                 "morph_target": null
-            }
+            },
+            "key": null
         },
         {
             "name": "RoyalDeliveryArea",
@@ -20881,7 +21013,8 @@
             "death_spawn_character": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
-            "dps_per_level": null
+            "dps_per_level": null,
+            "key": null
         }
     ],
     "projectile": [
@@ -24738,7 +24871,7 @@
             "speed": 5000,
             "homing": false,
             "hit_effect_at_projectile": false,
-            "damage": 171,
+            "damage": 190,
             "pushback": 1000,
             "pushback_all": false,
             "radius": 3000,
@@ -24760,37 +24893,37 @@
             "check_collisions": false,
             "hide_when_delayed": false,
             "damage_per_level": [
-                171,
-                188,
-                206,
-                227,
-                249,
-                273,
-                300,
-                330,
-                362,
-                398,
-                437,
-                480,
-                528,
-                579
+                190,
+                209,
+                229,
+                252,
+                277,
+                304,
+                334,
+                366,
+                402,
+                442,
+                486,
+                533,
+                587,
+                644
             ],
-            "dps": 34,
+            "dps": 38,
             "dps_per_level": [
-                34,
-                37,
+                38,
                 41,
                 45,
-                49,
-                54,
-                59,
-                65,
-                72,
-                79,
-                87,
-                95,
-                105,
-                115
+                50,
+                55,
+                60,
+                66,
+                73,
+                80,
+                88,
+                97,
+                106,
+                117,
+                128
             ]
         },
         {
@@ -29260,7 +29393,7 @@
             "deploy_time": 1000,
             "charge_range": 350,
             "speed": 60,
-            "hitpoints": 1255,
+            "hitpoints": 1215,
             "hit_speed": 1400,
             "load_time": 900,
             "damage": 245,
@@ -45825,9 +45958,9 @@
             "hit_frequency": 1000,
             "damage_reduction": 0,
             "heal_per_second": 0,
-            "hit_speed_multiplier": 0,
-            "speed_multiplier": -50,
-            "spawn_speed_multiplier": 0,
+            "hit_speed_multiplier": -35,
+            "speed_multiplier": -35,
+            "spawn_speed_multiplier": -35,
             "invisible": false,
             "remove_on_attack": false,
             "remove_on_heal": false,
