@@ -4093,7 +4093,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 10,
+        "arena": 12,
         "description": "This pair of skeletal scorchers deal Area Damage and fly above the Arena. They also play a mean rib cage xylophone duet.",
         "id": 26000080,
         "_lang": {
