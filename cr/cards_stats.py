@@ -15,7 +15,7 @@ import json
 def sc_key_to_key(name):
     global CARDS_JSON
     if CARDS_JSON is None:
-        with open('/Users/sml/git/cr-api-data/json/cards.json') as f:
+        with open('/docs/json/cards.json') as f:
             CARDS_JSON = json.load(f)
     for item in CARDS_JSON:
         if item.get('sc_key') == name:

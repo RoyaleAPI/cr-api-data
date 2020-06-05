@@ -13,7 +13,7 @@ classic_decks = [
     "Blind_Classic_LavaLoon"
 ]
 
-with open('/Users/sml/git/cr-api-data/json/predefined_decks.json') as f:
+with open('/docs/json/predefined_decks.json') as f:
     predefined_decks = json.load(f)
 
 template = """
@@ -36,7 +36,7 @@ for name in classic_decks:
         if deck.get('name') == name:
             decks.append(deck)
 
-with open('/Users/sml/git/cr-api-data/json/cards.json') as f:
+with open('/docs/json/cards.json') as f:
     cards = json.load(f)
 
 

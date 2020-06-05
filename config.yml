@@ -28,7 +28,7 @@ csv:
     treasure_chests: ./csv_logic/treasure_chests.csv
 
 json:
-  base: ./json/
+  base: ./docs/json/
   alliance_badges: ./alliance_badges.json
   arenas: ./arenas.json
   battle_timelines: ./battle_timelines.json
