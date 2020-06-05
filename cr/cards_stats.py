@@ -5,23 +5,21 @@ Combine multiple CSVs for a unified json file.
 
 import json
 import os
-import copy
 
 from .base import BaseGen
 
 CARDS_JSON = None
-import json
+
 
 def sc_key_to_key(name):
     global CARDS_JSON
     if CARDS_JSON is None:
-        with open('/docs/json/cards.json') as f:
+        with open('./docs/json/cards.json') as f:
             CARDS_JSON = json.load(f)
     for item in CARDS_JSON:
         if item.get('sc_key') == name:
             return item.get('key')
     return None
-
 
 
 class Card:
@@ -105,8 +103,6 @@ class Characters(CardTypes):
 
     def __init__(self, config):
         super().__init__(config, id="characters")
-
-
 
 
 class SpellsCharacters(CardTypes):
@@ -200,7 +196,7 @@ class CardStats(BaseGen):
 
     def get_rarities_multipliers(self, rarity, level):
         if self._rarities is None:
-            with open('./json/rarities.json') as f:
+            with open('./docs/json/rarities.json') as f:
                 self._rarities = json.load(f)
 
         for r in self._rarities:
@@ -311,7 +307,6 @@ class CardStats(BaseGen):
                         summon_character_second_count=s.get('summon_character_second_count') or 0,
                     ))
 
-
         projectiles = Projectiles(self.config)
         projectiles_data = projectiles.load_csv(exclude_empty=True)
         projectiles_data = self.inject_card_props(projectiles_data)
@@ -344,7 +339,6 @@ class CardStats(BaseGen):
         projectile_items = self.calc_dps(projectile_items)
         projectile_items = self.calc_per_level(projectile_items, 'dps', 'dps_per_level')
 
-
         # add character buffs to items
         buffs = ['target_buff', 'buff']
         items_group = [
@@ -366,13 +360,11 @@ class CardStats(BaseGen):
         #     if chr is not None:
         #         troop_item['summon_character_obj'] = copy.deepcopy(find_character(chr))
 
-
         # insert card keys from constants
 
         for items in [troop_items, building_items, spell_items]:
             for item in items:
                 item['key'] = sc_key_to_key(item.get('name'))
-
 
         self.save_json({
             "troop": troop_items,
