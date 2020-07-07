@@ -137,15 +137,15 @@ class CardStats(BaseGen):
 
     # total hack from global
     level_multipliers = [
-        1.0,
+        1.0, # common
         1.1,
         1.21,
-        1.33,
+        1.33, # epic
         1.46,
         1.60,
-        1.76,
+        1.76, # rare
         1.93,
-        2.12,
+        2.12, # common
         2.33,
         2.56,
         2.81,
