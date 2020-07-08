@@ -45345,7 +45345,7 @@
             "name_en": "Skeleton Dragons"
         }
     ],
-    "character_buff_items": [
+    "character_buff": [
         {
             "name": "Rage",
             "rarity": "Epic",

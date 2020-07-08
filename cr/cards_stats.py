@@ -372,5 +372,14 @@ class CardStats(BaseGen):
             "spell": spell_items,
             "projectile": projectile_items,
             "characters": characters_data,
-            "character_buff_items": character_buff_items,
+            "character_buff": character_buff_items,
         })
+
+        # also save section specific items
+        self.save_json(troop_items, json_path='./docs/json/cards_stats_troop.json')
+        self.save_json(building_items, json_path='./docs/json/cards_stats_building.json')
+        self.save_json(spell_items, json_path='./docs/json/cards_stats_spell.json')
+        self.save_json(projectile_items, json_path='./docs/json/cards_stats_projectile.json')
+        self.save_json(characters_data, json_path='./docs/json/cards_stats_characters.json')
+        self.save_json(character_buff_items, json_path='./docs/json/cards_stats_character_buff.json')
+
