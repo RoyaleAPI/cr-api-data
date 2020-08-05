@@ -1085,7 +1085,7 @@
         "type": "Spell",
         "rarity": "Common",
         "arena": 12,
-        "description": "No need to sign for this package!\n\nDropped from the sky, it damages and knocks back enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
+        "description": "No need to sign for this package!\n\nDropped from the sky, it deals Area Damage to enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
         "id": 28000018
     }
 ]
