@@ -37,6 +37,7 @@ class TroopCard(Card):
     """
 
     def __init__(self, data):
+        super().__init__()
         self._data = data
 
     @property
@@ -110,6 +111,19 @@ class SpellsCharacters(CardTypes):
 
     def __init__(self, config):
         super().__init__(config, id="spells_characters")
+
+class SpellsBuildings(CardTypes):
+    """Buildings."""
+
+    def __init__(self, config):
+        super().__init__(config, id="spells_buildings")
+
+class SpellsOther(CardTypes):
+    """Other: aka spells"""
+
+    def __init__(self, config):
+        super().__init__(config, id="spells_other")
+
 
 
 class Projectiles(CardTypes):
@@ -288,6 +302,12 @@ class CardStats(BaseGen):
         spells_characters = SpellsCharacters(self.config)
         spells_characters_data = spells_characters.load_csv(exclude_empty=False)
 
+        spells_buildings = SpellsBuildings(self.config)
+        spells_buildings_data = spells_buildings.load_csv(exclude_empty=False)
+
+        spells_other = SpellsOther(self.config)
+        spells_other_data = spells_other.load_csv(exclude_empty=False)
+
         character_buffs = CharacterBuffs(self.config)
         character_buffs_data = character_buffs.load_csv(exclude_empty=False)
 
@@ -306,6 +326,21 @@ class CardStats(BaseGen):
                         summon_character_second=s.get('summon_character_second'),
                         summon_character_second_count=s.get('summon_character_second_count') or 0,
                     ))
+
+        # building item is a dict
+        for b in buildings_data:
+            for s in spells_buildings_data:
+                if b.get('name') == s.get('name'):
+                    b.update({k:v for k, v in s.items() if k not in b.keys()})
+
+
+        # spells
+        for a in area_effect_objects_data:
+            for s in spells_other_data:
+                if a.get('name') == s.get('name'):
+                    a.update({k:v for k, v in s.items() if k not in a.keys()})
+
+
 
         projectiles = Projectiles(self.config)
         projectiles_data = projectiles.load_csv(exclude_empty=True)

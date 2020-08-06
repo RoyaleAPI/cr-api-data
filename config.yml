@@ -20,7 +20,9 @@ csv:
     projectiles: ./csv_logic/projectiles.csv
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
+    spells_buildings: ./csv_logic/spells_buildings.csv
     spells_characters: ./csv_logic/spells_characters.csv
+    spells_other: ./csv_logic/spells_other.csv
     spell_sets: ./csv_logic/spell_sets.csv
     texts: ./csv_client/texts.csv
     texts_patch: ./csv_client/texts_patch.csv
