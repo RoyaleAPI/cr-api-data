@@ -522,7 +522,8 @@
         "name": "Draft_AllRandom",
         "spells": [
             "*"
-        ]
+        ],
+        "tid": "TID_SPELL_SET_ALL_RANDOM"
     },
     {
         "name": "Draft_CheapCards",
@@ -2127,6 +2128,7 @@
             "baby-dragon",
             "inferno-dragon",
             "electro-dragon",
+            "skeleton-dragons",
             "executioner",
             "minion-horde",
             "flying-machine",
@@ -3262,7 +3264,8 @@
             "royal-ghost",
             "battle-healer",
             "fisherman"
-        ]
+        ],
+        "tid": "TID_SPELL_SET_MINI_TANK"
     },
     {
         "name": "BAD_WinCon",
@@ -3282,8 +3285,10 @@
             "goblin-giant",
             "ram-rider",
             "wall-breakers",
-            "elixir-golem"
-        ]
+            "elixir-golem",
+            "mega-knight"
+        ],
+        "tid": "TID_SPELL_SET_WIN_CON"
     },
     {
         "name": "BAD_AntiTank",
@@ -3308,7 +3313,8 @@
             "goblin-hut",
             "barbarian-hut",
             "goblin-cage"
-        ]
+        ],
+        "tid": "TID_SPELL_SET_ANTI_TANK"
     },
     {
         "name": "BAD_AntiAir",
@@ -3334,8 +3340,10 @@
             "zappies",
             "electro-wizard",
             "firecracker",
-            "electro-dragon"
-        ]
+            "electro-dragon",
+            "skeleton-dragons"
+        ],
+        "tid": "TID_SPELL_SET_ANTI_AIR"
     },
     {
         "name": "BAD_Distraction",
@@ -3354,7 +3362,8 @@
             "barbarians",
             "skeleton-barrel",
             "heal-spirit"
-        ]
+        ],
+        "tid": "TID_SPELL_SET_DISTRACTION"
     },
     {
         "name": "BAD_SmallSpell",
@@ -3366,7 +3375,8 @@
             "giant-snowball",
             "tornado",
             "royal-delivery"
-        ]
+        ],
+        "tid": "TID_SPELL_SET_SMALL_SPELL"
     },
     {
         "name": "BAD_BigSpell",
@@ -3377,7 +3387,8 @@
             "lightning",
             "freeze",
             "earthquake"
-        ]
+        ],
+        "tid": "TID_SPELL_SET_BIG_SPELL"
     },
     {
         "name": "Event_Shocktober",
@@ -4562,6 +4573,130 @@
             "firecracker",
             "skeleton-dragons",
             "royal-delivery"
+        ]
+    },
+    {
+        "name": "BannedDefenses",
+        "spells": [
+            "mirror",
+            "clone",
+            "elixir-collector"
+        ]
+    },
+    {
+        "name": "BoatDefense_Attackers",
+        "spells": [
+            "goblin-hut",
+            "x-bow",
+            "tombstone",
+            "furnace",
+            "balloon",
+            "prince",
+            "hog-rider",
+            "royal-giant",
+            "princess",
+            "dark-prince",
+            "miner",
+            "lumberjack",
+            "battle-ram",
+            "elite-barbarians",
+            "bandit",
+            "royal-ghost",
+            "ram-rider",
+            "skeleton-barrel",
+            "wall-breakers",
+            "royal-hogs",
+            "goblin-giant",
+            "elixir-golem",
+            "goblin-barrel"
+        ]
+    },
+    {
+        "name": "BoatDefense_Defenders",
+        "spells": [
+            "knight",
+            "goblins",
+            "giant",
+            "pekka",
+            "minions",
+            "barbarians",
+            "golem",
+            "skeletons",
+            "valkyrie",
+            "skeleton-army",
+            "mini-pekka",
+            "giant-skeleton",
+            "minion-horde",
+            "guards",
+            "lava-hound",
+            "bowler",
+            "inferno-dragon",
+            "ice-golem",
+            "mega-minion",
+            "goblin-gang",
+            "electro-wizard",
+            "hunter",
+            "royal-recruits",
+            "bats",
+            "rascals",
+            "cannon-cart",
+            "mega-knight",
+            "battle-healer",
+            "cannon",
+            "mortar",
+            "inferno-tower",
+            "bomb-tower",
+            "barbarian-hut",
+            "tesla",
+            "goblin-cage"
+        ]
+    },
+    {
+        "name": "BoatDefense_Spells",
+        "spells": [
+            "fireball",
+            "arrows",
+            "rage",
+            "rocket",
+            "freeze",
+            "lightning",
+            "zap",
+            "poison",
+            "graveyard",
+            "the-log",
+            "tornado",
+            "earthquake",
+            "barbarian-barrel",
+            "giant-snowball",
+            "royal-delivery"
+        ]
+    },
+    {
+        "name": "BoatDefense_Range",
+        "spells": [
+            "archers",
+            "witch",
+            "bomber",
+            "musketeer",
+            "baby-dragon",
+            "wizard",
+            "spear-goblins",
+            "ice-wizard",
+            "three-musketeers",
+            "ice-spirit",
+            "fire-spirits",
+            "sparky",
+            "dart-goblin",
+            "executioner",
+            "night-witch",
+            "zappies",
+            "flying-machine",
+            "fisherman",
+            "magic-archer",
+            "electro-dragon",
+            "firecracker",
+            "heal-spirit",
+            "skeleton-dragons"
         ]
     },
     {

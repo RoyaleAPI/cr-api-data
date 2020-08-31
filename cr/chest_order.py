@@ -33,8 +33,8 @@ class ChestOrder(BaseGen):
                         chests[current_name].append(row["Chest"])
                     else:
                         chests[current_name].append({
-                            "chest": row["Chest"],
-                            "arena_threshold": row["ArenaThreshold"],
+                            "chest": row.get("Chest"),
+                            "arena_threshold": row.get("ArenaThreshold"),
                             "one_time": row.get('OneTime')
                         })
 

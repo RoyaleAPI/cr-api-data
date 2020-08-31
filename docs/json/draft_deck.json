@@ -291,5 +291,27 @@
             "Draft_Comp_MiniTank",
             "Draft_Comp_Distractions"
         ]
+    },
+    {
+        "name": "Build_A_Deck",
+        "required_sets": [
+            "BAD_WinCon",
+            "BAD_AntiTank",
+            "BAD_AntiAir",
+            "BAD_MiniTank",
+            "BAD_Distraction",
+            "BAD_SmallSpell",
+            "BAD_BigSpell"
+        ],
+        "optional_sets": "Draft_AllRandom"
+    },
+    {
+        "name": "Build_A_Defense",
+        "required_sets": [
+            "BoatDefense_Attackers",
+            "BoatDefense_Defenders",
+            "BoatDefense_Spells",
+            "BoatDefense_Range"
+        ]
     }
 ]

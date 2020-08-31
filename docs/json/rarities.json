@@ -99,7 +99,8 @@
         "token_export_name": "token_common",
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_common",
-        "token_gold_value": 250
+        "token_gold_value": 250,
+        "npc_trader_reroll_gem_cost": 10
     },
     {
         "name": "Rare",
@@ -194,7 +195,8 @@
         "token_export_name": "token_rare",
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_rare",
-        "token_gold_value": 500
+        "token_gold_value": 500,
+        "npc_trader_reroll_gem_cost": 10
     },
     {
         "name": "Epic",
@@ -277,7 +279,8 @@
         "token_export_name": "token_epic",
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_epic",
-        "token_gold_value": 1000
+        "token_gold_value": 1000,
+        "npc_trader_reroll_gem_cost": 10
     },
     {
         "name": "Legendary",
@@ -365,7 +368,8 @@
         "token_export_name": "token_legendary",
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_legendary",
-        "token_gold_value": 2000
+        "token_gold_value": 2000,
+        "npc_trader_reroll_gem_cost": 10
     },
     {
         "name": "Hero",
@@ -475,6 +479,7 @@
         "card_txt_bg_frame_idx": 3,
         "card_glow_instance_name": "card_frame_glow_epic",
         "icon_swf": "sc/ui.sc",
-        "icon_export_name": "icon_btn_card_epic"
+        "icon_export_name": "icon_btn_card_epic",
+        "npc_trader_reroll_gem_cost": 10
     }
 ]

@@ -59,7 +59,7 @@ class BaseGen:
                     texts_reader = csv.DictReader(f)
                     for row in texts_reader:
                         # define SC key
-                        keys = ['v', 'e', ' ']
+                        keys = ['v', 'e', ' ', 'c']
                         for key in keys:
                             if key in row.keys():
                                 if row.get(key):
@@ -141,10 +141,12 @@ class BaseGen:
     def text_all_lang(self, tid):
         """Return TID fields in all languages as a dict."""
         r = self.all_texts.get(tid)
-        # remove single digit key
-        r = {k: v for k, v in r.items() if len(k) > 1}
-        # convert language key to lower case
-        r = {k.lower():v for k, v in r.items()}
+
+        if r:
+            # remove single digit key
+            r = {k: v for k, v in r.items() if len(k) > 1}
+            # convert language key to lower case
+            r = {k.lower():v for k, v in r.items()}
         return r
 
     def text(self, tid, lang="EN"):

@@ -39,13 +39,13 @@ class TextsGen(BaseGen):
         out.extend(
             self.convert_text(
                 self.csv_path,
-                first_key="e"
+                first_key="c"
              )
         )
         out.extend(
             self.convert_text(
                 self.csv_path_by_id(id="texts_patch"),
-                first_key="e"
+                first_key="c"
             )
         )
 

@@ -494,6 +494,20 @@
         "name_en": "TeamVsTeam_Spawning"
     },
     {
+        "name": "Pve",
+        "section_length": 0,
+        "section_type": "Normal",
+        "starting_elixir": 6,
+        "elixir_rate_length": 0,
+        "elixir_full_bar_ms": 14000,
+        "elixir_rate_visible": 20,
+        "elixir_notify_change": true,
+        "next_spell_cooldown_length": 0,
+        "next_spell_cooldown_ms": 1000,
+        "id": 72000013,
+        "name_en": "Pve"
+    },
+    {
         "name": "7xElixir",
         "section_length": [
             180,
@@ -510,7 +524,44 @@
         "elixir_notify_change": true,
         "next_spell_cooldown_length": 300,
         "next_spell_cooldown_ms": 50,
-        "id": 72000013,
+        "id": 72000014,
         "name_en": "7xElixir"
+    },
+    {
+        "name": "ClanWar_BoatBattle",
+        "section_length": [
+            120,
+            60
+        ],
+        "section_type": [
+            "Normal",
+            "BonusTime"
+        ],
+        "starting_elixir": 6,
+        "elixir_rate_length": [
+            0,
+            0,
+            0
+        ],
+        "elixir_full_bar_ms": [
+            21000,
+            10550,
+            9300
+        ],
+        "elixir_rate_visible": [
+            15,
+            27,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": 0,
+        "next_spell_cooldown_ms": 1000,
+        "section_flags": "No60sWarning",
+        "id": 72000015,
+        "name_en": "ClanWar_BoatBattle"
     }
 ]
