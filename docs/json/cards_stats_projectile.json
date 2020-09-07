@@ -1401,7 +1401,7 @@
         "hit_effect_at_projectile": false,
         "damage": 84,
         "pushback_all": false,
-        "radius": 1500,
+        "radius": 1700,
         "aoe_to_air": true,
         "aoe_to_ground": true,
         "only_enemies": true,
