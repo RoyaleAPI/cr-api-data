@@ -10,7 +10,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_1_0",
-        "filename": "emotes_king_01_dl.sc:1:0"
+        "file_key": "emotes_king_01_dl.sc:1:0"
     },
     {
         "name": "Emote1",
@@ -23,7 +23,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_1_1",
-        "filename": "emotes_king_01_dl.sc:1:1"
+        "file_key": "emotes_king_01_dl.sc:1:1"
     },
     {
         "name": "Emote2",
@@ -36,7 +36,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_1_2",
-        "filename": "emotes_king_01_dl.sc:1:2"
+        "file_key": "emotes_king_01_dl.sc:1:2"
     },
     {
         "name": "Emote3",
@@ -49,7 +49,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_1_3",
-        "filename": "emotes_king_01_dl.sc:1:3"
+        "file_key": "emotes_king_01_dl.sc:1:3"
     },
     {
         "name": "Emote4",
@@ -62,7 +62,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_2_0",
-        "filename": "emotes_goblin_01_dl.sc:2:0"
+        "file_key": "emotes_goblin_01_dl.sc:2:0"
     },
     {
         "name": "Emote5",
@@ -75,7 +75,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_2_1",
-        "filename": "emotes_goblin_01_dl.sc:2:1"
+        "file_key": "emotes_goblin_01_dl.sc:2:1"
     },
     {
         "name": "Emote6",
@@ -88,7 +88,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_2_2",
-        "filename": "emotes_goblin_01_dl.sc:2:2"
+        "file_key": "emotes_goblin_01_dl.sc:2:2"
     },
     {
         "name": "Emote7",
@@ -101,7 +101,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_2_3",
-        "filename": "emotes_goblin_01_dl.sc:2:3"
+        "file_key": "emotes_goblin_01_dl.sc:2:3"
     },
     {
         "name": "Emote8",
@@ -114,7 +114,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_3_0",
-        "filename": "emotes_goblin_02_dl.sc:3:0"
+        "file_key": "emotes_goblin_02_dl.sc:3:0"
     },
     {
         "name": "Emote9",
@@ -127,7 +127,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_3_1",
-        "filename": "emotes_goblin_02_dl.sc:3:1"
+        "file_key": "emotes_goblin_02_dl.sc:3:1"
     },
     {
         "name": "Emote10",
@@ -140,7 +140,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_3_2",
-        "filename": "emotes_goblin_02_dl.sc:3:2"
+        "file_key": "emotes_goblin_02_dl.sc:3:2"
     },
     {
         "name": "Emote11",
@@ -153,7 +153,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_3_3",
-        "filename": "emotes_goblin_02_dl.sc:3:3"
+        "file_key": "emotes_goblin_02_dl.sc:3:3"
     },
     {
         "name": "Emote12",
@@ -166,7 +166,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_4_0",
-        "filename": "emotes_goblin_03_dl.sc:4:0"
+        "file_key": "emotes_goblin_03_dl.sc:4:0"
     },
     {
         "name": "Emote13",
@@ -179,7 +179,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_4_1",
-        "filename": "emotes_goblin_03_dl.sc:4:1"
+        "file_key": "emotes_goblin_03_dl.sc:4:1"
     },
     {
         "name": "Emote14",
@@ -192,7 +192,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_4_2",
-        "filename": "emotes_goblin_03_dl.sc:4:2"
+        "file_key": "emotes_goblin_03_dl.sc:4:2"
     },
     {
         "name": "Emote15",
@@ -205,7 +205,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_4_3",
-        "filename": "emotes_goblin_03_dl.sc:4:3"
+        "file_key": "emotes_goblin_03_dl.sc:4:3"
     },
     {
         "name": "Emote16",
@@ -218,7 +218,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_5_0",
-        "filename": "emotes_goblin_04_dl.sc:5:0"
+        "file_key": "emotes_goblin_04_dl.sc:5:0"
     },
     {
         "name": "Emote17",
@@ -231,7 +231,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_5_1",
-        "filename": "emotes_goblin_04_dl.sc:5:1"
+        "file_key": "emotes_goblin_04_dl.sc:5:1"
     },
     {
         "name": "Emote18",
@@ -244,7 +244,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_5_2",
-        "filename": "emotes_goblin_04_dl.sc:5:2"
+        "file_key": "emotes_goblin_04_dl.sc:5:2"
     },
     {
         "name": "Emote19",
@@ -257,7 +257,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_5_3",
-        "filename": "emotes_goblin_04_dl.sc:5:3"
+        "file_key": "emotes_goblin_04_dl.sc:5:3"
     },
     {
         "name": "Emote20",
@@ -270,7 +270,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_6_0",
-        "filename": "emotes_princess_01_dl.sc:6:0"
+        "file_key": "emotes_princess_01_dl.sc:6:0"
     },
     {
         "name": "Emote21",
@@ -283,7 +283,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_6_1",
-        "filename": "emotes_princess_01_dl.sc:6:1"
+        "file_key": "emotes_princess_01_dl.sc:6:1"
     },
     {
         "name": "Emote22",
@@ -296,7 +296,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_6_2",
-        "filename": "emotes_princess_01_dl.sc:6:2"
+        "file_key": "emotes_princess_01_dl.sc:6:2"
     },
     {
         "name": "Emote23",
@@ -309,7 +309,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_6_3",
-        "filename": "emotes_princess_01_dl.sc:6:3"
+        "file_key": "emotes_princess_01_dl.sc:6:3"
     },
     {
         "name": "Emote24",
@@ -322,7 +322,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_7_0",
-        "filename": "emotes_giant_01_dl.sc:7:0"
+        "file_key": "emotes_giant_01_dl.sc:7:0"
     },
     {
         "name": "Emote25",
@@ -335,7 +335,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_7_1",
-        "filename": "emotes_giant_01_dl.sc:7:1"
+        "file_key": "emotes_giant_01_dl.sc:7:1"
     },
     {
         "name": "Emote26",
@@ -348,7 +348,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_7_2",
-        "filename": "emotes_giant_01_dl.sc:7:2"
+        "file_key": "emotes_giant_01_dl.sc:7:2"
     },
     {
         "name": "Emote27",
@@ -361,7 +361,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_7_3",
-        "filename": "emotes_giant_01_dl.sc:7:3"
+        "file_key": "emotes_giant_01_dl.sc:7:3"
     },
     {
         "name": "Emote28",
@@ -374,7 +374,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_8_0",
-        "filename": "emotes_princess_02_dl.sc:8:0"
+        "file_key": "emotes_princess_02_dl.sc:8:0"
     },
     {
         "name": "Emote29",
@@ -387,7 +387,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_8_1",
-        "filename": "emotes_princess_02_dl.sc:8:1"
+        "file_key": "emotes_princess_02_dl.sc:8:1"
     },
     {
         "name": "Emote30",
@@ -400,7 +400,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_8_2",
-        "filename": "emotes_princess_02_dl.sc:8:2"
+        "file_key": "emotes_princess_02_dl.sc:8:2"
     },
     {
         "name": "Emote31",
@@ -413,7 +413,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_8_3",
-        "filename": "emotes_princess_02_dl.sc:8:3"
+        "file_key": "emotes_princess_02_dl.sc:8:3"
     },
     {
         "name": "Emote32",
@@ -426,7 +426,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_9_0",
-        "filename": "emotes_hogrider_01_dl.sc:9:0"
+        "file_key": "emotes_hogrider_01_dl.sc:9:0"
     },
     {
         "name": "Emote33",
@@ -439,7 +439,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_9_1",
-        "filename": "emotes_hogrider_01_dl.sc:9:1"
+        "file_key": "emotes_hogrider_01_dl.sc:9:1"
     },
     {
         "name": "Emote34",
@@ -452,7 +452,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_9_2",
-        "filename": "emotes_hogrider_01_dl.sc:9:2"
+        "file_key": "emotes_hogrider_01_dl.sc:9:2"
     },
     {
         "name": "Emote35",
@@ -465,7 +465,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_9_3",
-        "filename": "emotes_hogrider_01_dl.sc:9:3"
+        "file_key": "emotes_hogrider_01_dl.sc:9:3"
     },
     {
         "name": "Emote36",
@@ -478,7 +478,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_10_0",
-        "filename": "emotes_hog_01_dl.sc:10:0"
+        "file_key": "emotes_hog_01_dl.sc:10:0"
     },
     {
         "name": "Emote37",
@@ -491,7 +491,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_10_1",
-        "filename": "emotes_hog_01_dl.sc:10:1"
+        "file_key": "emotes_hog_01_dl.sc:10:1"
     },
     {
         "name": "Emote38",
@@ -504,7 +504,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_10_2",
-        "filename": "emotes_hog_01_dl.sc:10:2"
+        "file_key": "emotes_hog_01_dl.sc:10:2"
     },
     {
         "name": "Emote39",
@@ -517,7 +517,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_10_3",
-        "filename": "emotes_hog_01_dl.sc:10:3"
+        "file_key": "emotes_hog_01_dl.sc:10:3"
     },
     {
         "name": "Emote40",
@@ -530,7 +530,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_11_0",
-        "filename": "emotes_barbarian_01_dl.sc:11:0"
+        "file_key": "emotes_barbarian_01_dl.sc:11:0"
     },
     {
         "name": "Emote41",
@@ -543,7 +543,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_11_1",
-        "filename": "emotes_barbarian_01_dl.sc:11:1"
+        "file_key": "emotes_barbarian_01_dl.sc:11:1"
     },
     {
         "name": "Emote42",
@@ -556,7 +556,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_11_2",
-        "filename": "emotes_barbarian_01_dl.sc:11:2"
+        "file_key": "emotes_barbarian_01_dl.sc:11:2"
     },
     {
         "name": "Emote43",
@@ -569,7 +569,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_11_3",
-        "filename": "emotes_barbarian_01_dl.sc:11:3"
+        "file_key": "emotes_barbarian_01_dl.sc:11:3"
     },
     {
         "name": "Emote44",
@@ -582,7 +582,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_12_0",
-        "filename": "emotes_skeleton_01_dl.sc:12:0"
+        "file_key": "emotes_skeleton_01_dl.sc:12:0"
     },
     {
         "name": "Emote45",
@@ -595,7 +595,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_12_1",
-        "filename": "emotes_skeleton_01_dl.sc:12:1"
+        "file_key": "emotes_skeleton_01_dl.sc:12:1"
     },
     {
         "name": "Emote46",
@@ -608,7 +608,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_12_2",
-        "filename": "emotes_skeleton_01_dl.sc:12:2"
+        "file_key": "emotes_skeleton_01_dl.sc:12:2"
     },
     {
         "name": "Emote47",
@@ -621,7 +621,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_12_3",
-        "filename": "emotes_skeleton_01_dl.sc:12:3"
+        "file_key": "emotes_skeleton_01_dl.sc:12:3"
     },
     {
         "name": "Emote48",
@@ -634,7 +634,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_13_0",
-        "filename": "emotes_wizard_01_dl.sc:13:0"
+        "file_key": "emotes_wizard_01_dl.sc:13:0"
     },
     {
         "name": "Emote49",
@@ -647,7 +647,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_13_1",
-        "filename": "emotes_wizard_01_dl.sc:13:1"
+        "file_key": "emotes_wizard_01_dl.sc:13:1"
     },
     {
         "name": "Emote50",
@@ -660,7 +660,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_13_2",
-        "filename": "emotes_wizard_01_dl.sc:13:2"
+        "file_key": "emotes_wizard_01_dl.sc:13:2"
     },
     {
         "name": "Emote51",
@@ -673,7 +673,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_13_3",
-        "filename": "emotes_wizard_01_dl.sc:13:3"
+        "file_key": "emotes_wizard_01_dl.sc:13:3"
     },
     {
         "name": "Emote52",
@@ -686,7 +686,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_14_0",
-        "filename": "emotes_ewiz_01_dl.sc:14:0"
+        "file_key": "emotes_ewiz_01_dl.sc:14:0"
     },
     {
         "name": "Emote53",
@@ -699,7 +699,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_14_1",
-        "filename": "emotes_ewiz_01_dl.sc:14:1"
+        "file_key": "emotes_ewiz_01_dl.sc:14:1"
     },
     {
         "name": "Emote54",
@@ -712,7 +712,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_14_2",
-        "filename": "emotes_ewiz_01_dl.sc:14:2"
+        "file_key": "emotes_ewiz_01_dl.sc:14:2"
     },
     {
         "name": "Emote55",
@@ -725,7 +725,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_14_3",
-        "filename": "emotes_ewiz_01_dl.sc:14:3"
+        "file_key": "emotes_ewiz_01_dl.sc:14:3"
     },
     {
         "name": "Emote56",
@@ -738,7 +738,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_15_0",
-        "filename": "emotes_crl_01_dl.sc:15:0"
+        "file_key": "emotes_crl_01_dl.sc:15:0"
     },
     {
         "name": "Emote57",
@@ -751,7 +751,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_15_1",
-        "filename": "emotes_crl_01_dl.sc:15:1"
+        "file_key": "emotes_crl_01_dl.sc:15:1"
     },
     {
         "name": "Emote58",
@@ -764,7 +764,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_15_2",
-        "filename": "emotes_crl_01_dl.sc:15:2"
+        "file_key": "emotes_crl_01_dl.sc:15:2"
     },
     {
         "name": "Emote59",
@@ -777,7 +777,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_15_3",
-        "filename": "emotes_crl_01_dl.sc:15:3"
+        "file_key": "emotes_crl_01_dl.sc:15:3"
     },
     {
         "name": "Emote60",
@@ -790,7 +790,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_16_0",
-        "filename": "emotes_black_friday_01_dl.sc:16:0"
+        "file_key": "emotes_black_friday_01_dl.sc:16:0"
     },
     {
         "name": "Emote61",
@@ -803,7 +803,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_16_1",
-        "filename": "emotes_black_friday_01_dl.sc:16:1"
+        "file_key": "emotes_black_friday_01_dl.sc:16:1"
     },
     {
         "name": "Emote62",
@@ -816,7 +816,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_16_2",
-        "filename": "emotes_black_friday_01_dl.sc:16:2"
+        "file_key": "emotes_black_friday_01_dl.sc:16:2"
     },
     {
         "name": "Emote63",
@@ -829,7 +829,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_16_3",
-        "filename": "emotes_black_friday_01_dl.sc:16:3"
+        "file_key": "emotes_black_friday_01_dl.sc:16:3"
     },
     {
         "name": "Emote64",
@@ -842,7 +842,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_17_0",
-        "filename": "emotes_black_friday_02_dl.sc:17:0"
+        "file_key": "emotes_black_friday_02_dl.sc:17:0"
     },
     {
         "name": "Emote65",
@@ -855,7 +855,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_17_1",
-        "filename": "emotes_black_friday_02_dl.sc:17:1"
+        "file_key": "emotes_black_friday_02_dl.sc:17:1"
     },
     {
         "name": "Emote66",
@@ -868,7 +868,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_17_2",
-        "filename": "emotes_black_friday_02_dl.sc:17:2"
+        "file_key": "emotes_black_friday_02_dl.sc:17:2"
     },
     {
         "name": "Emote67",
@@ -881,7 +881,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_17_3",
-        "filename": "emotes_black_friday_02_dl.sc:17:3"
+        "file_key": "emotes_black_friday_02_dl.sc:17:3"
     },
     {
         "name": "Emote68",
@@ -894,7 +894,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_18_0",
-        "filename": "emotes_royal_ghost_01_dl.sc:18:0"
+        "file_key": "emotes_royal_ghost_01_dl.sc:18:0"
     },
     {
         "name": "Emote69",
@@ -907,7 +907,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_18_1",
-        "filename": "emotes_royal_ghost_01_dl.sc:18:1"
+        "file_key": "emotes_royal_ghost_01_dl.sc:18:1"
     },
     {
         "name": "Emote70",
@@ -920,7 +920,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_18_2",
-        "filename": "emotes_royal_ghost_01_dl.sc:18:2"
+        "file_key": "emotes_royal_ghost_01_dl.sc:18:2"
     },
     {
         "name": "Emote71",
@@ -933,7 +933,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_18_3",
-        "filename": "emotes_royal_ghost_01_dl.sc:18:3"
+        "file_key": "emotes_royal_ghost_01_dl.sc:18:3"
     },
     {
         "name": "Emote76",
@@ -946,7 +946,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_20_0",
-        "filename": "emotes_crl_03_dl.sc:20:0"
+        "file_key": "emotes_crl_03_dl.sc:20:0"
     },
     {
         "name": "Emote77",
@@ -959,7 +959,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_21_0",
-        "filename": "emotes_xmas_01_dl.sc:21:0"
+        "file_key": "emotes_xmas_01_dl.sc:21:0"
     },
     {
         "name": "Emote78",
@@ -972,7 +972,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_21_1",
-        "filename": "emotes_xmas_01_dl.sc:21:1"
+        "file_key": "emotes_xmas_01_dl.sc:21:1"
     },
     {
         "name": "Emote79",
@@ -985,7 +985,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_22_0",
-        "filename": "emotes_ram_rider_01_dl.sc:22:0"
+        "file_key": "emotes_ram_rider_01_dl.sc:22:0"
     },
     {
         "name": "Emote80",
@@ -998,7 +998,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_22_1",
-        "filename": "emotes_ram_rider_01_dl.sc:22:1"
+        "file_key": "emotes_ram_rider_01_dl.sc:22:1"
     },
     {
         "name": "Emote81",
@@ -1011,7 +1011,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_23_0",
-        "filename": "emotes_hog_02_dl.sc:23:0"
+        "file_key": "emotes_hog_02_dl.sc:23:0"
     },
     {
         "name": "Emote82",
@@ -1024,7 +1024,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_23_1",
-        "filename": "emotes_hog_02_dl.sc:23:1"
+        "file_key": "emotes_hog_02_dl.sc:23:1"
     },
     {
         "name": "Emote83",
@@ -1037,7 +1037,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_23_2",
-        "filename": "emotes_hog_02_dl.sc:23:2"
+        "file_key": "emotes_hog_02_dl.sc:23:2"
     },
     {
         "name": "Emote84",
@@ -1050,7 +1050,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_23_3",
-        "filename": "emotes_hog_02_dl.sc:23:3"
+        "file_key": "emotes_hog_02_dl.sc:23:3"
     },
     {
         "name": "Emote85",
@@ -1063,7 +1063,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_24_0",
-        "filename": "emotes_minipekka_02_dl.sc:24:0"
+        "file_key": "emotes_minipekka_02_dl.sc:24:0"
     },
     {
         "name": "Emote86",
@@ -1076,7 +1076,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_24_1",
-        "filename": "emotes_minipekka_02_dl.sc:24:1"
+        "file_key": "emotes_minipekka_02_dl.sc:24:1"
     },
     {
         "name": "Emote87",
@@ -1089,7 +1089,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_24_2",
-        "filename": "emotes_minipekka_02_dl.sc:24:2"
+        "file_key": "emotes_minipekka_02_dl.sc:24:2"
     },
     {
         "name": "Emote88",
@@ -1102,7 +1102,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_24_3",
-        "filename": "emotes_minipekka_02_dl.sc:24:3"
+        "file_key": "emotes_minipekka_02_dl.sc:24:3"
     },
     {
         "name": "Emote89",
@@ -1115,7 +1115,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_25_0",
-        "filename": "emotes_bday_03_dl.sc:25:0"
+        "file_key": "emotes_bday_03_dl.sc:25:0"
     },
     {
         "name": "Emote90",
@@ -1128,7 +1128,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_25_1",
-        "filename": "emotes_bday_03_dl.sc:25:1"
+        "file_key": "emotes_bday_03_dl.sc:25:1"
     },
     {
         "name": "Emote91",
@@ -1141,7 +1141,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_25_2",
-        "filename": "emotes_bday_03_dl.sc:25:2"
+        "file_key": "emotes_bday_03_dl.sc:25:2"
     },
     {
         "name": "Emote92",
@@ -1154,7 +1154,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_26_0",
-        "filename": "emotes_womens_month_01_dl.sc:26:0"
+        "file_key": "emotes_womens_month_01_dl.sc:26:0"
     },
     {
         "name": "Emote93",
@@ -1167,7 +1167,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_26_1",
-        "filename": "emotes_womens_month_01_dl.sc:26:1"
+        "file_key": "emotes_womens_month_01_dl.sc:26:1"
     },
     {
         "name": "Emote94",
@@ -1180,7 +1180,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_26_2",
-        "filename": "emotes_womens_month_01_dl.sc:26:2"
+        "file_key": "emotes_womens_month_01_dl.sc:26:2"
     },
     {
         "name": "Emote95",
@@ -1193,7 +1193,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_27_0",
-        "filename": "emotes_crl_20win_01_dl.sc:27:0"
+        "file_key": "emotes_crl_20win_01_dl.sc:27:0"
     },
     {
         "name": "Emote96",
@@ -1206,7 +1206,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_28_0",
-        "filename": "emotes_april_fools_01_dl.sc:28:0"
+        "file_key": "emotes_april_fools_01_dl.sc:28:0"
     },
     {
         "name": "Emote97",
@@ -1219,7 +1219,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_28_1",
-        "filename": "emotes_april_fools_01_dl.sc:28:1"
+        "file_key": "emotes_april_fools_01_dl.sc:28:1"
     },
     {
         "name": "Emote98",
@@ -1232,7 +1232,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_29_0",
-        "filename": "emotes_spring_01_dl.sc:29:0"
+        "file_key": "emotes_spring_01_dl.sc:29:0"
     },
     {
         "name": "Emote99",
@@ -1245,7 +1245,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_29_1",
-        "filename": "emotes_spring_01_dl.sc:29:1"
+        "file_key": "emotes_spring_01_dl.sc:29:1"
     },
     {
         "name": "Emote100",
@@ -1258,7 +1258,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_29_2",
-        "filename": "emotes_spring_01_dl.sc:29:2"
+        "file_key": "emotes_spring_01_dl.sc:29:2"
     },
     {
         "name": "Emote101",
@@ -1271,7 +1271,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_29_3",
-        "filename": "emotes_spring_01_dl.sc:29:3"
+        "file_key": "emotes_spring_01_dl.sc:29:3"
     },
     {
         "name": "Emote102",
@@ -1284,7 +1284,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_30_0",
-        "filename": "emotes_goblin_brawler_01_dl.sc:30:0"
+        "file_key": "emotes_goblin_brawler_01_dl.sc:30:0"
     },
     {
         "name": "Emote103",
@@ -1297,7 +1297,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_30_1",
-        "filename": "emotes_goblin_brawler_01_dl.sc:30:1"
+        "file_key": "emotes_goblin_brawler_01_dl.sc:30:1"
     },
     {
         "name": "Emote104",
@@ -1310,7 +1310,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_31_0",
-        "filename": "emotes_prince_01_dl.sc:31:0"
+        "file_key": "emotes_prince_01_dl.sc:31:0"
     },
     {
         "name": "Emote105",
@@ -1323,7 +1323,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_31_1",
-        "filename": "emotes_prince_01_dl.sc:31:1"
+        "file_key": "emotes_prince_01_dl.sc:31:1"
     },
     {
         "name": "Emote106",
@@ -1336,7 +1336,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_31_2",
-        "filename": "emotes_prince_01_dl.sc:31:2"
+        "file_key": "emotes_prince_01_dl.sc:31:2"
     },
     {
         "name": "Emote107",
@@ -1349,7 +1349,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_31_3",
-        "filename": "emotes_prince_01_dl.sc:31:3"
+        "file_key": "emotes_prince_01_dl.sc:31:3"
     },
     {
         "name": "Emote108",
@@ -1362,7 +1362,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_32_0",
-        "filename": "emotes_dragon_boat_01_dl.sc:32:0"
+        "file_key": "emotes_dragon_boat_01_dl.sc:32:0"
     },
     {
         "name": "Emote109",
@@ -1375,7 +1375,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_32_1",
-        "filename": "emotes_dragon_boat_01_dl.sc:32:1"
+        "file_key": "emotes_dragon_boat_01_dl.sc:32:1"
     },
     {
         "name": "Emote110",
@@ -1388,7 +1388,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_32_2",
-        "filename": "emotes_dragon_boat_01_dl.sc:32:2"
+        "file_key": "emotes_dragon_boat_01_dl.sc:32:2"
     },
     {
         "name": "Emote111",
@@ -1401,7 +1401,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_32_3",
-        "filename": "emotes_dragon_boat_01_dl.sc:32:3"
+        "file_key": "emotes_dragon_boat_01_dl.sc:32:3"
     },
     {
         "name": "Emote112",
@@ -1414,7 +1414,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_33_0",
-        "filename": "emotes_clashnights_01_dl.sc:33:0"
+        "file_key": "emotes_clashnights_01_dl.sc:33:0"
     },
     {
         "name": "Emote113",
@@ -1426,7 +1426,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_33_1",
-        "filename": "emotes_clashnights_01_dl.sc:33:1"
+        "file_key": "emotes_clashnights_01_dl.sc:33:1"
     },
     {
         "name": "Emote114",
@@ -1439,7 +1439,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_34_0",
-        "filename": "emotes_fish_slap_01_dl.sc:34:0"
+        "file_key": "emotes_fish_slap_01_dl.sc:34:0"
     },
     {
         "name": "Emote115",
@@ -1452,7 +1452,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_36_0",
-        "filename": "emotes_fisherman_01_dl.sc:36:0"
+        "file_key": "emotes_fisherman_01_dl.sc:36:0"
     },
     {
         "name": "Emote116",
@@ -1465,7 +1465,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_36_1",
-        "filename": "emotes_fisherman_01_dl.sc:36:1"
+        "file_key": "emotes_fisherman_01_dl.sc:36:1"
     },
     {
         "name": "Emote117",
@@ -1478,7 +1478,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_36_2",
-        "filename": "emotes_fisherman_01_dl.sc:36:2"
+        "file_key": "emotes_fisherman_01_dl.sc:36:2"
     },
     {
         "name": "Emote118",
@@ -1491,7 +1491,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_36_3",
-        "filename": "emotes_fisherman_01_dl.sc:36:3"
+        "file_key": "emotes_fisherman_01_dl.sc:36:3"
     },
     {
         "name": "Emote119",
@@ -1504,7 +1504,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_37_0",
-        "filename": "emotes_shipwreck_kingPirate_dl.sc:37:0"
+        "file_key": "emotes_shipwreck_kingPirate_dl.sc:37:0"
     },
     {
         "name": "Emote120",
@@ -1517,7 +1517,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_39_0",
-        "filename": "emotes_shipwreck_02_dl.sc:39:0"
+        "file_key": "emotes_shipwreck_02_dl.sc:39:0"
     },
     {
         "name": "Emote121",
@@ -1530,7 +1530,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_40_0",
-        "filename": "emotes_shipwreck_03_dl.sc:40:0"
+        "file_key": "emotes_shipwreck_03_dl.sc:40:0"
     },
     {
         "name": "Emote122",
@@ -1543,7 +1543,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_40_1",
-        "filename": "emotes_shipwreck_03_dl.sc:40:1"
+        "file_key": "emotes_shipwreck_03_dl.sc:40:1"
     },
     {
         "name": "Emote123",
@@ -1556,7 +1556,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_40_2",
-        "filename": "emotes_shipwreck_03_dl.sc:40:2"
+        "file_key": "emotes_shipwreck_03_dl.sc:40:2"
     },
     {
         "name": "Emote124",
@@ -1569,7 +1569,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_41_0",
-        "filename": "emotes_miner_01_dl.sc:41:0"
+        "file_key": "emotes_miner_01_dl.sc:41:0"
     },
     {
         "name": "Emote125",
@@ -1582,7 +1582,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_41_1",
-        "filename": "emotes_miner_01_dl.sc:41:1"
+        "file_key": "emotes_miner_01_dl.sc:41:1"
     },
     {
         "name": "Emote126",
@@ -1595,7 +1595,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_42_0",
-        "filename": "emotes_princess_glasses_01_dl.sc:42:0"
+        "file_key": "emotes_princess_glasses_01_dl.sc:42:0"
     },
     {
         "name": "Emote127",
@@ -1608,7 +1608,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_44_0",
-        "filename": "emotes_night_witch_01_dl.sc:44:0"
+        "file_key": "emotes_night_witch_01_dl.sc:44:0"
     },
     {
         "name": "Emote128",
@@ -1621,7 +1621,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_45_0",
-        "filename": "emotes_night_witch_clap_01_dl.sc:45:0"
+        "file_key": "emotes_night_witch_clap_01_dl.sc:45:0"
     },
     {
         "name": "Emote129",
@@ -1634,7 +1634,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_46_0",
-        "filename": "emotes_scid_chicken_01_dl.sc:46:0"
+        "file_key": "emotes_scid_chicken_01_dl.sc:46:0"
     },
     {
         "name": "Emote130",
@@ -1647,7 +1647,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_47_0",
-        "filename": "emotes_golden_week_01_dl.sc:47:0"
+        "file_key": "emotes_golden_week_01_dl.sc:47:0"
     },
     {
         "name": "Emote131",
@@ -1660,7 +1660,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_49_0",
-        "filename": "emotes_elixir_golem_01_dl.sc:49:0"
+        "file_key": "emotes_elixir_golem_01_dl.sc:49:0"
     },
     {
         "name": "Emote132",
@@ -1673,7 +1673,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_49_1",
-        "filename": "emotes_elixir_golem_01_dl.sc:49:1"
+        "file_key": "emotes_elixir_golem_01_dl.sc:49:1"
     },
     {
         "name": "Emote133",
@@ -1686,7 +1686,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_50_0",
-        "filename": "emotes_halloween_01_dl.sc:50:0"
+        "file_key": "emotes_halloween_01_dl.sc:50:0"
     },
     {
         "name": "Emote134",
@@ -1699,7 +1699,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_50_1",
-        "filename": "emotes_halloween_01_dl.sc:50:1"
+        "file_key": "emotes_halloween_01_dl.sc:50:1"
     },
     {
         "name": "Emote135",
@@ -1712,7 +1712,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_50_2",
-        "filename": "emotes_halloween_01_dl.sc:50:2"
+        "file_key": "emotes_halloween_01_dl.sc:50:2"
     },
     {
         "name": "Emote136",
@@ -1725,7 +1725,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_50_3",
-        "filename": "emotes_halloween_01_dl.sc:50:3"
+        "file_key": "emotes_halloween_01_dl.sc:50:3"
     },
     {
         "name": "Emote137",
@@ -1738,7 +1738,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_51_0",
-        "filename": "emotes_halloween_02_dl.sc:51:0"
+        "file_key": "emotes_halloween_02_dl.sc:51:0"
     },
     {
         "name": "Emote138",
@@ -1751,7 +1751,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_52_0",
-        "filename": "emotes_goblin_feast_01_dl.sc:52:0"
+        "file_key": "emotes_goblin_feast_01_dl.sc:52:0"
     },
     {
         "name": "Emote139",
@@ -1764,7 +1764,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_52_1",
-        "filename": "emotes_goblin_feast_01_dl.sc:52:1"
+        "file_key": "emotes_goblin_feast_01_dl.sc:52:1"
     },
     {
         "name": "Emote140",
@@ -1777,7 +1777,7 @@
         "available_for_offer": true,
         "exclusive": false,
         "key": "emote_52_2",
-        "filename": "emotes_goblin_feast_01_dl.sc:52:2"
+        "file_key": "emotes_goblin_feast_01_dl.sc:52:2"
     },
     {
         "name": "Emote141",
@@ -1790,7 +1790,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_54_0",
-        "filename": "emotes_xmass_hog_lights_dl.sc:54:0"
+        "file_key": "emotes_xmass_hog_lights_dl.sc:54:0"
     },
     {
         "name": "Emote142",
@@ -1803,7 +1803,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_55_0",
-        "filename": "emotes_xmass_santa_giant_dl.sc:55:0"
+        "file_key": "emotes_xmass_santa_giant_dl.sc:55:0"
     },
     {
         "name": "Emote143",
@@ -1816,7 +1816,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_56_0",
-        "filename": "emotes_xmass_barb_nutcracker_dl.sc:56:0"
+        "file_key": "emotes_xmass_barb_nutcracker_dl.sc:56:0"
     },
     {
         "name": "Emote144",
@@ -1829,7 +1829,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_60_0",
-        "filename": "emotes_crl_king_headset_dl.sc:60:0"
+        "file_key": "emotes_crl_king_headset_dl.sc:60:0"
     },
     {
         "name": "Emote145",
@@ -1842,7 +1842,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_62_0",
-        "filename": "emotes_lny_01_dl.sc:62:0"
+        "file_key": "emotes_lny_01_dl.sc:62:0"
     },
     {
         "name": "Emote146",
@@ -1855,7 +1855,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_63_0",
-        "filename": "emotes_lny_02_dl.sc:63:0"
+        "file_key": "emotes_lny_02_dl.sc:63:0"
     },
     {
         "name": "Emote147",
@@ -1868,7 +1868,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_63_1",
-        "filename": "emotes_lny_02_dl.sc:63:1"
+        "file_key": "emotes_lny_02_dl.sc:63:1"
     },
     {
         "name": "Emote148",
@@ -1881,7 +1881,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_63_2",
-        "filename": "emotes_lny_02_dl.sc:63:2"
+        "file_key": "emotes_lny_02_dl.sc:63:2"
     },
     {
         "name": "Emote149",
@@ -1894,7 +1894,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_64_0",
-        "filename": "emotes_king_02_dl.sc:64:0"
+        "file_key": "emotes_king_02_dl.sc:64:0"
     },
     {
         "name": "Emote150",
@@ -1907,7 +1907,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_65_0",
-        "filename": "emotes_log_02_dl.sc:65:0"
+        "file_key": "emotes_log_02_dl.sc:65:0"
     },
     {
         "name": "Emote151",
@@ -1920,7 +1920,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_65_1",
-        "filename": "emotes_log_02_dl.sc:65:1"
+        "file_key": "emotes_log_02_dl.sc:65:1"
     },
     {
         "name": "Emote152",
@@ -1933,7 +1933,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_66_0",
-        "filename": "emotes_ramRiderFeb2020_01_dl.sc:66:0"
+        "file_key": "emotes_ramRiderFeb2020_01_dl.sc:66:0"
     },
     {
         "name": "Emote153",
@@ -1946,7 +1946,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_69_0",
-        "filename": "emotes_4th_bday_pekka_dl.sc:69:0"
+        "file_key": "emotes_4th_bday_pekka_dl.sc:69:0"
     },
     {
         "name": "Emote154",
@@ -1959,7 +1959,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_70_0",
-        "filename": "emotes_4th_bday_sparky_dl.sc:70:0"
+        "file_key": "emotes_4th_bday_sparky_dl.sc:70:0"
     },
     {
         "name": "Emote155",
@@ -1972,7 +1972,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_71_0",
-        "filename": "emotes_4th_bday_battleHealer_dl.sc:71:0"
+        "file_key": "emotes_4th_bday_battleHealer_dl.sc:71:0"
     },
     {
         "name": "Emote156",
@@ -1985,7 +1985,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_72_0",
-        "filename": "emotes_4th_bday_fish_dl.sc:72:0"
+        "file_key": "emotes_4th_bday_fish_dl.sc:72:0"
     },
     {
         "name": "Emote157",
@@ -1998,7 +1998,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_73_0",
-        "filename": "emotes_4th_bday_royalGiant_dl.sc:73:0"
+        "file_key": "emotes_4th_bday_royalGiant_dl.sc:73:0"
     },
     {
         "name": "Emote158",
@@ -2011,7 +2011,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_74_0",
-        "filename": "emotes_heist_magicArcher_dl.sc:74:0"
+        "file_key": "emotes_heist_magicArcher_dl.sc:74:0"
     },
     {
         "name": "Emote159",
@@ -2024,7 +2024,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_75_0",
-        "filename": "emotes_heist_hunter_dl.sc:75:0"
+        "file_key": "emotes_heist_hunter_dl.sc:75:0"
     },
     {
         "name": "Emote160",
@@ -2037,7 +2037,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_77_0",
-        "filename": "emotes_heist_bandit_dl.sc:77:0"
+        "file_key": "emotes_heist_bandit_dl.sc:77:0"
     },
     {
         "name": "Emote161",
@@ -2050,7 +2050,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_78_0",
-        "filename": "emotes_feb2020_01_dl.sc:78:0"
+        "file_key": "emotes_feb2020_01_dl.sc:78:0"
     },
     {
         "name": "Emote162",
@@ -2063,7 +2063,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_78_2",
-        "filename": "emotes_feb2020_01_dl.sc:78:2"
+        "file_key": "emotes_feb2020_01_dl.sc:78:2"
     },
     {
         "name": "Emote163",
@@ -2076,7 +2076,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_80_0",
-        "filename": "emotes_10yr_king_dl.sc:80:0"
+        "file_key": "emotes_10yr_king_dl.sc:80:0"
     },
     {
         "name": "Emote164",
@@ -2089,7 +2089,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_81_0",
-        "filename": "emotes_10yr_knight_dl.sc:81:0"
+        "file_key": "emotes_10yr_knight_dl.sc:81:0"
     },
     {
         "name": "Emote165",
@@ -2102,7 +2102,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_82_0",
-        "filename": "emotes_10yr_infernoDragon_dl.sc:82:0"
+        "file_key": "emotes_10yr_infernoDragon_dl.sc:82:0"
     },
     {
         "name": "Emote166",
@@ -2115,7 +2115,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_83_0",
-        "filename": "emotes_10yr_lavaHound_dl.sc:83:0"
+        "file_key": "emotes_10yr_lavaHound_dl.sc:83:0"
     },
     {
         "name": "Emote167",
@@ -2128,7 +2128,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_85_0",
-        "filename": "emotes_s12_prince_dl.sc:85:0"
+        "file_key": "emotes_s12_prince_dl.sc:85:0"
     },
     {
         "name": "Emote168",
@@ -2141,7 +2141,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_86_0",
-        "filename": "emotes_s12_pony_dl.sc:86:0"
+        "file_key": "emotes_s12_pony_dl.sc:86:0"
     },
     {
         "name": "Emote169",
@@ -2154,7 +2154,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_87_0",
-        "filename": "emotes_s12_darkPrince_dl.sc:87:0"
+        "file_key": "emotes_s12_darkPrince_dl.sc:87:0"
     },
     {
         "name": "Emote170",
@@ -2167,7 +2167,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_89_0",
-        "filename": "emotes_PEKKA_boombox_dl.sc:89:0"
+        "file_key": "emotes_PEKKA_boombox_dl.sc:89:0"
     },
     {
         "name": "Emote171",
@@ -2180,7 +2180,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_90_0",
-        "filename": "emotes_PEKKA_coconut_dl.sc:90:0"
+        "file_key": "emotes_PEKKA_coconut_dl.sc:90:0"
     },
     {
         "name": "Emote172",
@@ -2193,7 +2193,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_91_0",
-        "filename": "emotes_skeleton_snorkel_dl.sc:91:0"
+        "file_key": "emotes_skeleton_snorkel_dl.sc:91:0"
     },
     {
         "name": "Emote173",
@@ -2206,7 +2206,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_93_0",
-        "filename": "emotes_archers_01_dl.sc:93:0"
+        "file_key": "emotes_archers_01_dl.sc:93:0"
     },
     {
         "name": "Emote174",
@@ -2219,7 +2219,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_93_1",
-        "filename": "emotes_archers_01_dl.sc:93:1"
+        "file_key": "emotes_archers_01_dl.sc:93:1"
     },
     {
         "name": "Emote175",
@@ -2232,7 +2232,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_93_2",
-        "filename": "emotes_archers_01_dl.sc:93:2"
+        "file_key": "emotes_archers_01_dl.sc:93:2"
     },
     {
         "name": "Emote176",
@@ -2245,7 +2245,7 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_96_0",
-        "filename": "emotes_royalGuards_01_dl.sc:96:0"
+        "file_key": "emotes_royalGuards_01_dl.sc:96:0"
     },
     {
         "name": "Emote177",
@@ -2258,7 +2258,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_97_0",
-        "filename": "emotes_cw_golem_boat_dl.sc:97:0"
+        "file_key": "emotes_cw_golem_boat_dl.sc:97:0"
     },
     {
         "name": "Emote178",
@@ -2271,7 +2271,7 @@
         "available_for_offer": false,
         "exclusive": false,
         "key": "emote_98_0",
-        "filename": "emotes_cw_goblinDance_dl.sc:98:0"
+        "file_key": "emotes_cw_goblinDance_dl.sc:98:0"
     },
     {
         "name": "Emote179",
@@ -2284,6 +2284,6 @@
         "available_for_offer": false,
         "exclusive": true,
         "key": "emote_99_0",
-        "filename": "emotes_cw_goblinThumb_dl.sc:99:0"
+        "file_key": "emotes_cw_goblinThumb_dl.sc:99:0"
     }
 ]
