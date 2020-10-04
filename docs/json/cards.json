@@ -748,6 +748,17 @@
         "id": 26000080
     },
     {
+        "key": "electro-giant",
+        "name": "Electro Giant",
+        "sc_key": "ElectroGiant",
+        "elixir": 8,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 10,
+        "description": "A hulking hunk of man and metal. Zap's nearby enemies when attacked",
+        "id": 26000085
+    },
+    {
         "key": "cannon",
         "name": "Cannon",
         "sc_key": "Cannon",
