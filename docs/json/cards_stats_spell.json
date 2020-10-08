@@ -3356,7 +3356,7 @@
             "damage_per_second": 0,
             "hit_frequency": 250,
             "damage_reduction": 0,
-            "heal_per_second": 208,
+            "heal_per_second": 189,
             "hit_speed_multiplier": 0,
             "speed_multiplier": 0,
             "spawn_speed_multiplier": 0,

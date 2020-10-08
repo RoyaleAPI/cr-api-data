@@ -20136,5 +20136,23 @@
                 "sc_key": "TID_PARTY_MODE_DELIVERYDROP"
             }
         }
+    },
+    {
+        "name": "Electro_Spirit_Tournament",
+        "tid": "TID_ESPIRIT_BUILDADECK",
+        "card_level_adjustment": "Tournament",
+        "deck_selection": "EventDeck",
+        "battle_timeline": "Default",
+        "forced_deck_cards": "ElectroSpirit",
+        "players": "PvP",
+        "event_deck_set_limit": "Event_ElectroSpiritTease",
+        "icon": "icon_mode_retro",
+        "valid_challenge_mode": true,
+        "no_draws": true,
+        "id": 72000278,
+        "name_en": null,
+        "_lang": {
+            "tid": null
+        }
     }
 ]

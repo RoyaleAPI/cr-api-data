@@ -11332,7 +11332,7 @@
         "death_spawn_count": 0,
         "death_spawn_character": "BabyDragon",
         "death_spawn_count2": 0,
-        "death_spawn_character2": "SkeletonDragon",
+        "death_spawn_character2": "ElectroDragon",
         "death_spawn_character3": "InfernoDragon",
         "randomize_death_spawn": true,
         "death_spawn_projectile": null,

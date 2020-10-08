@@ -748,6 +748,17 @@
         "id": 26000080
     },
     {
+        "key": "electro-spirit",
+        "name": "Electro Spirit",
+        "sc_key": "ElectroSpirit",
+        "elixir": 1,
+        "type": "Troop",
+        "rarity": "Common",
+        "arena": 10,
+        "description": "Jumps on enemies, dealing Area Damage and stunning up to 9 enemy Troops. Locked in an eternal battle with Knight for the best mustache.",
+        "id": 26000084
+    },
+    {
         "key": "electro-giant",
         "name": "Electro Giant",
         "sc_key": "ElectroGiant",

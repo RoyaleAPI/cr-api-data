@@ -2285,5 +2285,57 @@
         "exclusive": true,
         "key": "emote_99_0",
         "file_key": "emotes_cw_goblinThumb_dl.sc:99:0"
+    },
+    {
+        "name": "Emote180",
+        "index_hi": 100,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_electroGiant_01_01_dl.ogg",
+        "sc_file": "sc/emotes_electroGiant_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_100_0",
+        "file_key": "emotes_electroGiant_01_dl.sc:100:0"
+    },
+    {
+        "name": "Emote181",
+        "index_hi": 100,
+        "index_lo": 1,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_electroGiant_01_02_dl.ogg",
+        "sc_file": "sc/emotes_electroGiant_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_100_1",
+        "file_key": "emotes_electroGiant_01_dl.sc:100:1"
+    },
+    {
+        "name": "Emote182",
+        "index_hi": 100,
+        "index_lo": 2,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_electroGiant_01_03_dl.ogg",
+        "sc_file": "sc/emotes_electroGiant_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_100_2",
+        "file_key": "emotes_electroGiant_01_dl.sc:100:2"
+    },
+    {
+        "name": "Emote183",
+        "index_hi": 100,
+        "index_lo": 3,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_electroGiant_01_04_dl.ogg",
+        "sc_file": "sc/emotes_electroGiant_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_100_3",
+        "file_key": "emotes_electroGiant_01_dl.sc:100:3"
     }
 ]
