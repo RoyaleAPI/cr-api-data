@@ -78,8 +78,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -163,8 +161,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Archers",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -248,8 +244,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Goblins",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -333,8 +327,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Giant",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -418,8 +410,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "P.E.K.K.A",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -503,8 +493,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Minions",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -588,8 +576,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Balloon",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -673,8 +659,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Witch",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -758,8 +742,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Barbarians",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -843,8 +825,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Golem",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -928,8 +908,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Skeletons",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1013,8 +991,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Valkyrie",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1098,8 +1074,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Skeleton Army",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1183,8 +1157,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Bomber",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1268,8 +1240,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Musketeer",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1353,8 +1323,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Baby Dragon",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1438,8 +1406,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Prince",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1523,8 +1489,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Wizard",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1608,8 +1572,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Mini P.E.K.K.A",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1693,8 +1655,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Spear Goblins",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1778,8 +1738,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Giant Skeleton",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1863,8 +1821,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Hog Rider",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -1948,8 +1904,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Minion Horde",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2033,8 +1987,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Ice Wizard",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2118,8 +2070,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Royal Giant",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2203,8 +2153,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Guards",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2288,8 +2236,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Princess",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2373,8 +2319,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Dark Prince",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2458,8 +2402,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Three Musketeers",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2543,8 +2485,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Lava Hound",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2628,8 +2568,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Ice Spirit",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2713,8 +2651,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Fire Spirits",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2798,8 +2734,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Miner",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2883,8 +2817,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Sparky",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -2968,8 +2900,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Bowler",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3053,8 +2983,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Lumberjack",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3138,8 +3066,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Battle Ram",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3223,8 +3149,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Inferno Dragon",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3308,8 +3232,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Ice Golem",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3393,8 +3315,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Mega Minion",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3478,8 +3398,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Dart Goblin",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3563,8 +3481,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Goblin Gang",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3648,8 +3564,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Electro Wizard",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3733,8 +3647,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Elite Barbarians",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3818,8 +3730,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Hunter",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3903,8 +3813,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Executioner",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -3988,8 +3896,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Bandit",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4073,8 +3979,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Royal Recruits",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4158,8 +4062,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Night Witch",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4243,8 +4145,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Bats",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4328,8 +4228,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Royal Ghost",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4413,8 +4311,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Ram Rider",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4498,8 +4394,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Zappies",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4583,8 +4477,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Rascals",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4668,8 +4560,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Cannon Cart",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4753,8 +4643,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Mega Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": [
                 444,
@@ -4895,8 +4783,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Skeleton Barrel",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -4980,8 +4866,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Flying Machine",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5065,8 +4949,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Wall Breakers",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5150,8 +5032,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Royal Hogs",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5235,8 +5115,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Goblin Giant",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5320,8 +5198,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Fisherman",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5405,8 +5281,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Magic Archer",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5490,8 +5364,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Electro Dragon",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5575,8 +5447,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Firecracker",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5660,8 +5530,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5745,8 +5613,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5830,8 +5696,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Attacker",
             "name_en": "Elixir Golem",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -5915,8 +5779,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Battle Healer",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6000,8 +5862,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6085,8 +5945,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6170,8 +6028,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6255,8 +6111,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6340,8 +6194,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6425,8 +6277,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6510,8 +6360,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6595,8 +6443,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6680,8 +6526,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6765,8 +6609,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6850,8 +6692,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -6935,8 +6775,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Range",
             "name_en": "Skeleton Dragons",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -7020,8 +6858,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -7105,8 +6941,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -7190,8 +7024,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": "Defender",
             "name_en": "Knight",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -7275,8 +7107,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": null,
             "name_en": "Electro Spirit",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -7360,8 +7190,6 @@
             "deploy_end_y": 0,
             "pve_defense_type": null,
             "name_en": "Electro Giant",
-            "speed_en": null,
-            "dps": null,
             "hitpoints_per_level": null,
             "damage_per_level": null,
             "dps_per_level": null,
@@ -29672,7 +29500,7 @@
             "scale": 80,
             "homing": true,
             "hit_effect_at_projectile": false,
-            "damage": 75,
+            "damage": 39,
             "pushback_all": false,
             "aoe_to_air": false,
             "aoe_to_ground": false,
@@ -29694,37 +29522,37 @@
             "check_collisions": false,
             "hide_when_delayed": false,
             "damage_per_level": [
+                39,
+                42,
+                47,
+                51,
+                56,
+                62,
+                68,
                 75,
                 82,
                 90,
                 99,
                 109,
                 120,
-                132,
-                144,
-                159,
-                174,
-                192,
-                210,
-                231,
-                254
+                132
             ],
-            "dps": 37,
+            "dps": 19,
             "dps_per_level": [
-                37,
+                19,
+                20,
+                22,
+                25,
+                27,
+                30,
+                33,
+                36,
                 40,
                 44,
-                49,
-                54,
-                59,
-                65,
-                71,
-                78,
-                86,
-                94,
-                103,
-                114,
-                125
+                48,
+                53,
+                58,
+                64
             ],
             "target_buff_data": {
                 "name": "ZapFreeze",
@@ -30033,7 +29861,40 @@
             "summon_character": "Knight",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Archer",
@@ -30279,7 +30140,25 @@
             "summon_character": "Archer",
             "summon_number": 2,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                119,
+                130,
+                143,
+                158,
+                173,
+                190,
+                209,
+                229,
+                252,
+                277,
+                304,
+                334,
+                367,
+                403
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Goblin",
@@ -30521,7 +30400,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Goblin"
+            "name_en": "Goblin",
+            "hitpoints_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "damage_per_level": [
+                47,
+                51,
+                56,
+                62,
+                68,
+                75,
+                82,
+                90,
+                99,
+                109,
+                120,
+                132,
+                145,
+                159
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Giant",
@@ -30774,7 +30686,36 @@
             "summon_character": "Giant",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1861,
+                2047,
+                2251,
+                2475,
+                2717,
+                2977,
+                3275,
+                3591,
+                3945,
+                4336,
+                4764,
+                5229
+            ],
+            "damage_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175,
+                192,
+                211,
+                231,
+                254,
+                279,
+                307,
+                337
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Pekka",
@@ -31020,7 +30961,30 @@
             "summon_character": "Pekka",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                2350,
+                2585,
+                2843,
+                3125,
+                3431,
+                3760,
+                4136,
+                4535,
+                4982
+            ],
+            "damage_per_level": [
+                510,
+                561,
+                617,
+                678,
+                744,
+                816,
+                897,
+                984,
+                1081
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Minion",
@@ -31262,7 +31226,25 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Minion"
+            "name_en": "Minion",
+            "hitpoints_per_level": [
+                90,
+                99,
+                108,
+                119,
+                131,
+                144,
+                158,
+                173,
+                190,
+                209,
+                230,
+                252,
+                278,
+                305
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Balloon",
@@ -31515,7 +31497,30 @@
             "summon_character": "Balloon",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1050,
+                1155,
+                1270,
+                1396,
+                1533,
+                1680,
+                1848,
+                2026,
+                2226
+            ],
+            "damage_per_level": [
+                600,
+                660,
+                726,
+                798,
+                876,
+                960,
+                1056,
+                1158,
+                1272
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Witch",
@@ -31768,7 +31773,20 @@
             "summon_character": "Witch",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                524,
+                576,
+                634,
+                696,
+                765,
+                838,
+                922,
+                1011,
+                1110
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Skeleton",
@@ -32010,7 +32028,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Skeleton"
+            "name_en": "Skeleton",
+            "hitpoints_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98,
+                108
+            ],
+            "damage_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98,
+                108
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Barbarian",
@@ -32252,7 +32303,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Barbarian"
+            "name_en": "Barbarian",
+            "hitpoints_per_level": [
+                262,
+                288,
+                317,
+                348,
+                382,
+                419,
+                461,
+                505,
+                555,
+                610,
+                670,
+                736,
+                809,
+                888
+            ],
+            "damage_per_level": [
+                75,
+                82,
+                90,
+                99,
+                109,
+                120,
+                132,
+                144,
+                159,
+                174,
+                192,
+                210,
+                231,
+                254
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Golem",
@@ -32505,7 +32589,30 @@
             "summon_character": "Golem",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                3200,
+                3520,
+                3872,
+                4256,
+                4672,
+                5120,
+                5632,
+                6176,
+                6784
+            ],
+            "damage_per_level": [
+                195,
+                214,
+                235,
+                259,
+                284,
+                312,
+                343,
+                376,
+                413
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Golemite",
@@ -32747,7 +32854,30 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Golemite"
+            "name_en": "Golemite",
+            "hitpoints_per_level": [
+                650,
+                715,
+                786,
+                864,
+                949,
+                1040,
+                1144,
+                1254,
+                1378
+            ],
+            "damage_per_level": [
+                31,
+                34,
+                37,
+                41,
+                45,
+                49,
+                54,
+                59,
+                65
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Valkyrie",
@@ -33000,7 +33130,36 @@
             "summon_character": "Valkyrie",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                940,
+                1034,
+                1137,
+                1250,
+                1372,
+                1504,
+                1654,
+                1814,
+                1992,
+                2190,
+                2406,
+                2641
+            ],
+            "damage_per_level": [
+                126,
+                138,
+                152,
+                167,
+                183,
+                201,
+                221,
+                243,
+                267,
+                293,
+                322,
+                354
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Bomber",
@@ -33253,7 +33412,25 @@
             "summon_character": "Bomber",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                188,
+                206,
+                227,
+                250,
+                274,
+                300,
+                330,
+                362,
+                398,
+                438,
+                481,
+                528,
+                580,
+                637
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Musketeer",
@@ -33506,7 +33683,23 @@
             "summon_character": "Musketeer",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                340,
+                374,
+                411,
+                452,
+                496,
+                544,
+                598,
+                656,
+                720,
+                792,
+                870,
+                955
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BabyDragon",
@@ -33752,7 +33945,20 @@
             "summon_character": "BabyDragon",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                720,
+                792,
+                871,
+                957,
+                1051,
+                1152,
+                1267,
+                1389,
+                1526
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "MiniPekka",
@@ -33998,7 +34204,36 @@
             "summon_character": "MiniPekka",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                642,
+                706,
+                776,
+                853,
+                937,
+                1027,
+                1129,
+                1239,
+                1361,
+                1495,
+                1643,
+                1804
+            ],
+            "damage_per_level": [
+                340,
+                374,
+                411,
+                452,
+                496,
+                544,
+                598,
+                656,
+                720,
+                792,
+                870,
+                955
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Wizard",
@@ -34251,7 +34486,23 @@
             "summon_character": "Wizard",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                340,
+                374,
+                411,
+                452,
+                496,
+                544,
+                598,
+                656,
+                720,
+                792,
+                870,
+                955
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Prince",
@@ -34504,7 +34755,30 @@
             "summon_character": "Prince",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1255,
+                1380,
+                1518,
+                1669,
+                1832,
+                2008,
+                2208,
+                2422,
+                2660
+            ],
+            "damage_per_level": [
+                245,
+                269,
+                296,
+                325,
+                357,
+                392,
+                431,
+                472,
+                519
+            ],
+            "dps_per_level": null
         },
         {
             "name": "SpearGoblin",
@@ -34746,7 +35020,25 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Spear Goblin"
+            "name_en": "Spear Goblin",
+            "hitpoints_per_level": [
+                52,
+                57,
+                62,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110,
+                121,
+                133,
+                146,
+                160,
+                176
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "GiantSkeleton",
@@ -34992,7 +35284,30 @@
             "summon_character": "GiantSkeleton",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                2100,
+                2310,
+                2541,
+                2793,
+                3066,
+                3360,
+                3696,
+                4053,
+                4452
+            ],
+            "damage_per_level": [
+                130,
+                143,
+                157,
+                172,
+                189,
+                208,
+                228,
+                250,
+                275
+            ],
+            "dps_per_level": null
         },
         {
             "name": "HogRider",
@@ -35238,7 +35553,36 @@
             "summon_character": "HogRider",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                800,
+                880,
+                968,
+                1064,
+                1168,
+                1280,
+                1408,
+                1544,
+                1696,
+                1864,
+                2048,
+                2248
+            ],
+            "damage_per_level": [
+                150,
+                165,
+                181,
+                199,
+                219,
+                240,
+                264,
+                289,
+                318,
+                349,
+                384,
+                421
+            ],
+            "dps_per_level": null
         },
         {
             "name": "TowerPrincess",
@@ -35480,7 +35824,25 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Archer"
+            "name_en": "Archer",
+            "hitpoints_per_level": [
+                5,
+                5,
+                6,
+                6,
+                7,
+                8,
+                8,
+                9,
+                10,
+                11,
+                12,
+                14,
+                15,
+                16
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "IceWizard",
@@ -35726,7 +36088,17 @@
             "summon_character": "IceWizard",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                590,
+                649,
+                713,
+                784,
+                861,
+                926
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RoyalGiant",
@@ -35972,7 +36344,25 @@
             "summon_character": "RoyalGiant",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1200,
+                1320,
+                1452,
+                1596,
+                1752,
+                1920,
+                2112,
+                2316,
+                2544,
+                2796,
+                3072,
+                3372,
+                3708,
+                4068
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Princess",
@@ -36225,7 +36615,17 @@
             "summon_character": "Princess",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                216,
+                237,
+                261,
+                287,
+                315,
+                339
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DarkPrince",
@@ -36471,7 +36871,30 @@
             "summon_character": "DarkPrince",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                775,
+                852,
+                937,
+                1030,
+                1131,
+                1240,
+                1364,
+                1495,
+                1643
+            ],
+            "damage_per_level": [
+                155,
+                170,
+                187,
+                206,
+                226,
+                248,
+                272,
+                299,
+                328
+            ],
+            "dps_per_level": null
         },
         {
             "name": "SkeletonWarrior",
@@ -36713,7 +37136,30 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Guard"
+            "name_en": "Guard",
+            "hitpoints_per_level": [
+                68,
+                74,
+                82,
+                90,
+                99,
+                108,
+                119,
+                131,
+                144
+            ],
+            "damage_per_level": [
+                68,
+                74,
+                82,
+                90,
+                99,
+                108,
+                119,
+                131,
+                144
+            ],
+            "dps_per_level": null
         },
         {
             "name": "LavaHound",
@@ -36959,7 +37405,17 @@
             "summon_character": "LavaHound",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                3150,
+                3465,
+                3811,
+                4189,
+                4599,
+                4945
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "LavaPups",
@@ -37201,7 +37657,17 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Lava Pups"
+            "name_en": "Lava Pups",
+            "hitpoints_per_level": [
+                179,
+                196,
+                216,
+                238,
+                261,
+                281
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RageBarbarian",
@@ -37447,7 +37913,24 @@
             "summon_character": "RageBarbarian",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1060,
+                1166,
+                1282,
+                1409,
+                1547,
+                1664
+            ],
+            "damage_per_level": [
+                200,
+                220,
+                242,
+                266,
+                292,
+                314
+            ],
+            "dps_per_level": null
         },
         {
             "name": "IceSpirits",
@@ -37693,7 +38176,25 @@
             "summon_character": "IceSpirits",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                90,
+                99,
+                108,
+                119,
+                131,
+                144,
+                158,
+                173,
+                190,
+                209,
+                230,
+                252,
+                278,
+                305
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "FireSpirits",
@@ -37939,7 +38440,25 @@
             "summon_character": "FireSpirits",
             "summon_number": 3,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                43,
+                47,
+                52,
+                57,
+                62,
+                68,
+                75,
+                82,
+                91,
+                100,
+                110,
+                120,
+                132,
+                145
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Miner",
@@ -38192,7 +38711,24 @@
             "summon_character": "Miner",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1000,
+                1100,
+                1210,
+                1330,
+                1460,
+                1570
+            ],
+            "damage_per_level": [
+                160,
+                176,
+                193,
+                212,
+                233,
+                251
+            ],
+            "dps_per_level": null
         },
         {
             "name": "ZapMachine",
@@ -38438,7 +38974,17 @@
             "summon_character": "ZapMachine",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1200,
+                1320,
+                1452,
+                1596,
+                1752,
+                1884
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Bowler",
@@ -38691,7 +39237,20 @@
             "summon_character": "Bowler",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1300,
+                1430,
+                1573,
+                1729,
+                1898,
+                2080,
+                2288,
+                2509,
+                2756
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "IceGolemite",
@@ -38937,7 +39496,36 @@
             "summon_character": "IceGolemite",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                565,
+                621,
+                683,
+                751,
+                824,
+                904,
+                994,
+                1090,
+                1197,
+                1316,
+                1446,
+                1587
+            ],
+            "damage_per_level": [
+                40,
+                44,
+                48,
+                53,
+                58,
+                64,
+                70,
+                77,
+                84,
+                93,
+                102,
+                112
+            ],
+            "dps_per_level": null
         },
         {
             "name": "MegaMinion",
@@ -39183,7 +39771,23 @@
             "summon_character": "MegaMinion",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                395,
+                434,
+                477,
+                525,
+                576,
+                632,
+                695,
+                762,
+                837,
+                920,
+                1011,
+                1109
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "InfernoDragon",
@@ -39429,7 +40033,24 @@
             "summon_character": "InfernoDragon",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1070,
+                1177,
+                1294,
+                1423,
+                1562,
+                1679
+            ],
+            "damage_per_level": [
+                30,
+                33,
+                36,
+                39,
+                43,
+                47
+            ],
+            "dps_per_level": null
         },
         {
             "name": "BattleRam",
@@ -39675,7 +40296,36 @@
             "summon_character": "BattleRam",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                430,
+                473,
+                520,
+                571,
+                627,
+                688,
+                756,
+                829,
+                911,
+                1001,
+                1100,
+                1208
+            ],
+            "damage_per_level": [
+                125,
+                137,
+                151,
+                166,
+                182,
+                200,
+                220,
+                241,
+                265,
+                291,
+                320,
+                351
+            ],
+            "dps_per_level": null
         },
         {
             "name": "BlowdartGoblin",
@@ -39921,7 +40571,23 @@
             "summon_character": "BlowdartGoblin",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                123,
+                135,
+                148,
+                163,
+                179,
+                196,
+                216,
+                237,
+                260,
+                286,
+                314,
+                345
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "ElectroWizard",
@@ -40167,7 +40833,24 @@
             "summon_character": "ElectroWizard",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                590,
+                649,
+                713,
+                784,
+                861,
+                926
+            ],
+            "damage_per_level": [
+                96,
+                105,
+                116,
+                127,
+                140,
+                150
+            ],
+            "dps_per_level": null
         },
         {
             "name": "AngryBarbarian",
@@ -40409,7 +41092,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Elite Barbarian"
+            "name_en": "Elite Barbarian",
+            "hitpoints_per_level": [
+                458,
+                503,
+                554,
+                609,
+                668,
+                732,
+                806,
+                883,
+                970,
+                1067,
+                1172,
+                1286,
+                1415,
+                1552
+            ],
+            "damage_per_level": [
+                142,
+                156,
+                171,
+                188,
+                207,
+                227,
+                249,
+                274,
+                301,
+                330,
+                363,
+                399,
+                438,
+                481
+            ],
+            "dps_per_level": null
         },
         {
             "name": "AxeMan",
@@ -40655,7 +41371,20 @@
             "summon_character": "AxeMan",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                760,
+                836,
+                919,
+                1010,
+                1109,
+                1216,
+                1337,
+                1466,
+                1611
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Assassin",
@@ -40901,7 +41630,24 @@
             "summon_character": "Assassin",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                750,
+                825,
+                907,
+                997,
+                1095,
+                1177
+            ],
+            "damage_per_level": [
+                160,
+                176,
+                193,
+                212,
+                233,
+                251
+            ],
+            "dps_per_level": null
         },
         {
             "name": "GhostOverlay",
@@ -41143,7 +41889,24 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Royal Ghost"
+            "name_en": "Royal Ghost",
+            "hitpoints_per_level": [
+                1000,
+                1100,
+                1210,
+                1330,
+                1460,
+                1570
+            ],
+            "damage_per_level": [
+                216,
+                237,
+                261,
+                287,
+                315,
+                339
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Ghost",
@@ -41389,7 +42152,24 @@
             "summon_character": "Ghost",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1000,
+                1100,
+                1210,
+                1330,
+                1460,
+                1570
+            ],
+            "damage_per_level": [
+                216,
+                237,
+                261,
+                287,
+                315,
+                339
+            ],
+            "dps_per_level": null
         },
         {
             "name": "MiniZapMachine",
@@ -41631,7 +42411,36 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Zappies"
+            "name_en": "Zappies",
+            "hitpoints_per_level": [
+                250,
+                275,
+                302,
+                332,
+                365,
+                400,
+                440,
+                482,
+                530,
+                582,
+                640,
+                702
+            ],
+            "damage_per_level": [
+                55,
+                60,
+                66,
+                73,
+                80,
+                88,
+                96,
+                106,
+                116,
+                128,
+                140,
+                154
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Hunter",
@@ -41884,7 +42693,20 @@
             "summon_character": "Hunter",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                524,
+                576,
+                634,
+                696,
+                765,
+                838,
+                922,
+                1011,
+                1110
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DarkWitch",
@@ -42130,7 +42952,24 @@
             "summon_character": "DarkWitch",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                750,
+                825,
+                907,
+                997,
+                1095,
+                1177
+            ],
+            "damage_per_level": [
+                260,
+                286,
+                314,
+                345,
+                379,
+                408
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Bat",
@@ -42372,7 +43211,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Bat"
+            "name_en": "Bat",
+            "hitpoints_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98,
+                108
+            ],
+            "damage_per_level": [
+                32,
+                35,
+                38,
+                42,
+                46,
+                51,
+                56,
+                61,
+                67,
+                74,
+                81,
+                89,
+                98,
+                108
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Recruit",
@@ -42614,7 +43486,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Royal Recruits"
+            "name_en": "Royal Recruits",
+            "hitpoints_per_level": [
+                208,
+                228,
+                251,
+                276,
+                303,
+                332,
+                366,
+                401,
+                440,
+                484,
+                532,
+                584,
+                642,
+                705
+            ],
+            "damage_per_level": [
+                52,
+                57,
+                62,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110,
+                121,
+                133,
+                146,
+                160,
+                176
+            ],
+            "dps_per_level": null
         },
         {
             "name": "RascalBoy",
@@ -42856,7 +43761,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Rascal Boy"
+            "name_en": "Rascal Boy",
+            "hitpoints_per_level": [
+                715,
+                786,
+                865,
+                950,
+                1043,
+                1144,
+                1258,
+                1379,
+                1515,
+                1665,
+                1830,
+                2009,
+                2209,
+                2423
+            ],
+            "damage_per_level": [
+                52,
+                57,
+                62,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110,
+                121,
+                133,
+                146,
+                160,
+                176
+            ],
+            "dps_per_level": null
         },
         {
             "name": "MovingCannon",
@@ -43102,7 +44040,20 @@
             "summon_character": "MovingCannon",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                558,
+                613,
+                675,
+                742,
+                814,
+                892,
+                982,
+                1076,
+                1182
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BrokenCannon",
@@ -43344,7 +44295,20 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Cannon Cart"
+            "name_en": "Cannon Cart",
+            "hitpoints_per_level": [
+                558,
+                613,
+                675,
+                742,
+                814,
+                892,
+                982,
+                1076,
+                1182
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "MegaKnight",
@@ -43590,7 +44554,24 @@
             "summon_character": "MegaKnight",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                3300,
+                3630,
+                3993,
+                4389,
+                4818,
+                5181
+            ],
+            "damage_per_level": [
+                222,
+                244,
+                268,
+                295,
+                324,
+                348
+            ],
+            "dps_per_level": null
         },
         {
             "name": "RascalGirl",
@@ -43832,7 +44813,25 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Rascal Girl"
+            "name_en": "Rascal Girl",
+            "hitpoints_per_level": [
+                102,
+                112,
+                123,
+                135,
+                148,
+                163,
+                179,
+                196,
+                216,
+                237,
+                261,
+                286,
+                315,
+                345
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "SkeletonBalloon",
@@ -44078,7 +45077,25 @@
             "summon_character": "SkeletonBalloon",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                255,
+                280,
+                308,
+                339,
+                372,
+                408,
+                448,
+                492,
+                540,
+                594,
+                652,
+                716,
+                787,
+                864
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "DartBarrell",
@@ -44324,7 +45341,23 @@
             "summon_character": "DartBarrell",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                290,
+                319,
+                350,
+                385,
+                423,
+                464,
+                510,
+                559,
+                614,
+                675,
+                742,
+                814
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Wallbreaker",
@@ -44566,7 +45599,20 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Bomber"
+            "name_en": "Bomber",
+            "hitpoints_per_level": [
+                207,
+                227,
+                250,
+                275,
+                302,
+                331,
+                364,
+                399,
+                438
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "RoyalHog",
@@ -44808,7 +45854,36 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Royal Hogs"
+            "name_en": "Royal Hogs",
+            "hitpoints_per_level": [
+                395,
+                434,
+                477,
+                525,
+                576,
+                632,
+                695,
+                762,
+                837,
+                920,
+                1011,
+                1109
+            ],
+            "damage_per_level": [
+                34,
+                37,
+                41,
+                45,
+                49,
+                54,
+                59,
+                65,
+                72,
+                79,
+                87,
+                95
+            ],
+            "dps_per_level": null
         },
         {
             "name": "GoblinBrawler",
@@ -45050,7 +46125,36 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Goblin Brawler"
+            "name_en": "Goblin Brawler",
+            "hitpoints_per_level": [
+                485,
+                533,
+                586,
+                645,
+                708,
+                776,
+                853,
+                936,
+                1028,
+                1130,
+                1241,
+                1362
+            ],
+            "damage_per_level": [
+                159,
+                174,
+                192,
+                211,
+                232,
+                254,
+                279,
+                306,
+                337,
+                370,
+                407,
+                446
+            ],
+            "dps_per_level": null
         },
         {
             "name": "GoblinGiant",
@@ -45296,7 +46400,30 @@
             "summon_character": "GoblinGiant",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                1967,
+                2163,
+                2380,
+                2616,
+                2871,
+                3147,
+                3461,
+                3796,
+                4170
+            ],
+            "damage_per_level": [
+                110,
+                121,
+                133,
+                146,
+                160,
+                176,
+                193,
+                212,
+                233
+            ],
+            "dps_per_level": null
         },
         {
             "name": "EliteArcher",
@@ -45542,7 +46669,17 @@
             "summon_character": "EliteArcher",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                440,
+                484,
+                532,
+                585,
+                642,
+                690
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "SpearGoblinGiant",
@@ -45784,7 +46921,25 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Spear Goblin"
+            "name_en": "Spear Goblin",
+            "hitpoints_per_level": [
+                52,
+                57,
+                62,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110,
+                121,
+                133,
+                146,
+                160,
+                176
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Ram",
@@ -46026,7 +47181,24 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Hog Rider"
+            "name_en": "Hog Rider",
+            "hitpoints_per_level": [
+                1461,
+                1607,
+                1767,
+                1943,
+                2133,
+                2293
+            ],
+            "damage_per_level": [
+                220,
+                242,
+                266,
+                292,
+                321,
+                345
+            ],
+            "dps_per_level": null
         },
         {
             "name": "RamRider",
@@ -46272,7 +47444,17 @@
             "summon_character": "Ram",
             "summon_number": 0,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                490,
+                539,
+                592,
+                651,
+                715,
+                769
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "ThreeMusketeer",
@@ -46514,7 +47696,23 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Musketeer"
+            "name_en": "Musketeer",
+            "hitpoints_per_level": [
+                340,
+                374,
+                411,
+                452,
+                496,
+                544,
+                598,
+                656,
+                720,
+                792,
+                870,
+                955
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "ElectroDragon",
@@ -46760,7 +47958,20 @@
             "summon_character": "ElectroDragon",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                594,
+                653,
+                718,
+                790,
+                867,
+                950,
+                1045,
+                1146,
+                1259
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "Fisherman",
@@ -47013,7 +48224,24 @@
             "summon_character": "Fisherman",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                800,
+                880,
+                968,
+                1064,
+                1168,
+                1256
+            ],
+            "damage_per_level": [
+                160,
+                176,
+                193,
+                212,
+                233,
+                251
+            ],
+            "dps_per_level": null
         },
         {
             "name": "ElixirGolem1",
@@ -47255,7 +48483,36 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Elixir Golem"
+            "name_en": "Elixir Golem",
+            "hitpoints_per_level": [
+                680,
+                748,
+                822,
+                904,
+                992,
+                1088,
+                1196,
+                1312,
+                1441,
+                1584,
+                1740,
+                1910
+            ],
+            "damage_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175,
+                192,
+                211,
+                231,
+                254,
+                279,
+                307,
+                337
+            ],
+            "dps_per_level": null
         },
         {
             "name": "ElixirGolem2",
@@ -47497,7 +48754,36 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Elixir Golemite"
+            "name_en": "Elixir Golemite",
+            "hitpoints_per_level": [
+                340,
+                374,
+                411,
+                452,
+                496,
+                544,
+                598,
+                656,
+                720,
+                792,
+                870,
+                955
+            ],
+            "damage_per_level": [
+                60,
+                66,
+                72,
+                79,
+                87,
+                96,
+                105,
+                115,
+                127,
+                139,
+                153,
+                168
+            ],
+            "dps_per_level": null
         },
         {
             "name": "ElixirGolem4",
@@ -47739,7 +49025,36 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Elixir Blob"
+            "name_en": "Elixir Blob",
+            "hitpoints_per_level": [
+                170,
+                187,
+                205,
+                226,
+                248,
+                272,
+                299,
+                328,
+                360,
+                396,
+                435,
+                477
+            ],
+            "damage_per_level": [
+                30,
+                33,
+                36,
+                39,
+                43,
+                48,
+                52,
+                57,
+                63,
+                69,
+                76,
+                84
+            ],
+            "dps_per_level": null
         },
         {
             "name": "HealSpirit",
@@ -47981,7 +49296,23 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Ice Spirit"
+            "name_en": "Ice Spirit",
+            "hitpoints_per_level": [
+                109,
+                119,
+                131,
+                144,
+                159,
+                174,
+                191,
+                210,
+                231,
+                253,
+                279,
+                306
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "NOTINUSE1",
@@ -48223,7 +49554,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Knight"
+            "name_en": "Knight",
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "Firecracker",
@@ -48476,7 +49840,25 @@
             "summon_character": "Firecracker",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                119,
+                130,
+                143,
+                158,
+                173,
+                190,
+                209,
+                229,
+                252,
+                277,
+                304,
+                334,
+                367,
+                403
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "BattleHealer",
@@ -48722,7 +50104,36 @@
             "summon_character": "BattleHealer",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                810,
+                891,
+                980,
+                1077,
+                1182,
+                1296,
+                1425,
+                1563,
+                1717,
+                1887,
+                2073,
+                2276
+            ],
+            "damage_per_level": [
+                70,
+                77,
+                84,
+                93,
+                102,
+                112,
+                123,
+                135,
+                148,
+                163,
+                179,
+                196
+            ],
+            "dps_per_level": null
         },
         {
             "name": "DeliveryRecruit",
@@ -48964,7 +50375,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Royal Recruits"
+            "name_en": "Royal Recruits",
+            "hitpoints_per_level": [
+                208,
+                228,
+                251,
+                276,
+                303,
+                332,
+                366,
+                401,
+                440,
+                484,
+                532,
+                584,
+                642,
+                705
+            ],
+            "damage_per_level": [
+                52,
+                57,
+                62,
+                69,
+                75,
+                83,
+                91,
+                100,
+                110,
+                121,
+                133,
+                146,
+                160,
+                176
+            ],
+            "dps_per_level": null
         },
         {
             "name": "NOTINUSE2",
@@ -49206,7 +50650,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Knight"
+            "name_en": "Knight",
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "NOTINUSE3",
@@ -49448,7 +50925,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Knight"
+            "name_en": "Knight",
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "NOTINUSE4",
@@ -49690,7 +51200,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Knight"
+            "name_en": "Knight",
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "NOTINUSE5",
@@ -49932,7 +51475,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Knight"
+            "name_en": "Knight",
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "NOTINUSE6",
@@ -50174,7 +51750,40 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Knight"
+            "name_en": "Knight",
+            "hitpoints_per_level": [
+                685,
+                753,
+                828,
+                911,
+                1000,
+                1096,
+                1205,
+                1322,
+                1452,
+                1596,
+                1753,
+                1924,
+                2116,
+                2322
+            ],
+            "damage_per_level": [
+                79,
+                86,
+                95,
+                105,
+                115,
+                126,
+                139,
+                152,
+                167,
+                184,
+                202,
+                221,
+                244,
+                267
+            ],
+            "dps_per_level": null
         },
         {
             "name": "SkeletonDragon",
@@ -50416,7 +52025,25 @@
             "convert_on_kill": null,
             "move_speed_by_friendly_mass": 0,
             "move_radius_by_friendly_mass": 0,
-            "name_en": "Skeleton Dragons"
+            "name_en": "Skeleton Dragons",
+            "hitpoints_per_level": [
+                208,
+                228,
+                251,
+                276,
+                303,
+                332,
+                366,
+                401,
+                440,
+                484,
+                532,
+                584,
+                642,
+                705
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         },
         {
             "name": "ElectroGiant",
@@ -50662,7 +52289,30 @@
             "summon_character": "ElectroGiant",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                2400,
+                2640,
+                2904,
+                3192,
+                3504,
+                3840,
+                4224,
+                4632,
+                5088
+            ],
+            "damage_per_level": [
+                120,
+                132,
+                145,
+                159,
+                175,
+                192,
+                211,
+                231,
+                254
+            ],
+            "dps_per_level": null
         },
         {
             "name": "ElectroSpirit",
@@ -50908,7 +52558,25 @@
             "summon_character": "ElectroSpirit",
             "summon_number": 1,
             "summon_character_second": null,
-            "summon_character_second_count": 0
+            "summon_character_second_count": 0,
+            "hitpoints_per_level": [
+                90,
+                99,
+                108,
+                119,
+                131,
+                144,
+                158,
+                173,
+                190,
+                209,
+                230,
+                252,
+                278,
+                305
+            ],
+            "damage_per_level": null,
+            "dps_per_level": null
         }
     ],
     "character_buff": [

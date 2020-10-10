@@ -67,10 +67,11 @@ class TroopCard(Card):
         return self._data.get('damage') / self._data.get('hit_speed') * 1000
 
     def to_dict(self):
-        data = self._data
+        data = self._data.copy()
         props = ['speed_en', 'dps']
         for prop in props:
             data[prop] = getattr(self, prop)
+
         return data
 
 
@@ -229,18 +230,21 @@ class CardStats(BaseGen):
         for item in items.copy():
             value = item.get(section)
             rarity = item.get('rarity')
-            hp_per_level = None
+            per_level = None
 
             # skip if rarity is Hero
             if rarity == 'Hero':
                 continue
 
             if all([value, rarity]):
-                hp_per_level = [
+                per_level = [
                     int(value * self.get_rarities_multipliers(rarity, level) / 100)
                     for level in range(self.max_levels[rarity] + 1)
                 ]
-            item[per_level_section] = hp_per_level
+
+            print(section, per_level_section, per_level)
+
+            item[per_level_section] = per_level
             o.append(item)
         return o
 
@@ -296,8 +300,8 @@ class CardStats(BaseGen):
         area_effect_objects_data = self.inject_card_props(area_effect_objects_data)
 
         characters = Characters(self.config)
-        characters_data = characters.load_csv(exclude_empty=False)
-        characters_data = self.inject_card_props(characters_data)
+        characters_items = characters.load_csv(exclude_empty=False)
+        characters_items = self.inject_card_props(characters_items)
 
         spells_characters = SpellsCharacters(self.config)
         spells_characters_data = spells_characters.load_csv(exclude_empty=False)
@@ -312,12 +316,12 @@ class CardStats(BaseGen):
         character_buffs_data = character_buffs.load_csv(exclude_empty=False)
 
         def find_character(name):
-            for item in characters_data:
+            for item in characters_items:
                 if item.get('name') == name:
                     return item
             return None
 
-        for c in characters_data:
+        for c in characters_items:
             for s in spells_characters_data:
                 if c.get('name') == s.get('name'):
                     c.update(dict(
@@ -347,8 +351,8 @@ class CardStats(BaseGen):
         projectiles_data = self.inject_card_props(projectiles_data)
 
         troops = []
-        # for character_data in characters_data:
-        for character_data in spells_characters_data:
+        for character_data in characters_items:
+        # for character_data in spells_characters_data:
             troop = TroopCard(character_data)
             troops.append(troop.to_dict())
 
@@ -357,6 +361,10 @@ class CardStats(BaseGen):
         spell_items = self.included_items(area_effect_objects_data)
         projectile_items = self.included_items(projectiles_data)
         character_buff_items = self.included_items(character_buffs_data)
+
+        characters_items = self.calc_per_level(characters_items, 'hitpoints', 'hitpoints_per_level')
+        characters_items = self.calc_per_level(characters_items, 'damage', 'damage_per_level')
+        characters_items = self.calc_per_level(characters_items, 'dps', 'dps_per_level')
 
         troop_items = self.calc_per_level(troop_items, 'hitpoints', 'hitpoints_per_level')
         troop_items = self.calc_per_level(troop_items, 'damage', 'damage_per_level')
@@ -406,7 +414,7 @@ class CardStats(BaseGen):
             "building": building_items,
             "spell": spell_items,
             "projectile": projectile_items,
-            "characters": characters_data,
+            "characters": characters_items,
             "character_buff": character_buff_items,
         })
 
@@ -415,6 +423,6 @@ class CardStats(BaseGen):
         self.save_json(building_items, json_path='./docs/json/cards_stats_building.json')
         self.save_json(spell_items, json_path='./docs/json/cards_stats_spell.json')
         self.save_json(projectile_items, json_path='./docs/json/cards_stats_projectile.json')
-        self.save_json(characters_data, json_path='./docs/json/cards_stats_characters.json')
+        self.save_json(characters_items, json_path='./docs/json/cards_stats_characters.json')
         self.save_json(character_buff_items, json_path='./docs/json/cards_stats_character_buff.json')
 

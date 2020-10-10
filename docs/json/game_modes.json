@@ -20150,9 +20150,32 @@
         "valid_challenge_mode": true,
         "no_draws": true,
         "id": 72000278,
-        "name_en": null,
+        "name_en": "Electro Spirit Build-a-Deck",
         "_lang": {
-            "tid": null
+            "tid": {
+                "en": "Electro Spirit Build-a-Deck",
+                "fr": "Construction deck électro-esprit",
+                "de": "Baue ein Deck: Elektrogeist",
+                "es": "Forma un mazo con el espíritu eléctrico",
+                "it": "Crea un mazzo con lo spirito elettrico!",
+                "nl": "Stel een set samen met de elektrogeest",
+                "no": "Elektroånd: Sett sammen kampkort",
+                "tr": "Deste Oluştur: Elektro Ruh",
+                "jp": "エレクトロスピリットのデッキを作ろう",
+                "kr": "일렉트로 스피릿 덱을 만드세요!",
+                "ru": "Составление колоды с электрическим духом",
+                "ar": "ابن مجموعة معركة: الروح الكهربية",
+                "pt": "Monte um deck do Espírito Elétrico",
+                "cn": "雷电精灵组卡挑战",
+                "cnt": "閃電精靈組牌挑戰",
+                "fa": "روح برقی: یک دسته نبرد بساز",
+                "id": "Susun Dek Roh Elektro",
+                "ms": "Bina Dek Roh Elektro",
+                "th": "สร้างสำรับวิญญาณไฟฟ้า",
+                "fi": "Rakenna salamahenkipakka",
+                "vi": "Tạo bộ thẻ Tinh linh Điện",
+                "sc_key": "TID_ESPIRIT_BUILDADECK"
+            }
         }
     }
 ]

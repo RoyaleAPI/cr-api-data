@@ -66,12 +66,12 @@ class Cards(BaseGen):
                             process = False
                             decklink_id_delta -= 1
 
-                        print(process, card_num, row)
+                        # print(process, card_num, row)
 
                         if process:
                             tid = row.get('TID')
                             txt = self.text(tid, "EN")
-                            print(txt)
+                            # print(txt)
 
                             name_en = self.text(row['TID'], 'EN')
                             if name_en == '':
@@ -128,7 +128,7 @@ class Cards(BaseGen):
                                 if key not in card_keys:
                                     card_keys.append(key)
                                     cards.append(card)
-                                    logger.info(card)
+                                    # logger.info(card)
                                 else:
                                     logger.warning(f"Duplicate card key: {key}, skipping…")
             return card_num

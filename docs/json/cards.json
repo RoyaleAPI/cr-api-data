@@ -766,7 +766,7 @@
         "type": "Troop",
         "rarity": "Epic",
         "arena": 10,
-        "description": "A hulking hunk of man and metal. Zap's nearby enemies when attacked",
+        "description": "He channels electricity through his Zap Pack, a unique device that stuns and damages any Troop attacking him within its range.\n\nDon't tell him that his finger guns aren't real! He'll zap you.",
         "id": 26000085
     },
     {
