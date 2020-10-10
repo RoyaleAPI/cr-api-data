@@ -242,7 +242,7 @@ class CardStats(BaseGen):
                     for level in range(self.max_levels[rarity] + 1)
                 ]
 
-            print(section, per_level_section, per_level)
+            # print(section, per_level_section, per_level)
 
             item[per_level_section] = per_level
             o.append(item)
