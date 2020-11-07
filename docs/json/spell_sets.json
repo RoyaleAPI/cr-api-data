@@ -2086,7 +2086,8 @@
             "royal-hogs",
             "ram-rider",
             "balloon",
-            "graveyard"
+            "graveyard",
+            "electro-giant"
         ]
     },
     {
@@ -2173,7 +2174,8 @@
             "guards",
             "spear-goblins",
             "heal-spirit",
-            "bats"
+            "bats",
+            "electro-spirit"
         ]
     },
     {

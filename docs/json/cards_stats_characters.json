@@ -22443,7 +22443,7 @@
         "deploy_time": 1000,
         "charge_range": 0,
         "speed": 45,
-        "hitpoints": 2400,
+        "hitpoints": 2700,
         "hit_speed": 2100,
         "load_time": 600,
         "damage": 120,
@@ -22680,15 +22680,15 @@
         "summon_character_second": null,
         "summon_character_second_count": 0,
         "hitpoints_per_level": [
-            2400,
-            2640,
-            2904,
-            3192,
-            3504,
-            3840,
-            4224,
-            4632,
-            5088
+            2700,
+            2970,
+            3267,
+            3591,
+            3942,
+            4320,
+            4752,
+            5211,
+            5724
         ],
         "damage_per_level": [
             120,
