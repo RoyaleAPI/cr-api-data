@@ -417,8 +417,8 @@
     {
         "name": "Minions",
         "icon_file": "minion",
-        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
-        "highres_image_filename": null,
+        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
+        "highres_image_filename": "image/chr/minions_dl.png",
         "unlock_arena": "TrainingCamp",
         "unlock_level": 0,
         "rarity": "Common",
@@ -1828,8 +1828,8 @@
     {
         "name": "MinionHorde",
         "icon_file": "minion_horde",
-        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
-        "highres_image_filename": null,
+        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
+        "highres_image_filename": "image/chr/minions_horde_dl.png",
         "unlock_arena": "Arena4",
         "unlock_level": 0,
         "rarity": "Common",

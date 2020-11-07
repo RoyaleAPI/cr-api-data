@@ -6489,5 +6489,821 @@
                 "sc_key": "TID_BLINDDECK_LUCKYLADIES4"
             }
         }
+    },
+    {
+        "name": "Fantasy_2020_PONOS",
+        "spells": [
+            "wall-breakers",
+            "goblins",
+            "bats",
+            "the-log",
+            "miner",
+            "ice-golem",
+            "ice-spirit",
+            "zap"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_PONOS",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_PONOS"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_NOVA",
+        "spells": [
+            "barbarian-barrel",
+            "fisherman",
+            "hunter",
+            "heal-spirit",
+            "royal-ghost",
+            "fireball",
+            "electro-wizard",
+            "royal-giant"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_NOVA",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_NOVA"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_EDGM",
+        "spells": [
+            "baby-dragon",
+            "bomb-tower",
+            "ice-wizard",
+            "poison",
+            "barbarian-barrel",
+            "graveyard",
+            "knight",
+            "tornado"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_EDGM",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_EDGM"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_KIX",
+        "spells": [
+            "mega-knight",
+            "electro-spirit",
+            "tornado",
+            "mortar",
+            "miner",
+            "mega-minion",
+            "bandit",
+            "dart-goblin"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_KIX",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_KIX"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_TALON",
+        "spells": [
+            "baby-dragon",
+            "bomb-tower",
+            "ice-wizard",
+            "poison",
+            "barbarian-barrel",
+            "graveyard",
+            "knight",
+            "tornado"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_TALON",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_TALON"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_FAV",
+        "spells": [
+            "ice-golem",
+            "musketeer",
+            "ice-spirit",
+            "fireball",
+            "hog-rider",
+            "cannon",
+            "skeletons",
+            "the-log"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_FAV",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_FAV"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Chivas",
+        "spells": [
+            "balloon",
+            "goblin-cage",
+            "miner",
+            "mega-minion",
+            "fireball",
+            "ice-golem",
+            "inferno-dragon",
+            "zap"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_CHIVAS",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_CHIVAS"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_SK",
+        "spells": [
+            "barbarian-barrel",
+            "inferno-dragon",
+            "magic-archer",
+            "fireball",
+            "bandit",
+            "heal-spirit",
+            "ram-rider",
+            "lumberjack"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_SK",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_SK"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Queso",
+        "spells": [
+            "graveyard",
+            "barbarian-barrel",
+            "baby-dragon",
+            "mega-minion",
+            "barbarian-hut",
+            "poison",
+            "knight",
+            "electro-wizard"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_QUESO",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_QUESO"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Dignitas",
+        "spells": [
+            "graveyard",
+            "barbarian-barrel",
+            "baby-dragon",
+            "mega-minion",
+            "barbarian-hut",
+            "poison",
+            "knight",
+            "electro-wizard"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_DIGNITAS",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_DIGNITAS"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Liquid",
+        "spells": [
+            "lava-hound",
+            "goblin-barrel",
+            "the-log",
+            "fireball",
+            "mega-minion",
+            "baby-dragon",
+            "archers",
+            "tombstone"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_LIQUID",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_LIQUID"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Pain",
+        "spells": [
+            "ice-golem",
+            "musketeer",
+            "ice-spirit",
+            "fireball",
+            "hog-rider",
+            "cannon",
+            "skeletons",
+            "the-log"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_PAIN",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_PAIN"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Tribe",
+        "spells": [
+            "barbarian-barrel",
+            "lightning",
+            "baby-dragon",
+            "goblin-cage",
+            "royal-giant",
+            "electro-wizard",
+            "fisherman",
+            "heal-spirit"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_TRIBE",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_TRIBE"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Misfits",
+        "spells": [
+            "graveyard",
+            "goblin-cage",
+            "skeletons",
+            "musketeer",
+            "baby-dragon",
+            "knight",
+            "barbarian-barrel",
+            "poison"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_MISFITS",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_MISFITS"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Cream",
+        "spells": [
+            "x-bow",
+            "fireball",
+            "knight",
+            "the-log",
+            "archers",
+            "ice-spirit",
+            "skeletons",
+            "tesla"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_CREAM",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_CREAM"
+            }
+        }
+    },
+    {
+        "name": "Fantasy_2020_Spacestation",
+        "spells": [
+            "hog-rider",
+            "barbarian-barrel",
+            "bomb-tower",
+            "knight",
+            "archers",
+            "giant-snowball",
+            "earthquake",
+            "skeletons"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_FANTASY_2020_SPACESTATION",
+        "name_en": "",
+        "_lang": {
+            "name": {
+                "en": "",
+                "fr": "",
+                "de": "",
+                "es": "",
+                "it": "",
+                "nl": "",
+                "no": "",
+                "tr": "",
+                "jp": "",
+                "kr": "",
+                "ru": "",
+                "ar": "",
+                "pt": "",
+                "cn": "",
+                "cnt": "",
+                "fa": "",
+                "id": "",
+                "ms": "",
+                "th": "",
+                "fi": "",
+                "vi": "",
+                "sc_key": "TID_FANTASY_2020_SPACESTATION"
+            }
+        }
     }
 ]

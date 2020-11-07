@@ -1020,7 +1020,7 @@
         "spawn_initial_delay": 2000,
         "spawn_max_count": 0,
         "spawn_max_radius": 0,
-        "spawn_min_radius": 3000,
+        "spawn_min_radius": 3500,
         "spawn_from_min_to_max": false,
         "spawn_angle_shift": 0,
         "hits_ground": true,
