@@ -4675,6 +4675,7 @@
             "only_own_troops": false,
             "gravity": 0,
             "spawn_const_priority": false,
+            "apply_buff_before_damage": false,
             "use360_frames": false,
             "spawn_axis_x": false,
             "spawn_axis_y": false,

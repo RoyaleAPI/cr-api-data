@@ -50,6 +50,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Rage"
     },
     {
@@ -103,6 +105,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Freeze"
     },
     {
@@ -156,6 +160,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Poison"
     },
     {
@@ -209,6 +215,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Slowdown"
     },
     {
@@ -262,6 +270,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Stun"
     },
     {
@@ -315,6 +325,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Tornado"
     },
     {
@@ -368,6 +380,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Clone"
     },
     {
@@ -420,7 +434,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "Stun",
@@ -472,7 +488,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "Invisibility",
@@ -524,7 +542,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "RageModeRage",
@@ -577,6 +597,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Rage"
     },
     {
@@ -630,6 +652,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Poison"
     },
     {
@@ -682,7 +706,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "Earthquake",
@@ -734,7 +760,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "BolaSnare",
@@ -787,6 +815,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Snare"
     },
     {
@@ -839,7 +869,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "PowerChargeEnd",
@@ -891,7 +923,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "HolyHeal",
@@ -943,7 +977,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "MightyMuskRage",
@@ -995,7 +1031,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "MightyMuskKillRage",
@@ -1047,7 +1085,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "BattleMachineShield",
@@ -1099,7 +1139,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "SummonGuard",
@@ -1151,7 +1193,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "ContinueFreeze",
@@ -1204,6 +1248,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Freeze"
     },
     {
@@ -1256,7 +1302,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "GrowthBoost",
@@ -1308,7 +1356,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "ShieldBoost",
@@ -1360,7 +1410,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "DummyCollisionBoostEpic",
@@ -1412,7 +1464,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "FireballProjectile",
@@ -1464,7 +1518,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "DropBomb",
@@ -1516,7 +1572,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "HealSpiritBuff",
@@ -1568,7 +1626,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "BattleHealerSelf",
@@ -1620,7 +1680,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "BattleHealerAll",
@@ -1672,7 +1734,9 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     },
     {
         "name": "SuperRage",
@@ -1725,6 +1789,8 @@
         "death_spawn": null,
         "death_spawn_is_enemy": false,
         "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
         "name_en": "Rage"
     },
     {
@@ -1777,6 +1843,8 @@
         "morph_target": null,
         "death_spawn": null,
         "death_spawn_is_enemy": false,
-        "death_spawn_count": 0
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false
     }
 ]
