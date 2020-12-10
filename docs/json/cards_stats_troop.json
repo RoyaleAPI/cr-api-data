@@ -2908,7 +2908,7 @@
         "name": "RageBarbarian",
         "icon_file": "rage_barbarian",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_empty",
-        "highres_image_filename": null,
+        "highres_image_filename": "image/chr/lumberjack_dl.png",
         "unlock_arena": "Arena8",
         "unlock_level": 0,
         "rarity": "Legendary",
