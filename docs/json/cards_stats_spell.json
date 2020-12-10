@@ -1027,7 +1027,7 @@
         "spawn_deploy_base_anim": "filter_deploy_unit_skeleton",
         "spawn_time": 400,
         "spawn_character_level_index": 8,
-        "spawn_initial_delay": 2000,
+        "spawn_initial_delay": 2200,
         "spawn_max_count": 0,
         "spawn_max_radius": 0,
         "spawn_min_radius": 3000,

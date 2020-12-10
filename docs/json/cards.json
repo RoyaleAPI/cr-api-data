@@ -748,13 +748,24 @@
         "id": 26000080
     },
     {
+        "key": "mother-witch",
+        "name": "Mother Witch",
+        "sc_key": "WitchMother",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 9,
+        "description": "Places a curse on enemy Troops with each attack. When a cursed Troop is destroyed, it turns into a building-targeting Hog that fights alongside the Mother Witch!\n\nShe also bakes great cookies.",
+        "id": 26000083
+    },
+    {
         "key": "electro-spirit",
         "name": "Electro Spirit",
         "sc_key": "ElectroSpirit",
         "elixir": 1,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 10,
+        "arena": 11,
         "description": "Jumps on enemies, dealing Area Damage and stunning up to 9 enemy Troops. Locked in an eternal battle with Knight for the best mustache.",
         "id": 26000084
     },
@@ -765,7 +776,7 @@
         "elixir": 8,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 11,
         "description": "He channels electricity through his Zap Pack, a unique device that stuns and damages any Troop attacking him within its range.\n\nDon't tell him that his finger guns aren't real! He'll zap you.",
         "id": 26000085
     },

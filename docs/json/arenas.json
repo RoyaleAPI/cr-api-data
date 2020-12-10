@@ -40,7 +40,7 @@
         "is_in_use": true,
         "lose_trophy_percentage": {
             "0": 0,
-            "1": 40
+            "1": 50
         },
         "lose_trophy_score": {
             "0": 0,
@@ -274,8 +274,8 @@
         "tv_arena": "Arena2",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 20,
-            "1": 60
+            "0": 50,
+            "1": 50
         },
         "lose_trophy_score": {
             "0": 300,
@@ -316,8 +316,8 @@
         "tv_arena": "Arena3",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 40,
-            "1": 75
+            "0": 50,
+            "1": 50
         },
         "lose_trophy_score": {
             "0": 600,
@@ -358,8 +358,8 @@
         "tv_arena": "Arena4",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 60,
-            "1": 80
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 1000,
@@ -400,8 +400,8 @@
         "tv_arena": "Arena5",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 65,
-            "1": 85
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 1300,
@@ -442,8 +442,8 @@
         "tv_arena": "Arena6",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 65,
-            "1": 85
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 1600,
@@ -484,8 +484,8 @@
         "tv_arena": "Arena7",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 70,
-            "1": 90
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 2000,
@@ -527,8 +527,8 @@
         "tv_arena": "Arena8",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 70,
-            "1": 90
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 2300,
@@ -569,8 +569,8 @@
         "tv_arena": "Arena9",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 75,
-            "1": 90
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 2600,
@@ -611,8 +611,8 @@
         "tv_arena": "Arena_L",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 75,
-            "1": 90
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 3000,
@@ -777,8 +777,8 @@
         "tv_arena": "Arena_Electric",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 80,
-            "1": 90
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 3300,
@@ -819,8 +819,8 @@
         "tv_arena": "Arena_T",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 80,
-            "1": 90
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 3600,
@@ -864,8 +864,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 25,
-            "1": 40
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 4000,
@@ -912,8 +912,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 40,
-            "1": 60
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 4300,
@@ -960,8 +960,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 60,
-            "1": 75
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 4600,
@@ -1008,8 +1008,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 75,
-            "1": 80
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 5000,
@@ -1056,8 +1056,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 80,
-            "1": 85
+            "0": 100,
+            "1": 100
         },
         "lose_trophy_score": {
             "0": 5300,
@@ -1104,7 +1104,7 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 90,
+            "0": 100,
             "1": 100
         },
         "lose_trophy_score": {
@@ -2035,6 +2035,48 @@
         "glow": false,
         "min_scale": 90,
         "id": 54000049,
+        "key": "arena0",
+        "title": "Legendary Arena",
+        "subtitle": "Legendary Arena",
+        "arena_id": 0,
+        "league_id": 0
+    },
+    {
+        "name": "Arena_Holiday_2",
+        "arena": 0,
+        "league": 1,
+        "league_arena_swf": "sc/ui_arena.sc",
+        "league_arena_export_name": "arena_champion",
+        "chest_arena": "Arena_L1",
+        "tv_arena": "Arena_L1",
+        "is_in_use": false,
+        "lose_trophy_percentage": 100,
+        "lose_trophy_score": 7000,
+        "trophy_limit": 7000,
+        "demote_trophy_limit": 7000,
+        "chest_reward_multiplier": 470,
+        "shop_chest_reward_multiplier": 100,
+        "request_size": 40,
+        "max_donation_count_common": 8,
+        "max_donation_count_rare": 1,
+        "max_donation_count_epic": 1,
+        "icon_swf": "sc/ui_arena_icon_season_18.sc",
+        "icon_export_name": "arena_holiday2_season",
+        "matchmaking_min_trophy_delta": 40,
+        "matchmaking_max_trophy_delta": 200,
+        "matchmaking_max_seconds": 60,
+        "pvp_location": "PvP_holiday_arena_2",
+        "team_vs_team_location": "TeamVsTeam_holiday_arena_2",
+        "daily_donation_capacity_limit": 360,
+        "battle_reward_gold": 44,
+        "reached_boost": "ChestSpeedUp",
+        "boost_time_h": 24,
+        "bg_glow": false,
+        "background_swf": "sc/flood_water.sc",
+        "background_export_name": "UI_menu_background_holiday",
+        "background_overlay_export_name": "UI_menu_background_holiday_snow",
+        "min_scale": 90,
+        "id": 54000050,
         "key": "arena0",
         "title": "Legendary Arena",
         "subtitle": "Legendary Arena",

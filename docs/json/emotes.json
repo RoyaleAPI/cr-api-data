@@ -2389,5 +2389,70 @@
         "exclusive": true,
         "key": "emote_102_2",
         "file_key": "emotes_megaKnight_01_dl.sc:102:2"
+    },
+    {
+        "name": "Emote188",
+        "index_hi": 103,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_logmas2020_01_dl.ogg",
+        "sc_file": "sc/emotes_logmas2020_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_103_0",
+        "file_key": "emotes_logmas2020_01_dl.sc:103:0"
+    },
+    {
+        "name": "Emote189",
+        "index_hi": 104,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_logmas2020_02_01_dl.ogg",
+        "sc_file": "sc/emotes_logmas2020_02_dl.sc",
+        "available_for_offer": true,
+        "exclusive": false,
+        "key": "emote_104_0",
+        "file_key": "emotes_logmas2020_02_dl.sc:104:0"
+    },
+    {
+        "name": "Emote190",
+        "index_hi": 104,
+        "index_lo": 1,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_logmas2020_02_02_dl.ogg",
+        "sc_file": "sc/emotes_logmas2020_02_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_104_1",
+        "file_key": "emotes_logmas2020_02_dl.sc:104:1"
+    },
+    {
+        "name": "Emote191",
+        "index_hi": 105,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_logmas2020_03_dl.ogg",
+        "sc_file": "sc/emotes_logmas2020_03_dl.sc",
+        "available_for_offer": true,
+        "exclusive": false,
+        "key": "emote_105_0",
+        "file_key": "emotes_logmas2020_03_dl.sc:105:0"
+    },
+    {
+        "name": "Emote192",
+        "index_hi": 106,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_logmas2020_04_dl.ogg",
+        "sc_file": "sc/emotes_logmas2020_04_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_106_0",
+        "file_key": "emotes_logmas2020_04_dl.sc:106:0"
     }
 ]

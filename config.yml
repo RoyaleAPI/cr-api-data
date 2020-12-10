@@ -55,28 +55,28 @@ json:
 
 cards:
   - type: Troop
-    sckey: 260000{0:02d}
+    sckey: 26000{0:03d}
     csv: ./csv_logic/spells_characters.csv
   - type: Building
-    sckey: 270000{0:02d}
+    sckey: 27000{0:03d}
     csv: ./csv_logic/spells_buildings.csv
   - type: Spell
-    sckey: 280000{0:02d}
+    sckey: 28000{0:03d}
     csv: ./csv_logic/spells_other.csv
 
 scid:
-  resources: 500000{0:02d}
-  badge: 160000{0:02d}
-  chest_type: 190000{0:02d}
-  troops: 260000{0:02d}
-  buildinggs: 270000{0:02d}
-  spells: 280000{0:02d}
-  arena: 540000{0:02d}
-  region: 570000{0:02d}
-  achievements: 600000{0:02d}
-  challenge: 650000{0:02d}
+  resources: 50000{0:03d}
+  badge: 16000{0:03d}
+  chest_type: 19000{0:03d}
+  troops: 26000{0:03d}
+  buildinggs: 27000{0:03d}
+  spells: 28000{0:03d}
+  arena: 54000{0:03d}
+  region: 57000{0:03d}
+  achievements: 60000{0:03d}
+  challenge: 65000{0:03d}
   game_modes: 72000{0:03d}
-  skin: 830000{0:02d}
+  skin: 83000{0:03d}
 
 
 quests:
