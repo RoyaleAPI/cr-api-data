@@ -864,8 +864,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 100,
-            "1": 100
+            "0": 25,
+            "1": 40
         },
         "lose_trophy_score": {
             "0": 4000,
@@ -912,8 +912,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 100,
-            "1": 100
+            "0": 40,
+            "1": 60
         },
         "lose_trophy_score": {
             "0": 4300,
@@ -960,8 +960,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 100,
-            "1": 100
+            "0": 60,
+            "1": 75
         },
         "lose_trophy_score": {
             "0": 4600,
@@ -1008,8 +1008,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 100,
-            "1": 100
+            "0": 75,
+            "1": 80
         },
         "lose_trophy_score": {
             "0": 5000,
@@ -1056,8 +1056,8 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 100,
-            "1": 100
+            "0": 80,
+            "1": 85
         },
         "lose_trophy_score": {
             "0": 5300,
@@ -1104,7 +1104,7 @@
         "tv_arena": "Arena_L1",
         "is_in_use": true,
         "lose_trophy_percentage": {
-            "0": 100,
+            "0": 90,
             "1": 100
         },
         "lose_trophy_score": {
@@ -2080,6 +2080,48 @@
         "key": "arena0",
         "title": "Legendary Arena",
         "subtitle": "Legendary Arena",
+        "arena_id": 0,
+        "league_id": 0
+    },
+    {
+        "name": "Arena8_Season",
+        "arena": 0,
+        "league": 1,
+        "league_arena_swf": "sc/ui_arena.sc",
+        "league_arena_export_name": "arena_champion",
+        "chest_arena": "Arena_L1",
+        "tv_arena": "Arena_L1",
+        "is_in_use": false,
+        "lose_trophy_percentage": 100,
+        "lose_trophy_score": 7000,
+        "trophy_limit": 7000,
+        "demote_trophy_limit": 7000,
+        "chest_reward_multiplier": 470,
+        "shop_chest_reward_multiplier": 100,
+        "request_size": 40,
+        "max_donation_count_common": 8,
+        "max_donation_count_rare": 1,
+        "max_donation_count_epic": 1,
+        "icon_swf": "sc/ui_arena.sc",
+        "icon_export_name": "arena_08",
+        "matchmaking_min_trophy_delta": 40,
+        "matchmaking_max_trophy_delta": 200,
+        "matchmaking_max_seconds": 60,
+        "pvp_location": "PvP_ice",
+        "team_vs_team_location": "TeamVsTeam_ice",
+        "daily_donation_capacity_limit": 360,
+        "battle_reward_gold": 44,
+        "reached_boost": "ChestSpeedUp",
+        "boost_time_h": 24,
+        "bg_glow": true,
+        "background_swf": "sc/flood_water.sc",
+        "background_export_name": "UI_menu_background_holiday",
+        "background_overlay_export_name": "UI_menu_background_holiday_snow",
+        "min_scale": 75,
+        "id": 54000051,
+        "key": "arena0",
+        "title": "Arena 8",
+        "subtitle": "Frozen Peak",
         "arena_id": 0,
         "league_id": 0
     }
