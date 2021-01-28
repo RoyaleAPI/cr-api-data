@@ -2112,7 +2112,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_10yr_lavaHound_dl.ogg",
         "sc_file": "sc/emotes_10yr_lavaHound_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_83_0",
         "file_key": "emotes_10yr_lavaHound_dl.sc:83:0"
@@ -2151,7 +2151,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_s12_darkPrince_01_dl.ogg",
         "sc_file": "sc/emotes_s12_darkPrince_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_87_0",
         "file_key": "emotes_s12_darkPrince_dl.sc:87:0"
@@ -2493,5 +2493,57 @@
         "exclusive": false,
         "key": "emote_107_2",
         "file_key": "emotes_icewizard_01_dl.sc:107:2"
+    },
+    {
+        "name": "Emote196",
+        "index_hi": 108,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_LNY_2021_01_01_dl.ogg",
+        "sc_file": "sc/emotes_LNY_2021_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_108_0",
+        "file_key": "emotes_LNY_2021_01_dl.sc:108:0"
+    },
+    {
+        "name": "Emote197",
+        "index_hi": 108,
+        "index_lo": 1,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_LNY_2021_01_02_dl.ogg",
+        "sc_file": "sc/emotes_LNY_2021_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_108_1",
+        "file_key": "emotes_LNY_2021_01_dl.sc:108:1"
+    },
+    {
+        "name": "Emote198",
+        "index_hi": 109,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_LNY_2021_02_dl.ogg",
+        "sc_file": "sc/emotes_LNY_2021_02_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_109_0",
+        "file_key": "emotes_LNY_2021_02_dl.sc:109:0"
+    },
+    {
+        "name": "Emote199",
+        "index_hi": 110,
+        "index_lo": 0,
+        "available": false,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_LNY_2021_03_dl.ogg",
+        "sc_file": "sc/emotes_LNY_2021_03_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_110_0",
+        "file_key": "emotes_LNY_2021_03_dl.sc:110:0"
     }
 ]
