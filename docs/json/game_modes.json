@@ -13997,7 +13997,6 @@
         "players": "PvP",
         "event_deck_set_limit": "Event_NewUnlockA11",
         "icon": "icon_mode_retro",
-        "fixed_arena": "Arena_T",
         "valid_challenge_mode": true,
         "no_draws": true,
         "id": 72000202,

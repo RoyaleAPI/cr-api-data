@@ -995,7 +995,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/ram_emote_02_dl.ogg",
         "sc_file": "sc/emotes_ram_rider_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_22_1",
         "file_key": "emotes_ram_rider_01_dl.sc:22:1"
@@ -1865,7 +1865,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_lny_02_sfx2_dl.ogg",
         "sc_file": "sc/emotes_lny_02_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_63_1",
         "file_key": "emotes_lny_02_dl.sc:63:1"
@@ -2216,7 +2216,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_archer_01_02_dl.ogg",
         "sc_file": "sc/emotes_archers_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_93_1",
         "file_key": "emotes_archers_01_dl.sc:93:1"
@@ -2229,7 +2229,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_archer_01_03_dl.ogg",
         "sc_file": "sc/emotes_archers_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_93_2",
         "file_key": "emotes_archers_01_dl.sc:93:2"
@@ -2545,5 +2545,57 @@
         "exclusive": false,
         "key": "emote_110_0",
         "file_key": "emotes_LNY_2021_03_dl.sc:110:0"
+    },
+    {
+        "name": "Emote200",
+        "index_hi": 111,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_battlehealer_cakethrow_dl.ogg",
+        "sc_file": "sc/emotes_battlehealer_cakethrow_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_111_0",
+        "file_key": "emotes_battlehealer_cakethrow_dl.sc:111:0"
+    },
+    {
+        "name": "Emote201",
+        "index_hi": 112,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_elixirgolem_candlehead_dl.ogg",
+        "sc_file": "sc/emotes_elixirgolem_candlehead_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_112_0",
+        "file_key": "emotes_elixirgolem_candlehead_dl.sc:112:0"
+    },
+    {
+        "name": "Emote202",
+        "index_hi": 113,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_lumberjack_cakerun_dl.ogg",
+        "sc_file": "sc/emotes_lumberjack_cakerun_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_113_0",
+        "file_key": "emotes_lumberjack_cakerun_dl.sc:113:0"
+    },
+    {
+        "name": "Emote203",
+        "index_hi": 114,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_sparky_surprise_dl.ogg",
+        "sc_file": "sc/emotes_sparky_surprise_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_114_0",
+        "file_key": "emotes_sparky_surprise_dl.sc:114:0"
     }
 ]
