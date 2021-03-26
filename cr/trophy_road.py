@@ -13,12 +13,16 @@ class TrophyRoad(BaseGen):
     """
     Trophy road should be road as strict dicts
     """
+    config_id = 'trophy_road'
 
     def __init__(self, config):
-        super().__init__(config, id="trophy_road")
+        super().__init__(config, id=self.config_id)
 
     def run(self):
-        csv_path = os.path.join(self.config.csv.base, self.config.csv.path.trophy_road)
+        csv_path = os.path.join(
+            self.config.csv.base,
+            getattr(self.config.csv.path, self.config_id)
+        )
 
         rows = []
 
@@ -42,5 +46,12 @@ class TrophyRoad(BaseGen):
 
             items.append(row)
 
-        json_path = os.path.join(self.config.json.base, self.config.json.trophy_road)
+        json_path = os.path.join(
+            self.config.json.base,
+            getattr(self.config.json, self.config_id)
+        )
         self.save_json(items, json_path)
+
+
+class TrophyRoadSeason(TrophyRoad):
+    config_id = 'trophy_road_season'
