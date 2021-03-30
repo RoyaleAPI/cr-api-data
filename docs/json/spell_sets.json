@@ -3461,7 +3461,8 @@
             "royal-hogs",
             "ram-rider",
             "graveyard",
-            "wall-breakers"
+            "wall-breakers",
+            "electro-giant"
         ]
     },
     {
@@ -3535,7 +3536,9 @@
             "ice-wizard",
             "princess",
             "magic-archer",
-            "firecracker"
+            "firecracker",
+            "skeleton-dragons",
+            "mother-witch"
         ]
     },
     {
@@ -3586,7 +3589,8 @@
             "pekka",
             "mega-knight",
             "golem",
-            "three-musketeers"
+            "three-musketeers",
+            "electro-giant"
         ]
     },
     {
@@ -3738,7 +3742,11 @@
             "elixir-golem",
             "battle-healer",
             "firecracker",
-            "royal-delivery"
+            "royal-delivery",
+            "skeleton-dragons",
+            "electro-spirit",
+            "electro-giant",
+            "mother-witch"
         ]
     },
     {
@@ -4155,7 +4163,6 @@
             "giant-snowball",
             "fireball",
             "rocket",
-            "heal-spirit",
             "earthquake",
             "goblin-barrel",
             "barbarian-barrel",
@@ -4166,7 +4173,8 @@
             "rage",
             "clone",
             "mirror",
-            "royal-delivery"
+            "royal-delivery",
+            "mother-witch"
         ]
     },
     {
@@ -4265,7 +4273,11 @@
             "elixir-golem",
             "battle-healer",
             "firecracker",
-            "royal-delivery"
+            "royal-delivery",
+            "skeleton-dragons",
+            "electro-giant",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
@@ -4335,7 +4347,10 @@
             "firecracker",
             "royal-delivery",
             "hog-rider",
-            "freeze"
+            "freeze",
+            "electro-spirit",
+            "skeleton-dragons",
+            "mother-witch"
         ]
     },
     {
@@ -4576,7 +4591,10 @@
             "battle-healer",
             "firecracker",
             "skeleton-dragons",
-            "royal-delivery"
+            "royal-delivery",
+            "electro-giant",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
@@ -4785,7 +4803,10 @@
             "battle-healer",
             "firecracker",
             "skeleton-dragons",
-            "royal-delivery"
+            "royal-delivery",
+            "electro-giant",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
@@ -4872,7 +4893,9 @@
             "wall-breakers",
             "hog-rider",
             "royal-hogs",
-            "ram-rider"
+            "ram-rider",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
@@ -4958,7 +4981,9 @@
             "mortar",
             "balloon",
             "skeleton-barrel",
-            "lava-hound"
+            "lava-hound",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
@@ -5043,7 +5068,9 @@
             "graveyard",
             "miner",
             "rocket",
-            "goblin-barrel"
+            "goblin-barrel",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
@@ -5128,11 +5155,13 @@
             "pekka",
             "three-musketeers",
             "mega-knight",
-            "sparky"
+            "sparky",
+            "electro-spirit",
+            "mother-witch"
         ]
     },
     {
-        "name": "Event_ElectroSpiritTease",
+        "name": "Event_AllCards",
         "spells": [
             "knight",
             "archers",

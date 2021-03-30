@@ -32,6 +32,9 @@ if __name__ == '__main__':
         SpellSets,
         DraftDeck,
         Emotes,
+        Consumables,
+        TrophyRoad,
+        TrophyRoadSeason,
     ])
 
     # legacy to be converted

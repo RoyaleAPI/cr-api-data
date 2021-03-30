@@ -1,7 +1,7 @@
 csv:
 
-  base: /Users/sml/git/cr-csv/assets
-#  base: /Users/sml/git/cr-csv-dev
+#  base: /Users/sml/git/cr-csv/assets
+  base: /Users/sml/git/cr-csv-dev
 #  base: /Users/sml/Dropbox/cr-devbuild/20210224-ipa/res.working
   path:
     alliance_badges: ./csv_logic/alliance_badges.csv
@@ -14,6 +14,7 @@ csv:
     character_buffs: ./csv_logic/character_buffs.csv
     chest_order: ./csv_logic/chest_order.csv
     clan_chest: ./csv_logic/globals.csv
+    consumables: ./csv_logic/consumables.csv
     draft_deck: ./csv_logic/draft_deck.csv
     emotes: ./csv_logic/emotes.csv
     game_modes: ./csv_logic/game_modes.csv
@@ -29,6 +30,8 @@ csv:
     texts_patch: ./csv_client/texts_patch.csv
     tournaments: ./csv_logic/tournament_tiers.csv
     treasure_chests: ./csv_logic/treasure_chests.csv
+    trophy_road: ./csv_logic/trophy_road.csv
+    trophy_road_season: ./csv_logic/trophy_road_season.csv
 
 json:
   base: ./docs/json/
@@ -42,6 +45,7 @@ json:
   challenges: ./challenges.json
   chest_order: ./chest_order.json
   clan_chest: ./clan_chest.json
+  consumables: ./consumables.json
   draft_deck: ./draft_deck.json
   emotes: ./emotes.json
   game_modes: ./game_modes.json
@@ -52,6 +56,8 @@ json:
   texts: ./texts.json
   tournaments: ./tournaments.json
   treasure_chests: ./treasure_chests.json
+  trophy_road: ./trophy_road.json
+  trophy_road_season: ./trophy_road_season.json
 
 cards:
   - type: Troop

@@ -146,7 +146,7 @@
         "key": "bomber",
         "name": "Bomber",
         "sc_key": "Bomber",
-        "elixir": 3,
+        "elixir": 2,
         "type": "Troop",
         "rarity": "Common",
         "arena": 2,

@@ -1088,7 +1088,7 @@
         "rarity": "Common",
         "not_visible": false,
         "tribe": null,
-        "mana_cost": 3,
+        "mana_cost": 2,
         "prestige_count": 2,
         "mana_cost_from_summoner_mana": false,
         "not_in_use": false,

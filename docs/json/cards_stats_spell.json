@@ -3344,7 +3344,7 @@
         "life_duration_increase_per_level": 0,
         "life_duration_increase_after_tournament_cap": 0,
         "affects_hidden": false,
-        "radius": 3500,
+        "radius": 2500,
         "pushback": 0,
         "pushback_all": false,
         "min_pushback": 0,
