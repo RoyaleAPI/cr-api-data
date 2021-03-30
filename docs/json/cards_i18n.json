@@ -282,7 +282,7 @@
                 "en": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
                 "fr": "Un combattant de mêlée peu rapide, pourvu d'une épaisse armure. Impulsif mais sacrément percutant.",
                 "de": "Eine schwer gepanzerte, langsame Nahkämpferin mit zweifelhaftem Hüftschwung, aber großer Schlagkraft.",
-                "es": "Un luchador cuerpo a cuerpo pesado y lento. Se contonea ligeramente al andar, ¡pero atiza un puñetazo que no veas!",
+                "es": "Una luchadora cuerpo a cuerpo pesada y lenta. Se contonea ligeramente al andar, ¡pero atiza un puñetazo que no veas!",
                 "it": "Una combattente da mischia lenta e pesantemente corazzata. È impulsiva, ma ci va giù pesante.",
                 "nl": "Een zwaarbewapende, trage mêleestrijder. Zwaait vanuit de heup en raakt met enorme kracht.",
                 "no": "En tungt pansret og treg nærkampekspert. Ingen sofistikerte teknikker, bare et blytungt slag.",
@@ -1136,7 +1136,7 @@
                 "en": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
                 "fr": "L'arène est une zone certifiée sans papillon. Les P.E.K.K.A éviteront ainsi toute distraction et se concentreront sur la destruction.",
                 "de": "Die Arena ist eine schmetterlingsfreie Zone. Mini-P.E.K.K.A. kann sich also voll und ganz auf Zerstörung konzentrieren.",
-                "es": "La arena es una zona libre de mariposas. No debe haber ninguna distracción para los P.E.K.K.A., solo destrucción.",
+                "es": "La arena es una zona libre de mariposas. No debe haber ninguna distracción para el mini P.E.K.K.A., solo destrucción.",
                 "it": "L'arena è zona certificata libera da farfalle. Nessuna distrazione, solo distruzione per la P.E.K.K.A!",
                 "nl": "De arena is een officiële vlindervrije zone. Geen afleiding voor P.E.K.K.A., alleen verwoesting.",
                 "no": "Arenaen er garantert fri for sommerfugler. Ingen distraksjoner for P.E.K.K.A, bare destruksjon.",
@@ -2800,7 +2800,7 @@
                 "ms": "Dia membaling kapaknya seperti bumerang, menyerang semua musuh apabila dilempar DAN apabila ia kembali. Ajaib kerana dia tidak hilang lengan.",
                 "th": "เขาเขวี้ยงขวานของเขาเหมือนบูมเมอแรง โจมตีศัตรูทั้งหมดทั้งขาไปขากลับ มหัศจรรย์มากที่แขนเขายังไม่ขาด",
                 "fi": "Hän heittää kirvestään kuin bumerangia ja silpoo vihollisiaan mennen tullen. On ihme, että hänellä on vielä molemmat kädet tallella!",
-                "vi": "Ném rìu như boomerang, tấn công mọi kẻ địch trên đường ra VÀ trên đường quay lại. Thật kỳ diệu vì anh ấy không mất một cánh tay.",
+                "vi": "Ném rìu như boomerang, tấn công mọi kẻ địch trên đường khi bay ra VÀ quay lại. Thật kỳ diệu vì anh ấy không bị mất một cánh tay nào cả.",
                 "sc_key": "TID_SPELL_INFO_AXEMAN"
             }
         }
@@ -4184,7 +4184,7 @@
             },
             "description": {
                 "en": "Places a curse on enemy Troops with each attack. When a cursed Troop is destroyed, it turns into a building-targeting Hog that fights alongside the Mother Witch!\n\nShe also bakes great cookies.",
-                "fr": "Mamie sorcière lance une malédiction aux ennemis à chaque attaque. Lorsqu'une troupe maudite est détruite, elle se transforme en un cochon qui se bat aux côtés de la mamie sorcière et cible les bâtiments.\n\nÀ part ça, la mamie sorcière fait aussi des super gâteaux !",
+                "fr": "Mamie sorcière lance une malédiction aux ennemis à chaque attaque. Lorsqu'une troupe maudite est détruite, elle se transforme en un cochon qui se bat aux côtés de la mamie sorcière et cible les bâtiments.\n\nÀ part ça, elle fait aussi de très bons gâteaux !",
                 "de": "Belegt Gegner bei jeder Attacke mit einem Fluch. Wenn eine verfluchte Einheit zerstört wird, verwandelt diese sich in ein Schwein, das für die Hexenmutter kämpft und es auf Gebäude abgesehen hat!\n\nSie backt außerdem sehr leckere Kekse.",
                 "es": "Con cada ataque, la bruja madre echa una maldición sobre las tropas enemigas. Al ser derrotada, la tropa maldita se convierte en un puerco que lucha junto a ella y ataca a las estructuras.\n\nHace unas galletas de rechupete.",
                 "it": "Quando attacca, lancia un maleficio alle truppe nemiche che, una volta sconfitte, diventano maiali a lei fedeli e puntano dritti agli edifici che proteggevano l'istante prima. Anche in cucina fa delle vere e proprie magie!",
@@ -4203,7 +4203,7 @@
                 "ms": "Menyihir askar musuh dengan setiap serangannya. Apabila askar yang terkena sihir ditewaskan, ia berubah menjadi khinzir yang menyasarkan bangunan yang bertempur di samping Nenek Sihir!\n\nNenek ni pandai buat kuih juga.",
                 "th": "เธอสาปกองกำลังของศัตรูในการโจมตีแต่ละครั้ง เมื่อกองกำลังต้องคำสาปถูกทำลาย มันจะกลายเป็นหมูป่าที่ตั้งเป้าหมายโจมตีสิ่งก่อสร้างและร่วมต่อสู้กับทวดแม่มด!\n\nแถมเธอยังอบคุกกี้เก่งอีกด้วยนะ",
                 "fi": "Ikinoita langettaa vihollisjoukkojen ylle kirouksen jokaisella hyökkäyksellään. Kun kirottu joukko tuhotaan, se muuttuu karjuksi, joka taistelee ikinoidan rinnalla hyökäten kohti rakennuksia!\n\nMyös ikinoidan leipomukset ovat taianomaisia.",
-                "vi": "Mỗi lần tấn công, bà ta sẽ yểm lời nguyền lên Binh lính địch. Khi một Binh lính trúng lời nguyền bị tiêu diệt, binh lính này sẽ biến thành Heo - binh chủng chuyên nhắm công trình làm mục tiêu - và chú Heo này sẽ chiến đấu cho phe của Phù thủy Mẹ!\n\nNgoài ra, bánh quy bà ta làm ăn cũng ngon lắm đấy!",
+                "vi": "Mỗi lần tấn công, bà ta sẽ yểm lời nguyền lên Binh lính địch. Khi bị tiêu diệt, Binh lính trúng lời nguyền sẽ biến thành Heo - binh chủng chuyên nhắm công trình làm mục tiêu - và chú Heo này sẽ chiến đấu cho phe của Phù thủy Mẹ!\n\nBánh quy bà ta làm ăn cũng ngon lắm đấy!",
                 "sc_key": "TID_SPELL_INFO_WITCHMOTHER"
             }
         }
