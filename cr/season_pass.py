@@ -4,13 +4,14 @@ Generate rarities JSON from APK CSV source.
 
 import csv
 import os
+from collections import defaultdict
+from collections import OrderedDict
 from typing import List
 
 from pydantic import BaseModel
 
 from .base import BaseGen
 from .util import camelcase_to_snakecase
-from collections import defaultdict
 
 
 class SeasonPassItem(BaseModel):
@@ -33,18 +34,54 @@ class SeasonPassItem(BaseModel):
                 s_key = f"consumable_{row.get('consumable')}"
             elif row.get('resource'):
                 s_key = f"resource_{row.get('resource')}"
+            elif row.get('strike') is True:
+                s_key = "strike"
+            elif row.get('bonus_consumable'):
+                s_key = f"bonus_consumable_{row.get('bonus_consumable')}"
+            elif row.get('emote_id_high'):
+                s_key = "emote"
+            elif row.get('bonus_emote_id_high'):
+                s_key = "bonus_emote"
 
             if s_key is not None:
-                amount = row.get('amount')
+                if s_key.startswith('bonus'):
+                    amount = row.get('bonus_consumable_amount')
+                elif s_key in ['emote', 'bonus_emote']:
+                    amount = 1
+                elif s_key == 'emote':
+                    amount = 1
+                elif s_key == 'bonus_emote':
+                    amount = 1
+                else:
+                    amount = row.get('amount')
 
-                s_dict[s_key] += amount
+                print(amount)
+
+                try:
+                    if amount is None:
+                        amount = 1
+                    s_dict[s_key] += amount
+                except TypeError:
+                    print(s_key, amount)
+                    print(s_key == 'bonus_emote')
+                    print(s_key in ['emote', 'bonus_emote'])
+                    raise
+
+        # add one strike to strikes, which is added upon unlock
+        if 'strike' in s_dict.keys():
+            s_dict['strike'] += 1
+
+        # sort dict
+        s_dict = OrderedDict(sorted(s_dict.items()))
 
         self.summary = s_dict
 
-
-
-
-
+    def summary_dict(self):
+        """
+        Create a dict without rows
+        :return:
+        """
+        return {k: v for k, v in self.dict().items() if k not in ['rows']}
 
 
 class SeasonPassPro(BaseGen):
@@ -52,6 +89,7 @@ class SeasonPassPro(BaseGen):
     Trophy road should be road as strict dicts
     """
     config_id = 'season_pass_pro'
+    config_summary_id = 'season_pass_pro_summary'
 
     def __init__(self, config):
         super().__init__(config, id=self.config_id)
@@ -82,9 +120,6 @@ class SeasonPassPro(BaseGen):
         items = dict()
 
         current_name = None
-        current_name_count = 0
-        item_rows = []
-        is_new_item = False
         current_item = None
 
         for row in rows[1:]:
@@ -133,15 +168,22 @@ class SeasonPassPro(BaseGen):
         for k, item in items.items():
             item.summarize()
 
-        json_path = os.path.join(
-            self.config.json.base,
-            getattr(self.config.json, self.config_id)
-        )
         self.save_json(
             [v.dict() for k, v in items.items()],
-            json_path
+            os.path.join(
+                self.config.json.base,
+                getattr(self.config.json, self.config_id)
+            )
+        )
+        self.save_json(
+            [v.summary_dict() for k, v in items.items()],
+            os.path.join(
+                self.config.json.base,
+                getattr(self.config.json, self.config_summary_id)
+            )
         )
 
 
 class SeasonPassRookie(SeasonPassPro):
     config_id = 'season_pass_rookie'
+    config_summary_id = 'season_pass_rookie_summary'

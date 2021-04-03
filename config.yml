@@ -55,7 +55,9 @@ json:
   rarities: ./rarities.json
   regions: ./regions.json
   season_pass_pro: ./season_pass_pro.json
+  season_pass_pro_summary: ./season_pass_pro_summary.json
   season_pass_rookie: ./season_pass_rookie.json
+  season_pass_rookie_summary: ./season_pass_rookie_summary.json
   spell_sets: ./spell_sets.json
   texts: ./texts.json
   tournaments: ./tournaments.json

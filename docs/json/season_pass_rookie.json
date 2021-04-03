@@ -2,7 +2,9 @@
     {
         "name": "Rookie_Basic",
         "summary": {
-            "resource_Gold": 25500
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
         },
         "rows": [
             {
@@ -1954,7 +1956,9 @@
     {
         "name": "Rookie_December",
         "summary": {
-            "resource_Gold": 25500
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
         },
         "rows": [
             {
@@ -3906,7 +3910,9 @@
     {
         "name": "Rookie_CW2_Launch",
         "summary": {
-            "resource_Gold": 25500
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
         },
         "rows": [
             {
@@ -5858,7 +5864,10 @@
     {
         "name": "Rookie_FreeEmote",
         "summary": {
-            "resource_Gold": 25500
+            "bonus_emote": 1,
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
         },
         "rows": [
             {
@@ -7810,13 +7819,18 @@
     {
         "name": "Rookie_WildCards_Common",
         "summary": {
-            "resource_Gold": 25500,
-            "consumable_WildcardCommon": 500,
-            "consumable_WildcardRare": 200,
-            "consumable_WildcardEpic": 14,
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
             "consumable_BookCardAll": 1,
+            "consumable_BookCardCommon": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
             "consumable_WildcardLegendary": 1,
-            "consumable_BookCardCommon": 1
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
         },
         "rows": [
             {
@@ -9768,13 +9782,18 @@
     {
         "name": "Rookie_WildCards_Rare",
         "summary": {
-            "resource_Gold": 25500,
-            "consumable_WildcardCommon": 500,
-            "consumable_WildcardRare": 200,
-            "consumable_WildcardEpic": 14,
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
             "consumable_BookCardAll": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
             "consumable_WildcardLegendary": 1,
-            "consumable_BookCardRare": 1
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
         },
         "rows": [
             {
@@ -11726,13 +11745,18 @@
     {
         "name": "Rookie_WildCards_Epic",
         "summary": {
-            "resource_Gold": 25500,
-            "consumable_WildcardCommon": 500,
-            "consumable_WildcardRare": 200,
-            "consumable_WildcardEpic": 14,
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
             "consumable_BookCardAll": 1,
+            "consumable_BookCardEpic": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
             "consumable_WildcardLegendary": 1,
-            "consumable_BookCardEpic": 1
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
         },
         "rows": [
             {
@@ -13684,14 +13708,15 @@
     {
         "name": "Rookie_Offline",
         "summary": {
-            "resource_Gold": 18000,
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 1,
+            "consumable_GoldCoin": 1,
             "consumable_WildcardCommon": 100,
-            "consumable_WildcardRare": 50,
             "consumable_WildcardEpic": 10,
             "consumable_WildcardLegendary": 1,
-            "consumable_GoldCoin": 1,
-            "consumable_ChestKey": 1,
-            "consumable_BookCardAll": 1
+            "consumable_WildcardRare": 50,
+            "emote": 1,
+            "resource_Gold": 18000
         },
         "rows": [
             {

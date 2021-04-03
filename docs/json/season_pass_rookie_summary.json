@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Rookie_Basic",
+        "summary": {
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
+        }
+    },
+    {
+        "name": "Rookie_December",
+        "summary": {
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
+        }
+    },
+    {
+        "name": "Rookie_CW2_Launch",
+        "summary": {
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
+        }
+    },
+    {
+        "name": "Rookie_FreeEmote",
+        "summary": {
+            "bonus_emote": 1,
+            "emote": 1,
+            "resource_Gold": 25500,
+            "strike": 7
+        }
+    },
+    {
+        "name": "Rookie_WildCards_Common",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardCommon": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        }
+    },
+    {
+        "name": "Rookie_WildCards_Rare",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        }
+    },
+    {
+        "name": "Rookie_WildCards_Epic",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardEpic": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        }
+    },
+    {
+        "name": "Rookie_Offline",
+        "summary": {
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 1,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 100,
+            "consumable_WildcardEpic": 10,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 50,
+            "emote": 1,
+            "resource_Gold": 18000
+        }
+    }
+]
