@@ -2,6 +2,11 @@
     {
         "name": "Rookie_Basic",
         "summary": {
+            "chest_SeasonPass_Rookie_T1": 8,
+            "chest_SeasonPass_Rookie_T2": 6,
+            "chest_SeasonPass_Rookie_T3": 3,
+            "chest_SeasonPass_Rookie_T4": 1,
+            "chest_Star_<current_arena>": 34,
             "emote": 1,
             "resource_Gold": 25500,
             "strike": 7
@@ -1956,6 +1961,11 @@
     {
         "name": "Rookie_December",
         "summary": {
+            "chest_SeasonPass_Rookie_T1": 8,
+            "chest_SeasonPass_Rookie_T2": 6,
+            "chest_SeasonPass_Rookie_T3": 3,
+            "chest_SeasonPass_Rookie_T4": 1,
+            "chest_Star_<current_arena>": 34,
             "emote": 1,
             "resource_Gold": 25500,
             "strike": 7
@@ -3910,6 +3920,11 @@
     {
         "name": "Rookie_CW2_Launch",
         "summary": {
+            "chest_SeasonPass_Rookie_T1": 8,
+            "chest_SeasonPass_Rookie_T2": 6,
+            "chest_SeasonPass_Rookie_T3": 3,
+            "chest_SeasonPass_Rookie_T4": 1,
+            "chest_Star_<current_arena>": 34,
             "emote": 1,
             "resource_Gold": 25500,
             "strike": 7
@@ -5865,6 +5880,11 @@
         "name": "Rookie_FreeEmote",
         "summary": {
             "bonus_emote": 1,
+            "chest_SeasonPass_Rookie_T1": 8,
+            "chest_SeasonPass_Rookie_T2": 6,
+            "chest_SeasonPass_Rookie_T3": 3,
+            "chest_SeasonPass_Rookie_T4": 1,
+            "chest_Star_<current_arena>": 33,
             "emote": 1,
             "resource_Gold": 25500,
             "strike": 7
@@ -7823,6 +7843,7 @@
             "bonus_consumable_WildcardCommon": 50,
             "bonus_consumable_WildcardEpic": 4,
             "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
             "consumable_BookCardAll": 1,
             "consumable_BookCardCommon": 1,
             "consumable_WildcardCommon": 500,
@@ -9786,6 +9807,7 @@
             "bonus_consumable_WildcardCommon": 50,
             "bonus_consumable_WildcardEpic": 4,
             "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
             "consumable_BookCardAll": 1,
             "consumable_BookCardRare": 1,
             "consumable_WildcardCommon": 500,
@@ -11749,6 +11771,7 @@
             "bonus_consumable_WildcardCommon": 50,
             "bonus_consumable_WildcardEpic": 4,
             "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
             "consumable_BookCardAll": 1,
             "consumable_BookCardEpic": 1,
             "consumable_WildcardCommon": 500,
@@ -13708,6 +13731,11 @@
     {
         "name": "Rookie_Offline",
         "summary": {
+            "chest_SeasonPass_Rookie_T1": 7,
+            "chest_SeasonPass_Rookie_T2": 5,
+            "chest_SeasonPass_Rookie_T3": 3,
+            "chest_SeasonPass_Rookie_T4": 1,
+            "chest_Star_<current_arena>": 34,
             "consumable_BookCardAll": 1,
             "consumable_ChestKey": 1,
             "consumable_GoldCoin": 1,

@@ -42,20 +42,17 @@ class SeasonPassItem(BaseModel):
                 s_key = "emote"
             elif row.get('bonus_emote_id_high'):
                 s_key = "bonus_emote"
+            elif row.get('chest'):
+                s_key = f"chest_{row.get('chest')}"
 
             if s_key is not None:
                 if s_key.startswith('bonus'):
                     amount = row.get('bonus_consumable_amount')
-                elif s_key in ['emote', 'bonus_emote']:
-                    amount = 1
-                elif s_key == 'emote':
-                    amount = 1
-                elif s_key == 'bonus_emote':
-                    amount = 1
-                else:
+                elif row.get('amount'):
                     amount = row.get('amount')
+                else:
+                    amount = 1
 
-                print(amount)
 
                 try:
                     if amount is None:
