@@ -6,3 +6,4 @@ PyYAML
 requests
 tabulate
 urllib3
+pydantic

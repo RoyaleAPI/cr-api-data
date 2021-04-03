@@ -35,6 +35,8 @@ if __name__ == '__main__':
         Consumables,
         TrophyRoad,
         TrophyRoadSeason,
+        SeasonPassPro,
+        SeasonPassRookie,
     ])
 
     # legacy to be converted

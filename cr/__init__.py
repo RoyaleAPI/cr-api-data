@@ -13,6 +13,8 @@ from .game_mode import GameModes
 from .predefined_decks import PredefinedDecks
 from .rarities import Rarities
 from .regions import Regions
+from .season_pass import SeasonPassPro
+from .season_pass import SeasonPassRookie
 from .spell_sets import SpellSets
 from .texts import TextsGen
 from .trophy_road import TrophyRoad

@@ -22,6 +22,8 @@ csv:
     projectiles: ./csv_logic/projectiles.csv
     rarities: ./csv_logic/rarities.csv
     regions: ./csv_logic/regions.csv
+    season_pass_pro: ./csv_logic/season_pass_pro.csv
+    season_pass_rookie: ./csv_logic/season_pass_rookie.csv
     spells_buildings: ./csv_logic/spells_buildings.csv
     spells_characters: ./csv_logic/spells_characters.csv
     spells_other: ./csv_logic/spells_other.csv
@@ -52,6 +54,8 @@ json:
   predefined_decks: ./predefined_decks.json
   rarities: ./rarities.json
   regions: ./regions.json
+  season_pass_pro: ./season_pass_pro.json
+  season_pass_rookie: ./season_pass_rookie.json
   spell_sets: ./spell_sets.json
   texts: ./texts.json
   tournaments: ./tournaments.json
