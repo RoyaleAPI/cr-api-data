@@ -15,6 +15,24 @@
             "token_Legendary": 1,
             "token_Rare": 1
         },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 6,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 4,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 40000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
         "rows": [
             {
                 "name": "Pro_Basic_0000_1",
@@ -1972,6 +1990,24 @@
             "chest_Star_<current_arena>": 34,
             "emote": 1,
             "resource_Gold": 46000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 5,
+            "chest_SeasonPass_Pro_T2": 5,
+            "chest_SeasonPass_Pro_T3": 3,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 45000,
             "strike": 7,
             "token_Common": 1,
             "token_Epic": 1,
@@ -3941,6 +3977,24 @@
             "token_Legendary": 1,
             "token_Rare": 1
         },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 6,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 4,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 40000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
         "rows": [
             {
                 "name": "Pro_EarlyStrikes_0000_1",
@@ -5898,6 +5952,24 @@
             "chest_Star_<current_arena>": 34,
             "emote": 1,
             "resource_Gold": 41000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 6,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 4,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 40000,
             "strike": 7,
             "token_Common": 1,
             "token_Epic": 1,
@@ -7867,6 +7939,24 @@
             "token_Legendary": 1,
             "token_Rare": 1
         },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 6,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 4,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 40000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
         "rows": [
             {
                 "name": "Pro_December_0000_1",
@@ -9824,6 +9914,24 @@
             "chest_Star_<current_arena>": 34,
             "emote": 1,
             "resource_Gold": 41000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 6,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 4,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 40000,
             "strike": 7,
             "token_Common": 1,
             "token_Epic": 1,
@@ -11788,6 +11896,25 @@
             "chest_Star_<current_arena>": 33,
             "emote": 1,
             "resource_Gold": 41000,
+            "strike": 7,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "bonus_emote": 1,
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 33,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 6,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 4,
+            "chest_SeasonPass_Pro_T4": 1,
+            "emote": 1,
+            "resource_Gold": 40000,
             "strike": 7,
             "token_Common": 1,
             "token_Epic": 1,
@@ -13765,6 +13892,31 @@
             "token_Legendary": 1,
             "token_Rare": 1
         },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 100,
+            "bonus_consumable_WildcardEpic": 10,
+            "bonus_consumable_WildcardLegendary": 1,
+            "bonus_consumable_WildcardRare": 20,
+            "chest_Star_<current_arena>": 25,
+            "consumable_BookCardCommon": 1,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 2,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 700,
+            "consumable_WildcardEpic": 70,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 140,
+            "emote": 1,
+            "resource_Gold": 40000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
         "rows": [
             {
                 "name": "Pro_WildCards_Common_0000_1",
@@ -15731,6 +15883,31 @@
             "consumable_WildcardRare": 140,
             "emote": 1,
             "resource_Gold": 41000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 100,
+            "bonus_consumable_WildcardEpic": 10,
+            "bonus_consumable_WildcardLegendary": 1,
+            "bonus_consumable_WildcardRare": 20,
+            "chest_Star_<current_arena>": 25,
+            "consumable_BookCardRare": 1,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 2,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 700,
+            "consumable_WildcardEpic": 70,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 140,
+            "emote": 1,
+            "resource_Gold": 40000,
             "token_Common": 1,
             "token_Epic": 1,
             "token_Legendary": 1,
@@ -17707,6 +17884,31 @@
             "token_Legendary": 1,
             "token_Rare": 1
         },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 100,
+            "bonus_consumable_WildcardEpic": 10,
+            "bonus_consumable_WildcardLegendary": 1,
+            "bonus_consumable_WildcardRare": 20,
+            "chest_Star_<current_arena>": 25,
+            "consumable_BookCardEpic": 1,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 2,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 700,
+            "consumable_WildcardEpic": 70,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 140,
+            "emote": 1,
+            "resource_Gold": 40000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
         "rows": [
             {
                 "name": "Pro_WildCards_Epic_0000_1",
@@ -19678,6 +19880,31 @@
             "token_Legendary": 1,
             "token_Rare": 1
         },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 100,
+            "bonus_consumable_WildcardEpic": 10,
+            "bonus_consumable_WildcardLegendary": 1,
+            "bonus_consumable_WildcardRare": 20,
+            "chest_Star_<current_arena>": 25,
+            "consumable_BookCardLegendary": 1,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 2,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 700,
+            "consumable_WildcardEpic": 70,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 140,
+            "emote": 1,
+            "resource_Gold": 40000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
         "rows": [
             {
                 "name": "Pro_WildCards_Legendary_0000_1",
@@ -21641,6 +21868,30 @@
             "consumable_WildcardLegendary": 1,
             "consumable_WildcardRare": 50,
             "resource_Gold": 36500,
+            "strike": 6,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "chest_SeasonPass_Pro_T4": 1,
+            "chest_Star_<current_arena>": 34,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "chest_SeasonPass_Pro_T1": 4,
+            "chest_SeasonPass_Pro_T2": 3,
+            "chest_SeasonPass_Pro_T3": 3,
+            "chest_SeasonPass_Pro_T4": 1,
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 1,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 100,
+            "consumable_WildcardEpic": 10,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 50,
+            "resource_Gold": 36000,
             "strike": 6,
             "token_Common": 1,
             "token_Epic": 1,

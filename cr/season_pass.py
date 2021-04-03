@@ -17,6 +17,8 @@ from .util import camelcase_to_snakecase
 class SeasonPassItem(BaseModel):
     name: str
     summary: dict = {}
+    summary_free: dict = {}
+    summary_paid: dict = {}
     rows: List[dict] = []
 
     def summarize(self):
@@ -25,6 +27,9 @@ class SeasonPassItem(BaseModel):
         :return:
         """
         s_dict = defaultdict(int)
+        s_free = defaultdict(int)
+        s_paid = defaultdict(int)
+
         for row in self.rows:
             s_key = None
             amount = 0
@@ -58,6 +63,11 @@ class SeasonPassItem(BaseModel):
                     if amount is None:
                         amount = 1
                     s_dict[s_key] += amount
+
+                    if row.get('premium') is True:
+                        s_paid[s_key] += amount
+                    else:
+                        s_free[s_key] += amount
                 except TypeError:
                     print(s_key, amount)
                     print(s_key == 'bonus_emote')
@@ -65,13 +75,18 @@ class SeasonPassItem(BaseModel):
                     raise
 
         # add one strike to strikes, which is added upon unlock
-        if 'strike' in s_dict.keys():
-            s_dict['strike'] += 1
+        for sd in [s_dict, s_paid, s_free]:
+            if 'strike' in sd.keys():
+                sd['strike'] += 1
 
         # sort dict
         s_dict = OrderedDict(sorted(s_dict.items()))
+        s_paid = OrderedDict(sorted(s_paid.items()))
+        s_free = OrderedDict(sorted(s_free.items()))
 
         self.summary = s_dict
+        self.summary_paid = s_paid
+        self.summary_free = s_free
 
     def summary_dict(self):
         """
