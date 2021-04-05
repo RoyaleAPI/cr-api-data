@@ -1,3 +1,5 @@
+https://royaleapi.github.io/cr-api-data/
+
 # cr-api-data
 
 The Python scripts inside `/cr` combines columns inside several csv files to generate a collection of JSON files to be used for Clash Royale application development.
