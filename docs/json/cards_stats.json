@@ -41392,7 +41392,7 @@
             "speed": 90,
             "hitpoints": 524,
             "hit_speed": 1400,
-            "load_time": 1000,
+            "load_time": 900,
             "damage": 150,
             "damage_special": 0,
             "crown_tower_damage_percent": 0,
