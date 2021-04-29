@@ -2623,5 +2623,31 @@
         "exclusive": true,
         "key": "emote_116_0",
         "file_key": "emotes_pekka_blossom_dl.sc:116:0"
+    },
+    {
+        "name": "Emote206",
+        "index_hi": 117,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_mortar_01_01_dl.ogg",
+        "sc_file": "sc/emotes_mortar_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_117_0",
+        "file_key": "emotes_mortar_01_dl.sc:117:0"
+    },
+    {
+        "name": "Emote207",
+        "index_hi": 117,
+        "index_lo": 1,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_mortar_01_02_dl.ogg",
+        "sc_file": "sc/emotes_mortar_01_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_117_1",
+        "file_key": "emotes_mortar_01_dl.sc:117:1"
     }
 ]
