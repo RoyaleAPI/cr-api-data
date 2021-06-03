@@ -55,15 +55,30 @@ class BaseGen:
             rows = []
             self._all_texts = {}
             for csv_path in csv_paths:
+                def find_first_key():
+                    with open(csv_path) as f:
+                        reader = csv.reader(f)
+                        first_row = None
+                        for row in reader:
+                            if first_row is None:
+                                first_row = row
+
+                        print(first_row)
+                        return first_row[0]
+
+                first_key = find_first_key()
+
                 with open(csv_path, encoding="utf8") as f:
                     texts_reader = csv.DictReader(f)
                     for row in texts_reader:
                         # define SC key
-                        keys = ['v', 'e', ' ', 'c']
-                        for key in keys:
-                            if key in row.keys():
-                                if row.get(key):
-                                    row['sc_key'] = row.get(key)
+                        # keys = ['v', 'e', ' ', 'c']
+                        # for key in keys:
+                        #     if key in row.keys():
+                        #         if row.get(key):
+                        #             row['sc_key'] = row.get(key)
+
+                        row['sc_key'] = row.get(first_key)
                         # replace quotes
                         for k, v in row.items():
                             if v:

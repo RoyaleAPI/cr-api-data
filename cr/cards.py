@@ -11,7 +11,11 @@ from .base import BaseGen
 from .util import camelcase_split
 
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO)
+
+if os.environ.get('DEBUG') == '1':
+    logging.basicConfig(level=logging.DEBUG)
+else:
+    logging.basicConfig(level=logging.INFO)
 
 
 class Cards(BaseGen):
@@ -48,11 +52,16 @@ class Cards(BaseGen):
             """make card dicts by type."""
             csv_path = os.path.join(self.config.csv.base, card_config.csv)
 
+            logger.debug(csv_path)
+
             with open(csv_path, encoding="utf8") as f:
                 reader = csv.DictReader(f)
                 # fix prince breaking things
                 decklink_id_delta = 0
                 for i, row in enumerate(reader):
+
+                    logger.debug(f"{i=} {row=}")
+
                     if i > 0:
                         card_num += 1
 
@@ -66,18 +75,28 @@ class Cards(BaseGen):
                             process = False
                             decklink_id_delta -= 1
 
+                        logger.debug(f"{i=} {process=} {row=}")
+
                         # print(process, card_num, row)
 
                         if process:
+
+
                             tid = row.get('TID')
                             txt = self.text(tid, "EN")
                             # print(txt)
+
+                            # logger.debug(f"{txt=} {row=}")
 
                             name_en = self.text(row['TID'], 'EN')
                             if name_en == '':
                                 name_en = row['Name']
 
+                            logger.debug(f"{name_en=} {row=}")
+
                             if name_en is not None:
+
+
                                 name_strip = re.sub('[.\-]', '', name_en)
                                 ccs = camelcase_split(name_strip)
                                 key = '-'.join(s.lower() for s in ccs)
@@ -111,6 +130,9 @@ class Cards(BaseGen):
                                     #     'description': self.text_all_lang(row['TID_INFO']),
                                     # }
                                 }
+
+                                logger.debug(card)
+                                print(card)
 
                                 if self.i18n:
                                     card.update({
