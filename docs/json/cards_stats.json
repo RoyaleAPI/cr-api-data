@@ -23663,7 +23663,7 @@
             "id": 28000012,
             "icon_file": "tornado",
             "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_empty",
-            "highres_image_filename": null,
+            "highres_image_filename": "image/chr/tornado_dl.png",
             "unlock_arena": "Arena5",
             "unlock_level": 0,
             "not_visible": false,
