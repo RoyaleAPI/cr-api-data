@@ -1,6 +1,7 @@
 """
 Text: i18n full
 """
+import csv
 
 from csv2json import read_csv
 from .base import BaseGen
@@ -35,17 +36,32 @@ class TextsGen(BaseGen):
         return out
 
     def run(self):
+        # find the first key
+        def find_first_key():
+            with open(self.csv_path) as f:
+                reader = csv.reader(f)
+                first_row = None
+                for row in reader:
+                    if first_row is None:
+                        first_row = row
+
+                print(first_row)
+                return first_row[0]
+
+        first_key = find_first_key()
+        print(f"{first_key=}")
+
         out = []
         out.extend(
             self.convert_text(
                 self.csv_path,
-                first_key="c"
+                first_key=first_key
              )
         )
         out.extend(
             self.convert_text(
                 self.csv_path_by_id(id="texts_patch"),
-                first_key="c"
+                first_key=first_key
             )
         )
 
