@@ -666,7 +666,6 @@
                 "sc_key": "TID_SPELL_SKELETONS"
             },
             "description": {
-                "do": "TID_SPELL_INFO_SKELETONS",
                 "en": "Three fast, very weak melee fighters. Surround your enemies with this pile of bones!",
                 "fr": "Trois combattants de mêlée, rapides mais très faibles. Encerclez vos ennemis avec ces tas d'os !",
                 "de": "Drei schnelle aber sehr schwache Nahkämpfer. Umzingle deine Feinde mit diesem Knochenhaufen!",
@@ -685,9 +684,9 @@
                 "fa": "سه جنگجوی سریع و خیلی ضعیف که اهل جنگ تن به تن هستن. با این توده استخوانی دشمنان خودتو احاطه کن!",
                 "id": "Tiga petarung jarak dekat yang cepat dan sangat lemah. Kepung lawan dengan tumpukan tulang ini!",
                 "ms": "Tiga penyerang berjarak dekat pantas dan sangat lemah. Mengelilingi musuh anda dengan timbunan tulang ini!",
-                "th": "นักสู้ระยะประชิดว่องไวแต่อ่อนแอมากสี่ตน ล้อมศัตรูของท่านด้วยกองกระดูกนี่สิ!",
+                "th": "นักสู้ระยะประชิดว่องไวแต่อ่อนแอมากสามตน ล้อมศัตรูของท่านด้วยกองกระดูกนี่สิ!",
                 "fi": "Kolme nopeaa mutta erittäin heikkoa lähikontaktitaistelijaa. Piiritä vihollisesi tällä luukasalla!",
-                "vi": "Bộ tứ nhanh nhẹn nhưng rất yếu này chuyên tấn công cận chiến. Hãy bao vây kẻ địch bằng đống xương này!",
+                "vi": "Bộ ba nhanh nhẹn nhưng rất yếu này chuyên tấn công cận chiến. Hãy bao vây kẻ địch bằng đống xương này!",
                 "sc_key": "TID_SPELL_INFO_SKELETONS"
             }
         }
