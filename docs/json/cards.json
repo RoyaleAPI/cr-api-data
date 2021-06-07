@@ -83,7 +83,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 5,
         "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
         "id": 26000007
     },
@@ -105,7 +105,7 @@
         "elixir": 8,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 3,
+        "arena": 10,
         "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
         "id": 26000009
     },
@@ -138,7 +138,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 2,
         "description": "Spawns an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
         "id": 26000012
     },
@@ -171,7 +171,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 2,
         "description": "Burps fireballs from the sky that deal area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
         "id": 26000015
     },
@@ -182,7 +182,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 7,
         "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
         "id": 26000016
     },
@@ -193,7 +193,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 5,
+        "arena": 4,
         "description": "The most awesome man to ever set foot in the Arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
         "id": 26000017
     },
@@ -226,7 +226,7 @@
         "elixir": 6,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 4,
         "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
         "id": 26000020
     },
@@ -237,7 +237,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 1,
+        "arena": 5,
         "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
         "id": 26000021
     },
@@ -248,7 +248,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 4,
+        "arena": 10,
         "description": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
         "id": 26000022
     },
@@ -281,7 +281,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 7,
+        "arena": 12,
         "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
         "id": 26000025
     },
@@ -292,7 +292,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 7,
+        "arena": 5,
         "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
         "id": 26000026
     },
@@ -325,7 +325,7 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 4,
+        "arena": 10,
         "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
         "id": 26000029
     },
@@ -341,14 +341,14 @@
         "id": 26000030
     },
     {
-        "key": "fire-spirits",
-        "name": "Fire Spirits",
+        "key": "fire-spirit",
+        "name": "Fire Spirit",
         "sc_key": "FireSpirits",
-        "elixir": 2,
+        "elixir": 1,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 5,
-        "description": "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.",
+        "arena": 4,
+        "description": "The Fire Spirit is on a kamikaze mission to give you a warm hug. It'd be adorable if it wasn't on fire.",
         "id": 26000031
     },
     {
@@ -359,7 +359,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 4,
-        "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
+        "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel. A shovel that deals reduced damage to Crown Towers.",
         "id": 26000032
     },
     {
@@ -380,7 +380,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 8,
+        "arena": 13,
         "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
         "id": 26000034
     },
@@ -391,7 +391,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 8,
+        "arena": 14,
         "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
         "id": 26000035
     },
@@ -413,7 +413,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 6,
+        "arena": 9,
         "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
         "id": 26000037
     },
@@ -435,7 +435,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 4,
+        "arena": 3,
         "description": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
         "id": 26000039
     },
@@ -490,7 +490,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 1,
+        "arena": 10,
         "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
         "id": 26000044
     },
@@ -501,7 +501,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 12,
+        "arena": 14,
         "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose an arm.",
         "id": 26000045
     },
@@ -512,7 +512,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 9,
+        "arena": 13,
         "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe, and gives her bonus cool points!",
         "id": 26000046
     },
@@ -534,7 +534,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 14,
         "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
         "id": 26000048
     },
@@ -589,7 +589,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 9,
+        "arena": 13,
         "description": "Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind... with slingshots full of Double Trouble Gum!",
         "id": 26000053
     },
@@ -600,7 +600,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 15,
         "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
         "id": 26000054
     },
@@ -622,7 +622,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 6,
+        "arena": 12,
         "description": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
         "id": 26000056
     },
@@ -644,7 +644,7 @@
         "elixir": 2,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 5,
         "description": "A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold and undead heart like blowing up buildings.",
         "id": 26000058
     },
@@ -677,7 +677,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 15,
         "description": "His Ranged Attack can pull enemies towards him, and pull himself to enemy buildings. He's also mastered the ancient art of 'Fish Slapping'.",
         "id": 26000061
     },
@@ -688,7 +688,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 13,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
         "id": 26000062
     },
@@ -710,7 +710,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 10,
+        "arena": 14,
         "description": "Shoots a firework that explodes upon impact, damaging the target and showering anything directly behind it with sparks. This is what happens when Archers get bored!",
         "id": 26000064
     },
@@ -721,7 +721,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 11,
+        "arena": 14,
         "description": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. A Blob gives your opponent 1 Elixir when destroyed!",
         "id": 26000067
     },
@@ -732,7 +732,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 12,
+        "arena": 15,
         "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
         "id": 26000068
     },
@@ -743,7 +743,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 12,
+        "arena": 4,
         "description": "This pair of skeletal scorchers deal Area Damage and fly above the Arena. They also play a mean rib cage xylophone duet.",
         "id": 26000080
     },
@@ -754,7 +754,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 9,
+        "arena": 15,
         "description": "Places a curse on enemy Troops with each attack. When a cursed Troop is destroyed, it turns into a building-targeting Hog that fights alongside the Mother Witch!\n\nShe also bakes great cookies.",
         "id": 26000083
     },
@@ -798,7 +798,7 @@
         "elixir": 5,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 1,
+        "arena": 9,
         "description": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
         "id": 27000001
     },
@@ -831,7 +831,7 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 10,
+        "arena": 12,
         "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
         "id": 27000004
     },
@@ -842,7 +842,7 @@
         "elixir": 7,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 3,
+        "arena": 14,
         "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
         "id": 27000005
     },
@@ -864,7 +864,7 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 8,
+        "arena": 13,
         "description": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
         "id": 27000007
     },
@@ -897,8 +897,8 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 5,
-        "description": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
+        "arena": 10,
+        "description": "The Furnace spawns one Fire Spirit at a time. It also makes great brick-oven pancakes.",
         "id": 27000010
     },
     {
@@ -908,9 +908,20 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 12,
+        "arena": 1,
         "description": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler always skips leg day.",
         "id": 27000012
+    },
+    {
+        "key": "goblin-drill",
+        "name": "Goblin Drill",
+        "sc_key": "GoblinDrill",
+        "elixir": 4,
+        "type": "Building",
+        "rarity": "Epic",
+        "arena": 13,
+        "description": "Building capable of burrowing underground and appearing anywhere in the Arena. Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything nearby has been properly stabbed.",
+        "id": 27000013
     },
     {
         "key": "fireball",
@@ -941,7 +952,7 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 14,
         "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
         "id": 28000002
     },
@@ -963,7 +974,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 1,
+        "arena": 3,
         "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
         "id": 28000004
     },
@@ -975,7 +986,7 @@
         "type": "Spell",
         "rarity": "Epic",
         "arena": 8,
-        "description": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill.",
+        "description": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill. Reduced damage to Crown Towers.",
         "id": 28000005
     },
     {
@@ -996,7 +1007,7 @@
         "elixir": 6,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 4,
+        "arena": 8,
         "description": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
         "id": 28000007
     },
@@ -1007,7 +1018,7 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Common",
-        "arena": 4,
+        "arena": 5,
         "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
         "id": 28000008
     },
@@ -1018,8 +1029,8 @@
         "elixir": 4,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 5,
-        "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!",
+        "arena": 9,
+        "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure! Reduced damage to Crown Towers.",
         "id": 28000009
     },
     {
@@ -1041,7 +1052,7 @@
         "type": "Spell",
         "rarity": "Legendary",
         "arena": 6,
-        "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path!",
+        "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path! Reduced damage to Crown Towers.",
         "id": 28000011
     },
     {
@@ -1051,7 +1062,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 5,
+        "arena": 15,
         "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet.",
         "id": 28000012
     },
@@ -1062,7 +1073,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 11,
+        "arena": 15,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
         "id": 28000013
     },
@@ -1073,7 +1084,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 9,
+        "arena": 12,
         "description": "Deals Damage per second to Troops and Crown Towers. Deals huge Building Damage! Does not affect flying units (it is an EARTHquake, after all).",
         "id": 28000014
     },
@@ -1095,7 +1106,7 @@
         "elixir": 1,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 10,
+        "arena": 13,
         "description": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\n\nR.I.P. Heal\n2017 - 2020\nAlas, we hardly used ye.",
         "id": 28000016
     },
@@ -1107,7 +1118,7 @@
         "type": "Spell",
         "rarity": "Common",
         "arena": 8,
-        "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down.",
+        "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down. Reduced damage to Crown Towers.",
         "id": 28000017
     },
     {
@@ -1117,7 +1128,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Common",
-        "arena": 12,
+        "arena": 15,
         "description": "No need to sign for this package!\n\nDropped from the sky, it deals Area Damage to enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
         "id": 28000018
     }

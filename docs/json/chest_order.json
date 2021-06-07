@@ -911,5 +911,3491 @@
             "arena_threshold": null,
             "one_time": null
         }
+    ],
+    "MainCycleKL13": [
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        }
+    ],
+    "MainCycleKL12": [
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        }
+    ],
+    "MainCycleKL11": [
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Medium",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Large",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Magic",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "GoldCage_Small",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Giant",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Gold",
+            "arena_threshold": null,
+            "one_time": null
+        },
+        {
+            "chest": "Silver",
+            "arena_threshold": null,
+            "one_time": null
+        }
     ]
 }

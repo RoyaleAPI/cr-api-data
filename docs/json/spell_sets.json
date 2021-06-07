@@ -24,7 +24,7 @@
             "ice-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "ice-golem"
         ]
     },
@@ -58,7 +58,7 @@
         "spells": [
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "zap",
             "rage",
             "the-log",
@@ -158,7 +158,7 @@
             "mirror",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "zap",
             "rage",
             "the-log",
@@ -242,13 +242,13 @@
             "ice-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits"
+            "fire-spirit"
         ]
     },
     {
         "name": "SetFixedSpirit",
         "spells": [
-            "fire-spirits",
+            "fire-spirit",
             "ice-spirit"
         ]
     },
@@ -410,7 +410,7 @@
             "ice-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "ice-golem",
             "skeleton-army",
             "guards",
@@ -532,7 +532,7 @@
             "ice-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "ice-golem",
             "zap",
             "the-log"
@@ -543,7 +543,7 @@
         "spells": [
             "ice-spirit",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "dart-goblin",
             "princess"
@@ -571,7 +571,7 @@
             "mirror",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "zap",
             "rage",
             "the-log",
@@ -669,7 +669,8 @@
             "royal-hogs",
             "ram-rider",
             "battle-ram",
-            "hog-rider"
+            "hog-rider",
+            "mother-witch"
         ]
     },
     {
@@ -700,7 +701,8 @@
             "lightning",
             "mirror",
             "rage",
-            "clone"
+            "clone",
+            "royal-delivery"
         ]
     },
     {
@@ -716,7 +718,8 @@
             "barbarian-hut",
             "furnace",
             "cannon",
-            "goblin-cage"
+            "goblin-cage",
+            "goblin-drill"
         ]
     },
     {
@@ -743,7 +746,8 @@
             "minion-horde",
             "minions",
             "bowler",
-            "cannon-cart"
+            "cannon-cart",
+            "skeleton-dragons"
         ]
     },
     {
@@ -777,7 +781,7 @@
             "ice-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "ice-golem",
             "skeleton-army",
             "guards",
@@ -785,7 +789,8 @@
             "goblin-gang",
             "bats",
             "skeleton-barrel",
-            "bomber"
+            "bomber",
+            "electro-spirit"
         ]
     },
     {
@@ -795,7 +800,7 @@
             "ice-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "zap",
             "rage",
             "the-log",
@@ -862,7 +867,7 @@
         "spells": [
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "minions",
             "knight",
@@ -920,7 +925,7 @@
         "spells": [
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "minions",
             "knight",
@@ -990,7 +995,7 @@
             "graveyard",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "minions",
             "knight",
@@ -1063,7 +1068,7 @@
             "heal-spirit",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "minions",
             "knight",
@@ -1127,7 +1132,7 @@
             "dark-prince",
             "night-witch",
             "electro-wizard",
-            "fire-spirits",
+            "fire-spirit",
             "giant-skeleton",
             "golem",
             "graveyard",
@@ -1147,7 +1152,7 @@
     {
         "name": "SetMirror_Counters_H",
         "spells": [
-            "fire-spirits",
+            "fire-spirit",
             "minions",
             "bomber",
             "ice-wizard",
@@ -1186,7 +1191,7 @@
         "name": "SetMirror_Troops_H",
         "spells": [
             "graveyard",
-            "fire-spirits",
+            "fire-spirit",
             "minions",
             "bomber",
             "ice-wizard",
@@ -1226,7 +1231,7 @@
             "mirror",
             "clone",
             "freeze",
-            "fire-spirits",
+            "fire-spirit",
             "minions",
             "bomber",
             "ice-wizard",
@@ -1267,7 +1272,7 @@
             "night-witch",
             "electro-wizard",
             "furnace",
-            "fire-spirits",
+            "fire-spirit",
             "freeze",
             "giant-skeleton",
             "golem",
@@ -1311,7 +1316,7 @@
             "night-witch",
             "electro-wizard",
             "furnace",
-            "fire-spirits",
+            "fire-spirit",
             "freeze",
             "giant-skeleton",
             "golem",
@@ -1376,7 +1381,9 @@
             "valkyrie",
             "royal-recruits",
             "goblin-giant",
-            "elixir-golem"
+            "elixir-golem",
+            "electro-giant",
+            "goblin-drill"
         ]
     },
     {
@@ -1403,7 +1410,8 @@
             "wizard",
             "zappies",
             "electro-dragon",
-            "firecracker"
+            "firecracker",
+            "skeleton-dragons"
         ]
     },
     {
@@ -1426,13 +1434,14 @@
         "name": "Draft_RH_CycleUnder3",
         "spells": [
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "goblins",
             "ice-golem",
             "ice-spirit",
             "skeletons",
             "spear-goblins",
-            "heal-spirit"
+            "heal-spirit",
+            "electro-spirit"
         ]
     },
     {
@@ -1462,7 +1471,8 @@
             "mortar",
             "x-bow",
             "minion-horde",
-            "rascals"
+            "rascals",
+            "goblin-drill"
         ]
     },
     {
@@ -1473,7 +1483,7 @@
             "bandit",
             "magic-archer",
             "princess",
-            "fire-spirits",
+            "fire-spirit",
             "royal-ghost",
             "cannon-cart",
             "dart-goblin",
@@ -1505,7 +1515,8 @@
             "inferno-dragon",
             "lumberjack",
             "royal-ghost",
-            "fisherman"
+            "fisherman",
+            "mother-witch"
         ]
     },
     {
@@ -1528,7 +1539,8 @@
             "zappies",
             "cannon-cart",
             "electro-dragon",
-            "battle-healer"
+            "battle-healer",
+            "skeleton-dragons"
         ]
     },
     {
@@ -1560,7 +1572,7 @@
     {
         "name": "Draft_RH_Distractions",
         "spells": [
-            "fire-spirits",
+            "fire-spirit",
             "goblin-gang",
             "goblins",
             "ice-golem",
@@ -1569,7 +1581,8 @@
             "skeleton-army",
             "skeletons",
             "guards",
-            "spear-goblins"
+            "spear-goblins",
+            "electro-spirit"
         ]
     },
     {
@@ -1579,7 +1592,7 @@
             "bomber",
             "bowler",
             "dark-prince",
-            "fire-spirits",
+            "fire-spirit",
             "ice-wizard",
             "mega-knight",
             "royal-ghost",
@@ -1589,7 +1602,8 @@
             "magic-archer",
             "executioner",
             "valkyrie",
-            "firecracker"
+            "firecracker",
+            "skeleton-dragons"
         ]
     },
     {
@@ -1624,7 +1638,8 @@
             "skeleton-barrel",
             "ram-rider",
             "wall-breakers",
-            "elixir-golem"
+            "elixir-golem",
+            "goblin-drill"
         ]
     },
     {
@@ -1738,7 +1753,7 @@
             "bomber",
             "bowler",
             "dark-prince",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "ice-wizard",
             "mega-knight",
@@ -1794,7 +1809,7 @@
             "dark-prince",
             "bandit",
             "princess",
-            "fire-spirits",
+            "fire-spirit",
             "royal-ghost",
             "cannon-cart",
             "dart-goblin",
@@ -1868,7 +1883,7 @@
             "skeletons",
             "goblins",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "zap",
             "archers",
             "arrows",
@@ -1961,7 +1976,7 @@
         "name": "Set_CW_antiairArena6",
         "spells": [
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "minions",
             "mega-minion",
@@ -2016,7 +2031,7 @@
             "inferno-tower",
             "minion-horde",
             "pekka",
-            "fire-spirits",
+            "fire-spirit",
             "zap",
             "furnace",
             "poison",
@@ -2164,7 +2179,7 @@
     {
         "name": "MirrorCW_Distractions",
         "spells": [
-            "fire-spirits",
+            "fire-spirit",
             "goblin-gang",
             "goblins",
             "ice-spirit",
@@ -2366,7 +2381,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2417,7 +2432,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2476,7 +2491,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2543,7 +2558,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2618,7 +2633,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2700,7 +2715,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2789,7 +2804,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -2900,7 +2915,7 @@
             "skeletons",
             "minions",
             "bats",
-            "fire-spirits"
+            "fire-spirit"
         ]
     },
     {
@@ -2949,7 +2964,7 @@
             "wizard",
             "hunter",
             "valkyrie",
-            "fire-spirits",
+            "fire-spirit",
             "arrows",
             "fireball",
             "poison"
@@ -3014,7 +3029,7 @@
         "name": "Draft_TEST_CycleUnder3",
         "spells": [
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "goblins",
             "ice-golem",
             "ice-spirit",
@@ -3059,7 +3074,7 @@
             "bandit",
             "magic-archer",
             "princess",
-            "fire-spirits",
+            "fire-spirit",
             "royal-ghost",
             "cannon-cart",
             "dart-goblin",
@@ -3137,7 +3152,7 @@
     {
         "name": "Draft_TEST_Distractions",
         "spells": [
-            "fire-spirits",
+            "fire-spirit",
             "goblin-gang",
             "goblins",
             "ice-golem",
@@ -3156,7 +3171,7 @@
             "bomber",
             "bowler",
             "dark-prince",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "ice-wizard",
             "mega-knight",
@@ -3288,7 +3303,9 @@
             "ram-rider",
             "wall-breakers",
             "elixir-golem",
-            "mega-knight"
+            "mega-knight",
+            "electro-giant",
+            "goblin-drill"
         ],
         "tid": "TID_SPELL_SET_WIN_CON"
     },
@@ -3343,7 +3360,8 @@
             "electro-wizard",
             "firecracker",
             "electro-dragon",
-            "skeleton-dragons"
+            "skeleton-dragons",
+            "mother-witch"
         ],
         "tid": "TID_SPELL_SET_ANTI_AIR"
     },
@@ -3358,12 +3376,15 @@
             "goblin-gang",
             "bats",
             "witch",
-            "fire-spirits",
+            "fire-spirit",
             "ice-spirit",
             "ice-golem",
             "barbarians",
             "skeleton-barrel",
-            "heal-spirit"
+            "heal-spirit",
+            "bomber",
+            "electro-spirit",
+            "goblin-drill"
         ],
         "tid": "TID_SPELL_SET_DISTRACTION"
     },
@@ -3416,7 +3437,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "poison",
             "night-witch",
@@ -3659,7 +3680,7 @@
             "mirror",
             "lightning",
             "zap",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "guards",
             "lava-hound",
@@ -3694,7 +3715,7 @@
             "poison",
             "ice-wizard",
             "princess",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "guards",
             "miner",
@@ -3746,7 +3767,8 @@
             "skeleton-dragons",
             "electro-spirit",
             "electro-giant",
-            "mother-witch"
+            "mother-witch",
+            "goblin-drill"
         ]
     },
     {
@@ -3803,7 +3825,7 @@
         "name": "Draft_2017_CycleUnder3",
         "spells": [
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "goblins",
             "ice-golem",
             "ice-spirit",
@@ -3892,7 +3914,7 @@
     {
         "name": "Draft_2017_Distractions",
         "spells": [
-            "fire-spirits",
+            "fire-spirit",
             "goblin-gang",
             "goblins",
             "ice-golem",
@@ -3911,7 +3933,7 @@
             "bomber",
             "bowler",
             "dark-prince",
-            "fire-spirits",
+            "fire-spirit",
             "archers",
             "ice-wizard",
             "mega-knight",
@@ -3995,7 +4017,7 @@
             "musketeer",
             "princess",
             "spear-goblins",
-            "fire-spirits",
+            "fire-spirit",
             "ice-spirit"
         ]
     },
@@ -4018,7 +4040,9 @@
             "x-bow",
             "wall-breakers",
             "elixir-golem",
-            "mega-knight"
+            "mega-knight",
+            "goblin-drill",
+            "electro-giant"
         ]
     },
     {
@@ -4073,7 +4097,8 @@
             "witch",
             "wizard",
             "zappies",
-            "electro-dragon"
+            "electro-dragon",
+            "skeleton-dragons"
         ]
     },
     {
@@ -4098,7 +4123,7 @@
             "cannon-cart",
             "bowler",
             "night-witch",
-            "elite-barbarians",
+            "mother-witch",
             "sparky",
             "bandit",
             "rage",
@@ -4120,7 +4145,8 @@
             "goblin-hut",
             "furnace",
             "royal-recruits",
-            "goblin-cage"
+            "goblin-cage",
+            "elite-barbarians"
         ]
     },
     {
@@ -4133,9 +4159,10 @@
             "skeleton-army",
             "skeletons",
             "guards",
-            "fire-spirits",
+            "fire-spirit",
             "ice-spirit",
-            "heal-spirit"
+            "heal-spirit",
+            "electro-spirit"
         ]
     },
     {
@@ -4220,7 +4247,7 @@
             "mirror",
             "lightning",
             "zap",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "guards",
             "lava-hound",
@@ -4277,7 +4304,8 @@
             "skeleton-dragons",
             "electro-giant",
             "electro-spirit",
-            "mother-witch"
+            "mother-witch",
+            "goblin-drill"
         ]
     },
     {
@@ -4306,7 +4334,7 @@
             "goblin-barrel",
             "mirror",
             "zap",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "guards",
             "miner",
@@ -4350,7 +4378,8 @@
             "freeze",
             "electro-spirit",
             "skeleton-dragons",
-            "mother-witch"
+            "mother-witch",
+            "goblin-drill"
         ]
     },
     {
@@ -4440,7 +4469,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -4541,7 +4570,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "wizard",
             "poison",
             "freeze",
@@ -4630,7 +4659,8 @@
             "royal-hogs",
             "goblin-giant",
             "elixir-golem",
-            "goblin-barrel"
+            "goblin-barrel",
+            "goblin-drill"
         ]
     },
     {
@@ -4706,7 +4736,7 @@
             "ice-wizard",
             "three-musketeers",
             "ice-spirit",
-            "fire-spirits",
+            "fire-spirit",
             "sparky",
             "dart-goblin",
             "executioner",
@@ -4756,7 +4786,7 @@
             "mega-minion",
             "lightning",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -4842,7 +4872,7 @@
             "mega-minion",
             "lightning",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -4931,7 +4961,7 @@
             "mega-minion",
             "lightning",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -5019,7 +5049,7 @@
             "mega-minion",
             "lightning",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -5070,7 +5100,8 @@
             "rocket",
             "goblin-barrel",
             "electro-spirit",
-            "mother-witch"
+            "mother-witch",
+            "goblin-drill"
         ]
     },
     {
@@ -5106,7 +5137,7 @@
             "mega-minion",
             "lightning",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -5202,7 +5233,7 @@
             "miner",
             "lava-hound",
             "bats",
-            "fire-spirits",
+            "fire-spirit",
             "furnace",
             "wizard",
             "poison",
@@ -5264,7 +5295,56 @@
             "royal-delivery",
             "electro-spirit",
             "electro-giant",
-            "mother-witch"
+            "mother-witch",
+            "goblin-drill"
+        ]
+    },
+    {
+        "name": "DebugRandomSpawn",
+        "spells": [
+            "skeletons",
+            "ice-spirit",
+            "goblins",
+            "spear-goblins",
+            "fire-spirit",
+            "ice-golem",
+            "archers",
+            "minions",
+            "knight",
+            "bomber",
+            "guards",
+            "princess",
+            "ice-wizard",
+            "mega-minion",
+            "tombstone",
+            "elite-barbarians",
+            "baby-dragon",
+            "dark-prince",
+            "skeleton-army",
+            "inferno-dragon",
+            "musketeer",
+            "mini-pekka",
+            "valkyrie",
+            "hog-rider",
+            "furnace",
+            "minion-horde",
+            "barbarians",
+            "witch",
+            "balloon",
+            "bowler",
+            "prince",
+            "wizard",
+            "giant",
+            "goblin-hut",
+            "royal-giant",
+            "giant-skeleton",
+            "sparky",
+            "pekka",
+            "lava-hound",
+            "barbarian-hut",
+            "golem",
+            "three-musketeers",
+            "goblin-drill"
         ]
     }
 ]

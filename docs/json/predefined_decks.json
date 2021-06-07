@@ -779,7 +779,7 @@
             "balloon",
             "three-musketeers",
             "wizard",
-            "fire-spirits",
+            "fire-spirit",
             "guards",
             "valkyrie"
         ],
@@ -870,7 +870,7 @@
             "arrows",
             "barbarians",
             "miner",
-            "fire-spirits",
+            "fire-spirit",
             "spear-goblins",
             "baby-dragon",
             "ice-spirit"
@@ -1178,6 +1178,7 @@
         "name_en": "Random Mix",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_RANDOM",
                 "en": "Random Mix",
                 "fr": "Mélange aléatoire",
                 "de": "Zufallsmix",
@@ -1219,6 +1220,7 @@
         "name_en": "Random Mix",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_RANDOM",
                 "en": "Random Mix",
                 "fr": "Mélange aléatoire",
                 "de": "Zufallsmix",
@@ -1270,6 +1272,7 @@
         "name_en": "X-Bowler",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK1",
                 "en": "X-Bowler",
                 "fr": "Bouliste-X",
                 "de": "X-Bowler",
@@ -1321,6 +1324,7 @@
         "name_en": "The Frozen Hog",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK2",
                 "en": "The Frozen Hog",
                 "fr": "Le cochon gelé",
                 "de": "Das gefrorene Schwein",
@@ -1372,6 +1376,7 @@
         "name_en": "The Raging Balloon",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK3",
                 "en": "The Raging Balloon",
                 "fr": "Le ballon déchaîné",
                 "de": "Der Sturmballon",
@@ -1423,6 +1428,7 @@
         "name_en": "Mirror, Miner, Muskies",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK4",
                 "en": "Mirror, Miner, Muskies",
                 "fr": "Miroir, mineur, mousquetaires",
                 "de": "Spiegel, Tunnelgräber, Musketiere",
@@ -1474,6 +1480,7 @@
         "name_en": "Go-Log-Go",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK5",
                 "en": "Go-Log-Go",
                 "fr": "Allez la bûche !",
                 "de": "Auf geht´s, Kampfholz!",
@@ -1525,6 +1532,7 @@
         "name_en": "Dark Lighting",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK6",
                 "en": "Dark Lighting",
                 "fr": "Foudre noire",
                 "de": "Dunkle Beleuchtung",
@@ -1567,6 +1575,7 @@
         "name_en": "Mirror Deck",
         "_lang": {
             "name": {
+                "do": "TID_MIRROR_DECK",
                 "en": "Mirror Deck",
                 "fr": "Deck miroir",
                 "de": "Spiegeldeck",
@@ -1609,6 +1618,7 @@
         "name_en": "Mirror Deck",
         "_lang": {
             "name": {
+                "do": "TID_MIRROR_DECK",
                 "en": "Mirror Deck",
                 "fr": "Deck miroir",
                 "de": "Spiegeldeck",
@@ -1651,6 +1661,7 @@
         "name_en": "Mirror Deck",
         "_lang": {
             "name": {
+                "do": "TID_MIRROR_DECK",
                 "en": "Mirror Deck",
                 "fr": "Deck miroir",
                 "de": "Spiegeldeck",
@@ -1693,6 +1704,7 @@
         "name_en": "Mirror Deck",
         "_lang": {
             "name": {
+                "do": "TID_MIRROR_DECK",
                 "en": "Mirror Deck",
                 "fr": "Deck miroir",
                 "de": "Spiegeldeck",
@@ -1744,6 +1756,7 @@
         "name_en": "Vitamin C",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_1",
                 "en": "Vitamin C",
                 "fr": "Vitamin C",
                 "de": "Vitamin C",
@@ -1795,6 +1808,7 @@
         "name_en": "Viva la Sparky",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_2",
                 "en": "Viva la Sparky",
                 "fr": "Viva la Sparky",
                 "de": "Viva la Sparky",
@@ -1846,6 +1860,7 @@
         "name_en": "Tower Tornados",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_3",
                 "en": "Tower Tornados",
                 "fr": "Tower Tornados",
                 "de": "Tower Tornados",
@@ -1897,6 +1912,7 @@
         "name_en": "Meta Maulers",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_4",
                 "en": "Meta Maulers",
                 "fr": "Meta Maulers",
                 "de": "Meta Maulers",
@@ -1948,6 +1964,7 @@
         "name_en": "Misplaced Rockets",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_5",
                 "en": "Misplaced Rockets",
                 "fr": "Misplaced Rockets",
                 "de": "Misplaced Rockets",
@@ -1999,6 +2016,7 @@
         "name_en": "Salty Goblins",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_6",
                 "en": "Salty Goblins",
                 "fr": "Salty Goblins",
                 "de": "Salty Goblins",
@@ -2050,6 +2068,7 @@
         "name_en": "Sparky Masters",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_7",
                 "en": "Sparky Masters",
                 "fr": "Sparky Masters",
                 "de": "Sparky Masters",
@@ -2101,6 +2120,7 @@
         "name_en": "The Ultra Nytes",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_KC_8",
                 "en": "The Ultra Nytes",
                 "fr": "The Ultra Nytes",
                 "de": "The Ultra Nytes",
@@ -2152,6 +2172,7 @@
         "name_en": "Trymacs's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_1",
                 "en": "Trymacs's deck",
                 "fr": "Deck de Trymacs",
                 "de": "Trymacs' Deck",
@@ -2203,6 +2224,7 @@
         "name_en": "kiokio's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_2",
                 "en": "kiokio's deck",
                 "fr": "Deck de kiokio",
                 "de": "kiokios Deck",
@@ -2254,6 +2276,7 @@
         "name_en": "Alvaro845's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_3",
                 "en": "Alvaro845's deck",
                 "fr": "Deck d'Alvaro845",
                 "de": "Alvaro845s Deck",
@@ -2305,6 +2328,7 @@
         "name_en": "Clash with Ash's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_4",
                 "en": "Clash with Ash's deck",
                 "fr": "Deck de Clash with Ash",
                 "de": "Clash with Ashs Deck",
@@ -2356,6 +2380,7 @@
         "name_en": "Grax's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_5",
                 "en": "Grax's deck",
                 "fr": "Deck de Grax",
                 "de": "Grax‘ Deck",
@@ -2407,6 +2432,7 @@
         "name_en": "Godspeed's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_6",
                 "en": "Godspeed's deck",
                 "fr": "Deck de Godspeed",
                 "de": "Godspeeds Deck",
@@ -2458,6 +2484,7 @@
         "name_en": "Trapa's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_7",
                 "en": "Trapa's deck",
                 "fr": "Deck de Trapa",
                 "de": "Trapas Deck",
@@ -2509,6 +2536,7 @@
         "name_en": "JUNE's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_8",
                 "en": "JUNE's deck",
                 "fr": "Deck de JUNE",
                 "de": "JUNEs Deck",
@@ -2560,6 +2588,7 @@
         "name_en": "Flakes Power's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_9",
                 "en": "Flakes Power's deck",
                 "fr": "Deck de Flakes Power",
                 "de": "Flakes Powers Deck",
@@ -2611,6 +2640,7 @@
         "name_en": "Orange Juice's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_YTCHA_10",
                 "en": "Orange Juice's deck",
                 "fr": "Deck d'Orange Juice",
                 "de": "Orange Juices Deck",
@@ -2662,6 +2692,7 @@
         "name_en": "Berin's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_1",
                 "en": "Berin's deck",
                 "fr": "Deck de Berin",
                 "de": "Berins Deck",
@@ -2713,6 +2744,7 @@
         "name_en": "ElecTr1fy's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_2",
                 "en": "ElecTr1fy's deck",
                 "fr": "Deck d'ElecTr1fy",
                 "de": "ElecTr1fys Deck",
@@ -2764,6 +2796,7 @@
         "name_en": "Fuchi's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_3",
                 "en": "Fuchi's deck",
                 "fr": "Deck de Fuchi",
                 "de": "Fuchis Deck",
@@ -2815,6 +2848,7 @@
         "name_en": "Adrian Piedra's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_4",
                 "en": "Adrian Piedra's deck",
                 "fr": "Deck d'Adrian Piedra",
                 "de": "Adrian Piedras Deck",
@@ -2866,6 +2900,7 @@
         "name_en": "YaoYao's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_5",
                 "en": "YaoYao's deck",
                 "fr": "Deck de YaoYao",
                 "de": "YaoYaos Deck",
@@ -2917,6 +2952,7 @@
         "name_en": "Amaterasu's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_6",
                 "en": "Amaterasu's deck",
                 "fr": "Deck d'Amaterasu",
                 "de": "Amaterasus Deck",
@@ -2968,6 +3004,7 @@
         "name_en": "X-Bow Master's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_7",
                 "en": "X-Bow Master's deck",
                 "fr": "Deck d'X-Bow Master",
                 "de": "X-Bow Masters Deck",
@@ -3019,6 +3056,7 @@
         "name_en": "Musicmaster's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_8",
                 "en": "Musicmaster's deck",
                 "fr": "Deck de Musicmaster",
                 "de": "Musicmasters Deck",
@@ -3070,6 +3108,7 @@
         "name_en": "Coltonw83's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_9",
                 "en": "Coltonw83's deck",
                 "fr": "Deck de Coltonw83",
                 "de": "Coltonw83s Deck",
@@ -3121,6 +3160,7 @@
         "name_en": "Loupanji's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_10",
                 "en": "Loupanji's deck",
                 "fr": "Deck de Loupanji",
                 "de": "Loupanjis Deck",
@@ -3172,6 +3212,7 @@
         "name_en": "Sergioramos's deck",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_CCGS_11",
                 "en": "Sergioramos's deck",
                 "fr": "Deck de Sergioramos",
                 "de": "Sergioramos‘ Deck",
@@ -3223,6 +3264,7 @@
         "name_en": "Balloon Parade",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_1",
                 "en": "Balloon Parade",
                 "fr": "Valse des ballons",
                 "de": "Ballonparade",
@@ -3274,6 +3316,7 @@
         "name_en": "Woodland Warriors",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_2",
                 "en": "Woodland Warriors",
                 "fr": "Guerriers au bois",
                 "de": "Waldkrieger",
@@ -3325,6 +3368,7 @@
         "name_en": "Ghostly Bridge Spam",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_3",
                 "en": "Ghostly Bridge Spam",
                 "fr": "Attaque fantôme du pont",
                 "de": "Geisterhafter Bridge-Spam",
@@ -3376,6 +3420,7 @@
         "name_en": "Miner-magic",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_4",
                 "en": "Miner-magic",
                 "fr": "Mineur magique",
                 "de": "Tunnelgräbermagie",
@@ -3427,6 +3472,7 @@
         "name_en": "Mineroon",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_5",
                 "en": "Mineroon",
                 "fr": "Minelon",
                 "de": "Gräberballon",
@@ -3478,6 +3524,7 @@
         "name_en": "Magical Miner Poison",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_6",
                 "en": "Magical Miner Poison",
                 "fr": "Poison mineur magique",
                 "de": "Giftige Tunnelgräbermagie",
@@ -3529,6 +3576,7 @@
         "name_en": "Magic Double Prince",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_7",
                 "en": "Magic Double Prince",
                 "fr": "Princes magiques",
                 "de": "Magischer Doppelprinz",
@@ -3580,6 +3628,7 @@
         "name_en": "Dank Magical Ram",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_REDDIT_8",
                 "en": "Dank Magical Ram",
                 "fr": "Bélier magique",
                 "de": "Mächtige Magieramme",
@@ -3631,6 +3680,7 @@
         "name_en": "Ghosts 'n Goblins",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_1",
                 "en": "Ghosts 'n Goblins",
                 "fr": "Fantômes et gobelins",
                 "de": "Geister & Kobolde",
@@ -3682,6 +3732,7 @@
         "name_en": "Gobnado",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_2",
                 "en": "Gobnado",
                 "fr": "Tempête gobeline",
                 "de": "Koboldnado",
@@ -3733,6 +3784,7 @@
         "name_en": "Downton Gobbey",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_3",
                 "en": "Downton Gobbey",
                 "fr": "Les gobelins s'amusent",
                 "de": "Großkalibrige Kobolde",
@@ -3784,6 +3836,7 @@
         "name_en": "Gobsmacked",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_4",
                 "en": "Gobsmacked",
                 "fr": "Gobelins babas",
                 "de": "K.-o.-Bolde",
@@ -3835,6 +3888,7 @@
         "name_en": "Barrels on Barrels",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_5",
                 "en": "Barrels on Barrels",
                 "fr": "Fût après fût",
                 "de": "Unfassbare Fässer",
@@ -3886,6 +3940,7 @@
         "name_en": "3 Gobsketeers",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_6",
                 "en": "3 Gobsketeers",
                 "fr": "Les 3 mousquobelins",
                 "de": "Die drei Koboldiere",
@@ -3937,6 +3992,7 @@
         "name_en": "Gobdown",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_7",
                 "en": "Gobdown",
                 "fr": "Combelin",
                 "de": "Groß, grün und gierig",
@@ -3988,6 +4044,7 @@
         "name_en": "Mined the Bait",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_DECK_GOBLIN_8",
                 "en": "Mined the Bait",
                 "fr": "Mine de rien",
                 "de": "Tunnelraubzug",
@@ -4039,6 +4096,7 @@
         "name_en": "Giant Muskets",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC1_GIANT",
                 "en": "Giant Muskets",
                 "fr": "Mousquets géants",
                 "de": "Riesenmusketen",
@@ -4090,6 +4148,7 @@
         "name_en": "Golem Beatdown",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC2_GOLEM",
                 "en": "Golem Beatdown",
                 "fr": "Cœur de pierre",
                 "de": "Golem-Beatdown",
@@ -4141,6 +4200,7 @@
         "name_en": "P.E.K.K.A Ram",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC3_PEKKA",
                 "en": "P.E.K.K.A Ram",
                 "fr": "P.E.K.K.A bélier",
                 "de": "P.E.K.K.A.-Rammbock",
@@ -4192,6 +4252,7 @@
         "name_en": "LavaLoon",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC4_LAVALOON",
                 "en": "LavaLoon",
                 "fr": "Molosse ballon",
                 "de": "Lavaballon",
@@ -4243,6 +4304,7 @@
         "name_en": "Spell Bait",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC5_SPELLBAIT",
                 "en": "Spell Bait",
                 "fr": "Jeu du sort",
                 "de": "Spell Bait",
@@ -4294,6 +4356,7 @@
         "name_en": "Royal Pain",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC6_ROYALGIANT",
                 "en": "Royal Pain",
                 "fr": "Douleur royale",
                 "de": "Das tut weh",
@@ -4345,6 +4408,7 @@
         "name_en": "Girl Firepower",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC7_THREEMUSKY",
                 "en": "Girl Firepower",
                 "fr": "Filles à mousquets",
                 "de": "Frauenpower",
@@ -4396,6 +4460,7 @@
         "name_en": "Ice Bow",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC8_XBOW",
                 "en": "Ice Bow",
                 "fr": "Arc de glace",
                 "de": "Eisbogen",
@@ -4447,6 +4512,7 @@
         "name_en": "Cold Dead Hands",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC9_GRAVEYARD",
                 "en": "Cold Dead Hands",
                 "fr": "De main morte",
                 "de": "Skelettfest",
@@ -4498,6 +4564,7 @@
         "name_en": "Spark the Goblin",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC10_GOBGIANT",
                 "en": "Spark the Goblin",
                 "fr": "Gobelin zappeur",
                 "de": "Koboldarmee",
@@ -4549,6 +4616,7 @@
         "name_en": "Mortar Swarms",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC11_MORTAR",
                 "en": "Mortar Swarms",
                 "fr": "Essaim mortier",
                 "de": "Minenwerfer-Schwärme",
@@ -4600,6 +4668,7 @@
         "name_en": "Mega Goblins",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC12_MEGAKNIGHT",
                 "en": "Mega Goblins",
                 "fr": "Mégagobelins",
                 "de": "Mega-Kobolde",
@@ -4651,6 +4720,7 @@
         "name_en": "Hog'Nado",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC13_HOGRIDER",
                 "en": "Hog'Nado",
                 "fr": "Chevaucheur de tornade",
                 "de": "Schweinesturm",
@@ -4702,6 +4772,7 @@
         "name_en": "Pigs on Parade",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC14_ROYALHOGS",
                 "en": "Pigs on Parade",
                 "fr": "Parade de cochons",
                 "de": "Schweinchenparade",
@@ -4744,6 +4815,7 @@
         "name_en": "Mirror Deck",
         "_lang": {
             "name": {
+                "do": "TID_MIRROR_DECK",
                 "en": "Mirror Deck",
                 "fr": "Deck miroir",
                 "de": "Spiegeldeck",
@@ -4831,6 +4903,7 @@
         "name_en": "Team Queso",
         "_lang": {
             "name": {
+                "do": "TID_CRLBlind_Queso",
                 "en": "Team Queso",
                 "fr": "Team Queso",
                 "de": "Team Queso",
@@ -4882,6 +4955,7 @@
         "name_en": "Nova Esports",
         "_lang": {
             "name": {
+                "do": "TID_CRLBlind_Nova",
                 "en": "Nova Esports",
                 "fr": "Nova Esports",
                 "de": "Nova Esports",
@@ -4933,6 +5007,7 @@
         "name_en": "PONOS Sports",
         "_lang": {
             "name": {
+                "do": "TID_CRLBlind_Ponos",
                 "en": "PONOS Sports",
                 "fr": "PONOS Sports",
                 "de": "PONOS Sports",
@@ -4984,6 +5059,7 @@
         "name_en": "Vivo Keyd",
         "_lang": {
             "name": {
+                "do": "TID_CRLBlind_Vivo",
                 "en": "Vivo Keyd",
                 "fr": "Vivo Keyd",
                 "de": "Vivo Keyd",
@@ -5035,6 +5111,7 @@
         "name_en": "Immortals",
         "_lang": {
             "name": {
+                "do": "TID_CRLBlind_Immortals",
                 "en": "Immortals",
                 "fr": "Immortals",
                 "de": "Immortals",
@@ -5086,6 +5163,7 @@
         "name_en": "KING-ZONE DragonX",
         "_lang": {
             "name": {
+                "do": "TID_CRLBlind_KZDX",
                 "en": "KING-ZONE DragonX",
                 "fr": "KING-ZONE DragonX",
                 "de": "KING-ZONE DragonX",
@@ -5137,6 +5215,7 @@
         "name_en": "YaoYao (1st)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicKC1_YaoYao",
                 "en": "YaoYao (1st)",
                 "fr": "YaoYao (1er)",
                 "de": "YaoYao (1.)",
@@ -5188,6 +5267,7 @@
         "name_en": "Coltonw83 (2nd)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicKC1_Colton",
                 "en": "Coltonw83 (2nd)",
                 "fr": "Coltonw83 (2e)",
                 "de": "Coltonw83 (2.)",
@@ -5239,6 +5319,7 @@
         "name_en": "ChiefPat (Top 4)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicKC1_ChiefPat",
                 "en": "ChiefPat (Top 4)",
                 "fr": "ChiefPat (top 4)",
                 "de": "ChiefPat (Top 4)",
@@ -5290,6 +5371,7 @@
         "name_en": "TopNotch (Top 4)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicKC1_TopNotch",
                 "en": "TopNotch (Top 4)",
                 "fr": "TopNotch (top 4)",
                 "de": "TopNotch (Top 4)",
@@ -5341,6 +5423,7 @@
         "name_en": "Jason (1st)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicHKI_Jason",
                 "en": "Jason (1st)",
                 "fr": "Jason (1er)",
                 "de": "Jason (1.)",
@@ -5392,6 +5475,7 @@
         "name_en": "Steroidi69 (2nd)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicHKI_Steroidi",
                 "en": "Steroidi69 (2nd)",
                 "fr": "Steroidi69 (2e)",
                 "de": "Steroidi69 (2.)",
@@ -5443,6 +5527,7 @@
         "name_en": "Naazime (Top 4)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicHKI_Naazime",
                 "en": "Naazime (Top 4)",
                 "fr": "Naazime (top 4)",
                 "de": "Naazime (Top 4)",
@@ -5494,6 +5579,7 @@
         "name_en": "Elfe (Top 4)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicHKI_Elfe",
                 "en": "Elfe (Top 4)",
                 "fr": "Elfe (top 4)",
                 "de": "Elfe (Top 4)",
@@ -5545,6 +5631,7 @@
         "name_en": "ClashWithAsh (Top 8)",
         "_lang": {
             "name": {
+                "do": "TID_ClassicHKI_ClashWithAsh",
                 "en": "ClashWithAsh (Top 8)",
                 "fr": "ClashWithAsh (top 8)",
                 "de": "ClashWithAsh (Top 8)",
@@ -5596,6 +5683,7 @@
         "name_en": "Triple Lizards",
         "_lang": {
             "name": {
+                "do": "TID_Blind_FloodHound1",
                 "en": "Triple Lizards",
                 "fr": "Triple lézard",
                 "de": "Drei Drachen",
@@ -5647,6 +5735,7 @@
         "name_en": "Flying Minions",
         "_lang": {
             "name": {
+                "do": "TID_Blind_FloodHound2",
                 "en": "Flying Minions",
                 "fr": "Gargouilles volantes",
                 "de": "Fliegende Lakaien",
@@ -5698,6 +5787,7 @@
         "name_en": "Clone Hounds",
         "_lang": {
             "name": {
+                "do": "TID_Blind_FloodHound3",
                 "en": "Clone Hounds",
                 "fr": "Molosses clonés",
                 "de": "Klonhunde",
@@ -5749,6 +5839,7 @@
         "name_en": "Lava-Loon",
         "_lang": {
             "name": {
+                "do": "TID_Blind_FloodHound4",
                 "en": "Lava-Loon",
                 "fr": "Lavaloon",
                 "de": "LavaLoon",
@@ -5800,6 +5891,7 @@
         "name_en": "Hog-Quake!",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_HOGQUAKE",
                 "en": "Hog-Quake!",
                 "fr": "Chevaucheur trembleur",
                 "de": "Schweinebeben!",
@@ -5851,6 +5943,7 @@
         "name_en": "Ram Rushers",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_RAMRUSH",
                 "en": "Ram Rushers",
                 "fr": "Bélier rageur",
                 "de": "Widderstürmer",
@@ -5902,6 +5995,7 @@
         "name_en": "Gigantic Prince",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_GIANTPRINCE",
                 "en": "Gigantic Prince",
                 "fr": "Prince géant",
                 "de": "Riesiger Prinz",
@@ -5953,6 +6047,7 @@
         "name_en": "Snow Balloons",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_BALLOONCYCLE",
                 "en": "Snow Balloons",
                 "fr": "Ballons de glace",
                 "de": "Schneeballons",
@@ -6004,6 +6099,7 @@
         "name_en": "Lava Clones",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_LAVACLONE",
                 "en": "Lava Clones",
                 "fr": "Clones de lave",
                 "de": "Lavaklone",
@@ -6055,6 +6151,7 @@
         "name_en": "Mega Rider",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_LEGENDARYPARTY1",
                 "en": "Mega Rider",
                 "fr": "Méga bélier",
                 "de": "Megareiter",
@@ -6106,6 +6203,7 @@
         "name_en": "Grave Hound",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_LEGENDARYPARTY2",
                 "en": "Grave Hound",
                 "fr": "Molosse cimetière",
                 "de": "Friedhofshund",
@@ -6157,6 +6255,7 @@
         "name_en": "Man & Machine",
         "_lang": {
             "name": {
+                "do": "TID_BLIND_LEGENDARYPARTY3",
                 "en": "Man & Machine",
                 "fr": "Homme et machine",
                 "de": "Mensch und Maschine",
@@ -6208,6 +6307,7 @@
         "name_en": "Prince Bait",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_PRINCEBAIT",
                 "en": "Prince Bait",
                 "fr": "Appât à prince",
                 "de": "Prinzen-Bait",
@@ -6259,6 +6359,7 @@
         "name_en": "Fishin' for 'Loons",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC_GSKELLYLOON",
                 "en": "Fishin' for 'Loons",
                 "fr": "Pêche au ballon",
                 "de": "Ballon und Meer",
@@ -6310,8 +6411,9 @@
         "name_en": "Lucky Ladies #1",
         "_lang": {
             "name": {
+                "do": "TID_BLINDDECK_LUCKYLADIES1",
                 "en": "Lucky Ladies #1",
-                "fr": "Chanceuses n° 1",
+                "fr": "Chanceuses no 1",
                 "de": "Glücksfeen #1",
                 "es": "Mujeres poderosas #1",
                 "it": "Donne vincenti n. 1",
@@ -6361,8 +6463,9 @@
         "name_en": "Lucky Ladies #2",
         "_lang": {
             "name": {
+                "do": "TID_BLINDDECK_LUCKYLADIES2",
                 "en": "Lucky Ladies #2",
-                "fr": "Chanceuses n° 2",
+                "fr": "Chanceuses no 2",
                 "de": "Glücksfeen #2",
                 "es": "Mujeres poderosas #2",
                 "it": "Donne vincenti n. 2",
@@ -6412,8 +6515,9 @@
         "name_en": "Lucky Ladies #3",
         "_lang": {
             "name": {
+                "do": "TID_BLINDDECK_LUCKYLADIES3",
                 "en": "Lucky Ladies #3",
-                "fr": "Chanceuses n° 3",
+                "fr": "Chanceuses no 3",
                 "de": "Glücksfeen #3",
                 "es": "Mujeres poderosas #3",
                 "it": "Donne vincenti n. 3",
@@ -6465,8 +6569,9 @@
         "name_en": "Lucky Ladies #4",
         "_lang": {
             "name": {
+                "do": "TID_BLINDDECK_LUCKYLADIES4",
                 "en": "Lucky Ladies #4",
-                "fr": "Chanceuses n° 4",
+                "fr": "Chanceuses no 4",
                 "de": "Glücksfeen #4",
                 "es": "Mujeres poderosas #4",
                 "it": "Donne vincenti n. 4",
@@ -6516,6 +6621,7 @@
         "name_en": "Deck by PONOS",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_PONOS",
                 "en": "Deck by PONOS",
                 "fr": "Deck de PONOS",
                 "de": "Deck von PONOS",
@@ -6567,6 +6673,7 @@
         "name_en": "Deck by NOVA ESPORTS",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_NOVA",
                 "en": "Deck by NOVA ESPORTS",
                 "fr": "Deck de NOVA ESPORTS",
                 "de": "Deck von NOVA ESPORTS",
@@ -6618,6 +6725,7 @@
         "name_en": "Deck by W.EDGM",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_EDGM",
                 "en": "Deck by W.EDGM",
                 "fr": "Deck de W.EDGM",
                 "de": "Deck von W.EDGM",
@@ -6669,6 +6777,7 @@
         "name_en": "Deck by FAV GAMING",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_FAV",
                 "en": "Deck by FAV GAMING",
                 "fr": "Deck de FAV GAMING",
                 "de": "Deck von FAV GAMING",
@@ -6720,6 +6829,7 @@
         "name_en": "Deck by SK GAMING",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_SK",
                 "en": "Deck by SK GAMING",
                 "fr": "Deck de SK GAMING",
                 "de": "Deck von SK GAMING",
@@ -6771,6 +6881,7 @@
         "name_en": "Deck by TEAM QUESO",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_QUESO",
                 "en": "Deck by TEAM QUESO",
                 "fr": "Deck de TEAM QUESO",
                 "de": "Deck von TEAM QUESO",
@@ -6822,6 +6933,7 @@
         "name_en": "Deck by PAIN GAMING",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_PAIN",
                 "en": "Deck by PAIN GAMING",
                 "fr": "Deck de PAIN GAMING",
                 "de": "Deck von PAIN GAMING",
@@ -6873,6 +6985,7 @@
         "name_en": "Deck by TRIBE GAMING",
         "_lang": {
             "name": {
+                "do": "TID_FANTASY_2020_TRIBE",
                 "en": "Deck by TRIBE GAMING",
                 "fr": "Deck de TRIBE GAMING",
                 "de": "Deck von TRIBE GAMING",
@@ -6924,6 +7037,7 @@
         "name_en": "Royal Giant Fisher",
         "_lang": {
             "name": {
+                "do": "TID_CLASSIC15_RG_FISHERMAN_HUNTER",
                 "en": "Royal Giant Fisher",
                 "fr": "Pêcheur géant royal",
                 "de": "Königsriesenfischer",

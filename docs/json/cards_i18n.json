@@ -11,6 +11,7 @@
         "id": 26000000,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_KNIGHT",
                 "en": "Knight",
                 "fr": "Chevalier",
                 "de": "Ritter",
@@ -35,6 +36,7 @@
                 "sc_key": "TID_SPELL_KNIGHT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_KNIGHT",
                 "en": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
                 "fr": "Un spécialiste du combat rapproché, cousin charmant et cultivé du barbare. On raconte que la magnificence de sa moustache a suffi à justifier son adoubement.",
                 "de": "Ein zäher Nahkämpfer und der hübsche, kultivierte Cousin des Barbaren. Gerüchten zufolge erhielt er seinen Ritterschlag allein deswegen, weil er so einen spitzenmäßigen Schnurrbart hat.",
@@ -72,6 +74,7 @@
         "id": 26000001,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ARCHERS",
                 "en": "Archers",
                 "fr": "Archers",
                 "de": "Bogenschützen",
@@ -96,6 +99,7 @@
                 "sc_key": "TID_SPELL_ARCHERS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ARCHERS",
                 "en": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
                 "fr": "Un duo d'attaquantes à distance légèrement protégées. Elles vous aideront à éliminer les unités terrestres et aériennes, mais ne comptez pas sur elles pour vos conseils coiffure.",
                 "de": "Zwei leicht gepanzerte Fernangreifer. Sie helfen dir dabei, Boden- und Lufteinheiten auszuschalten - aber bei Tipps zum Haarefärben bist du auf dich allein gestellt.",
@@ -133,6 +137,7 @@
         "id": 26000002,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOBLINS",
                 "en": "Goblins",
                 "fr": "Gobelins",
                 "de": "Kobolde",
@@ -157,6 +162,7 @@
                 "sc_key": "TID_SPELL_GOBLINS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOBLINS",
                 "en": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
                 "fr": "Trois attaquants de mêlée rapides et sans armure. Petits, véloces, verts et méchants !",
                 "de": "Drei schnelle, ungepanzerte Nahkämpfer. Klein, flink, grün und gemein!",
@@ -194,6 +200,7 @@
         "id": 26000003,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GIANT",
                 "en": "Giant",
                 "fr": "Géant",
                 "de": "Riese",
@@ -218,6 +225,7 @@
                 "sc_key": "TID_SPELL_GIANT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GIANT",
                 "en": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
                 "fr": "Lent mais dur à cuire, il attaque uniquement les bâtiments. Une véritable équipe de démolisseurs à lui tout seul !",
                 "de": "Langsam aber robust - greift nur Gebäude an. Der Ein-Mann-Abrisstrupp!",
@@ -255,6 +263,7 @@
         "id": 26000004,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_PEKKA",
                 "en": "P.E.K.K.A",
                 "fr": "P.E.K.K.A",
                 "de": "P.E.K.K.A.",
@@ -279,6 +288,7 @@
                 "sc_key": "TID_SPELL_PEKKA"
             },
             "description": {
+                "do": "TID_SPELL_INFO_PEKKA",
                 "en": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
                 "fr": "Un combattant de mêlée peu rapide, pourvu d'une épaisse armure. Impulsif mais sacrément percutant.",
                 "de": "Eine schwer gepanzerte, langsame Nahkämpferin mit zweifelhaftem Hüftschwung, aber großer Schlagkraft.",
@@ -316,6 +326,7 @@
         "id": 26000005,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MINIONS",
                 "en": "Minions",
                 "fr": "Gargouilles",
                 "de": "Lakaien",
@@ -340,6 +351,7 @@
                 "sc_key": "TID_SPELL_MINIONS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MINIONS",
                 "en": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
                 "fr": "Trois attaquants volants, rapides et sans armure. Les roses sont rouges et les gargouilles sont bleues, elles volent dans les cieux et zigouillent tout ce qui bouge.",
                 "de": "Drei schnelle, ungepanzerte, fliegende Angreifer.\nLakai x 3 = Sauerei!",
@@ -377,6 +389,7 @@
         "id": 26000006,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BALLOON",
                 "en": "Balloon",
                 "fr": "Ballon",
                 "de": "Ballon",
@@ -401,6 +414,7 @@
                 "sc_key": "TID_SPELL_BALLOON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BALLOON",
                 "en": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
                 "fr": "Ils ont beau faire joli dans le ciel, vous n'avez pas envie de voir ces ballons se rassembler à l'horizon : ils lancent des bombes puissantes et, lorsqu'ils sont abattus, ils s'écrasent en infligeant des dégâts de zone.",
                 "de": "Die sind ja ganz hübsch, aber am Himmel will man die Dinger trotzdem nicht sehen. Sie lassen mächtige Bomben fallen - und wenn sie abgeschossen werden, verursachen sie beim Absturz Flächenschaden.",
@@ -433,11 +447,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 5,
         "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
         "id": 26000007,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_WITCH",
                 "en": "Witch",
                 "fr": "Sorcière",
                 "de": "Hexe",
@@ -462,6 +477,7 @@
                 "sc_key": "TID_SPELL_WITCH"
             },
             "description": {
+                "do": "TID_SPELL_INFO_WITCH",
                 "en": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
                 "fr": "Elle invoque des squelettes, tire des rayons destructeurs et a des yeux roses lumineux qui malheureusement ne lancent pas de lasers.",
                 "de": "Beschwört Skelette, schießt mit zerstörerischen Strahlen und hat glühende rosa Augen (die leider keine Laserstrahlen verschießen).",
@@ -499,6 +515,7 @@
         "id": 26000008,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BARBARIANS",
                 "en": "Barbarians",
                 "fr": "Barbares",
                 "de": "Barbaren",
@@ -523,6 +540,7 @@
                 "sc_key": "TID_SPELL_BARBARIANS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BARBARIANS",
                 "en": "A horde of melee attackers with mean mustaches and even meaner tempers.",
                 "fr": "Une horde d'attaquants de mêlée pourvus d'une moustache d'enfer et d'un tempérament tout aussi infernal.",
                 "de": "Ein Haufen Nahkämpfer mit krassen Schnurrbärten und noch krasserem Temperament.",
@@ -555,11 +573,12 @@
         "elixir": 8,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 3,
+        "arena": 10,
         "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
         "id": 26000009,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOLEM",
                 "en": "Golem",
                 "fr": "Golem",
                 "de": "Golem",
@@ -584,6 +603,7 @@
                 "sc_key": "TID_SPELL_GOLEM"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOLEM",
                 "en": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
                 "fr": "Lent mais robuste, il attaque uniquement les bâtiments. Lorsqu'il est détruit, il explose, se divise en deux golemites et inflige des dégâts de zone.",
                 "de": "Langsam, aber robust. Greift nur Gebäude an. Wenn er zerstört wird, explodiert er, teilt sich in zwei Minigolems und verursacht Flächenschaden!",
@@ -621,6 +641,7 @@
         "id": 26000010,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SKELETONS",
                 "en": "Skeletons",
                 "fr": "Squelettes",
                 "de": "Skelette",
@@ -645,6 +666,7 @@
                 "sc_key": "TID_SPELL_SKELETONS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SKELETONS",
                 "en": "Three fast, very weak melee fighters. Surround your enemies with this pile of bones!",
                 "fr": "Trois combattants de mêlée, rapides mais très faibles. Encerclez vos ennemis avec ces tas d'os !",
                 "de": "Drei schnelle aber sehr schwache Nahkämpfer. Umzingle deine Feinde mit diesem Knochenhaufen!",
@@ -682,6 +704,7 @@
         "id": 26000011,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_VALKYRIE",
                 "en": "Valkyrie",
                 "fr": "Valkyrie",
                 "de": "Walküre",
@@ -706,6 +729,7 @@
                 "sc_key": "TID_SPELL_VALKYRIE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_VALKYRIE",
                 "en": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
                 "fr": "Combattante de mêlée efficace qui inflige des dégâts de zone autour d'elle. Face à une horde d'ennemis, aucun problème. Elle est capable de les anéantir en quelques petits tours.",
                 "de": "Eine zähe Nahkämpferin, die rundum Flächenschaden verursacht. Ein Schwarm? Eine Horde? Kein Problem! Mit ein paar Drehungen erledigt sie alle.",
@@ -738,11 +762,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 2,
         "description": "Spawns an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
         "id": 26000012,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SKELETON_HORDE",
                 "en": "Skeleton Army",
                 "fr": "Armée de squelettes",
                 "de": "Skelettarmee",
@@ -767,6 +792,7 @@
                 "sc_key": "TID_SPELL_SKELETON_HORDE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SKELETON_HORDE",
                 "en": "Spawns an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
                 "fr": "Génère une armée de squelettes. Je vous présente Kévin et ses potes Kenny, Katie, Karim, Kelly, etc.",
                 "de": "Lässt eine Skelettarmee erscheinen. Dürfen wir vorstellen? Larry und seine Freunde Harry, Gerry, Terry, Mary und so weiter und so fort.",
@@ -804,6 +830,7 @@
         "id": 26000013,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BOMBER",
                 "en": "Bomber",
                 "fr": "Bombardier",
                 "de": "Bomber",
@@ -828,6 +855,7 @@
                 "sc_key": "TID_SPELL_BOMBER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BOMBER",
                 "en": "Small, lightly protected skeleton who throws bombs. Deals area damage that can wipe out a swarm of enemies.",
                 "fr": "Petit squelette sans grande protection qui lance des bombes. Inflige des dégâts de zone capables d'anéantir une nuée d'ennemis.",
                 "de": "Kleines, nur leicht geschütztes Skelett, das Bomben wirft. Verursacht Flächenschaden, der einen ganzen Schwarm Feinde vernichten kann.",
@@ -865,6 +893,7 @@
         "id": 26000014,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MUSKETEER",
                 "en": "Musketeer",
                 "fr": "Mousquetaire",
                 "de": "Musketierin",
@@ -889,6 +918,7 @@
                 "sc_key": "TID_SPELL_MUSKETEER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MUSKETEER",
                 "en": "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
                 "fr": "Ne vous laissez pas berner par sa coiffure sophistiquée. La mousquetaire atteint toujours sa cible avec son fidèle tromblon.",
                 "de": "Lass dich von der fein zurechtgemachten Frisur nicht beirren - die Musketierin lässt es gerne ordentlich knallen.",
@@ -921,11 +951,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 2,
         "description": "Burps fireballs from the sky that deal area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
         "id": 26000015,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BABY_DRAGON",
                 "en": "Baby Dragon",
                 "fr": "Bébé dragon",
                 "de": "Drachenbaby",
@@ -950,6 +981,7 @@
                 "sc_key": "TID_SPELL_BABY_DRAGON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BABY_DRAGON",
                 "en": "Burps fireballs from the sky that deal area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
                 "fr": "Fait des rototos-boules de feu qui infligent des dégâts de zone depuis les airs. Les bébés dragons naissent adorables, affamés et prêts pour un bon petit barbecue.",
                 "de": "Teilt aus der Luft mit seinen feurigen Bäuerchen Flächenschaden aus. Drachenbabys sind von Geburt an niedlich, hungrig und bereit für jede Grillparty.",
@@ -982,11 +1014,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 7,
         "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
         "id": 26000016,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_PRINCE",
                 "en": "Prince",
                 "fr": "Prince",
                 "de": "Prinz",
@@ -1011,6 +1044,7 @@
                 "sc_key": "TID_SPELL_PRINCE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_PRINCE",
                 "en": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
                 "fr": "Ne vous laissez pas berner par son petit poney. Une fois le prince lancé, vous risquez fort de vous faire piétiner. Les dégâts infligés doublent quand il charge.",
                 "de": "Lass dich von dem kleinen Pony nicht beirren. Hat der Prinz erst mal Tempo drauf, wirst du zertrampelt. Wenn er heranstürmt, richtet er doppelten Schaden an.",
@@ -1043,11 +1077,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 5,
+        "arena": 4,
         "description": "The most awesome man to ever set foot in the Arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
         "id": 26000017,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_WIZARD",
                 "en": "Wizard",
                 "fr": "Sorcier",
                 "de": "Magier",
@@ -1072,6 +1107,7 @@
                 "sc_key": "TID_SPELL_WIZARD"
             },
             "description": {
+                "do": "TID_SPELL_INFO_WIZARD",
                 "en": "The most awesome man to ever set foot in the Arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
                 "fr": "Le sorcier est l'homme le plus génial qui ait jamais franchi les portes de l'arène. Sa beauté embrasera votre cœur... tout comme ses boules de feu.",
                 "de": "Der Magier sieht so verdammt gut aus, dass es einen umhauen kann ... oder liegt das an den Feuerbällen?",
@@ -1109,6 +1145,7 @@
         "id": 26000018,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MINIPEKKA",
                 "en": "Mini P.E.K.K.A",
                 "fr": "Mini P.E.K.K.A",
                 "de": "Mini-P.E.K.K.A.",
@@ -1133,6 +1170,7 @@
                 "sc_key": "TID_SPELL_MINIPEKKA"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MINIPEKKA",
                 "en": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
                 "fr": "L'arène est une zone certifiée sans papillon. Les P.E.K.K.A éviteront ainsi toute distraction et se concentreront sur la destruction.",
                 "de": "Die Arena ist eine schmetterlingsfreie Zone. Mini-P.E.K.K.A. kann sich also voll und ganz auf Zerstörung konzentrieren.",
@@ -1170,6 +1208,7 @@
         "id": 26000019,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SPEAR_GOBLINS",
                 "en": "Spear Goblins",
                 "fr": "Gobelins à lances",
                 "de": "Speerkobolde",
@@ -1194,6 +1233,7 @@
                 "sc_key": "TID_SPELL_SPEAR_GOBLINS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SPEAR_GOBLINS",
                 "en": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!? Who thought that was a good idea?!",
                 "fr": "Trois attaquants à distance dépourvus d'armure. Qui a bien pu leur apprendre à manier la lance ? Qui a pu penser que c'était une bonne idée ?",
                 "de": "Drei ungepanzerte Fernkämpfer. Wer zum Kuckuck hat diesen Typen das Speerwerfen beigebracht?! Und wer hielt es für eine gute Idee?!",
@@ -1226,11 +1266,12 @@
         "elixir": 6,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 4,
         "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
         "id": 26000020,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GIANT_SKELETON",
                 "en": "Giant Skeleton",
                 "fr": "Squelette géant",
                 "de": "Riesenskelett",
@@ -1255,6 +1296,7 @@
                 "sc_key": "TID_SPELL_GIANT_SKELETON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GIANT_SKELETON",
                 "en": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
                 "fr": "Plus le squelette est imposant, plus la bombe qu'il transporte est grosse. Elle explose quand le squelette géant meurt.",
                 "de": "Je größer das Skelett, desto lauter der Knall. Trägt eine Bombe, die explodiert, wenn das Riesenskelett stirbt.",
@@ -1287,11 +1329,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 1,
+        "arena": 5,
         "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
         "id": 26000021,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_HOG_RIDER",
                 "en": "Hog Rider",
                 "fr": "Chevaucheur de cochon",
                 "de": "Schweinereiter",
@@ -1316,6 +1359,7 @@
                 "sc_key": "TID_SPELL_HOG_RIDER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_HOG_RIDER",
                 "en": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
                 "fr": "Combattant de mêlée rapide visant les bâtiments, capable de sauter par-dessus la rivière. S'il entend crier « Chevaucheur de cochooon », il répond à l'appel jusque dans l'arène.",
                 "de": "Schnelle Nahkampfeinheit, die Gebäude ins Visier nimmt und über den Fluss springen kann. Er folgt dem Ruf des Kampfes bis durch die Tore der Arena.",
@@ -1348,11 +1392,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 4,
+        "arena": 10,
         "description": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
         "id": 26000022,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MINION_HORDE",
                 "en": "Minion Horde",
                 "fr": "Horde de gargouilles",
                 "de": "Lakaienhorde",
@@ -1377,6 +1422,7 @@
                 "sc_key": "TID_SPELL_MINION_HORDE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MINION_HORDE",
                 "en": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
                 "fr": "Six attaquants volants, rapides et sans armure. Leurs adversaires ne manqueront pas de voir trente-six chandelles.",
                 "de": "Sechs schnelle, ungepanzerte, fliegende Angreifer. Wenn drei schon einer zu viel sind, was ist dann erst mit sechs?",
@@ -1414,6 +1460,7 @@
         "id": 26000023,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ICE_WIZARD",
                 "en": "Ice Wizard",
                 "fr": "Sorcier de glace",
                 "de": "Eismagier",
@@ -1438,6 +1485,7 @@
                 "sc_key": "TID_SPELL_ICE_WIZARD"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ICE_WIZARD",
                 "en": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
                 "fr": "Ce magicien lance sur les ennemis des éclats de glace qui ralentissent leur vitesse de déplacement et d'attaque. Certes, ça jette un froid, mais il a quand même la moustache en guidon la plus torride du royaume.",
                 "de": "Dieser Frostwirker wirft Eissplitter, die die Bewegungs- und Angriffsgeschwindigkeit von Feinden reduzieren. Er ist zwar eiskalt, aber sein Schnurrbart ist total heiß.",
@@ -1475,6 +1523,7 @@
         "id": 26000024,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ROYAL_GIANT",
                 "en": "Royal Giant",
                 "fr": "Géant royal",
                 "de": "Königsriese",
@@ -1499,6 +1548,7 @@
                 "sc_key": "TID_SPELL_ROYAL_GIANT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ROYAL_GIANT",
                 "en": "Destroying enemy buildings with his massive cannon is his job; making a raggedy blond beard look good is his passion.",
                 "fr": "Si la destruction des bâtiments ennemis avec son énorme canon est son devoir, sa passion est de dompter sa barbe blonde tout en finesse.",
                 "de": "Sein Job ist es, feindliche Gebäude mit seiner riesigen Kanone zu zerstören. Doch seine Leidenschaft ist es, seinen blonden Zottelbart gut aussehen zu lassen.",
@@ -1531,11 +1581,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 7,
+        "arena": 12,
         "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
         "id": 26000025,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SKELETON_WARRIORS",
                 "en": "Guards",
                 "fr": "Gardes",
                 "de": "Wächter",
@@ -1560,6 +1611,7 @@
                 "sc_key": "TID_SPELL_SKELETON_WARRIORS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SKELETON_WARRIORS",
                 "en": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
                 "fr": "Trois sacs d'os impitoyables armés de boucliers. Enlevez-leur leurs boucliers et qu'est-ce qui reste ? Trois sacs d'os impitoyables.",
                 "de": "Drei skrupellose Knochenbrüder mit Schilden. Wenn du ihre Schilde weghaust, bleiben nur noch ... drei skrupellose Knochenbrüder.",
@@ -1592,11 +1644,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 7,
+        "arena": 5,
         "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
         "id": 26000026,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_PRINCESS",
                 "en": "Princess",
                 "fr": "Princesse",
                 "de": "Prinzessin",
@@ -1621,6 +1674,7 @@
                 "sc_key": "TID_SPELL_PRINCESS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_PRINCESS",
                 "en": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
                 "fr": "La sublime princesse décoche des flèches enflammées à longue portée. Si vous avez l'impression de vous consumer pour elle, c'est probablement que vous êtes en feu.",
                 "de": "Diese wunderschöne Prinzessin schießt flammende Pfeile aus großer Distanz. Wer eine gewisse Wärme für sie verspürt, wurde wahrscheinlich schon von ihr in Brand gesetzt.",
@@ -1658,6 +1712,7 @@
         "id": 26000027,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_DARK_PRINCE",
                 "en": "Dark Prince",
                 "fr": "Prince ténébreux",
                 "de": "Dunkler Prinz",
@@ -1682,6 +1737,7 @@
                 "sc_key": "TID_SPELL_DARK_PRINCE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_DARK_PRINCE",
                 "en": "The Dark Prince deals area damage and lets his spiked club do the talking for him - because when he does talk, it sounds like he has a bucket on his head.",
                 "fr": "Le prince ténébreux inflige des dégâts de zone et laisse son gourdin à pointes s'exprimer à sa place... parce que quand il parle, on a l'impression qu'il a un seau sur la tête.",
                 "de": "Der dunkle Prinz teilt Flächenschaden aus und lässt seine mit Spitzen versehene Keule für sich sprechen - denn wenn er selbst das Wort ergreift, klingt es, als hätte er einen Eimer auf dem Kopf.",
@@ -1719,6 +1775,7 @@
         "id": 26000028,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_THREE_MUSKETEERS",
                 "en": "Three Musketeers",
                 "fr": "Trois mousquetaires",
                 "de": "Drei Musketierinnen",
@@ -1743,6 +1800,7 @@
                 "sc_key": "TID_SPELL_THREE_MUSKETEERS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_THREE_MUSKETEERS",
                 "en": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!",
                 "fr": "Trio de tireuses d'élite indépendantes et puissantes, qui luttent pour la justice et l'honneur. Leur manquer de respect ne serait pas une simple erreur, ce serait un péché capital !",
                 "de": "Ein Trio dreier starker, unabhängiger Schützinnen, die für Gerechtigkeit und Ehre kämpfen. Wer sie nicht respektiert, begeht nicht nur einen Fehler, sondern eine Todsünde!",
@@ -1775,11 +1833,12 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 4,
+        "arena": 10,
         "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
         "id": 26000029,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_LAVA_HOUND",
                 "en": "Lava Hound",
                 "fr": "Molosse de lave",
                 "de": "Lavahund",
@@ -1804,6 +1863,7 @@
                 "sc_key": "TID_SPELL_LAVA_HOUND"
             },
             "description": {
+                "do": "TID_SPELL_INFO_LAVA_HOUND",
                 "en": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
                 "fr": "Le molosse de lave est une majestueuse créature volante qui attaque les bâtiments. Les roquets de lave sont des chiots énervés moins majestueux qui attaquent tout ce qu'ils trouvent.",
                 "de": "Der Lavahund ist eine majestätische, fliegende Bestie, die Gebäude angreift. Die Lavawelpen sind weniger majestätisch, aber dafür umso aufgebrachter - sie greifen alles an.",
@@ -1841,6 +1901,7 @@
         "id": 26000030,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ICE_SPIRITS",
                 "en": "Ice Spirit",
                 "fr": "Esprit de glace",
                 "de": "Eisgeist",
@@ -1865,6 +1926,7 @@
                 "sc_key": "TID_SPELL_ICE_SPIRITS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ICE_SPIRITS",
                 "en": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
                 "fr": "Fait apparaître un petit esprit de glace plein d'entrain, capable de congeler un groupe d'ennemis. Un vrai vent de fraîcheur.",
                 "de": "Lässt einen kleinen, lebhaften Eisgeist erscheinen, der eine Gruppe von Feinden einfriert. Ziemlich cool.",
@@ -1891,62 +1953,64 @@
         }
     },
     {
-        "key": "fire-spirits",
-        "name": "Fire Spirits",
+        "key": "fire-spirit",
+        "name": "Fire Spirit",
         "sc_key": "FireSpirits",
-        "elixir": 2,
+        "elixir": 1,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 5,
-        "description": "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.",
+        "arena": 4,
+        "description": "The Fire Spirit is on a kamikaze mission to give you a warm hug. It'd be adorable if it wasn't on fire.",
         "id": 26000031,
         "_lang": {
             "name": {
-                "en": "Fire Spirits",
-                "fr": "Esprits de feu",
-                "de": "Feuergeister",
-                "es": "Espíritus de fuego",
-                "it": "Spiriti del fuoco",
-                "nl": "Vuurgeesten",
-                "no": "Ildånder",
-                "tr": "Ateş Ruhları",
+                "do": "TID_SPELL_FIRE_SPIRITS",
+                "en": "Fire Spirit",
+                "fr": "Esprit de feu",
+                "de": "Feuergeist",
+                "es": "Espíritu de fuego",
+                "it": "Spirito del fuoco",
+                "nl": "Vuurgeest",
+                "no": "Ildånd",
+                "tr": "Ateş Ruhu",
                 "jp": "ファイアスピリット",
                 "kr": "파이어 스피릿",
-                "ru": "Огненные духи",
-                "ar": "أرواح النار",
-                "pt": "Espíritos de Fogo",
+                "ru": "Огненный дух",
+                "ar": "روح النار",
+                "pt": "Espírito de Fogo",
                 "cn": "烈焰精灵",
                 "cnt": "烈焰精靈",
                 "fa": "روح آتشین",
                 "id": "Roh Api",
                 "ms": "Roh Api",
                 "th": "วิญญาณไฟ",
-                "fi": "Tulen henget",
+                "fi": "Tulen henki",
                 "vi": "Hỏa Tinh Linh",
                 "sc_key": "TID_SPELL_FIRE_SPIRITS"
             },
             "description": {
-                "en": "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.",
-                "fr": "Ces trois esprits nourrissent une passion brûlante pour les câlins trop chaleureux. Ce serait adorable s'ils ne mettaient pas le feu à tout ce qu'ils touchent.",
-                "de": "Diese drei Feuergeister sind auf Kamikaze-Mission unterwegs und wollen dir eine warme Umarmung zukommen lassen. Das wäre ja ganz nett, aber leider brennen sie ...",
-                "es": "Estos tres espíritus de fuego tienen una misión suicida: darte un abrazo calentito. Sería adorable... si no estuvieran en llamas.",
-                "it": "Questi tre spiriti del fuoco farebbero di tutto pur di darti un caloroso abbraccio. Sarebbe un gesto adorabile, se non fossero in fiamme ed esplodessero.",
-                "nl": "Deze drie vuurgeesten zijn op een kamikazemissie om jou een warme omhelzing te geven. Dat zou schattig zijn... als ze niet in brand stonden!",
-                "no": "Disse tre ildåndene er på et kamikaze-oppdrag for å gi deg en varm klem. Sikkert behagelig, hadde de ikke stått i full fyr.",
-                "tr": "Bu üç Ateş Ruhu, içini ısıtacak bir kamikaze görevinde. Keşke yanarak yaklaşmasalardı.",
-                "jp": "この3体一組の火の精霊は、敵に飛びつきたくてウズウズしています。燃えていないときはカワイイのですが...",
-                "kr": "세 마리의 파이어 스피릿은 여러분을 따뜻하게 안아주는 척하면서 폭발합니다!",
-                "ru": "Эти три огненных духа одержимы идеей обнять тебя покрепче. Было бы мило, если бы они не горели.",
-                "ar": "أرواح النار الثلاث هذه في مهمة انتحارية لمنحك عناقًا دافئًا. كان الأمر ليصبح رائعًا لو لم يكونوا مشتعلين.",
-                "pt": "Estes três Espíritos de Fogo estão em uma missão kamikaze para dar um abraço quentinho em você. Seria uma delícia se eles não estivessem pegando fogo.",
-                "cn": "这三个烈焰精灵抱着必死的决心，扑向敌方给予他们一个热烈的\"拥抱\"，如果不是因为它们整天想对人开火，它们其实还挺可爱的。",
-                "cnt": "這三個烈焰精靈抱著必死的決心，撲向敵方給予他們一個熱烈的\"擁抱\"，如果不是因為它們整天想對人開火，它們其實還挺可愛的。",
-                "fa": "این سه روح آتشی یک مأموریت انتحاری دارن تا تو رو بغل کنن. اگر آتیش نمی‌گرفتی خیلی صحنه زیبایی بود.",
-                "id": "Tiga Roh Api ini punya misi kamikaze untuk memberimu pelukan hangat. Kedengarannya manis, sayangnya mereka berapi.",
-                "ms": "Tiga Roh Api ini dalam misi kamikaze untuk memberikan anda pelukan hangat. Ini semestinya comel jika mereka tidak mempunyai api.",
-                "th": "วิญญาณไฟสามตนนี้จะทำภารกิจพลีชีพเพื่อกอดท่านให้อบอุ่น คงจะน่ารักอยู่หรอกถ้าไฟไม่ลุกท่วมขนาดนี้",
-                "fi": "Nämä kolme tulen henkeä tulevat antamaan sinulle lämpöisen kamikaze-halauksen. Se olisi aivan ihanaa, jos ne eivät olisi ilmiliekeissä.",
-                "vi": "Ba Hỏa Tinh Linh này đang trên đường thực hiện nhiệm vụ cảm tử sẽ cho bạn một cái ôm thật ấm áp. Nếu chúng mà không cháy thế kia thì thật dễ thương biết bao.",
+                "do": "TID_SPELL_INFO_FIRE_SPIRITS",
+                "en": "The Fire Spirit is on a kamikaze mission to give you a warm hug. It'd be adorable if it wasn't on fire.",
+                "fr": "L'esprit de feu nourrit une passion brûlante pour les câlins trop chaleureux. Ce serait adorable s'il ne mettait pas le feu à tout ce qu'il touche.",
+                "de": "Der Feuergeist ist auf Kamikaze-Mission unterwegs und will dir eine warme Umarmung zukommen lassen. Das wäre ja ganz nett, aber leider brennt er ...",
+                "es": "El espíritu de fuego tiene una misión suicida: darte un abrazo calentito. Sería adorable... si no estuviera en llamas.",
+                "it": "Questo spiritello farebbe di tutto pur di darti un caloroso abbraccio. Sarebbe un gesto adorabile, se non fosse avvolto dalle fiamme ed esplodesse.",
+                "nl": "De vuurgeest is op een kamikazemissie om je een warme omhelzing te geven. Dat zou schattig zijn... als de geest niet in brand stond!",
+                "no": "Ildånden er på et kamikaze-oppdrag for å gi deg en varm klem. Sikkert behagelig, hadde den ikke stått i full fyr.",
+                "tr": "Ateş Ruhu, içini ısıtacak bir kamikaze görevinde. Alevler içinde olmasa aslında çok sevimli.",
+                "jp": "この火の精霊は、敵に飛びつきたくてウズウズしています。燃えてさえいなければカワイイのですが...",
+                "kr": "파이어 스피릿은 여러분을 따뜻하게 안아주는 척하면서 폭발합니다!",
+                "ru": "Огненный дух одержим идеей обнять тебя покрепче. Было бы мило, если бы он не горел.",
+                "ar": "روح النار في مهمة انتحارية لمنحك عناقًا دافئًا. لولا أنها من النار، لكان هذا العناق لطيفًا.",
+                "pt": "O Espírito de Fogo está em uma missão kamikaze para dar um abraço quentinho em você. Seria uma delícia se ele não estivesse pegando fogo.",
+                "cn": "烈焰精灵抱着必死的决心，扑向敌方给予他们一个热烈的\"拥抱\"，如果不是因为它整天想对人开火，它其实还挺可爱的。",
+                "cnt": "烈焰精靈抱著必死的決心，撲向敵方給予他們一個熱烈的\"擁抱\"，如果不是因為它們整天想對人開火，它們其實還滿可愛的。",
+                "fa": "این روح آتشی یه مأموریت جانفشانانه برای بغل کردن تو داره. اگر آتشین نبود خیلی صحنه زیبایی می‌شد.",
+                "id": "Roh Api punya tekad berapi-api untuk memberimu pelukan hangat. Terdengar romantis, sayangnya kamu juga akan ikut terbakar!",
+                "ms": "Roh Api ini dalam misi kamikaze untuk memberikan anda pelukan hangat. Ia semestinya comel jika ia tidak berapi.",
+                "th": "วิญญาณไฟจะทำภารกิจพลีชีพเพื่อกอดท่านให้อบอุ่น คงจะน่ารักอยู่หรอกถ้าไฟไม่ลุกท่วมขนาดนี้",
+                "fi": "Tulen henki tulee antamaan sinulle lämpöisen kamikaze-halauksen. Ihana ele muuten, mutta sehän on ilmiliekeissä.",
+                "vi": "Hỏa Tinh Linh này đang trên đường thực hiện nhiệm vụ cảm tử là trao cho bạn một cái ôm thật ấm áp. Nếu Tinh Linh này không cháy hừng hực thế kia thì thật dễ thương biết bao.",
                 "sc_key": "TID_SPELL_INFO_FIRE_SPIRITS"
             }
         }
@@ -1959,10 +2023,11 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 4,
-        "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
+        "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel. A shovel that deals reduced damage to Crown Towers.",
         "id": 26000032,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MINER",
                 "en": "Miner",
                 "fr": "Mineur",
                 "de": "Tunnelgräber",
@@ -1987,27 +2052,28 @@
                 "sc_key": "TID_SPELL_MINER"
             },
             "description": {
-                "en": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
-                "fr": "Le mineur creuse des tunnels souterrains et apparaît n'importe où dans l'arène. Ce n'est pas de la magie, juste une pelle.",
-                "de": "Der Tunnelgräber kann sich unterirdisch einen Weg bahnen und überall in der Arena auftauchen. Das ist keine Zauberei, sondern eine Schaufel!",
-                "es": "El minero es capaz de excavar un túnel para aparecer en cualquier lugar de la arena. No es magia, es una pala.",
-                "it": "Il minatore può scavare una galleria sotterranea e apparire in un punto qualsiasi dell'arena. Non è magia, è una pala.",
-                "nl": "De mijnwerker graaft zich ondergronds een weg en kan overal in de arena weer boven de grond komen. Dat heeft niets met magie te maken, maar alles met een goede schep.",
-                "no": "Graveren kan grave seg vei under bakken og dukke opp hvor som helst i arenaen. Det er ikke magi, det er en spade.",
-                "tr": "Madenci, yeraltında yol açarak Arenanın herhangi bir yerinde belirir. Büyü değil, kürek kullanır.",
-                "jp": "ディガーは地下にトンネルを掘ることでアリーナのどこにでも出現できます。魔法ではなく、ショベルの力です。",
-                "kr": "광부는 땅을 파고 이동해 아레나 어디에서든 나타날 수 있습니다. 마법이 아니라 삽질의 힘이죠.",
-                "ru": "Шахтер перемещается под землей и может появиться где угодно на арене. Дело не в магии, дело в лопате.",
-                "ar": "يمكن لعامل المناجم أن يحفر طريقه تحت الأرض ويظهر في أي مكان في الساحة. هذا ليس سحرًا، بل مجرفة.",
-                "pt": "O Mineiro consegue passar por baixo da terra e aparecer em qualquer lugar da arena. Não é magia. Chama-se pá!",
-                "cn": "掘地矿工可以掘地三尺并在竞技场中的任何位置破土而出。这可不是什么魔法，他靠的是他的铲子。",
-                "cnt": "掘地礦工可以掘地三尺並在競技場中的任何位置破土而出。這可不是什麼魔法，他靠的是他的鏟子。",
-                "fa": "معدنچی می‌تونه زیر زمین راه خودش رو درست کنه و هر جا از میدان نبرد که خواست ظاهر بشه. جادویی در کار نیست، فقط یک بیل داره.",
-                "id": "Penambang dapat menggali jalan di bawah tanah dan muncul di mana saja di Arena. Jangan kira mereka pakai sihir, cuma sekop kok.",
-                "ms": "Pelombong boleh mengorek ke bawah tanah dan muncul di mana-mana dalam Arena. Itu bukan ajaib, itu penyodok.",
-                "th": "คนงานเหมืองสามารถขุดโพรงหาทางใต้ดิน และปรากฏขึ้นที่ไหนก็ได้ในสนามประลอง ไม่ใช่เวทมนตร์ ก็แค่พลั่ว",
-                "fi": "Kaivosmies voi kaivaa tiensä maan alitse ja ilmestyä minne päin areenaa tahansa. Siihen ei tarvita taikuutta, lapio riittää.",
-                "vi": "Thợ mỏ có thể đào đường dưới lòng đất và xuất hiện ở bất kỳ vị trí nào trong Đấu trường. Không phải là bằng phép thuật đâu, bằng xẻng đấy.",
+                "do": "TID_SPELL_INFO_MINER",
+                "en": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel. A shovel that deals reduced damage to Crown Towers.",
+                "fr": "Le mineur creuse des tunnels souterrains et apparaît n'importe où dans l'arène. Ce n'est pas de la magie, juste une pelle. Une pelle qui inflige des dégâts réduits sur les tours couronnées.",
+                "de": "Der Tunnelgräber kann sich unterirdisch einen Weg bahnen und überall in der Arena auftauchen. Das ist keine Zauberei, sondern eine Schaufel! Eine Schaufel, die reduzierten Schaden an Kronentürmen verursacht.",
+                "es": "El minero es capaz de excavar un túnel para aparecer en cualquier lugar de la arena. No es magia, es una pala. Esta pala es menos efectiva contra las torres de coronas.",
+                "it": "Il minatore può scavare una galleria sotterranea e apparire in un punto qualsiasi dell'arena. Non è magia, è una pala... che infligge danni ridotti alle torri della corona.",
+                "nl": "De mijnwerker graaft zich in en kan overal in de arena weer boven de grond komen. Dat heeft niets met magie te maken, maar alles met een goede schep. Kroontorens lopen minder schade op.",
+                "no": "Graveren kan grave seg vei under bakken og dukke opp hvor som helst i arenaen. Det er ikke magi, det er en spade. En spade som reduserer skaden på kronetårn.",
+                "tr": "Madenci, yer altında yol açarak Arenanın herhangi bir yerinde belirebilir. Büyü değil, kürek kullanır. Ancak bu kürek, Taç Kulelerine daha az hasar verir.",
+                "jp": "ディガーは地下にトンネルを掘ることでアリーナのどこにでも出現できます。魔法ではなく、ショベルの力です。なお、クラウンタワーに対してはダメージが減少します。",
+                "kr": "광부는 땅을 파고 이동해 아레나 어디에나 나타날 수 있습니다. 마법이 아니라 삽질의 힘이죠. 크라운 타워에는 비교적 적은 피해를 줍니다.",
+                "ru": "Шахтер перемещается под землей и появляется где угодно на арене. Дело не в магии, дело в лопате. Наносит пониженный урон королевским башням.",
+                "ar": "يمكن لعامل المناجم أن يحفر طريقه تحت الأرض ويظهر في أي مكان في الساحة. هذا ليس سحرًا، بل مجرفة، وهي تلحق ضررًا مخفضًا بأبراج التاج.",
+                "pt": "O Mineiro consegue passar por baixo da terra e aparecer em qualquer lugar da arena. Não é magia. Chama-se pá! Dano reduzido contra as torres da coroa.",
+                "cn": "掘地矿工可以掘地三尺并在竞技场中的任何位置破土而出。这可不是什么魔法，他靠的是他的铲子。对皇家塔的伤害会大打折扣。",
+                "cnt": "掘地礦工可以掘地三尺並在競技場中的任何位置破土而出。這可不是什麼魔法，他靠的是他的鏟子。對皇家塔造成的傷害較低。",
+                "fa": "معدنچی می‌تونه زیر زمین راه خودش رو درست کنه و هر جا از میدان نبرد که خواست ظاهر بشه. جادویی در کار نیست، فقط یه بیل داره. بیلی که به برج‌های تاج آسیب کمتری وارد می‌کنه.",
+                "id": "Penambang dapat menggali lorong bawah tanah dan muncul di mana saja di Arena. Banyak yang mengira kalau ini berkat sihir, padahal cuma sekop, kok! Sayangnya, sekop ini akan memberikan kerusakan yang lebih kecil pada Benteng Mahkota.",
+                "ms": "Pelombong boleh mengorek ke bawah tanah dan muncul di mana-mana saja di arena. Ini bukan kuasa ajaib, tapi kehebatan penyodoknya. Penyodok yang melakukan kerosakan kecil ke atas menara mahkota.",
+                "th": "คนงานเหมืองสามารถขุดโพรงหาทางใต้ดิน และปรากฏขึ้นที่ไหนก็ได้ในสนามประลอง ไม่ใช่เวทมนตร์ ก็แค่พลั่ว พลั่วที่ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "fi": "Kaivosmies voi kaivaa tiensä maan alitse ja ilmestyä minne päin areenaa tahansa. Siihen ei tarvita taikuutta, lapio riittää. Aiheuttaa kruunutorneille vähemmän vahinkoa kuin muille kohteille.",
+                "vi": "Thợ mỏ có thể đào đường dưới lòng đất và xuất hiện ở bất kỳ vị trí nào trong Đấu trường. Không phải đào bằng phép thuật đâu mà bằng xẻng đấy. Sát thương Xẻng gây ra cho Tháp Vương miện bị giảm.",
                 "sc_key": "TID_SPELL_INFO_MINER"
             }
         }
@@ -2024,6 +2090,7 @@
         "id": 26000033,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ZAPMACHINE",
                 "en": "Sparky",
                 "fr": "Zappy",
                 "de": "Funki",
@@ -2048,6 +2115,7 @@
                 "sc_key": "TID_SPELL_ZAPMACHINE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ZAPMACHINE",
                 "en": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
                 "fr": "Zappy se charge lentement, puis décharge toute son énergie sur une énorme zone de dégâts. Vraiment, Zappy ne fait pas dans la dentelle.",
                 "de": "Funki lädt sich langsam auf und sorgt für GEWALTIGEN Flächenschaden. Nichts ist zu viel des Guten!",
@@ -2080,11 +2148,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 8,
+        "arena": 13,
         "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
         "id": 26000034,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BOWLER",
                 "en": "Bowler",
                 "fr": "Bouliste",
                 "de": "Bowler",
@@ -2109,6 +2178,7 @@
                 "sc_key": "TID_SPELL_BOWLER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BOWLER",
                 "en": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
                 "fr": "Ce gros bonhomme bleu apprécie les choses simples de la vie : l'élixir noir et le lancer de rochers. Ses énormes cailloux roulent sur leur cible, puis poursuivent leur course pour frapper toute autre cible sur leur chemin.",
                 "de": "Dieser große blaue Kerl mag die einfachen Dinge im Leben - Dunkles Elixier trinken und Steine werfen. Seine riesigen Felsbrocken überrollen ihr Ziel und treffen alles dahinter!",
@@ -2141,11 +2211,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 8,
+        "arena": 14,
         "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
         "id": 26000035,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_RAGE_BARBARIAN",
                 "en": "Lumberjack",
                 "fr": "Bûcheron",
                 "de": "Holzfäller",
@@ -2170,6 +2241,7 @@
                 "sc_key": "TID_SPELL_RAGE_BARBARIAN"
             },
             "description": {
+                "do": "TID_SPELL_INFO_RAGE_BARBARIAN",
                 "en": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
                 "fr": "Il abat des arbres le jour et poursuit la bûche la nuit. Son flacon de rage se renverse quand il est éliminé.",
                 "de": "Er fällt Bäume bei Tag und jagt das Kampfholz bei Nacht. Wenn er besiegt ist, wird der Inhalt seiner Flasche Wut verschüttet.",
@@ -2207,6 +2279,7 @@
         "id": 26000036,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BATTLE_RAM",
                 "en": "Battle Ram",
                 "fr": "Bélier de combat",
                 "de": "Rammbock",
@@ -2231,6 +2304,7 @@
                 "sc_key": "TID_SPELL_BATTLE_RAM"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BATTLE_RAM",
                 "en": "Two Barbarians holding a big log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!",
                 "fr": "Deux barbares utilisant un tronc comme bélier pour charger le bâtiment le plus proche. Ils infligent des dégâts importants s'ils atteignent leur cible, puis attaquent l'épée à la main.",
                 "de": "Zwei Barbaren stürmen mit einem großen Baumstamm auf das nächstgelegene Gebäude zu und verursachen erheblichen Schaden, wenn sie einen Treffer landen. Danach geht es mit Schwertern weiter!",
@@ -2263,11 +2337,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 6,
+        "arena": 9,
         "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
         "id": 26000037,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_INFERNO_DRAGON",
                 "en": "Inferno Dragon",
                 "fr": "Dragon de l'enfer",
                 "de": "Infernodrache",
@@ -2292,6 +2367,7 @@
                 "sc_key": "TID_SPELL_INFERNO_DRAGON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_INFERNO_DRAGON",
                 "en": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
                 "fr": "Crache un faisceau de feu focalisé dont les dégâts augmentent au fil du temps. Porte un casque, car voler n'est pas sans danger.",
                 "de": "Stößt einen konzentrierten Feuerstrahl aus, dessen Schaden mit der Zeit zunimmt. Trägt einen Helm, weil Fliegen gefährlich sein kann.",
@@ -2329,6 +2405,7 @@
         "id": 26000038,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ICEGOLEMITE",
                 "en": "Ice Golem",
                 "fr": "Golem de glace",
                 "de": "Eisgolem",
@@ -2353,6 +2430,7 @@
                 "sc_key": "TID_SPELL_ICEGOLEMITE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ICEGOLEMITE",
                 "en": "He's tough, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
                 "fr": "Costaud, il cible les bâtiments et explose lorsqu'il est détruit, ralentissant les ennemis à proximité. Il est entièrement constitué de glace, pas vrai ? Absolument.",
                 "de": "Der Eisgolem ist zäh und greift Gebäude an. Wenn er zerstört wird, explodiert er und verlangsamt Feinde in der Nähe. Er besteht ganz aus Eis ... oder? Natürlich.",
@@ -2385,11 +2463,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 4,
+        "arena": 3,
         "description": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
         "id": 26000039,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MEGAMINION",
                 "en": "Mega Minion",
                 "fr": "Méga gargouille",
                 "de": "Megalakai",
@@ -2414,6 +2493,7 @@
                 "sc_key": "TID_SPELL_MEGAMINION"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MEGAMINION",
                 "en": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
                 "fr": "Créature volante, cuirassée et puissante. Une faiblesse ? Oui, pour les cupcakes.",
                 "de": "Ist stark, gepanzert und kann fliegen. Was wohl seine Schwäche ist? Cupcakes!",
@@ -2451,6 +2531,7 @@
         "id": 26000040,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BLOWDART_GOBLIN",
                 "en": "Dart Goblin",
                 "fr": "Gobelin à sarbacane",
                 "de": "Blasrohrkobold",
@@ -2475,6 +2556,7 @@
                 "sc_key": "TID_SPELL_BLOWDART_GOBLIN"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BLOWDART_GOBLIN",
                 "en": "Runs fast, shoots far and chews gum. How does he blow darts with a mouthful of Double Trouble Gum? Years of didgeridoo lessons.",
                 "fr": "Court vite, tire loin et mâche du chewing-gum. Son secret pour souffler des fléchettes la bouche pleine de chewing-gum magique ? Des années de leçons de didgeridoo.",
                 "de": "Läuft schnell, schießt weit und kaut Kaugummi. Wie kann man mit Kaugummi im Mund bloß Pfeile verschießen? Jahrelange Übung mit dem Didgeridoo!",
@@ -2512,6 +2594,7 @@
         "id": 26000041,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOBLIN_GANG",
                 "en": "Goblin Gang",
                 "fr": "Gang de gobelins",
                 "de": "Koboldgang",
@@ -2536,6 +2619,7 @@
                 "sc_key": "TID_SPELL_GOBLIN_GANG"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOBLIN_GANG",
                 "en": "Spawns five Goblins - three with knives, two with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
                 "fr": "Cinq gobelins surgissent, trois armés de couteaux, deux armés de lances, pour un coût en élixir réduit. C'est comme un pack éco pour gobelins !",
                 "de": "Lässt für weniger Elixier fünf Kobolde erscheinen - drei mit Messern, zwei mit Speeren. Das ist wie ein Kobold-Sparpaket!",
@@ -2573,6 +2657,7 @@
         "id": 26000042,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELECTRO_WIZARD",
                 "en": "Electro Wizard",
                 "fr": "Électro-sorcier",
                 "de": "Elektromagier",
@@ -2597,6 +2682,7 @@
                 "sc_key": "TID_SPELL_ELECTRO_WIZARD"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELECTRO_WIZARD",
                 "en": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
                 "fr": "Il atterrit dans un grand \"FLASH !\", étourdissant les ennemis à proximité, et lance des éclairs avec ses deux mains. Quel frimeur.",
                 "de": "Er landet mit einem Donnerschlag, betäubt Feinde in der Nähe und schleudert Blitze mit beiden Händen! Was für ein Angeber!",
@@ -2634,6 +2720,7 @@
         "id": 26000043,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ANGRY_BARBARIANS",
                 "en": "Elite Barbarians",
                 "fr": "Barbares d'élite",
                 "de": "Elitebarbaren",
@@ -2658,6 +2745,7 @@
                 "sc_key": "TID_SPELL_ANGRY_BARBARIANS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ANGRY_BARBARIANS",
                 "en": "Spawns a pair of leveled up Barbarians. They're like regular Barbarians, only harder, better, faster and stronger.",
                 "fr": "Fait apparaître une paire de barbares au niveau boosté. Ils ressemblent aux barbares habituels, en plus costauds, plus beaux, plus rapides et plus forts.",
                 "de": "Lässt zwei verstärkte Barbaren erscheinen. Sie ähneln gewöhnlichen Barbaren, sind jedoch härter, besser, schneller und stärker.",
@@ -2690,11 +2778,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 1,
+        "arena": 10,
         "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
         "id": 26000044,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_HUNTER",
                 "en": "Hunter",
                 "fr": "Chasseur",
                 "de": "Jäger",
@@ -2719,6 +2808,7 @@
                 "sc_key": "TID_SPELL_HUNTER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_HUNTER",
                 "en": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
                 "fr": "Rodé au combat au corps à corps, mais pas tant la précision. On lui pardonne, bien sûr, parce que des sourcils aussi fournis, ça se respecte !",
                 "de": "Kommt er nahe genug an seine Feinde heran, teilt er EINE MENGE Schaden aus - aus der Ferne hält sich seine Feuerkraft in Grenzen. Was ihm an Zielgenauigkeit fehlt, gleicht er durch beeindruckend buschige Augenbrauen aus.",
@@ -2751,11 +2841,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 12,
+        "arena": 14,
         "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose an arm.",
         "id": 26000045,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_AXEMAN",
                 "en": "Executioner",
                 "fr": "Bourreau",
                 "de": "Scharfrichter",
@@ -2780,6 +2871,7 @@
                 "sc_key": "TID_SPELL_AXEMAN"
             },
             "description": {
+                "do": "TID_SPELL_INFO_AXEMAN",
                 "en": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose an arm.",
                 "fr": "Il lance sa hache comme un boomerang, frappant tous les ennemis à l'aller et au retour. C'est un miracle qu'il n'ait pas perdu un bras.",
                 "de": "Er schleudert seine Axt wie einen Bumerang und kann Feinde so doppelt treffen! Ein Wunder, dass er dabei keinen Arm verliert.",
@@ -2812,11 +2904,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 9,
+        "arena": 13,
         "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe, and gives her bonus cool points!",
         "id": 26000046,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ASSASSIN",
                 "en": "Bandit",
                 "fr": "Voleuse",
                 "de": "Banditin",
@@ -2841,6 +2934,7 @@
                 "sc_key": "TID_SPELL_ASSASSIN"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ASSASSIN",
                 "en": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe, and gives her bonus cool points!",
                 "fr": "La voleuse fonce sur sa cible et lui assène un coup très fort. Quand elle charge, elle ne peut pas être touchée. Son masque dissimule son identité... et lui donne beaucoup de classe !",
                 "de": "Die Banditin sprintet zu ihrem Ziel und landet einen extra großen Treffer! Während des Sprints kann ihr niemand schaden. Die Maske verbirgt ihr Gesicht und sieht auch noch besonders cool aus!",
@@ -2878,6 +2972,7 @@
         "id": 26000047,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GUARD_BATTALION",
                 "en": "Royal Recruits",
                 "fr": "Recrues royales",
                 "de": "Königsrekruten",
@@ -2902,6 +2997,7 @@
                 "sc_key": "TID_SPELL_GUARD_BATTALION"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GUARD_BATTALION",
                 "en": "Deploys a line of recruits armed with spears, shields and wooden buckets. They dream of ponies and one day wearing metal buckets.",
                 "fr": "Déploie une ligne de recrues armées de lances, de boucliers et portant un seau en bois sur la tête. Leur rêve ? Un poney et la chance de porter un jour un seau en métal sur la tête.",
                 "de": "Lässt eine Reihe von Rekruten erscheinen, die mit Speeren, Schilden und Holzeimern bewaffnet sind. Sie träumen davon, eines Tages auf Ponys reiten und Metalleimer tragen zu dürfen.",
@@ -2934,11 +3030,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 14,
         "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
         "id": 26000048,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_DARK_WITCH",
                 "en": "Night Witch",
                 "fr": "Sorcière de la nuit",
                 "de": "Nachthexe",
@@ -2963,6 +3060,7 @@
                 "sc_key": "TID_SPELL_DARK_WITCH"
             },
             "description": {
+                "do": "TID_SPELL_INFO_DARK_WITCH",
                 "en": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
                 "fr": "Invoque des chauves-souris qui obéissent à ses ordres, même après sa mort, et n'hésite pas à se servir de son redoutable bâton si vous l'approchez de trop près.",
                 "de": "Beschwört Fledermäuse, die ihr jeden Wunsch erfüllen - selbst, nachdem sie stirbt. Kommt ihr jemand zu nahe, ist sie sich aber auch nicht zu schade, ihren unheimlichen Stab zu schwingen!",
@@ -3000,6 +3098,7 @@
         "id": 26000049,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BATS",
                 "en": "Bats",
                 "fr": "Chauves-souris",
                 "de": "Fledermäuse",
@@ -3024,6 +3123,7 @@
                 "sc_key": "TID_SPELL_BATS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BATS",
                 "en": "Spawns a handful of tiny flying creatures. Think of them as sweet, purple... balls of DESTRUCTION!",
                 "fr": "Génère une poignée de petites créatures volantes. Ce sont d'adorables petites boules... de destruction.",
                 "de": "Lässt eine Handvoll winziger fliegender Kreaturen erscheinen. Sie sind gewissermaßen niedliche lila ... VERNICHTUNGSMASCHINEN!",
@@ -3061,6 +3161,7 @@
         "id": 26000050,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GHOST",
                 "en": "Royal Ghost",
                 "fr": "Fantôme royal",
                 "de": "Königsgeist",
@@ -3085,6 +3186,7 @@
                 "sc_key": "TID_SPELL_GHOST"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GHOST",
                 "en": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
                 "fr": "Invisible, il dérive à travers l'arène, jusqu'à ce qu'un ennemi le réveille... Et il attaque ! Puis il redevient invisible. Zzzz...",
                 "de": "Er schwebt unsichtbar durch die Arena, bis er von einem Feind überrascht wird. Dann greift er an! Danach ist er wieder unsichtbar.",
@@ -3122,6 +3224,7 @@
         "id": 26000051,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_RAM_RIDER",
                 "en": "Ram Rider",
                 "fr": "Cavabélier",
                 "de": "Widderreiterin",
@@ -3146,6 +3249,7 @@
                 "sc_key": "TID_SPELL_RAM_RIDER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_RAM_RIDER",
                 "en": "Together they charge through the Arena; snaring enemies, knocking down towers ... and chewing grass!?",
                 "fr": "Et les voilà qui chargent à travers l'arène, piègent leurs ennemis, détruisent les tours et... s'arrêtent pour casser la croûte ?!",
                 "de": "Gemeinsam stürmen sie durch die Arena, legen Feinden Fußfesseln an, reißen Türme nieder und ... kauen Gras?!",
@@ -3183,6 +3287,7 @@
         "id": 26000052,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MINI_ZAPMACHINE",
                 "en": "Zappies",
                 "fr": "Électrocuteurs",
                 "de": "Zappys",
@@ -3207,6 +3312,7 @@
                 "sc_key": "TID_SPELL_MINI_ZAPMACHINE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MINI_ZAPMACHINE",
                 "en": "Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.",
                 "fr": "Fait apparaître des électrocuteurs miniatures contrôlés par... En fait, seul le maître ouvrier le sait.",
                 "de": "Eine Gruppe kleiner Knallzauber-Maschinen. Wer sie wohl steuert? Das weiß nur der Meisterbauarbeiter!",
@@ -3239,11 +3345,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 9,
+        "arena": 13,
         "description": "Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind... with slingshots full of Double Trouble Gum!",
         "id": 26000053,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_HOODED_GANG",
                 "en": "Rascals",
                 "fr": "Fripons",
                 "de": "Rabauken",
@@ -3268,6 +3375,7 @@
                 "sc_key": "TID_SPELL_HOODED_GANG"
             },
             "description": {
+                "do": "TID_SPELL_INFO_HOODED_GANG",
                 "en": "Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind... with slingshots full of Double Trouble Gum!",
                 "fr": "Génère un trio de fripons malicieux ! Le garçon mène la charge, tandis que les filles utilisent leurs frondes pour bombarder les ennemis de chewing-gum magique.",
                 "de": "Lässt ein freches Rabaukentrio erscheinen! Der Junge läuft voraus, während die beiden Mädchen mit ihren Kaugummischleudern Gegnern aus der Ferne Schaden zufügen.",
@@ -3300,11 +3408,12 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 15,
         "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
         "id": 26000054,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MOVING_CANNON",
                 "en": "Cannon Cart",
                 "fr": "Charrette à canon",
                 "de": "Kanonenkarre",
@@ -3329,6 +3438,7 @@
                 "sc_key": "TID_SPELL_MOVING_CANNON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MOVING_CANNON",
                 "en": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
                 "fr": "Un canon sur roues ? Je parie qu'ils ne l'ont pas vu venir ! Il perd ses roues lorsque son bouclier est brisé.",
                 "de": "Eine Kanone auf Rädern?! Das sieht keiner kommen! Wenn du ihren Schild durchbrichst, bleibt sie zwar eine Kanone, aber nicht mehr auf Rädern.",
@@ -3366,6 +3476,7 @@
         "id": 26000055,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MEGAKNIGHT",
                 "en": "Mega Knight",
                 "fr": "Méga chevalier",
                 "de": "Megaritter",
@@ -3390,6 +3501,7 @@
                 "sc_key": "TID_SPELL_MEGAKNIGHT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MEGAKNIGHT",
                 "en": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
                 "fr": "Il atterrit avec la force de 1 000 moustaches, puis saute d'ennemi en ennemi en infligeant d'énormes dégâts de zone. Poussez-vous !",
                 "de": "Er landet mit der Kraft von 1000 Schnurrbärten, springt dann von einem Feind zum nächsten und teilt gewaltigen Flächenschaden aus. Stell dich ihm nicht in den Weg!",
@@ -3422,11 +3534,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 6,
+        "arena": 12,
         "description": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
         "id": 26000056,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SKELETON_BALLOON",
                 "en": "Skeleton Barrel",
                 "fr": "Fût à squelettes",
                 "de": "Skelettfass",
@@ -3451,6 +3564,7 @@
                 "sc_key": "TID_SPELL_SKELETON_BALLOON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SKELETON_BALLOON",
                 "en": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
                 "fr": "C'est la fête des squelettes dans le ciel, jusqu'à ce que tous les ballons éclatent... Ensuite, la fête des squelettes continue sur la terre ferme !",
                 "de": "In der Luft tobt eine Skelettparty, bis die Ballons platzen ... Dann wird auf dem Boden weitergefeiert!",
@@ -3488,6 +3602,7 @@
         "id": 26000057,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_DART_BARRELL",
                 "en": "Flying Machine",
                 "fr": "Machine volante",
                 "de": "Flugmaschine",
@@ -3512,6 +3627,7 @@
                 "sc_key": "TID_SPELL_DART_BARRELL"
             },
             "description": {
+                "do": "TID_SPELL_INFO_DART_BARRELL",
                 "en": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
                 "fr": "La première machine du maître ouvrier a débarqué dans l'arène !\nIl s'agit d'un engin volant rapide et amusant, mais fragile !",
                 "de": "Der Meisterbauarbeiter hat sein erstes Gerät in die Arena geschickt! Es handelt sich um eine schnelle und spaßige Flugmaschine, die aber recht zerbrechlich ist!",
@@ -3544,11 +3660,12 @@
         "elixir": 2,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 0,
+        "arena": 5,
         "description": "A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold and undead heart like blowing up buildings.",
         "id": 26000058,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_WALLBREAKERS",
                 "en": "Wall Breakers",
                 "fr": "Sapeurs",
                 "de": "Mauerbrecher",
@@ -3573,6 +3690,7 @@
                 "sc_key": "TID_SPELL_WALLBREAKERS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_WALLBREAKERS",
                 "en": "A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold and undead heart like blowing up buildings.",
                 "fr": "Un audacieux duo de sapeurs sans reproche, dont la plus grande passion est de faire péter des bâtiments.",
                 "de": "Ein hochexplosives Duo. Nichts erwärmt das kalte, untote Herz eines Mauerbrechers mehr als der Anblick frisch gesprengter Gebäude.",
@@ -3610,6 +3728,7 @@
         "id": 26000059,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ROYAL_HOGS",
                 "en": "Royal Hogs",
                 "fr": "Cochons royaux",
                 "de": "Königsschweinchen",
@@ -3634,6 +3753,7 @@
                 "sc_key": "TID_SPELL_ROYAL_HOGS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ROYAL_HOGS",
                 "en": "The King's personal pets are loose! They love to chomp on apples and towers alike - who let the hogs out?!",
                 "fr": "Les animaux de compagnie du roi se sont échappés ! Ils adorent mâchouiller des pommes ou des tours ennemies, selon l'envie.",
                 "de": "Die Schoßtiere des Königs sind auf freiem Fuß! Am liebsten knabbern sie an Äpfeln und Türmen. Who let the hogs out?",
@@ -3671,6 +3791,7 @@
         "id": 26000060,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOBLIN_GIANT",
                 "en": "Goblin Giant",
                 "fr": "Gobelin géant",
                 "de": "Koboldriese",
@@ -3695,6 +3816,7 @@
                 "sc_key": "TID_SPELL_GOBLIN_GIANT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOBLIN_GIANT",
                 "en": "This jolly green Goblin Giant stomps towards enemy buildings. He carries two Spear Goblins everywhere he goes. It's a weird but functional arrangement.",
                 "fr": "Ce gobelin géant tout vert et tout joyeux avance lourdement vers les bâtiments ennemis. Il transporte deux gobelins à lances partout où il va. C'est un peu bizarre, mais ça marche.",
                 "de": "Der fröhliche Koboldriese stampft auf gegnerische Gebäude zu. Er trägt zwei Speerkobolde überall mit sich herum. Eine eigenartige, aber praktische Abmachung.",
@@ -3727,11 +3849,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 15,
         "description": "His Ranged Attack can pull enemies towards him, and pull himself to enemy buildings. He's also mastered the ancient art of 'Fish Slapping'.",
         "id": 26000061,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_FISHERMAN",
                 "en": "Fisherman",
                 "fr": "Pêcheur",
                 "de": "Fischer",
@@ -3756,6 +3879,7 @@
                 "sc_key": "TID_SPELL_FISHERMAN"
             },
             "description": {
+                "do": "TID_SPELL_INFO_FISHERMAN",
                 "en": "His Ranged Attack can pull enemies towards him, and pull himself to enemy buildings. He's also mastered the ancient art of 'Fish Slapping'.",
                 "fr": "Ceinture noire de coup de bar, un art ancien mystérieux. Son attaque à distance lui permet d'attirer à lui ses adversaires et de se hisser vers les bâtiments ennemis.",
                 "de": "Sein Distanzangriff kann Gegner in seine Richtung ziehen und ihn selbst zu feindlichen Gebäuden. Zudem ist er ein Meister in der uralten Kunst der Fischklatsche.",
@@ -3788,11 +3912,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 13,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
         "id": 26000062,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELITE_ARCHER",
                 "en": "Magic Archer",
                 "fr": "Archer magique",
                 "de": "Magieschütze",
@@ -3817,6 +3942,7 @@
                 "sc_key": "TID_SPELL_ELITE_ARCHER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELITE_ARCHER",
                 "en": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
                 "fr": "Mi-sorcier, mi-archer, il tire une flèche magique qui traverse tous les ennemis sur son passage en leur infligeant des dégâts. Aucun trucage, c'est magique !",
                 "de": "Er ist ein Zwischending aus Zauberer und Bogenschütze und verschießt magische Pfeile, die alle Feinde in der Schusslinie durchdringen. Das ist kein Zaubertrick, sondern Magie!",
@@ -3854,6 +3980,7 @@
         "id": 26000063,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELECTRO_DRAGON",
                 "en": "Electro Dragon",
                 "fr": "Électro-dragon",
                 "de": "Elektrodrache",
@@ -3878,6 +4005,7 @@
                 "sc_key": "TID_SPELL_ELECTRO_DRAGON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELECTRO_DRAGON",
                 "en": "Spits out bolts of electricity hitting up to three targets. Suffers from middle child syndrome to boot.",
                 "fr": "Crache des arcs électriques qui touchent jusqu'à trois cibles. Moins mignon que le bébé dragon, moins farouche que le dragon de l'enfer, mais il mérite quand même qu'on s'y attache.",
                 "de": "Spukt Stromblitze, die bis zu drei Ziele auf einmal treffen. Gibt alles, um von seinen beiden Geschwistern nicht in den Schatten gestellt zu werden!",
@@ -3910,11 +4038,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 10,
+        "arena": 14,
         "description": "Shoots a firework that explodes upon impact, damaging the target and showering anything directly behind it with sparks. This is what happens when Archers get bored!",
         "id": 26000064,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_FIRECRACKER",
                 "en": "Firecracker",
                 "fr": "Artificière",
                 "de": "Feuerwerkerin",
@@ -3939,6 +4068,7 @@
                 "sc_key": "TID_SPELL_FIRECRACKER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_FIRECRACKER",
                 "en": "Shoots a firework that explodes upon impact, damaging the target and showering anything directly behind it with sparks. This is what happens when Archers get bored!",
                 "fr": "Voilà ce qui arrive si on laisse un archer s'ennuyer trop. Elle tire un feu d'artifice qui explose en une pluie d'étincelles à l'impact, infligeant des dégâts à la cible et tout ce qui se trouve derrière.",
                 "de": "Verschießt ein Feuerwerk, das beim Aufprall explodiert, am Ziel Schaden verursacht und alles, was sich unmittelbar dahinter befindet, in einen Funkenregen hüllt. Das passiert, wenn sich Bogenschützen langweilen!",
@@ -3971,11 +4101,12 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 11,
+        "arena": 14,
         "description": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. A Blob gives your opponent 1 Elixir when destroyed!",
         "id": 26000067,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELIXIR_GOLEM",
                 "en": "Elixir Golem",
                 "fr": "Golem élixir",
                 "de": "Elixiergolem",
@@ -4000,6 +4131,7 @@
                 "sc_key": "TID_SPELL_ELIXIR_GOLEM"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELIXIR_GOLEM",
                 "en": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. A Blob gives your opponent 1 Elixir when destroyed!",
                 "fr": "Se divise en deux golemites d'élixir une fois détruit, qui à leur tour, se séparent en deux boules d'élixir une fois vaincus. Quand votre adversaire détruit une boule, il obtient une unité d'élixir !",
                 "de": "Teilt sich bei seiner Zerstörung in zwei Elixierminigolems auf, die sich ihrerseits im Falle ihrer Zerstörung in zwei lebendige Elixierkleckse verwandeln. Zerstört dein Gegner einen Klecks, erhält er 1 Elixier.",
@@ -4032,11 +4164,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 12,
+        "arena": 15,
         "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
         "id": 26000068,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BATTLEHEALER",
                 "en": "Battle Healer",
                 "fr": "Guérisseuse armée",
                 "de": "Kampfheilerin",
@@ -4061,6 +4194,7 @@
                 "sc_key": "TID_SPELL_BATTLEHEALER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BATTLEHEALER",
                 "en": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
                 "fr": "À chaque attaque, elle active son aura de guérison et restaure ses points de vie et ceux de ses alliés. Lorsqu'elle ne combat pas, elle se guérit elle-même.",
                 "de": "Mit jeder Attacke entfesselt sie eine mächtige Heilaura, die ihre eigenen Trefferpunkte sowie die Trefferpunkte verbündeter Truppen regeneriert. Während sie nicht angreift, heilt sie sich selbst! Ihre Flügel ermöglichen ihr es, über den Fluss zu schweben.",
@@ -4093,11 +4227,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 12,
+        "arena": 4,
         "description": "This pair of skeletal scorchers deal Area Damage and fly above the Arena. They also play a mean rib cage xylophone duet.",
         "id": 26000080,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SKELETONDRAGONS",
                 "en": "Skeleton Dragons",
                 "fr": "Dragons squelettes",
                 "de": "Skelettdrachen",
@@ -4122,6 +4257,7 @@
                 "sc_key": "TID_SPELL_SKELETONDRAGONS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SKELETONDRAGONS",
                 "en": "This pair of skeletal scorchers deal Area Damage and fly above the Arena. They also play a mean rib cage xylophone duet.",
                 "fr": "Ce duo de feu cause des dégâts de zone en survolant l'arène. Le dimanche, ils jouent des percussions pour un cours de danse macabre.",
                 "de": "Diese zwei Knochenkreaturen schweben durch die Arena und verursachen Flächenschaden. Außerdem ist ihr Rippenxylofon-Duett musikalische Meisterklasse.",
@@ -4154,11 +4290,12 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 9,
+        "arena": 15,
         "description": "Places a curse on enemy Troops with each attack. When a cursed Troop is destroyed, it turns into a building-targeting Hog that fights alongside the Mother Witch!\n\nShe also bakes great cookies.",
         "id": 26000083,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_WITCHMOTHER",
                 "en": "Mother Witch",
                 "fr": "Mamie sorcière",
                 "de": "Hexenmutter",
@@ -4183,6 +4320,7 @@
                 "sc_key": "TID_SPELL_WITCHMOTHER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_WITCHMOTHER",
                 "en": "Places a curse on enemy Troops with each attack. When a cursed Troop is destroyed, it turns into a building-targeting Hog that fights alongside the Mother Witch!\n\nShe also bakes great cookies.",
                 "fr": "Mamie sorcière lance une malédiction aux ennemis à chaque attaque. Lorsqu'une troupe maudite est détruite, elle se transforme en un cochon qui se bat aux côtés de la mamie sorcière et cible les bâtiments.\n\nÀ part ça, elle fait aussi de très bons gâteaux !",
                 "de": "Belegt Gegner bei jeder Attacke mit einem Fluch. Wenn eine verfluchte Einheit zerstört wird, verwandelt diese sich in ein Schwein, das für die Hexenmutter kämpft und es auf Gebäude abgesehen hat!\n\nSie backt außerdem sehr leckere Kekse.",
@@ -4220,6 +4358,7 @@
         "id": 26000084,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELECTRO_SPIRIT",
                 "en": "Electro Spirit",
                 "fr": "Électro-esprit",
                 "de": "Elektrogeist",
@@ -4244,6 +4383,7 @@
                 "sc_key": "TID_SPELL_ELECTRO_SPIRIT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELECTRO_SPIRIT",
                 "en": "Jumps on enemies, dealing Area Damage and stunning up to 9 enemy Troops. Locked in an eternal battle with Knight for the best mustache.",
                 "fr": "Il se jette gaiement sur les ennemis, étourdissant jusqu'à neuf unités et infligeant des dégâts de zone. En ce moment, il essaie aussi de se laisser pousser la moustache pour tenter de rivaliser avec le chevalier.",
                 "de": "Springt Feinde an und verursacht Flächenschaden. Betäubt bis zu 9 gegnerische Truppen. Der Elektrogeist streitet sich regelmäßig mit dem Ritter, wer den prächtigeren Schnurrbart hat.",
@@ -4281,6 +4421,7 @@
         "id": 26000085,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELECTRO_GIANT",
                 "en": "Electro Giant",
                 "fr": "Électro-géant",
                 "de": "Elektroriese",
@@ -4305,6 +4446,7 @@
                 "sc_key": "TID_SPELL_ELECTRO_GIANT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELECTRO_GIANT",
                 "en": "He channels electricity through his Zap Pack, a unique device that stuns and damages any Troop attacking him within its range.\n\nDon't tell him that his finger guns aren't real! He'll zap you.",
                 "fr": "Grâce à son Zap Pack dernier cri, l'électro-géant étourdit et inflige des dégâts aux ennemis qui s'approchent de trop près en les électrocutant.\n\nAttention, quiconque critique son style sera zappé.",
                 "de": "Der Elektroriese kanalisiert Elektrizität mithilfe des SchockBlocks auf seinem Rücken. Dieser einzigartige Apparat lähmt Truppen in seiner Reichweite, die den Elektroriesen angreifen, und fügt ihnen Schaden zu.",
@@ -4342,6 +4484,7 @@
         "id": 27000000,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_CANNON",
                 "en": "Cannon",
                 "fr": "Canon",
                 "de": "Kanone",
@@ -4366,6 +4509,7 @@
                 "sc_key": "TID_SPELL_CANNON"
             },
             "description": {
+                "do": "TID_SPELL_INFO_CANNON",
                 "en": "Defensive building. Shoots cannonballs with deadly effect, but cannot target flying troops.",
                 "fr": "Dispositif de défense. Tire des boulets de canon aux effets meurtriers, mais ne peut pas cibler les combattants volants.",
                 "de": "Verteidigungsgebäude. Verschießt Kanonenkugeln mit tödlicher Wirkung, kann aber nicht auf fliegende Einheiten zielen.",
@@ -4398,11 +4542,12 @@
         "elixir": 5,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 1,
+        "arena": 9,
         "description": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
         "id": 27000001,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOBLIN_HUT",
                 "en": "Goblin Hut",
                 "fr": "Cabane de gobelin",
                 "de": "Koboldhütte",
@@ -4427,6 +4572,7 @@
                 "sc_key": "TID_SPELL_GOBLIN_HUT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOBLIN_HUT",
                 "en": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
                 "fr": "Bâtiment qui génère des gobelins à lances. Ne regardez pas à l'intérieur, vous ne voulez pas savoir de quoi ils sont faits !",
                 "de": "Gebäude, das Speerkobolde ausstößt. Nicht hineinschauen! Sonst kriegst du noch mit, wie sie gemacht werden ...",
@@ -4464,6 +4610,7 @@
         "id": 27000002,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MORTAR",
                 "en": "Mortar",
                 "fr": "Mortier",
                 "de": "Minenwerfer",
@@ -4488,6 +4635,7 @@
                 "sc_key": "TID_SPELL_MORTAR"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MORTAR",
                 "en": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
                 "fr": "Bâtiment défensif à longue portée. Les rochers qu'il tire infligent des dégâts de zone. Il ne peut rien contre les cibles qui s'aventurent trop près de lui.",
                 "de": "Verteidigungsgebäude mit großer Reichweite. Verschießt riesige Felsbrocken, die Flächenschaden verursachen. Kann nicht auf nahe Ziele schießen!",
@@ -4525,6 +4673,7 @@
         "id": 27000003,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_INFERNO",
                 "en": "Inferno Tower",
                 "fr": "Tour de l'enfer",
                 "de": "Infernoturm",
@@ -4549,6 +4698,7 @@
                 "sc_key": "TID_SPELL_INFERNO"
             },
             "description": {
+                "do": "TID_SPELL_INFO_INFERNO",
                 "en": "Defensive building, roasts targets for damage that increases over time. Burns through even the biggest and toughest enemies!",
                 "fr": "Ce bâtiment défensif fait rôtir ses cibles, leur infligeant des dégâts qui augmentent au fil du temps. Même les ennemis les plus imposants et robustes sont dévorés par ses flammes !",
                 "de": "Verteidigungsgebäude, das Ziele röstet und mit der Zeit mehr Schaden zufügt. Versengt selbst die größten und krassesten Feinde!",
@@ -4581,11 +4731,12 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 10,
+        "arena": 12,
         "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
         "id": 27000004,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BOMB_TOWER",
                 "en": "Bomb Tower",
                 "fr": "Tour à bombes",
                 "de": "Bombenturm",
@@ -4610,6 +4761,7 @@
                 "sc_key": "TID_SPELL_BOMB_TOWER"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BOMB_TOWER",
                 "en": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
                 "fr": "Bâtiment défensif équipé d'un bombardier. Inflige des dégâts de zone à tout ce qui est assez bête pour l'approcher.",
                 "de": "Defensivgebäude, das einen Bomber beherbergt. Fügt allen Einheiten Schaden zu, die dumm genug sind, sich in seiner Nähe zu befinden.",
@@ -4642,11 +4794,12 @@
         "elixir": 7,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 3,
+        "arena": 14,
         "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
         "id": 27000005,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BARBARIAN_HUT",
                 "en": "Barbarian Hut",
                 "fr": "Cabane de barbare",
                 "de": "Barbarenhütte",
@@ -4671,6 +4824,7 @@
                 "sc_key": "TID_SPELL_BARBARIAN_HUT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BARBARIAN_HUT",
                 "en": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
                 "fr": "Bâtiment générant régulièrement des barbares pour affronter l'ennemi. À vous les invasions barbares !",
                 "de": "Ein Gebäude, das gelegentlich Barbaren gegen den Feind einsetzt. Was für eine Barbarei!",
@@ -4708,6 +4862,7 @@
         "id": 27000006,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_TESLA",
                 "en": "Tesla",
                 "fr": "Tesla",
                 "de": "Tesla",
@@ -4732,6 +4887,7 @@
                 "sc_key": "TID_SPELL_TESLA"
             },
             "description": {
+                "do": "TID_SPELL_INFO_TESLA",
                 "en": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
                 "fr": "Bâtiment défensif. Quand la tour Tesla n'électrocute pas l'ennemi, sa puissance électrisante est confinée sous terre.",
                 "de": "Verteidigungsgebäude. Wenn nicht gerade Gegner geschockt werden, sollte diese Elektrickserei am besten geerdet sein.",
@@ -4764,11 +4920,12 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 8,
+        "arena": 13,
         "description": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
         "id": 27000007,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ELIXIR_COLLECTOR",
                 "en": "Elixir Collector",
                 "fr": "Extracteur d'élixir",
                 "de": "Elixiersammler",
@@ -4793,6 +4950,7 @@
                 "sc_key": "TID_SPELL_ELIXIR_COLLECTOR"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ELIXIR_COLLECTOR",
                 "en": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
                 "fr": "Il faut dépenser de l'élixir pour en produire. Au cours de sa période d'activité, ce bâtiment produit 8 unités d'élixir. Ne fait pas partie des cartes de départ.",
                 "de": "Man muss Elixier investieren, um Elixier zu verdienen! Dieses Gebäude produziert 8 Elixier, wird aber nicht Teil deiner Starthand sein.",
@@ -4830,6 +4988,7 @@
         "id": 27000008,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_XBOW",
                 "en": "X-Bow",
                 "fr": "Arc-X",
                 "de": "X-Bogen",
@@ -4854,6 +5013,7 @@
                 "sc_key": "TID_SPELL_XBOW"
             },
             "description": {
+                "do": "TID_SPELL_INFO_XBOW",
                 "en": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
                 "fr": "Quelle jolie tour vous avez là. Il serait regrettable de voir cet arc-X la réduire en poussière depuis ce côté de l'arène...",
                 "de": "Einen schicken Turm hast du da ... Wäre doch schade, wenn dieser\nX-Bogen ihn dem Erdboden gleichmachen würde ...",
@@ -4891,6 +5051,7 @@
         "id": 27000009,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_TOMBSTONE",
                 "en": "Tombstone",
                 "fr": "Pierre tombale",
                 "de": "Grabstein",
@@ -4915,6 +5076,7 @@
                 "sc_key": "TID_SPELL_TOMBSTONE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_TOMBSTONE",
                 "en": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 3 more Skeletons! Creepy.",
                 "fr": "Bâtiment qui déploie régulièrement des squelettes pour affronter l'ennemi. Sa destruction fait surgir 3 squelettes. Terrifiant !",
                 "de": "Gebäude, das regelmäßig Skelette gegen den Feind einsetzt. Wenn es zerstört wird, stößt es 3 Skelette aus. Gruselig.",
@@ -4947,11 +5109,12 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 5,
-        "description": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
+        "arena": 10,
+        "description": "The Furnace spawns one Fire Spirit at a time. It also makes great brick-oven pancakes.",
         "id": 27000010,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_FIRE_SPIRIT_HUT",
                 "en": "Furnace",
                 "fr": "Fournaise",
                 "de": "Ofen",
@@ -4976,27 +5139,28 @@
                 "sc_key": "TID_SPELL_FIRE_SPIRIT_HUT"
             },
             "description": {
-                "en": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
-                "fr": "La fournaise génère deux esprits de feu à la fois. Elle est aussi conseillée pour les galettes cuites au feu de bois.",
-                "de": "Der Ofen stößt zwei Feuergeister gleichzeitig aus. Auch zum Kuchenbacken ist er bestens geeignet ...",
-                "es": "El horno genera dos espíritus de fuego a la vez. También es estupendo para preparar tortitas.",
-                "it": "La fornace genera due spiriti del fuoco alla volta. Può anche fabbricare ottimi pancake al forno.",
-                "nl": "De oven spuugt twee vuurgeesten tegelijkertijd uit. Je kunt er ook prima in steengrillen.",
-                "no": "Ildstedet spawner to ildånder samtidig. Det lager også deilige steinovnpannekaker.",
-                "tr": "Fırın, tek seferde iki Ateş Ruhu doğurur. Aynı zamanda harika tuğla fırın krepleri yapar.",
-                "jp": "オーブンは1度に2体のファイアスピリットを生み出します。パンケーキもおいしく焼けます。",
-                "kr": "용광로는 파이어 스피릿을 한 번에 두 마리씩 생성합니다. 오븐 팬케이크를 굽기에도 딱이죠.",
-                "ru": "Из печи одновременно появляются два огненных духа. А еще в ней можно делать вкусные блинчики!",
-                "ar": "يولد الفرن اثنتين من أرواح النار في كل مرة. ويصنع أيضًا كعكًا رائعًا من قرميد الفرن.",
-                "pt": "A Fornalha gera dois Espíritos de Fogo ao mesmo tempo. Também faz umas panquecas divinas.",
-                "cn": "烈焰熔炉每次能产出2个烈焰精灵。不仅如此，用它烤出来的煎饼也很美味。",
-                "cnt": "烈焰熔爐每次能產出2個烈焰精靈。不僅如此，用它烤出來的煎餅也很美味。",
-                "fa": "کوره هر بار دو روح آتشی تکثیر می‌کنه. البته کیک‌های آجری فوق‌العاده‌ای هم درست می‌کنه.",
-                "id": "Selain mengerahkan dua Roh Api dalam satu waktu, Tungku juga bisa digunakan untuk memasak panekuk lezat.",
-                "ms": "Relau mewujudkan dua Roh Api pada satu-satu masa. Ia juga boleh dijadikan penkek ketuhar bata hebat.",
-                "th": "เตาหลอมจะให้กำเนิดวิญญาณไฟสองตนต่อครั้ง ใช้เป็นเตาอบแพนเค้กก็ได้นะ",
-                "fi": "Uuni syöksee kaksi tulen henkeä kerrallaan. Sillä voi myös valmistaa makoisia pannareita.",
-                "vi": "Lò lửa tạo ra hai Hỏa Tinh Linh mỗi lần. Chiếc lò này cũng làm ra những chiếc bánh kếp ngon tuyệt như được nướng bằng lò gạch.",
+                "do": "TID_SPELL_INFO_FIRE_SPIRIT_HUT",
+                "en": "The Furnace spawns one Fire Spirit at a time. It also makes great brick-oven pancakes.",
+                "fr": "La fournaise génère un esprit de feu à la fois. Elle est aussi conseillée pour les galettes cuites au feu de bois.",
+                "de": "Der Ofen stößt einzelne Feuergeister aus. Auch zum Kuchenbacken ist er bestens geeignet ...",
+                "es": "El horno genera un espíritu de fuego cada vez. También es estupendo para preparar tortitas.",
+                "it": "La fornace genera uno spirito del fuoco alla volta. Può anche fabbricare ottimi pancake al forno.",
+                "nl": "De oven brengt één vuurgeest tegelijkertijd voort. Je kunt er ook prima in steengrillen.",
+                "no": "Ildstedet får én ildånd til å yngle om gangen. Det lager også deilige steinovnpannekaker.",
+                "tr": "Fırın, tek seferde bir Ateş Ruhu doğurur. Aynı zamanda harika tuğla fırın krepleri yapar.",
+                "jp": "オーブンは1体ずつファイアスピリットを生み出します。パンケーキもおいしく焼けますよ！",
+                "kr": "용광로는 파이어 스피릿을 한 번에 한 마리씩 생성합니다. 팬케이크를 굽기에도 딱이죠.",
+                "ru": "Из печи появляются огненные духи по одному за раз. А еще она печет вкусные блинчики!",
+                "ar": "يولد الفرن روح نار واحدة في كل مرة. كما يصنع أطيب كعك فرن طوب.",
+                "pt": "A Fornalha gera um Espírito de Fogo por vez. Também faz umas panquecas divinas.",
+                "cn": "烈焰熔炉每次能产出1个烈焰精灵。不仅如此，用它烤出来的煎饼也很美味。",
+                "cnt": "烈焰熔爐每次能產出1個烈焰精靈。不僅如此，用它烤出來的煎餅也很美味。",
+                "fa": "کوره هر بار یه روح آتشی تکثیر می‌کنه. البته کیک‌های آجری فوق‌العاده‌ای هم درست می‌کنه.",
+                "id": "Selain mengerahkan satu Roh Api dalam satu waktu, Tungku juga bisa digunakan untuk memasak panekuk lezat.",
+                "ms": "Relau mewujudkan satu Roh Api pada satu-satu masa. Ia juga merupakan ketuhar bata penkek yang bagus.",
+                "th": "เตาหลอมจะให้กำเนิดวิญญาณไฟครั้งละตน หรือจะใช้เป็นเตาอบแพนเค้กก็ได้นะ",
+                "fi": "Uuni syöksee yhden tulen hengen kerrallaan. Sillä voi myös valmistaa makoisia pannareita.",
+                "vi": "Lò lửa tạo ra mỗi lần một Hỏa Tinh Linh. Bếp lò này cũng làm ra những chiếc bánh kếp ngon tuyệt như được nướng bằng lò gạch.",
                 "sc_key": "TID_SPELL_INFO_FIRE_SPIRIT_HUT"
             }
         }
@@ -5008,11 +5172,12 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 12,
+        "arena": 1,
         "description": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler always skips leg day.",
         "id": 27000012,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOBLINCAGE",
                 "en": "Goblin Cage",
                 "fr": "Cage gobeline",
                 "de": "Koboldkäfig",
@@ -5037,6 +5202,7 @@
                 "sc_key": "TID_SPELL_GOBLINCAGE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOBLINCAGE",
                 "en": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler always skips leg day.",
                 "fr": "Lorsque la cage est détruite, elle libère son gobelin félon. Et il n'est pas du genre à rigoler.",
                 "de": "Wenn der Koboldkäfig zerstört wird, stürmt ein Koboldkoloss in die Arena! Koboldkolosse trainieren ihre Beine nicht.",
@@ -5063,6 +5229,69 @@
         }
     },
     {
+        "key": "goblin-drill",
+        "name": "Goblin Drill",
+        "sc_key": "GoblinDrill",
+        "elixir": 4,
+        "type": "Building",
+        "rarity": "Epic",
+        "arena": 13,
+        "description": "Building capable of burrowing underground and appearing anywhere in the Arena. Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything nearby has been properly stabbed.",
+        "id": 27000013,
+        "_lang": {
+            "name": {
+                "do": "TID_SPELL_GOBLIN_DRILL",
+                "en": "Goblin Drill",
+                "fr": "Foreuse gobelin",
+                "de": "Koboldbohrer",
+                "es": "Excavadora de duendes",
+                "it": "Trivella goblin",
+                "nl": "Koboldenboor",
+                "no": "Nissebor",
+                "tr": "Köstebek",
+                "jp": "ゴブリンドリル",
+                "kr": "고블린 드릴",
+                "ru": "Гоблинский бур",
+                "ar": "حفار الغيلان",
+                "pt": "Goblin com Broca",
+                "cn": "哥布林钻机",
+                "cnt": "哥布林鑽地機",
+                "fa": "مته گابلین",
+                "id": "Bor Goblin",
+                "ms": "Gerudi Goblin",
+                "th": "สว่านก็อบลิน",
+                "fi": "Hiisisulkeiset",
+                "vi": "Máy khoan Yêu tinh",
+                "sc_key": "TID_SPELL_GOBLIN_DRILL"
+            },
+            "description": {
+                "do": "TID_SPELL_INFO_GOBLIN_DRILL",
+                "en": "Building capable of burrowing underground and appearing anywhere in the Arena. Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything nearby has been properly stabbed.",
+                "fr": "Bâtiment capable de se frayer un chemin souterrain pour ressurgir n'importe où dans l'arène et invoquer des gobelins un par un. Lorsqu'elle est détruite, la foreuse invoque quelques gobelins de plus, histoire de ne rien laisser au hasard.",
+                "de": "Ein Gebäude, das sich einbuddeln und überall in der Arena wieder auftauchen kann. Es schickt Kobolde einzeln in den Kampf, bis es zerstört wird. Wenn es zerstört wird, erscheinen nochmal ein paar Kobolde, um sicherzugehen, dass alles in der Nähe fachgerecht mit Dolchen bearbeitet wurde.",
+                "es": "Esta estructura es capaz de excavar bajo tierra y aparecer en cualquier sitio de la arena. Genera duendes de uno en uno hasta que es destruida. En ese momento, genera unos cuantos duendes más para garantizar que todo quede hecho pedazos.",
+                "it": "Questo edificio scava un tunnel sotterraneo per apparire in un qualsiasi punto dell'arena, da dove genera un goblin per volta, fino alla distruzione. A quel punto, ne rilascia altri, pronti a terminare l'opera.",
+                "nl": "Dit gebouw kan zich ingraven en overal in de arena weer boven de grond komen. Het brengt één voor één kobolden voort totdat het wordt vernietigd. Vervolgens komen er nog enkele kobolden tevoorschijn om de steekpartij af te maken.",
+                "no": "En bygning som kan grave seg under bakken og dukke opp hvor som helst i arenaen. Når boret ødelegges, yngler det en og en nisse. Deretter dukker det opp noen få til, bare for å være sikker på at alt i nærheten er blitt stukket ordentlig.",
+                "tr": "Bu bina, yer altında yol açarak Arenanın herhangi bir yerine çıkabilir. Yok edilene kadar içinden teker teker Goblinler çıkar. Yok edilince birkaç Goblin daha çıkartıp etrafındaki düşmanlara son bir ders verir.",
+                "jp": "地中に潜るドリルを装備したこの建物は、アリーナのどこにでも配置することができます。地上に現れるとゴブリンを1体ずつ召喚し、破壊されると一気に数体が飛び出します。周囲のものは、もれなくズタボロにされることでしょう。",
+                "kr": "지하로 이동해 아레나 어디서든 나타날 수 있는 건물입니다. 파괴될 때까지 한 번에 하나씩 고블린을 내보냅니다. 파괴 시 고블린 몇 마리가 나와 주변을 확실하게 찔러봅니다.",
+                "ru": "Здание, которое прячется под землей и появляется где угодно на арене. Выпускает по одному гоблину, пока не окажется разрушено, а затем еще нескольких, чтобы уж точно всем досталось.",
+                "ar": "مبنى بإمكانه النزول تحت الأرض والظهور في أي مكان في الساحة. يولد الغيلان واحدًا تلو الآخر إلى أن يتم تدميره. بعد ذلك ستخرج بضعة غيلان إضافية تحرص على مهاجمة أي أهداف قريبة بسلاحها الأبيض.",
+                "pt": "Construção capaz de se enterrar e aparecer em qualquer lugar na arena. Gera um Goblin por vez até ser destruída. Por fim, gera alguns Goblins num último suspiro para garantir uma facada em tudo por perto.",
+                "cn": "建筑卡牌，在地底穿行并能从竞技场的任何位置钻出。钻机里每次会跑出一个哥布林，被摧毁时，还会再跑出几个哥布林，手持匕首捅向附近的敌人或建筑。",
+                "cnt": "建築卡牌，在地底穿行並能從競技場的任何位置鑽出。鑽頭裡每次會跑出一個哥布林，被摧毀時，還會再跑出幾個哥布林，手持匕首捅向附近的敵人或建築。",
+                "fa": "تو این ساختمون این قابلیت وجود داره که می‌شه زیر زمین تونل زد و هر جایی تو میدان نبرد ظاهر شد. تا وقتی که نابود نشده، هر بار یه گابلین ایجاد می‌کنه. بعدش چند تای دیگه ایجاد می‌کنه تا مطمئن بشه که هرچی اطرافش هست حسابی با چاقو زخم و زیلی میشه.",
+                "id": "Bangunan ini mampu menggali lorong bawah tanah dan muncul di mana saja di Arena lalu mengerahkan satu Goblin dalam satu waktu. Saat dihancurkan, beberapa Goblin akan dikerahkan untuk menyapu bersih peleton di sekelilingnya.",
+                "ms": "Unit yang boleh mengorek ke bawah tanah dan muncul di mana-mana di arena. Mewujudkan Goblin satu demi satu sehingga musnah. Kemudian, mewujudkan lagi beberapa Goblin untuk memastikan tiada unit yang tinggal di berdekatan.",
+                "th": "สิ่งก่อสร้างที่สามารถขุดพื้นและโผล่ขึ้นมาที่ไหนก็ได้ในสนามประลอง และปล่อยก็อบลินครั้งละตัวจนกว่าจะถูกทำลาย เมื่อถึงเวลานั้นจะปล่อยก็อบลินออกมาอีกสองสามตัวเพื่อแทงทุกสิ่งในบริเวณจนพรุน",
+                "fi": "Rakennus, joka voi kaivautua maan alle ja tulla esiin missä tahansa päin areenaa. Tuottaa hiisiä yhden kerrallaan tuhoutumiseensa saakka, jolloin hiisiä ilmestyy vielä muutama lisää - vain siltä varalta, että areenalla olisi vielä jotakin, jota ei ole pistetty tikarilla ihan tarpeeksi.",
+                "vi": "Công trình này có khả năng đào đường dưới lòng đất và xuất hiện tại bất kỳ vị trí nào trong Đấu trường, đồng thời tạo ra mỗi lần một Yêu tinh cho đến khi bị phá hủy. Sau đó sẽ tạo ra thêm một số Yêu tinh nữa, để đảm bảo mọi thứ xung quanh đều được xử lý triệt để.",
+                "sc_key": "TID_SPELL_INFO_GOBLIN_DRILL"
+            }
+        }
+    },
+    {
         "key": "fireball",
         "name": "Fireball",
         "sc_key": "Fireball",
@@ -5074,6 +5303,7 @@
         "id": 28000000,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_FIREBALL",
                 "en": "Fireball",
                 "fr": "Boule de feu",
                 "de": "Feuerball",
@@ -5098,6 +5328,7 @@
                 "sc_key": "TID_SPELL_FIREBALL"
             },
             "description": {
+                "do": "TID_SPELL_INFO_FIREBALL",
                 "en": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
                 "fr": "Et bim, une boule de feu. Incinère une petite zone, infligeant des dégâts élevés. Dégâts réduits sur les tours couronnées.",
                 "de": "Uuuund ... Feuerball. Entzündet einen kleinen Bereich, verursacht großen Schaden. Reduzierter Schaden gegen Kronentürme.",
@@ -5112,7 +5343,7 @@
                 "ar": "الكرة النارية تحرق منطقة صغيرة، وتسبب ضررًا كبيرًا. ضررها منخفض لأبراج التاج.",
                 "pt": "Eeee... Bola de Fogo! Incinera uma pequena área, causando muito dano. Dano reduzido às torres da coroa.",
                 "cn": "啊啊啊啊...火球出击。它能焚烧小片区域并造成大量伤害。对皇家塔的伤害会大打折扣。",
-                "cnt": "啊啊啊啊......火球出擊。它能焚燒小片區域並造成大量傷害。對皇家塔的傷害會大打折扣。",
+                "cnt": "啊啊啊啊......火球出擊。它能焚燒小片區域並造成大量傷害。對皇家塔造成的傷害較低。",
                 "fa": "ووووووو... توپ آتشین. ناحیه کوچکی از میدان رو به خاکستر تبدیل می‌کنه و آسیب بالایی می‌زنه. آسیب برج‌های تاج کم می‌شه.",
                 "id": "Daaaan... Bola Api. Melalap area kecil, menimbulkan kerusakan besar. Kerusakan pada Benteng Mahkota lebih sedikit.",
                 "ms": "Daaann... Bebola Api. Membakar kawasan kecil, menyebabkan kerosakan besar. Mengurangkan kerosakan terhadap Menara Mahkota..",
@@ -5135,6 +5366,7 @@
         "id": 28000001,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ARROWS",
                 "en": "Arrows",
                 "fr": "Flèches",
                 "de": "Pfeile",
@@ -5159,6 +5391,7 @@
                 "sc_key": "TID_SPELL_ARROWS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ARROWS",
                 "en": "Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.",
                 "fr": "Arrose de flèches une large zone, infligeant des dégâts à tous les ennemis touchés. Dégâts réduits sur les tours couronnées.",
                 "de": "Pfeile spicken einen großen Bereich und fügen allen getroffenen Feinden Schaden zu. Reduzierter Schaden gegen Kronentürme.",
@@ -5167,13 +5400,13 @@
                 "nl": "Pijlen bestrijken een groot gebied en brengen schade toe aan alle vijanden die worden geraakt. Minder schade voor kroontorens.",
                 "no": "Piler regner ned over et stort område og skader alle fiender som blir truffet. Mindre skade på kronetårn.",
                 "tr": "Oklar geniş bir alana etki ederek vurduğu tüm düşmanlara hasar verir. Taç Kulelerine daha az hasar verir.",
-                "jp": "広範囲に矢の雨を降らせ、命中したすべての敵にダメージを与えます。ただしクラウンタワーに対してはダメージが減少します。",
+                "jp": "広範囲に矢の雨を降らせ、命中したすべての敵にダメージを与えます。ただし、クラウンタワーに対してはダメージが減少します。",
                 "kr": "넓은 지역에 화살을 뿌려, 명중한 모든 적에게 피해를 줍니다. 크라운 타워에는 비교적 적은 피해를 줍니다.",
                 "ru": "Стрелы покрывают большую область, нанося урон всем врагам. Повреждение королевской башни уменьшено.",
                 "ar": "تمطر السهام منطقة كبيرة، ملحقةً الضرر بكل الأعداء الذين تصيبهم، إلا أن ضررها أقل بأبراج التاج.",
                 "pt": "As Flechas atingem uma área extensa, causando dano a todos os inimigos. Dano reduzido às torres da coroa.",
                 "cn": "万箭齐发可以覆盖大片区域并对该区域内的所有敌军造成伤害。对皇家塔的伤害会大打折扣。",
-                "cnt": "萬箭齊發可以覆蓋大片區域並對該區域內的所有敵軍造成傷害。對皇家塔的傷害會大打折扣。",
+                "cnt": "萬箭齊發可以覆蓋大片區域並對該區域內的所有敵軍造成傷害。對皇家塔造成的傷害較低。",
                 "fa": "تیرها در ناحیه وسیعی پراکنده می‌شن و به همه مواضع دشمن آسیب می‌زنن. کاهش آسیب وارده به برج‌های تاج.",
                 "id": "Panah menghujani area yang luas, memberi kerusakan pada semua lawan yang terkena. Kerusakan pada Benteng Mahkota lebih sedikit.",
                 "ms": "Anak panah menghujani kawasan besar, merosakkan semua nilai nyawa musuh. Mengurangkan kerosakan terhadap Menara Mahkota.",
@@ -5191,11 +5424,12 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 10,
+        "arena": 14,
         "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
         "id": 28000002,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_RAGE",
                 "en": "Rage",
                 "fr": "Rage",
                 "de": "Wut",
@@ -5220,6 +5454,7 @@
                 "sc_key": "TID_SPELL_RAGE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_RAGE",
                 "en": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
                 "fr": "Accélère le déplacement et la vitesse d'attaque des combattants. Les bâtiments attaquent et invoquent des troupes plus rapidement. Chaaaargez !",
                 "de": "Beschleunigt Truppenbewegungen und Angriffsgeschwindigkeit. Gebäude greifen außerdem schneller an und rufen Truppen schneller herbei. Zum Aaaaaangriff!",
@@ -5257,6 +5492,7 @@
         "id": 28000003,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ROCKET",
                 "en": "Rocket",
                 "fr": "Roquette",
                 "de": "Rakete",
@@ -5281,6 +5517,7 @@
                 "sc_key": "TID_SPELL_ROCKET"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ROCKET",
                 "en": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
                 "fr": "Inflige d'importants dégâts sur une petite zone. Et avec une classe inégalée. Dégâts réduits sur les tours couronnées.",
                 "de": "Verursacht großen Schaden in einem kleinen Bereich - und sieht einfach toll dabei aus! Reduzierter Schaden gegen Kronentürme.",
@@ -5295,7 +5532,7 @@
                 "ar": "يسبب ضررًا كبيرًا في منطقة صغيرة. ويبدو رائعًا أثناء القيام بذلك. ضرر منخفض لأبراج التاج.",
                 "pt": "Causa dano severo em uma área pequena e de forma bem impressionante! Dano reduzido às torres da coroa.",
                 "cn": "在小范围内造成大量伤害，效果看上去很过瘾。对皇家塔的伤害会大打折扣。",
-                "cnt": "在小範圍內造成大量傷害，炸起來的樣子只有「賞心悅目」四個字可以形容。對皇家塔的傷害會大打折扣。",
+                "cnt": "在小範圍內造成大量傷害，炸起來的樣子只有「賞心悅目」四個字可以形容。對皇家塔造成的傷害較低。",
                 "fa": "به یک ناحیه کوچک آسیب زیادی وارد می‌کنه. ظاهر این کار خیلی جالبه. آسیب برج‌های تاج رو کاهش می‌ده.",
                 "id": "Menimbulkan kerusakan besar dengan area kecil dan terlihat sangat keren saat diluncurkan. Kerusakan yang diberikan pada Benteng Mahkota akan lebih kecil.",
                 "ms": "Menyebabkan kerosakan besar kepada kawasan kecil. Nampak agak hebat melakukannya. Melakukan kerosakan kecil terhadap Menara Mahkota.",
@@ -5313,11 +5550,12 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 1,
+        "arena": 3,
         "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
         "id": 28000004,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GOBLIN_BARREL",
                 "en": "Goblin Barrel",
                 "fr": "Fût à gobelins",
                 "de": "Koboldfass",
@@ -5342,6 +5580,7 @@
                 "sc_key": "TID_SPELL_GOBLIN_BARREL"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GOBLIN_BARREL",
                 "en": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
                 "fr": "Fait surgir trois gobelins n'importe où dans l'arène. On va s'éclater les gars !",
                 "de": "Schleudert drei Kobolde auf eine beliebige Stelle in der Arena. Guten Flug, Jungs!",
@@ -5375,10 +5614,11 @@
         "type": "Spell",
         "rarity": "Epic",
         "arena": 8,
-        "description": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill.",
+        "description": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill. Reduced damage to Crown Towers.",
         "id": 28000005,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_FREEZE",
                 "en": "Freeze",
                 "fr": "Gel",
                 "de": "Frost",
@@ -5403,27 +5643,28 @@
                 "sc_key": "TID_SPELL_FREEZE"
             },
             "description": {
-                "en": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill.",
-                "fr": "Immobilise et inflige des dégâts aux combattants et bâtiments ennemis qui ne peuvent plus se déplacer ou attaquer. Que personne ne bouge !",
-                "de": "Friert Einheiten und Gebäude ein und fügt ihnen Schaden zu - und wer sich nicht bewegen kann, der kann auch nicht angreifen. Alle cool bleiben.",
-                "es": "Congela, paraliza y daña las estructuras y unidades enemigas. ¡Se te hiela la sangre con solo verlo!",
-                "it": "Congela e danneggia truppe ed edifici, rendendoli incapaci di muoversi o attaccare. Agghiacciante!",
-                "nl": "Bevriest en beschadigt vijandelijke eenheden en gebouwen, waardoor bewegen of aanvallen onmogelijk wordt. Lekker chillen.",
-                "no": "Fryser og skader fiendtlige tropper og bygninger slik at de ikke kan bevege seg eller angripe. Vær kald og rolig nå.",
-                "tr": "Düşman birliklerini ve binalarını dondurup hasar vererek hareket etmelerini ve saldırmalarını engeller. Herkes donsun.",
-                "jp": "ユニットや建物にダメージを与えながら、凍結させて動きを封じます。勝ったつもりでいる相手のアタマを冷やすには、うってつけの呪文でしょう。",
-                "kr": "유닛과 건물에 피해를 주고 꽁꽁 얼려서 움직이거나 공격하지 못하게 합니다. 그대로 멈췃!",
-                "ru": "Замораживает войска и здания и наносит им урон, не давая двигаться или атаковать. Остыньте-ка немного...",
-                "ar": "يجمد ويلحق الضرر بقوات ومباني العدو، جاعلًا إياها غير قادرة على الحركة أو الهجوم. فليهدأ الجميع.",
-                "pt": "Congela e causa dano a tropas e construções, fazendo com que não possam se mover ou atacar. Todo mundo fica frio.",
-                "cn": "冻结军队和建筑，使其无法移动或攻击，还能对其造成伤害。瞧，敌人已经瑟瑟发抖了！",
-                "cnt": "凍結軍隊和建築，使其無法移動或攻擊，還能對其造成傷害。你看，敵人都已經在瑟瑟發抖了！",
-                "fa": "نیروها و ساختمون‌های دشمن رو منجمد می‌کنه و بهشون آسیب می‌رسونه و باعث میشه دیگه امکان حرکت یا حمله کردن رو نداشته باشن. همه یخ می‌زنن.",
-                "id": "Membekukan dan memberikan kerusakan pada peleton dan bangunan lawan, membuat mereka tak mampu bergerak atau menyerang. Brrrrr!",
-                "ms": "Membekukan dan merosakkan askar dan bangunan musuh, menjadikan mereka tidak dapat bergerak atau menyerang. Hebat, kan?",
-                "th": "แช่แข็งและสร้างความเสียหายให้กับกองกำลังและสิ่งก่อสร้าง ทำให้ไม่สามารถขยับหรือโจมตีได้ ชิลไปไหน",
-                "fi": "Loitsu jäädyttää ja vahingoittaa vihollisjoukkoja ja -rakennuksia ja estää niitä liikkumasta tai hyökkäämästä. Jäitä hattuun!",
-                "vi": "Đóng băng và gây sát thương binh lính và công trình của địch, khiến chúng không thể di chuyển hay tấn công. Thật lạnh lùng.",
+                "do": "TID_SPELL_INFO_FREEZE",
+                "en": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill. Reduced damage to Crown Towers.",
+                "fr": "Immobilise et inflige des dégâts aux combattants et bâtiments ennemis qui ne peuvent plus se déplacer ou attaquer. Que personne ne bouge ! Dégâts réduits sur les tours couronnées.",
+                "de": "Fügt gegnerischen Einheiten und Gebäuden Schaden zu und friert sie ein, wodurch sie sich weder bewegen noch angreifen können. Verursacht weniger Schaden an Kronentürmen.",
+                "es": "Congela, paraliza y daña las estructuras y unidades enemigas. ¡Se te hiela la sangre con solo verlo! Es menos efectivo contra las torres de coronas.",
+                "it": "Congela e danneggia truppe ed edifici, rendendoli incapaci di muoversi o attaccare. Agghiacciante! Infligge danni ridotti alle torri della corona.",
+                "nl": "Bevriest en beschadigt vijandelijke troepen en gebouwen, waardoor bewegen of aanvallen onmogelijk wordt. Even afkoelen. Kroontorens lopen minder schade op.",
+                "no": "Fryser og skader fiendtlige tropper og bygninger slik at de ikke kan bevege seg eller angripe. Vær kald og rolig nå. Redusert skade på kronetårn.",
+                "tr": "Düşman birliklerini ve binalarını dondurup hasar vererek hareket etmelerini ve saldırmalarını engeller. Herkes donsun! Taç Kulelerine daha az hasar verir.",
+                "jp": "ユニットや建物にダメージを与えながら、凍結させて動きを封じます。勝ったつもりでいる相手のアタマを冷やすには、うってつけの呪文でしょう。なお、クラウンタワーに対してはダメージが減少します。",
+                "kr": "유닛과 건물에 피해를 주고 꽁꽁 얼려서 움직이거나 공격하지 못하게 합니다. 그대로 멈췃! 크라운 타워에는 비교적 적은 피해를 줍니다.",
+                "ru": "Замораживает войска и здания и наносит им урон, не давая двигаться или атаковать. Остыньте-ка немного... Наносит пониженный урон королевским башням.",
+                "ar": "يجمد ويلحق الضرر بقوات ومباني العدو، فيشلها عن الحركة والهجوم. فليهدأ الجميع. يلحق ضررًا مخفضًا بأبراج التاج.",
+                "pt": "Congela e causa dano a tropas e construções, fazendo com que não possam se mover ou atacar. Todo mundo fica frio. Dano reduzido contra as torres da coroa.",
+                "cn": "冻结军队和建筑，使其无法移动或攻击，还能对其造成伤害。瞧，敌人已经瑟瑟发抖了！对皇家塔的伤害会大打折扣。",
+                "cnt": "凍結軍隊和建築，使其無法移動或攻擊，還能對其造成傷害。你看，敵人都已經在瑟瑟發抖了！對皇家塔造成的傷害較低。",
+                "fa": "نیروها و ساختمون‌های دشمن رو منجمد می‌کنه و بهشون آسیب می‌رسونه و باعث میشه دیگه امکان حرکت یا حمله کردن رو نداشته باشن. همه یخ می‌زنن. آسیبی که به برج‌های تاج وارد می‌شه کم شده.",
+                "id": "Anjing Es mampu membekukan dan memberikan kerusakan pada peleton dan bangunan lawan, membuat mereka tak mampu bergerak atau menyerang. Brrrrr! Dia akan memberikan kerusakan lebih kecil pada Benteng Mahkota.",
+                "ms": "Membekukan serta merosakkan askar dan bangunan musuh, menghalang mereka bergerak atau menyerang. Melakukan kerosakan kecil ke atas menara mahkota.",
+                "th": "แช่แข็งและสร้างความเสียหายให้กับกองกำลังและสิ่งก่อสร้าง ทำให้ไม่สามารถขยับหรือโจมตีได้ ชิลไปไหน ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "fi": "Loitsu jäädyttää ja vahingoittaa vihollisjoukkoja ja -rakennuksia ja estää niitä liikkumasta tai hyökkäämästä. Jäitä hattuun! Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
+                "vi": "Đóng băng và gây sát thương lên binh lính và công trình của địch, khiến chúng không thể di chuyển hay tấn công. Hừ hừ... Thật là lạnh! Sát thương gây ra cho Tháp Vương miện bị giảm.",
                 "sc_key": "TID_SPELL_INFO_FREEZE"
             }
         }
@@ -5440,6 +5681,7 @@
         "id": 28000006,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_MIRROR",
                 "en": "Mirror",
                 "fr": "Miroir",
                 "de": "Spiegel",
@@ -5464,6 +5706,7 @@
                 "sc_key": "TID_SPELL_MIRROR"
             },
             "description": {
+                "do": "TID_SPELL_INFO_MIRROR",
                 "en": "Mirrors your last card played for +1 Elixir. Does not appear in your starting hand.",
                 "fr": "Reproduit la dernière carte jouée pour +1 unité d'élixir. Ne fait pas partie des cartes de départ.",
                 "de": "Spiegelt deine letzte gespielte Karte für +1 Elixier. Erscheint nicht in deiner Starthand.",
@@ -5496,11 +5739,12 @@
         "elixir": 6,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 4,
+        "arena": 8,
         "description": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
         "id": 28000007,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_LIGHTNING",
                 "en": "Lightning",
                 "fr": "Foudre",
                 "de": "Blitz",
@@ -5525,6 +5769,7 @@
                 "sc_key": "TID_SPELL_LIGHTNING"
             },
             "description": {
+                "do": "TID_SPELL_INFO_LIGHTNING",
                 "en": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
                 "fr": "La foudre étourdit et inflige des dégâts aux trois bâtiments ou combattants ennemis ayant le plus de points de vie dans la zone cible. Dégâts réduits sur les tours couronnées.",
                 "de": "Blitze beschädigen und betäuben bis zu drei gegnerische Einheiten oder Gebäude mit den meisten Trefferpunkten im Zielbereich. Reduzierter Schaden gegen Kronentürme.",
@@ -5539,7 +5784,7 @@
                 "ar": "صواعق من البرق تضرب وتصعق حتى ثلاثة من قوات الأعداء أو المباني مع أكثر نقاط الإصابة في منطقة الهدف. ضرر منخفض لأبراج التاج.",
                 "pt": "Raios atingem até três tropas ou construções inimigas com o maior número de pontos de vida na área de efeito. Dano reduzido às torres da coroa.",
                 "cn": "雷电法术最多可伤害和短暂眩晕目标区域内三个当前生命值最高的敌方军队或建筑。对皇家塔的伤害会大打折扣。",
-                "cnt": "雷電法術最多可傷害和短暫眩暈目標區域內三個當前生命值最高的敵方軍隊或建築。對皇家塔的傷害會大打折扣。",
+                "cnt": "雷電法術最多可傷害和短暫眩暈目標區域內三個當前生命值最高的敵方軍隊或建築。對皇家塔造成的傷害較低。",
                 "fa": "رعد و برق‌ها حداکثر به سه نیرو یا ساختمون دشمن که بیشترین تحمل ضربه رو دارن آسیب میزنن و اونها رو زمین‌گیر می‌کنن. آسیب برج تاج رو کم می‌کنن.",
                 "id": "Sambaran Kilat merusak dan melumpuhkan hingga tiga peleton atau bangunan lawan yang punya nyawa terbanyak di area target. Kerusakan pada Benteng Mahkota lebih sedikit.",
                 "ms": "Sambaran petir merosakkan dan memegunkan sehingga tiga askar atau bangunan musuh dengan nilai nyawa paling banyak dalam kawasan sasaran. Melakukan kerosakan kecil terhadap menara mahkota.",
@@ -5557,11 +5802,12 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Common",
-        "arena": 4,
+        "arena": 5,
         "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
         "id": 28000008,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ZAP",
                 "en": "Zap",
                 "fr": "Électrocution",
                 "de": "Knall",
@@ -5586,6 +5832,7 @@
                 "sc_key": "TID_SPELL_ZAP"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ZAP",
                 "en": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
                 "fr": "Foudroie les ennemis, les étourdit brièvement et inflige des dégâts dans un faible rayon. Dégâts réduits sur les tours couronnées.",
                 "de": "Trifft Feinde, lähmt und fügt in einem kleinen Umkreis Schaden zu. Reduzierter Schaden gegen Kronentürme.",
@@ -5594,13 +5841,13 @@
                 "nl": "Zapt vijanden, verdooft ze korte tijd en veroorzaakt schade binnen een kleine straal. Kroontorens lopen minder schade op.",
                 "no": "Zapper fiender slik at de svimeslås i en liten stund, og forårsaker skade innenfor en liten radius. Mindre skade på kronetårn.",
                 "tr": "Yıldırım, düşmanları kısa bir süre için sersemletip ufak bir alan içindekilere hasar verir. Taç Kulelerine daha az hasar verir.",
-                "jp": "小さな円の範囲内にいる敵をビリビリ攻撃し、ダメージを与えて気絶させます。ただしクラウンタワーに対してはダメージが減少します。",
+                "jp": "小さな円の範囲内にいる敵をビリビリ攻撃し、ダメージを与えて気絶させます。ただし、クラウンタワーに対してはダメージが減少します。",
                 "kr": "좁은 반경 안의 적들을 감전시켜 피해를 주고 잠시 마비시킵니다. 크라운 타워에는 비교적 적은 피해를 줍니다.",
                 "ru": "Наносит урон в небольшом радиусе и ненадолго парализует врагов. Повреждение королевской башни уменьшено.",
                 "ar": "يضرب الأعداء ويصعقهم لفترة قصيرة ويسبب الضرر في مدى صغير. ضرر مخفض لأبراج التاج.",
                 "pt": "Eletrocuta e atordoa os inimigos, causando dano em uma área pequena. Dano reduzido às torres da coroa.",
                 "cn": "电击法术可以对目标单位造成瞬间眩晕效果，并在小范围内造成伤害。对皇家塔的伤害会大打折扣。",
-                "cnt": "電擊法術可以擊中敵人並造成小範圍傷害與短暫暈眩效果。對皇家塔的傷害會大打折扣。",
+                "cnt": "電擊法術可以擊中敵人並造成小範圍傷害與短暫暈眩效果。對皇家塔造成的傷害較低。",
                 "fa": "دشمن‌ها رو با رعدوبرق له می‌کنه، برای مدت کوتاهی در داخل یک شعاع کوچیک اونها رو مات و مبهوت می‌کنه. آسیب برج‌های تاج رو کاهش میده.",
                 "id": "Menyetrum lawan, melumpuhkan mereka sebentar, dan menimbulkan kerusakan di dalam radius kecil. Kerusakan pada Benteng Mahkota lebih sedikit.",
                 "ms": "Renjat musuh, memegunnya seketika dan menyebabkan kerosakan dalam kawasan kecil. Mengurangkan kerosakan terhadap Menara Mahkota.",
@@ -5618,11 +5865,12 @@
         "elixir": 4,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 5,
-        "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!",
+        "arena": 9,
+        "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure! Reduced damage to Crown Towers.",
         "id": 28000009,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_POISON",
                 "en": "Poison",
                 "fr": "Poison",
                 "de": "Gift",
@@ -5647,27 +5895,28 @@
                 "sc_key": "TID_SPELL_POISON"
             },
             "description": {
-                "en": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!",
-                "fr": "Recouvre la zone cible d'une toxine mortelle qui inflige des dégâts aux combattants et bâtiments ennemis au fil du temps. Étonnamment, l'herbe reste verte et épaisse sur son passage...",
-                "de": "Bedeckt den Zielbereich mit einem tödlichen Gift, das feindlichen Truppen und Gebäuden kontinuierlichen Schaden zufügt. Trotzdem bleibt das Gras grün und unversehrt. Wie geht das nur?",
-                "es": "Cubre la zona afectada con una toxina letal que daña a las tropas y estructuras enemigas con el paso del tiempo. Y, sin embargo, parece que al césped le va de maravilla; ¡vaya cosas!",
-                "it": "Copre l'area bersaglio con una tossina mortale, danneggiando truppe ed edifici nemici nel tempo. Eppure lascia l'erba verde e fresca... Vacci a capire qualcosa!",
-                "nl": "Bedekt het doelgebied met een dodelijk gif, waardoor vijandelijke troepen en gebouwen schade oplopen naarmate de tijd verstrijkt. Gek genoeg blijft het gras groen en gezond. Bizar!",
-                "no": "Dekker området med en dødelig gift som skader fiendtlige tropper og bygninger over tid. Likevel forblir gresset grønt og sunt. Tenk det!",
-                "tr": "Ölümcül bir zehirle bölgeyi kaplayarak zamanla düşman birlikleri ve binalarına hasar verir ve onları yavaşlatır. Ancak bazen çimenleri yeşil ve sağlıklı hâle getirir. Şu işe bak!",
-                "jp": "目標地点の周囲に猛毒をまきちらして、ユニットや建物に継続ダメージを与えます。なぜか芝生には無害なようです。ふしぎ！",
-                "kr": "효과 범위를 치명적인 독으로 덮어 유닛과 건물에 지속 피해를 줍니다. 잔디에는 해가 없다고 하네요. 확인해보시죠!",
-                "ru": "Покрывает зону смертоносным токсином, который в течение времени наносит урон войскам и зданиям. А вот траву не портит. Поди разберись!",
-                "ar": "يغطي المنطقة بسم مميت يصيب قوات ومباني الأعداء، ومع ذلك يترك العشب أخضر وبصحة جيدة. مذهل. اكتشف بنفسك!",
-                "pt": "Cobre a área com uma toxina mortal, danificando tropas e construções inimigas. Mas deixa a grama verdinha e saudável. Vai entender...",
-                "cn": "用致命的毒素覆盖目标区域，并对区域内的军队和建筑造成持续性伤害。但为什么毒药法术作用过的草地依然生机勃勃绿意盎然呢？猜猜看吧。",
-                "cnt": "用致命的毒素覆蓋目標區域，並對區域內的軍隊和建築造成持續性傷害。但為什麼毒藥法術作用過的草地依然生機勃勃綠意盎然呢？猜猜看吧。",
-                "fa": "با یک سم مرگبار کل ناحیه رو می‌پوشونه، به نیروها و ساختمون‌های دشمن آسیب میزنه. با این وجود به شکلی چمن‌ها رو سالم و سبز حفظ می‌کنه. خودت ببین!",
-                "id": "Menyelimuti area dengan racun maut yang memberi kerusakan pada peleton dan bangunan lawan seiring waktu. Anehnya, rumputnya tidak ikut rusak. Kok bisa ya?",
-                "ms": "Meliputi kawasan dengan toksin yang membawa maut, merosakkan askar musuh dan bangunan sedikit demi sedikit. Tetapi rumput kekal hijau dan sihat. Aneh!",
-                "th": "ปกคลุมบริเวณด้วยสารพิษถึงตาย สร้างความเสียหายแก่กองกำลังและสิ่งก่อสร้างเมื่อเวลาผ่านไป แต่ต้นหญ้ายังเขียวชอุ่มเหมือนเดิมนะ เจ๋งไหมล่ะ!",
-                "fi": "Kuolettava myrkky tuhoaa hiljalleen vihollisen joukkoja ja rakennuksia. Se kuitenkin jättää areenan ruohon elinvoimaisen vihreäksi, jännä juttu!",
-                "vi": "Bao phủ một khu vực bằng chất độc nhớp nháp, gây sát thương và làm chậm binh lính và công trình theo thời gian. Tuy vậy, cỏ cây bị trúng chất độc vẫn tươi tốt. Thử đi rồi sẽ biết!",
+                "do": "TID_SPELL_INFO_POISON",
+                "en": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure! Reduced damage to Crown Towers.",
+                "fr": "Recouvre la zone ciblée d'une toxine mortelle qui inflige des dégâts aux combattants et bâtiments ennemis au fil du temps. Étonnamment, l'herbe reste verte et épaisse sur son passage... Dégâts réduits sur les tours couronnées.",
+                "de": "Bedeckt den Zielbereich mit einem tödlichen Gift, das feindlichen Truppen und Gebäuden kontinuierlichen Schaden zufügt. Trotzdem bleibt das Gras grün und unversehrt. Wie geht das nur? Richtet weniger Schaden an Kronentürmen an.",
+                "es": "Cubre la zona afectada con una toxina letal que daña a las tropas y estructuras enemigas con el paso del tiempo. Y, sin embargo, parece que al césped le va de maravilla; ¡vaya cosas! Es menos efectivo contra las torres de coronas.",
+                "it": "Ricopre l'area bersaglio di una tossina mortale, danneggiando truppe ed edifici nemici nel tempo. Eppure lascia l'erba verde e fresca... Che mistero! Infligge danni ridotti alle torri della corona.",
+                "nl": "Bedekt het doelgebied met een dodelijk gif, waardoor vijandelijke troepen en gebouwen geleidelijk aan schade oplopen. Gek genoeg blijft het gras groen en gezond. Kroontorens lopen minder schade op.",
+                "no": "Dekker området med en dødelig gift som skader fiendtlige tropper og bygninger over tid. Likevel forblir gresset grønt og sunt. Tenk det! Redusert skade på kronetårn.",
+                "tr": "Ölümcül bir zehirle bölgeyi kaplayarak düşman birlik ve binalarına zamanla hasar verir. Ancak şaşırtıcı bir şekilde çimleri yeşil ve sağlıklı bırakır. Çok ilginç değil mi? Taç Kulelerine daha az hasar verir.",
+                "jp": "目標地点の周囲に猛毒をまきちらして、ユニットや建物に継続ダメージを与えます。なぜか芝生には無害なようです。ふしぎ！なお、クラウンタワーに対してはダメージが減少します。",
+                "kr": "효과 범위를 치명적인 독으로 덮어 유닛과 건물에 지속 피해를 줍니다. 잔디에는 해가 없다고 하네요. 확인해보시죠! 크라운 타워에는 비교적 적은 피해를 줍니다.",
+                "ru": "Покрывает зону смертоносным токсином, который в течение времени наносит урон войскам и зданиям. А вот траву не портит. Поди разберись! Наносит пониженный урон королевским башням.",
+                "ar": "يغطي المنطقة بسم مميت يصيب قوات ومباني الأعداء، ومع ذلك يترك العشب أخضر وبصحة جيدة. مذهل. اكتشف بنفسك! يلحق ضررًا مخفضًا بأبراج التاج.",
+                "pt": "Cobre a área com uma toxina mortal, danificando tropas e construções inimigas. Mas deixa a grama verdinha e saudável. Vai entender... Dano reduzido contra as torres da coroa.",
+                "cn": "用致命的毒素覆盖目标区域，并对区域内的军队和建筑造成持续性伤害。为什么毒药法术作用过的草地依然生机勃勃绿意盎然呢？猜猜看吧。对皇家塔的伤害会大打折扣。",
+                "cnt": "用致命的毒素覆蓋目標區域，並對區域內的軍隊和建築造成持續性傷害。但為什麼毒藥法術作用過的草地依然生機勃勃綠意盎然呢？猜猜看吧。對皇家塔造成的傷害較低。",
+                "fa": "با یه سَم مرگبار کل ناحیه رو می‌پوشونه، به نیروها و ساختمون‌های دشمن آسیب می‌زنه. با وجود این، به شکلی چمن‌ها رو سالم و سبز حفظ می‌کنه. خودت ببین! آسیبی که به برج‌های تاج وارد می‌شه کم شده.",
+                "id": "Menyelimuti area dengan racun maut yang memberi kerusakan pada peleton dan bangunan lawan seiring waktu. Anehnya, rumputnya tidak ikut rusak. Kok bisa ya? Kerusakan yang diberikan pada Benteng Mahkota lebih kecil.",
+                "ms": "Meliputi kawasan dengan toksin yang membawa maut, merosakkan askar musuh dan bangunan sedikit demi sedikit. Tetapi rumput kekal hijau dan sihat. Aneh! Melakukan kerosakan kecil ke atas menara mahkota.",
+                "th": "ปกคลุมบริเวณด้วยสารพิษถึงตาย สร้างความเสียหายแก่กองกำลังและสิ่งก่อสร้างตามระยะเวลา แต่ต้นหญ้ายังเขียวชอุ่มเหมือนเดิมนะ เจ๋งไหมล่ะ! ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "fi": "Kuolettava myrkky tuhoaa hiljalleen vihollisen joukkoja ja rakennuksia. Se kuitenkin jättää areenan ruohon elinvoimaisen vihreäksi, jännä juttu! Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
+                "vi": "Bao phủ một khu vực bằng chất độc cực mạnh, gây sát thương lên binh lính và công trình theo thời gian. Tuy vậy, cỏ cây bị trúng chất độc vẫn tươi tốt. Thử đi rồi sẽ biết! Sát thương gây ra cho Tháp Vương miện bị giảm.",
                 "sc_key": "TID_SPELL_INFO_POISON"
             }
         }
@@ -5684,6 +5933,7 @@
         "id": 28000010,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_GRAVEYARD",
                 "en": "Graveyard",
                 "fr": "Cimetière",
                 "de": "Friedhof",
@@ -5708,6 +5958,7 @@
                 "sc_key": "TID_SPELL_GRAVEYARD"
             },
             "description": {
+                "do": "TID_SPELL_INFO_GRAVEYARD",
                 "en": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
                 "fr": "Surprise ! C'est la fête. La fête des squelettes, n'importe où dans l'arène. Youpi !",
                 "de": "Überraschung! Das ist eine Party. Eine Skelettparty, und zwar an einer beliebigen Stelle in der Arena! Juhu!",
@@ -5741,10 +5992,11 @@
         "type": "Spell",
         "rarity": "Legendary",
         "arena": 6,
-        "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path!",
+        "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path! Reduced damage to Crown Towers.",
         "id": 28000011,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_LOG",
                 "en": "The Log",
                 "fr": "La bûche",
                 "de": "Kampfholz",
@@ -5769,27 +6021,28 @@
                 "sc_key": "TID_SPELL_LOG"
             },
             "description": {
-                "en": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path!",
-                "fr": "Un flacon de rage renversé a changé un tronc d'arbre innocent en \"La bûche\". Maintenant, assoiffé de vengeance, ce monstre écrase tout sur son passage !",
-                "de": "Eine verschüttete Flasche Wut hat einen unschuldigen Baumstamm in das mächtige \"Kampfholz\" verwandelt. Jetzt schreit es nach Rache und zermalmt alles, was sich ihm in den Weg stellt!",
-                "es": "Una botella de furia derramada transformó un inofensivo tronco en \"el Tronco\". ¡Ahora quiere vengarse aplastando todo a su paso!",
-                "it": "Una bottiglia di Furia rovesciata ha trasformato un innocente pezzo di legno nel \"Tronco\". Ora cerca di placare la sua sete di vendetta schiacciando tutto ciò che incontra!",
-                "nl": "Een gemorste fles Woede heeft van een onschuldig boomstammetje 'De stam' gemaakt. Uit wraak verplettert hij nu alles wat er op zijn pad komt!",
-                "no": "En sølt raseriflaske gjorde en uskyldig trestamme om til \"tømmerstokken\". Nå prøver den å knuse alt i sin vei for å ta hevn.",
-                "tr": "Masum bir ağaç gövdesinin Öfke ile ortadan ikiye ayrılmasıyla \"Tomruk\" doğdu. Şimdi yoluna çıkan herkesi ezerek intikam alıyor!",
-                "jp": "こぼれたレイジの呪文の影響で、切り倒された樹木が恐ろしい\"ローリングウッド\"に姿を変えました。復讐に燃えながら、転がる先のあらゆる物体を破壊しようとしています！",
-                "kr": "실수로 쏟은 분노 마법이 나무토막을 \"통나무\"로 바꿔버렸습니다. 통나무는 앞을 가로막는 모든 걸 뭉개버리며 굴러갑니다!",
-                "ru": "Случайно разлитая бутылочка ярости превратила обычное поваленное дерево в \"бревно.\" Оно жаждет мести, круша все на своем пути!",
-                "ar": "زجاجة غضب منسكب حولت فرع شجرة بريئًا إلى \"الجذع\". الآن، يسعى للانتقام بسحق أي شيء في طريقه!",
-                "pt": "Uma garrafa de Fúria se quebrou e transformou um tronco inocente em... \"O Tronco\"! Agora, ele busca vingança destruindo tudo pelo caminho!",
-                "cn": "不小心洒出的狂暴药水将这根无辜的圆木变成了\"复仇滚木\"。现在，它一心复仇，会无情碾过挡在面前的一切！",
-                "cnt": "不小心灑出的狂暴藥水將這根無辜的圓木變成了\"復仇滾木\"。現在，它一心復仇，會無情碾壓擋在面前的一切！",
-                "fa": "یک بطری شکسته از دعوا باعث شده یک تنه درخت بی‌آزار به \"این الوار\" تبدیل بشه. حالا، می‌خواد با خرد کردن هر چیزی در سر راهش انتقام بگیره!",
-                "id": "Botol Amarah yang tumpah mengubah batang pohon tak berdosa menjadi \"Sang Kayu\". Sekarang, dia ingin balas dendam dengan melumat apa saja yang menghadang!",
-                "ms": "Sebotol sihir Kemarahan tertumpah menukarkan dahan pokok yang tidak bersalah menjadi \"Kayu Balak\". Sekarang, ia membalas dendam dengan menghancurkan apa jua dalam laluannya!",
-                "th": "ขวดอาคมคลุ้มคลั่งที่หกได้เปลี่ยนขอนไม้ไร้เดียงสาเป็น\"เดอะล็อก\" แล้วตอนนี้มันก็พยายามแก้แค้นโดยการพังทุกอย่างที่ขวางหน้า!",
-                "fi": "Rikkinäinen raivoloitsupullo läikkyi harmittoman puunrungon päälle ja muutti sen tukiksi. Nyt tukki raivoaa ympäriinsä jyräten kaiken tieltään.",
-                "vi": "Một chai phép Thịnh nộ bị đổ đã biến một thân cây vô tội thành \"Khúc gỗ\". Giờ đây, khúc gỗ này tìm cách trả thù bằng cách nghiền nát tất cả mọi thứ cản đường!",
+                "do": "TID_SPELL_INFO_LOG",
+                "en": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path! Reduced damage to Crown Towers.",
+                "fr": "Un flacon de rage renversé a changé un tronc d'arbre innocent en \"La bûche\". Maintenant, assoiffé de vengeance, ce monstre écrase tout sur son passage ! Dégâts réduits sur les tours couronnées.",
+                "de": "Eine verschüttete Flasche Wut hat einen unschuldigen Baumstamm in das mächtige \"Kampfholz\" verwandelt. Jetzt schreit es nach Rache und zermalmt alles, was sich ihm in den Weg stellt! Richtet weniger Schaden an Kronentürmen an.",
+                "es": "Una botella de furia derramada transformó un inofensivo tronco en \"el Tronco\". ¡Ahora quiere vengarse aplastando todo a su paso! Es menos efectivo contra las torres de coronas.",
+                "it": "Una bottiglia di Furia rovesciata ha trasformato un innocuo pezzo di legno nel \"Tronco\". Ora cerca di placare la sua sete di vendetta schiacciando tutto ciò che incontra! Infligge danni ridotti alle torri della corona.",
+                "nl": "Een gemorste woedespreuk heeft een onschuldig boomstammetje veranderd in 'de stam'. Nu is de stam erop gebrand wraak te nemen door alles en iedereen te verpletteren! Kroontorens lopen minder schade op.",
+                "no": "En sølt raseriflaske gjorde en uskyldig trestamme om til \"tømmerstokken\". Nå prøver den å knuse alt i sin vei for å ta hevn. Redusert skade på kronetårn.",
+                "tr": "Masum bir ağaç gövdesine yanlışlıkla Öfke büyüsü dökülünce \"Tomruk\" doğdu. Şimdi yoluna çıkan herkesi ezerek intikam alıyor! Taç Kulelerine daha az hasar verir.",
+                "jp": "こぼれたレイジの呪文の影響で、切り倒された樹木が恐ろしい\"ローリングウッド\"に姿を変えました。復讐に燃えながら、転がる先のあらゆる物体を破壊しようとしています！なお、クラウンタワーに対してはダメージが減少します。",
+                "kr": "실수로 쏟은 분노 마법이 나무토막을 \"통나무\"로 바꿔버렸습니다. 통나무는 앞을 가로막는 모든 걸 뭉개버리며 굴러갑니다! 크라운 타워에는 비교적 적은 피해를 줍니다.",
+                "ru": "Случайно разлитая бутылочка ярости превратила обычное упавшее дерево в \"бревно.\" Оно жаждет мести, круша все на своем пути! Наносит пониженный урон королевским башням.",
+                "ar": "زجاجة غضب منسكب حولت فرع شجرة بريئًا إلى \"الجذع\". الآن، يسعى للانتقام بسحق أي شيء في طريقه! يلحق ضررًا مخفضًا بأبراج التاج.",
+                "pt": "Uma garrafa de Fúria se quebrou e transformou um tronco inocente em... \"O Tronco\"! Agora, ele busca vingança destruindo tudo pelo caminho! Dano reduzido contra as torres da coroa.",
+                "cn": "不小心洒出的狂暴药水将这根无辜的圆木变成了\"复仇滚木\"。现在，它一心复仇，会无情碾过挡在面前的一切！对皇家塔的伤害会大打折扣。",
+                "cnt": "不小心灑出的狂暴藥水將這根無辜的圓木變成了\"復仇滾木\"。現在，它一心復仇，會無情碾壓擋在面前的一切！對皇家塔造成的傷害較低。",
+                "fa": "یه بطری شکسته از خشم باعث شده یه تنه درخت بی‌آزار به \"این الوار\" تبدیل بشه. حالا، می‌خواد با خرد کردن هر چیزی در سر راهش انتقام بگیره! آسیبی که به برج‌های تاج وارد می‌شه کم شده",
+                "id": "Botol Amarah yang tumpah mengubah batang pohon tak berdosa menjadi \"Sang Kayu\". Sekarang, dia ingin balas dendam dengan melumat apa saja yang menghadang! Sang Kayu akan memberikan kerusakan lebih kecil pada Benteng Mahkota.",
+                "ms": "Sebotol Sihir Kemarahan tertumpah dan menukarkan batang pokok menjadi \"Kayu Balak\". Sekarang, ia membalas dendam dengan menghancurkan apa jua dalam laluannya! Melakukan kerosakan kecil ke atas menara mahkota.",
+                "th": "ขวดอาคมคลุ้มคลั่งที่หกได้เปลี่ยนขอนไม้ไร้เดียงสาเป็น\"เดอะล็อก\" แล้วตอนนี้มันก็พยายามแก้แค้นโดยการพังทุกอย่างที่ขวางหน้า! ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "fi": "Rikkinäinen raivoloitsupullo läikkyi harmittoman puunrungon päälle ja muutti sen tukiksi. Nyt tukki raivoaa ympäriinsä jyräten kaiken tieltään! Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
+                "vi": "Một chai phép Cuồng nộ nộ bị đổ đã biến một thân cây vô tội thành \"Khúc gỗ\". Giờ đây, khúc gỗ này tìm cách trả thù bằng cách nghiền nát tất cả mọi thứ cản đường! Sát thương gây ra cho Tháp Vương miện bị giảm.",
                 "sc_key": "TID_SPELL_INFO_LOG"
             }
         }
@@ -5801,11 +6054,12 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 5,
+        "arena": 15,
         "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet.",
         "id": 28000012,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_TORNADO",
                 "en": "Tornado",
                 "fr": "Tornade",
                 "de": "Tornado",
@@ -5830,6 +6084,7 @@
                 "sc_key": "TID_SPELL_TORNADO"
             },
             "description": {
+                "do": "TID_SPELL_INFO_TORNADO",
                 "en": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet.",
                 "fr": "Inflige des dégâts aux troupes ennemies après les avoir attirées en son centre comme un aimant. Un gros aimant-tornade tourbillonnant.",
                 "de": "Zieht feindliche Truppen in sein Auge und fügt dabei kontinuierlich Schaden zu - wie ein Magnet. Ein großer, wirbelnder Tornado-Magnet.",
@@ -5862,11 +6117,12 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 11,
+        "arena": 15,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
         "id": 28000013,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_CLONE",
                 "en": "Clone",
                 "fr": "Clonage",
                 "de": "Klonzauber",
@@ -5891,6 +6147,7 @@
                 "sc_key": "TID_SPELL_CLONE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_CLONE",
                 "en": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
                 "fr": "Copie toutes les troupes alliées de la zone cible. Les troupes clonées sont fragiles, mais tout aussi efficaces que les originales. N'affecte pas les bâtiments.",
                 "de": "Dupliziert alle verbündeten Truppen im Zielbereich. Geklonte Truppen sind anfällig, hauen aber genauso rein wie das Original! Gebäude sind nicht betroffen.",
@@ -5923,11 +6180,12 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 9,
+        "arena": 12,
         "description": "Deals Damage per second to Troops and Crown Towers. Deals huge Building Damage! Does not affect flying units (it is an EARTHquake, after all).",
         "id": 28000014,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_EARTHQUAKE",
                 "en": "Earthquake",
                 "fr": "Séisme",
                 "de": "Erdbeben",
@@ -5952,6 +6210,7 @@
                 "sc_key": "TID_SPELL_EARTHQUAKE"
             },
             "description": {
+                "do": "TID_SPELL_INFO_EARTHQUAKE",
                 "en": "Deals Damage per second to Troops and Crown Towers. Deals huge Building Damage! Does not affect flying units (it is an EARTHquake, after all).",
                 "fr": "Inflige des dégâts par seconde aux troupes et aux tours couronnées. Ce sort fait très, très mal aux bâtiments, mais n'affecte pas les unités volantes !",
                 "de": "Verursacht bei Truppen und Kronentürmen Schaden pro Sekunde. Verursacht gewaltigen Gebäudeschaden! Fliegende Einheiten sind nicht betroffen.",
@@ -5989,6 +6248,7 @@
         "id": 28000015,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_BARBARIAN_LOG",
                 "en": "Barbarian Barrel",
                 "fr": "Fût à barbare",
                 "de": "Barbarenfass",
@@ -6013,6 +6273,7 @@
                 "sc_key": "TID_SPELL_BARBARIAN_LOG"
             },
             "description": {
+                "do": "TID_SPELL_INFO_BARBARIAN_LOG",
                 "en": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
                 "fr": "Il roule sur tout ce qui se trouve sur son passage en infligeant des dégâts, puis un barbare en sort quand il se brise. Comment s'est-il faufilé là-dedans ?",
                 "de": "Es überrollt Gegner und fügt ihnen dabei Schaden zu. Dann zerbricht es und ein Barbar springt heraus! Wie ist er nur da reingekommen?!",
@@ -6045,11 +6306,12 @@
         "elixir": 1,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 10,
+        "arena": 13,
         "description": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\n\nR.I.P. Heal\n2017 - 2020\nAlas, we hardly used ye.",
         "id": 28000016,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_HEAL_SPIRIT",
                 "en": "Heal Spirit",
                 "fr": "Esprit de guérison",
                 "de": "Heilungsgeist",
@@ -6074,6 +6336,7 @@
                 "sc_key": "TID_SPELL_HEAL_SPIRIT"
             },
             "description": {
+                "do": "TID_SPELL_INFO_HEAL_SPIRIT",
                 "en": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\n\nR.I.P. Heal\n2017 - 2020\nAlas, we hardly used ye.",
                 "fr": "Esprit espiègle qui adore faire des câlins aux ennemis, leur infligeant des dégâts et laissant derrière lui un sort de soin pour ses alliés.\n\nAu revoir, sort de guérison !\nOn t'aimait bien...\nMais on t'utilisait pas...",
                 "de": "Ein schlitzohriger Geist, der sich auf Feinde stürzt, Schaden verursacht und einen mächtigen Heileffekt zurücklässt, der Trefferpunkte verbündeter Truppen wiederherstellt!\n\nRuhe in Frieden, Heilungszauber.\n2017-2020\nWir werden dich nie vergessen. Auch, wenn wir dich nie genutzt haben.",
@@ -6107,10 +6370,11 @@
         "type": "Spell",
         "rarity": "Common",
         "arena": 8,
-        "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down.",
+        "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down. Reduced damage to Crown Towers.",
         "id": 28000017,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_SNOWBALL",
                 "en": "Giant Snowball",
                 "fr": "Méga boule de neige",
                 "de": "Schneeball",
@@ -6135,27 +6399,28 @@
                 "sc_key": "TID_SPELL_SNOWBALL"
             },
             "description": {
-                "en": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down.",
-                "fr": "On dit qu'elle a commencé à rouler du haut du sommet glacé et ne s'est jamais arrêtée depuis, percutant et ralentissant les ennemis sur son chemin...",
-                "de": "Er ist GIGANTISCH! Sobald er auf dem Gefrorenen Gipfel losgerollt war, konnte ihn nichts mehr aufhalten. Getroffene Feinde werden weggestoßen und verlangsamt.",
-                "es": "¡Esta bola de nieve es inmensa! Cuando salió rodando por el Pico helado, no hubo cómo frenarla. Los enemigos recibirán un impacto y el frío les hará ir más lentos.",
-                "it": "È IMMENSA! Ha iniziato a rotolare giù dal picco ghiacciato e nessuno è riuscito a fermarla. Respinge e rallenta i nemici colpiti.",
-                "nl": "Hij is ENORM! Zodra-ie van de Bevroren bergtop begon te rollen, was er geen houden aan. Vijanden worden teruggeduwd en vertraagd.",
-                "no": "Den er ENORM! Så snart den begynte å trille ned Frossenfjell, var den umulig å stanse. Fiender som blir truffet, slås tilbake og mister fart.",
-                "tr": "KOCAMAN! Donmuş Zirveden yuvarlanmaya başladığında durdurulması imkansız! Çarptığı düşmanları iter ve yavaşlatır.",
-                "jp": "なんとも巨大です！ フローズンピークの峰から転がり始めたら、もう誰にも止められません。ぶつかった敵は押し戻され、スロー状態になります。",
-                "kr": "거대 눈덩이가 얼음 골짜기에서 굴러떨어지기 시작하면 아무도 멈출 수 없습니다. 맞은 적들은 뒤로 밀려나며 느려집니다.",
-                "ru": "Он ОГРОМЕН! Когда он покатился с Ледяного пика, его было не остановить. Отбрасывает назад и замедляет врагов.",
-                "ar": "إنها عملاقة! ما إن تبدأ في التدحرج أسفل القمة المتجمدة، لا يمكن إيقافها. عند إصابة الأعداء، تدفعهم للخلف وتبطئ من حركتهم.",
-                "pt": "A Bola de Neve é enorme! Depois que começa a descer rolando pelo Pico Congelado, não tem como parar. Inimigos atingidos são empurrados e perdem velocidade.",
-                "cn": "大雪球从天而降！它从冰封之巅滚落，无人可挡。大雪球会对敌军造成击退和减速效果。",
-                "cnt": "巨型雪球從天而降！它從冰封之巔滾落，無人可擋。巨型雪球會對敵軍造成擊退和減速效果。",
-                "fa": "عظیمه! وقتی از قله یخ‌زده پایین میاد، هیچی جلودارش نیست. ضربه‌های دشمنان رو دفع و سرعتشون رو کم می‌کنه.",
-                "id": "BESAAAR! Saat mulai menggelinding dari Puncak Beku, tiada yang mampu menghentikannya. Lawan akan terhantam mundur dan akan bergerak lebih lambat.",
-                "ms": "Ia BESAR! Sebaik sahaja ia mula bergolek turun dari Puncak Beku, tiada apa yang boleh menghalangnya. Musuh yang terkena akan ditolak dan dilambatkan.",
-                "th": "มันใหญ่มาก! เมื่อใดที่มันกลิ้งลงมาจากยอดเยือกแข็งแล้วก็ไม่มีทางหยุดยั้ง ศัตรูที่โดนเข้าจะกระเด็นถอยหลังและช้าลง",
-                "fi": "Se on JÄÄTÄVÄN SUURI! Kun pallo lähtee vyörymään alas Hyytävää huippua, sitä ei pysäytä mikään. Tielle osuvat viholliset kaatuvat ja heidän etenemisensä hidastuu.",
-                "vi": "Nó có kích cỡ CỰC LỚN! Một khi đã bắt đầu lăn xuống từ Băng Đỉnh thì không có gì cản lại được. Khi lăn trúng kẻ địch, nó sẽ đẩy lùi và làm chậm bước tiến của chúng.",
+                "do": "TID_SPELL_INFO_SNOWBALL",
+                "en": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down. Reduced damage to Crown Towers.",
+                "fr": "On dit qu'elle a commencé à rouler du haut du sommet glacé et ne s'est jamais arrêtée depuis, percutant et ralentissant les ennemis sur son chemin... Dégâts réduits sur les tours couronnées.",
+                "de": "Er ist GIGANTISCH! Sobald er auf dem Gefrorenen Gipfel losgerollt war, konnte ihn nichts mehr aufhalten. Getroffene Feinde werden weggestoßen und verlangsamt. Richtet weniger Schaden an Kronentürmen an.",
+                "es": "¡Esta bola de nieve es inmensa! Cuando salió rodando por el Pico helado, no hubo cómo frenarla. Los enemigos recibirán un impacto y el frío les hará ir más lentos. Es menos efectivo contra las torres de coronas.",
+                "it": "È IMMENSA! Ha iniziato a rotolare giù dal picco ghiacciato e nessuno è riuscito a fermarla. Respinge e rallenta i nemici colpiti, e infligge danni ridotti alle torri della corona.",
+                "nl": "Zodra deze enorme sneeuwbal van de Bevroren bergtop begon te rollen, was er geen houden aan! Vijanden worden teruggeduwd en vertraagd. Kroontorens lopen minder schade op.",
+                "no": "Den er ENORM! Så snart den begynte å trille ned Frossenfjell, var den umulig å stanse. Fiender som blir truffet, slås tilbake og mister fart. Redusert skade på kronetårn.",
+                "tr": "KOCAMAN! Donmuş Zirveden yuvarlanmaya başladığında durdurulması imkansız! Çarptığı düşmanları püskürtür ve yavaşlatır. Taç Kulelerine daha az hasar verir.",
+                "jp": "なんとも巨大です！フローズンピークの峰から転がり始めたら、もう誰にも止められません。ぶつかった敵は押し戻され、スロー状態になります。なお、クラウンタワーに対してはダメージが減少します。",
+                "kr": "거대 눈덩이가 얼음 골짜기에서 굴러떨어지기 시작하면 아무도 멈출 수 없습니다. 맞은 적들은 뒤로 밀려나며 느려집니다. 크라운 타워에는 비교적 적은 피해를 줍니다.",
+                "ru": "Он ОГРОМЕН! Когда он покатился с Ледяного пика, его было не остановить. Отбрасывает назад и замедляет врагов. Наносит пониженный урон королевским башням.",
+                "ar": "إنها عملاقة! عندما تبدأ في التدحرج أسفل القمة المتجمدة، لا يمكن إيقافها. عند إصابة الأعداء، تدفعهم للخلف وتبطئ من حركتهم. تلحق ضررًا مخفضًا بأبراج التاج.",
+                "pt": "A Bola de Neve é enorme! Depois que começa a descer rolando pelo Pico Congelado, não tem como parar. Inimigos atingidos são empurrados e perdem velocidade. Dano reduzido contra as torres da coroa.",
+                "cn": "大雪球从天而降！它从冰封之巅滚落，无人可挡。大雪球会对敌军造成击退和减速效果。对皇家塔的伤害会大打折扣。",
+                "cnt": "巨型雪球從天而降！它從冰封之巔滾落，無人可擋。巨型雪球會對敵軍造成擊退和減速效果。對皇家塔造成的傷害較低。",
+                "fa": "خیلی بزرگه! وقتی از قله یخ‌زده پایین میاد، هیچی جلودارش نیست. ضربه‌های دشمنان رو دفع و سرعتشون رو کم می‌کنه. آسیبی که به برج‌های تاج وارد می‌شه کم شده.",
+                "id": "BESAAAR! Saat mulai menggelinding dari Puncak Beku, tiada yang mampu menghentikannya. Lawan akan terhantam mundur dan akan bergerak lebih lambat. Kerusakan yang diberikan pada Benteng Mahkota lebih kecil.",
+                "ms": "Ia BESAR! Sebaik sahaja ia mula bergolek turun dari Puncak Beku, tiada apa yang boleh menghalangnya. Musuh yang terkena akan ditolak dan diperlahankan. Melakukan kerosakan kecil ke atas menara mahkota.",
+                "th": "มันใหญ่มาก! เมื่อใดที่มันกลิ้งลงมาจากยอดเยือกแข็งแล้วก็ไม่มีทางหยุดยั้ง ศัตรูที่โดนเข้าจะกระเด็นถอยหลังและช้าลง ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "fi": "Se on JÄÄTÄVÄN SUURI! Kun pallo lähtee vyörymään alas Hyytävää huippua, sitä ei pysäytä mikään. Tielle osuvat viholliset kaatuvat ja heidän etenemisensä hidastuu. Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
+                "vi": "Quả cầu tuyết có kích cỡ CỰC LỚN! Một khi đã bắt đầu lăn xuống từ Băng Đỉnh thì không có gì cản lại được. Khi lăn trúng kẻ địch, quả cầu tuyết sẽ đẩy lùi và làm chậm bước tiến của chúng. Sát thương gây ra cho Tháp Vương miện bị giảm.",
                 "sc_key": "TID_SPELL_INFO_SNOWBALL"
             }
         }
@@ -6167,11 +6432,12 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Common",
-        "arena": 12,
+        "arena": 15,
         "description": "No need to sign for this package!\n\nDropped from the sky, it deals Area Damage to enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
         "id": 28000018,
         "_lang": {
             "name": {
+                "do": "TID_SPELL_ROYAL_DELIVERY",
                 "en": "Royal Delivery",
                 "fr": "Colis royal",
                 "de": "Königliche Luftpost",
@@ -6196,6 +6462,7 @@
                 "sc_key": "TID_SPELL_ROYAL_DELIVERY"
             },
             "description": {
+                "do": "TID_SPELL_INFO_ROYAL_DELIVERY",
                 "en": "No need to sign for this package!\n\nDropped from the sky, it deals Area Damage to enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
                 "fr": "Pas d'accusé de réception nécessaire.\n\nLivré par les airs, le colis inflige des dégâts de zone, avant de libérer une recrue royale.\n\nLa boîte vide est aussi très pratique pour l'espionnage.",
                 "de": "Für dieses Paket ist keine Unterschrift nötig!\n\nDiese vom Himmel fallende Kiste verursacht bei ihrer Landung Flächenschaden und lässt einen Königsrekruten auf den Gegner los.\n\nDie leere Kiste eignet sich hervorragend für Spionageeinsätze.",

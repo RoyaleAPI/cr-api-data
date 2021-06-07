@@ -255,5 +255,204 @@
             "emote": 1,
             "resource_Gold": 17500
         }
+    },
+    {
+        "name": "NewTiers_Rookie_WildCards_Common",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardCommon": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardCommon": 1,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25000
+        }
+    },
+    {
+        "name": "NewTiers_Rookie_WildCards_Rare",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardRare": 1,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25000
+        }
+    },
+    {
+        "name": "NewTiers_Rookie_WildCards_Epic",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardEpic": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardEpic": 1,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25000
+        }
+    },
+    {
+        "name": "NewTiers_Rookie_WildCards_Legendary",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardLegendary": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25500
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardLegendary": 1,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 200,
+            "emote": 1,
+            "resource_Gold": 25000
+        }
+    },
+    {
+        "name": "DoNotUse_LocTestOnly",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardCommon": 1,
+            "consumable_BookCardEpic": 1,
+            "consumable_BookCardLegendary": 2,
+            "consumable_BookCardRare": 1,
+            "consumable_ChestKey": 1,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 50,
+            "consumable_WildcardEpic": 2,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 20,
+            "emote": 1,
+            "resource_Gold": 9500,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 4,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "consumable_BookCardLegendary": 1,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardCommon": 1,
+            "consumable_BookCardEpic": 1,
+            "consumable_BookCardLegendary": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_ChestKey": 1,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 50,
+            "consumable_WildcardEpic": 2,
+            "consumable_WildcardLegendary": 1,
+            "consumable_WildcardRare": 20,
+            "emote": 1,
+            "resource_Gold": 9000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        }
     }
 ]

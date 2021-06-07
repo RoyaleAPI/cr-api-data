@@ -7,12 +7,15 @@ from .base import BaseGen
 
 
 class Arenas(BaseGen):
+    # LEAGUE_ARENA_LIMIT = 12
+    LEAGUE_ARENA_LIMIT = 14
+
     def __init__(self, config):
         super().__init__(config, id="arenas", null_int=True)
 
     def arena_key(self, row):
         """unique key of the arena. Used for image assets."""
-        if int(row["arena"]) <= 12:
+        if int(row["arena"]) <= self.LEAGUE_ARENA_LIMIT:
             return "arena{}".format(row["arena"])
         else:
             return "league{}".format(row["name"][-1])
@@ -24,8 +27,8 @@ class Arenas(BaseGen):
         # add scid
         base_scid = 54000000
         for index, row in enumerate(arenas):
-            arena_id = min(12, row["arena"])
-            league_id = max(0, row['arena'] - 12)
+            arena_id = min(self.LEAGUE_ARENA_LIMIT, row["arena"])
+            league_id = max(0, row['arena'] - self.LEAGUE_ARENA_LIMIT)
             row.update({
                 "id": base_scid + index,
                 "key": self.arena_key(row),

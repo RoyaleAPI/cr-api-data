@@ -100,7 +100,8 @@
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_common",
         "token_gold_value": 250,
-        "npc_trader_reroll_gem_cost": 10
+        "npc_trader_reroll_gem_cost": 10,
+        "can_be_in_chests": true
     },
     {
         "name": "Rare",
@@ -196,7 +197,8 @@
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_rare",
         "token_gold_value": 500,
-        "npc_trader_reroll_gem_cost": 10
+        "npc_trader_reroll_gem_cost": 10,
+        "can_be_in_chests": true
     },
     {
         "name": "Epic",
@@ -280,7 +282,8 @@
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_epic",
         "token_gold_value": 1000,
-        "npc_trader_reroll_gem_cost": 10
+        "npc_trader_reroll_gem_cost": 10,
+        "can_be_in_chests": true
     },
     {
         "name": "Legendary",
@@ -369,7 +372,8 @@
         "token_flying_icon_swf": "sc/ui.sc",
         "token_flying_icon_export_name": "token_legendary",
         "token_gold_value": 2000,
-        "npc_trader_reroll_gem_cost": 10
+        "npc_trader_reroll_gem_cost": 10,
+        "can_be_in_chests": true
     },
     {
         "name": "Hero",
@@ -480,6 +484,97 @@
         "card_glow_instance_name": "card_frame_glow_epic",
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_btn_card_epic",
-        "npc_trader_reroll_gem_cost": 10
+        "npc_trader_reroll_gem_cost": 10,
+        "can_be_in_chests": false
+    },
+    {
+        "name": "Experimental",
+        "level_count": 5,
+        "relative_level": 8,
+        "mirror_relative_level": 8,
+        "clone_relative_level": 8,
+        "donate_capacity": 4000,
+        "sort_capacity": 2000,
+        "donate_reward": 50,
+        "donate_xp": 25,
+        "overflow_prestige": 1000,
+        "gold_conversion_value": 20000,
+        "max_level_donation_cost": 20000,
+        "chance_weight": 1,
+        "balance_multiplier": 250,
+        "upgrade_exp": [
+            250,
+            600,
+            800,
+            1600,
+            0
+        ],
+        "upgrade_material_count": [
+            2,
+            4,
+            10,
+            20,
+            0
+        ],
+        "upgrade_cost": [
+            5000,
+            20000,
+            50000,
+            100000,
+            0
+        ],
+        "power_level_multiplier": [
+            110,
+            121,
+            133,
+            146,
+            157
+        ],
+        "refund_gems": 8000,
+        "tid": "TID_RARITY_LEGENDARY",
+        "card_base_file_name": "sc/ui.sc",
+        "big_frame_export_name": "spell_card_legendary_big",
+        "card_base_export_name": "spell_card_legendary",
+        "stacked_card_export_name": "spell_stack_legendary",
+        "card_reward_export_name": "spell_card_legendary_reward",
+        "cast_effect": "SpellCasting",
+        "info_title_export_name": "rarity_legendary",
+        "card_rarity_bg_export_name": "legendary_order",
+        "sort_order": 4,
+        "red": [
+            255,
+            255,
+            255,
+            153
+        ],
+        "green": [
+            153,
+            153,
+            255,
+            255
+        ],
+        "blue": [
+            255,
+            255,
+            153,
+            102
+        ],
+        "appear_effect": "openChest_get_legendary",
+        "buy_sound": "sound_buy_card_legendary",
+        "loop_effect": "openChest_loop_legendary",
+        "card_txt_bg_frame_idx": 3,
+        "card_glow_instance_name": "card_frame_glow_legendary",
+        "spell_selected_sound": "Select legendary spell",
+        "spell_available_sound": "Legendary spell available",
+        "rotate_export_name": "card_rotate_legendary_short",
+        "icon_swf": "sc/ui.sc",
+        "icon_export_name": "icon_btn_card_legendary",
+        "token_swf": "sc/ui_spells.sc",
+        "token_export_name": "token_legendary",
+        "token_flying_icon_swf": "sc/ui.sc",
+        "token_flying_icon_export_name": "token_legendary",
+        "token_gold_value": 2000,
+        "npc_trader_reroll_gem_cost": 10,
+        "can_be_in_chests": false
     }
 ]

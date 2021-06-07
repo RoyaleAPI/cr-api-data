@@ -47,6 +47,7 @@
         "id": 65000000,
         "_lang": {
             "tid": {
+                "do": "TID_PUBLIC_TOURNAMENT_GOLD",
                 "en": "Grand Challenge",
                 "fr": "Super défi",
                 "de": "Große Herausforderung",
@@ -121,6 +122,7 @@
         "id": 65000001,
         "_lang": {
             "tid": {
+                "do": "TID_PUBLIC_TOURNAMENT_BRONZE",
                 "en": "Classic Challenge",
                 "fr": "Défi classique",
                 "de": "Klassische Herausforderung",

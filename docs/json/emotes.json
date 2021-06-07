@@ -735,7 +735,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_crl_01_01_dl.ogg",
         "sc_file": "sc/emotes_crl_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_15_0",
         "file_key": "emotes_crl_01_dl.sc:15:0"
@@ -748,7 +748,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_crl_01_02_dl.ogg",
         "sc_file": "sc/emotes_crl_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_15_1",
         "file_key": "emotes_crl_01_dl.sc:15:1"
@@ -774,7 +774,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_crl_01_04_dl.ogg",
         "sc_file": "sc/emotes_crl_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_15_3",
         "file_key": "emotes_crl_01_dl.sc:15:3"
@@ -1930,7 +1930,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_ramRiderFeb2020_01_sfx1_dl.ogg",
         "sc_file": "sc/emotes_ramRiderFeb2020_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_66_0",
         "file_key": "emotes_ramRiderFeb2020_01_dl.sc:66:0"
@@ -2190,7 +2190,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_skeleton_snorkel_dl.ogg",
         "sc_file": "sc/emotes_skeleton_snorkel_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_91_0",
         "file_key": "emotes_skeleton_snorkel_dl.sc:91:0"
@@ -2255,7 +2255,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_cw_golem_boat_dl.ogg",
         "sc_file": "sc/emotes_cw_golem_boat_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_97_0",
         "file_key": "emotes_cw_golem_boat_dl.sc:97:0"
@@ -2268,7 +2268,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_cw_goblinDance_dl.ogg",
         "sc_file": "sc/emotes_cw_goblinDance_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_98_0",
         "file_key": "emotes_cw_goblinDance_dl.sc:98:0"
@@ -2307,7 +2307,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_electroGiant_01_02_dl.ogg",
         "sc_file": "sc/emotes_electroGiant_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_100_1",
         "file_key": "emotes_electroGiant_01_dl.sc:100:1"
@@ -2320,7 +2320,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_electroGiant_01_03_dl.ogg",
         "sc_file": "sc/emotes_electroGiant_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_100_2",
         "file_key": "emotes_electroGiant_01_dl.sc:100:2"
@@ -2333,7 +2333,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_electroGiant_01_04_dl.ogg",
         "sc_file": "sc/emotes_electroGiant_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_100_3",
         "file_key": "emotes_electroGiant_01_dl.sc:100:3"
@@ -2346,7 +2346,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_skeleton_dragon_01_dl.ogg",
         "sc_file": "sc/emotes_skeleton_dragon_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_101_0",
         "file_key": "emotes_skeleton_dragon_01_dl.sc:101:0"
@@ -2537,7 +2537,7 @@
         "name": "Emote199",
         "index_hi": 110,
         "index_lo": 0,
-        "available": false,
+        "available": true,
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_LNY_2021_03_dl.ogg",
         "sc_file": "sc/emotes_LNY_2021_03_dl.sc",
@@ -2649,5 +2649,177 @@
         "exclusive": true,
         "key": "emote_117_1",
         "file_key": "emotes_mortar_01_dl.sc:117:1"
+    },
+    {
+        "name": "Emote208",
+        "index_hi": 118,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_skeletondragon_jawdrop_dl.ogg",
+        "sc_file": "sc/emotes_skeletondragon_jawdrop_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_118_0",
+        "file_key": "emotes_skeletondragon_jawdrop_dl.sc:118:0"
+    },
+    {
+        "name": "Emote209",
+        "index_hi": 119,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_dartgoblin_backfire_dl.ogg",
+        "sc_file": "sc/emotes_dartgoblin_backfire_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
+        "key": "emote_119_0",
+        "file_key": "emotes_dartgoblin_backfire_dl.sc:119:0"
+    },
+    {
+        "name": "EmoteChronos1",
+        "index_hi": 120,
+        "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_goblindrill_drive_dl.ogg",
+        "sc_file": "sc/emotes_goblindrill_drive_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
+        "key": "emote_120_0",
+        "file_key": "emotes_goblindrill_drive_dl.sc:120:0"
+    },
+    {
+        "name": "EmoteChronos2",
+        "index_hi": 121,
+        "index_lo": 0,
+        "key": "emote_121_0",
+        "file_key": ":121:0"
+    },
+    {
+        "name": "EmoteChronos3",
+        "index_hi": 122,
+        "index_lo": 0,
+        "key": "emote_122_0",
+        "file_key": ":122:0"
+    },
+    {
+        "name": "EmoteChronos4",
+        "index_hi": 123,
+        "index_lo": 0,
+        "key": "emote_123_0",
+        "file_key": ":123:0"
+    },
+    {
+        "name": "EmoteChronos5",
+        "index_hi": 124,
+        "index_lo": 0,
+        "key": "emote_124_0",
+        "file_key": ":124:0"
+    },
+    {
+        "name": "EmoteChronos6",
+        "index_hi": 125,
+        "index_lo": 0,
+        "key": "emote_125_0",
+        "file_key": ":125:0"
+    },
+    {
+        "name": "EmoteChronos7",
+        "index_hi": 126,
+        "index_lo": 0,
+        "key": "emote_126_0",
+        "file_key": ":126:0"
+    },
+    {
+        "name": "EmoteChronos8",
+        "index_hi": 127,
+        "index_lo": 0,
+        "key": "emote_127_0",
+        "file_key": ":127:0"
+    },
+    {
+        "name": "EmoteChronos9",
+        "index_hi": 128,
+        "index_lo": 0,
+        "key": "emote_128_0",
+        "file_key": ":128:0"
+    },
+    {
+        "name": "EmoteChronos10",
+        "index_hi": 129,
+        "index_lo": 0,
+        "key": "emote_129_0",
+        "file_key": ":129:0"
+    },
+    {
+        "name": "EmoteChronos11",
+        "index_hi": 130,
+        "index_lo": 0,
+        "key": "emote_130_0",
+        "file_key": ":130:0"
+    },
+    {
+        "name": "EmoteChronos12",
+        "index_hi": 131,
+        "index_lo": 0,
+        "key": "emote_131_0",
+        "file_key": ":131:0"
+    },
+    {
+        "name": "EmoteChronos13",
+        "index_hi": 132,
+        "index_lo": 0,
+        "key": "emote_132_0",
+        "file_key": ":132:0"
+    },
+    {
+        "name": "EmoteChronos14",
+        "index_hi": 133,
+        "index_lo": 0,
+        "key": "emote_133_0",
+        "file_key": ":133:0"
+    },
+    {
+        "name": "EmoteChronos15",
+        "index_hi": 134,
+        "index_lo": 0,
+        "key": "emote_134_0",
+        "file_key": ":134:0"
+    },
+    {
+        "name": "EmoteChronos16",
+        "index_hi": 135,
+        "index_lo": 0,
+        "key": "emote_135_0",
+        "file_key": ":135:0"
+    },
+    {
+        "name": "EmoteChronos17",
+        "index_hi": 136,
+        "index_lo": 0,
+        "key": "emote_136_0",
+        "file_key": ":136:0"
+    },
+    {
+        "name": "EmoteChronos18",
+        "index_hi": 137,
+        "index_lo": 0,
+        "key": "emote_137_0",
+        "file_key": ":137:0"
+    },
+    {
+        "name": "EmoteChronos19",
+        "index_hi": 138,
+        "index_lo": 0,
+        "key": "emote_138_0",
+        "file_key": ":138:0"
+    },
+    {
+        "name": "EmoteChronos20",
+        "index_hi": 139,
+        "index_lo": 0,
+        "key": "emote_139_0",
+        "file_key": ":139:0"
     }
 ]

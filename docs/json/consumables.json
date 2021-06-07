@@ -60,8 +60,10 @@
         "reward_screen_appear_effect": "consumable_rewardAppear_common_wildcard",
         "chest_appear_effect": "wildcard_openChest_get_common",
         "chest_loop_effect": "wildcard_openChest_loop_common",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -86,6 +88,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -110,6 +113,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -134,6 +138,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -158,6 +163,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -172,8 +178,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -244,8 +250,10 @@
         "reward_screen_appear_effect": "consumable_rewardAppear_rare_wildcard",
         "chest_appear_effect": "wildcard_openChest_get_rare",
         "chest_loop_effect": "wildcard_openChest_loop_rare",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_RARE_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_RARE",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -270,6 +278,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_RARE"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -294,6 +303,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -318,6 +328,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -342,6 +353,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -356,8 +368,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -427,8 +439,10 @@
         "reward_screen_appear_effect": "consumable_rewardAppear_epic_wildcard",
         "chest_appear_effect": "wildcard_openChest_get_epic",
         "chest_loop_effect": "wildcard_openChest_loop_epic",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -453,6 +467,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -477,6 +492,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -501,6 +517,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -525,6 +542,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -539,8 +557,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -611,8 +629,10 @@
         "reward_screen_vignette": "legendary_vignette",
         "chest_appear_effect": "wildcard_openChest_get_legendary",
         "chest_loop_effect": "wildcard_openChest_loop_legendary",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -637,6 +657,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -661,6 +682,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -685,6 +707,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -709,6 +732,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -723,8 +747,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -790,8 +814,10 @@
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_common_book",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -816,6 +842,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -824,7 +851,7 @@
                 "nl": "Met een kaartenboek kun je onmiddellijk alle kaarten toevoegen die je nodig hebt voor een upgrade.",
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
-                "jp": "強化の指南書を使うと、アップグレードに必要なカード枚数を瞬時に追加します。",
+                "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
                 "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
@@ -840,6 +867,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -864,6 +892,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -888,6 +917,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -902,8 +932,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -969,8 +999,10 @@
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_rare_book",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -995,6 +1027,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -1003,7 +1036,7 @@
                 "nl": "Met een kaartenboek kun je onmiddellijk alle kaarten toevoegen die je nodig hebt voor een upgrade.",
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
-                "jp": "強化の指南書を使うと、アップグレードに必要なカード枚数を瞬時に追加します。",
+                "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
                 "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
@@ -1019,6 +1052,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1043,6 +1077,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -1067,6 +1102,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -1081,8 +1117,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -1140,16 +1176,18 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": true,
+        "allow_in_free_chronos_offers": false,
         "max_amount_in_chronos": 3,
-        "chronos_gem_value100": 150000,
+        "chronos_gem_value100": 185000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_epic_book",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -1174,6 +1212,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -1182,7 +1221,7 @@
                 "nl": "Met een kaartenboek kun je onmiddellijk alle kaarten toevoegen die je nodig hebt voor een upgrade.",
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
-                "jp": "強化の指南書を使うと、アップグレードに必要なカード枚数を瞬時に追加します。",
+                "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
                 "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
@@ -1198,6 +1237,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1222,6 +1262,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -1246,6 +1287,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -1260,8 +1302,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -1328,8 +1370,10 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_legendary_book",
         "reward_screen_vignette": "legendary_vignette",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY_REWARD_DESCRIPTION",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -1354,6 +1398,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -1362,7 +1407,7 @@
                 "nl": "Met een kaartenboek kun je onmiddellijk alle kaarten toevoegen die je nodig hebt voor een upgrade.",
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
-                "jp": "強化の指南書を使うと、アップグレードに必要なカード枚数を瞬時に追加します。",
+                "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
                 "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
@@ -1378,6 +1423,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1402,6 +1448,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -1426,6 +1473,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -1440,8 +1488,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
@@ -1498,17 +1546,19 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": true,
+        "allow_in_free_chronos_offers": false,
         "max_amount_in_chronos": 3,
-        "chronos_gem_value100": 100000,
+        "chronos_gem_value100": 185000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_INVALID_TARGET",
         "sort_order": 1,
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_coin",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN",
                 "en": "Magic Coin",
                 "fr": "Écu magique",
                 "de": "Magische Münze",
@@ -1533,6 +1583,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
                 "en": "A Magic Coin instantly upgrades a card without spending your gold.",
                 "fr": "Un écu magique améliore instantanément une carte sans vous faire dépenser d'or.",
                 "de": "Eine Magische Münze verbessert eine Karte sofort, ohne dein Gold zu verbrauchen.",
@@ -1557,6 +1608,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT",
                 "en": "Skip Upgrade Cost",
                 "fr": "Améliorer sans dépenser d'or",
                 "de": "Verbesserungskosten überspringen",
@@ -1581,6 +1633,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",
                 "en": "You don´t have any Magic Coins",
                 "fr": "Vous n'avez aucun écu magique.",
                 "de": "Du hast keine Magischen Münzen.",
@@ -1605,6 +1658,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_INVALID_TARGET",
                 "en": "Choose a card that is ready to upgrade",
                 "fr": "Vous devez choisir une carte prête à être améliorée.",
                 "de": "Wähle eine Karte, die verbessert werden kann.",
@@ -1686,8 +1740,10 @@
         "sort_order": 2,
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_key",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY",
                 "en": "Chest Key",
                 "fr": "Clé de coffre",
                 "de": "Truhenschlüssel",
@@ -1712,6 +1768,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
                 "en": "This magical Chest Key opens any chest instantly.",
                 "fr": "Cette clé de coffre magique ouvre instantanément n'importe quel coffre.",
                 "de": "Dieser magische Truhenschlüssel öffnet jede Truhe sofort.",
@@ -1736,6 +1793,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT",
                 "en": "Open a chest instantly",
                 "fr": "Ouvrir un coffre instantanément",
                 "de": "Öffne eine Truhe sofort",
@@ -1760,6 +1818,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE",
                 "en": "You don´t have any Chest Keys",
                 "fr": "Vous n'avez aucune clé de coffre.",
                 "de": "Du hast keine Truhenschlüssel.",
@@ -1784,6 +1843,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_INVALID_TARGET",
                 "en": "Choose a locked chest",
                 "fr": "Vous devez choisir un coffre fermé.",
                 "de": "Wähle eine verschlossene Truhe.",
@@ -1865,8 +1925,10 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_book_of_books",
         "reward_screen_vignette": "book_of_book_vignette",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",
         "_lang": {
             "name": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL",
                 "en": "Book of Books",
                 "fr": "Livre ultime",
                 "de": "Universalbuch",
@@ -1891,6 +1953,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL"
             },
             "usage": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",
                 "en": "The Book of Books instantly adds the cards required for an upgrade level... to ANY card rarity!",
                 "fr": "Le livre ultime ajoute instantanément les cartes nécessaires pour améliorer une carte d'un niveau... quelle que soit la rareté !",
                 "de": "Das Universalbuch fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen ... und das bei JEDEM Kartenseltenheitsgrad!",
@@ -1899,7 +1962,7 @@
                 "nl": "Met het boek der boeken kun je onmiddellijk alle kaarten toevoegen die je nodig hebt voor een upgrade. De zeldzaamheid maakt niet uit!",
                 "no": "Bøkerboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå ... for ALLE kortforekomster!",
                 "tr": "Kitaplar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler. TÜM kart enderliklerinde kullanılabilir!",
-                "jp": "強化の秘伝書を使うと、アップグレードに必要なカード枚数を瞬時に追加します。レア度は問いません！",
+                "jp": "強化の秘伝書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。レア度は問いません！",
                 "kr": "희귀도와 상관없이 레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
                 "ru": "Книга книг мгновенно добавляет карты, необходимые для улучшения до следующего уровня... для карты ЛЮБОЙ редкости!",
                 "ar": "يضيف الكتاب العجيب على الفور البطاقات اللازمة لمستوى ترقية... إلى أي ندرة.",
@@ -1915,6 +1978,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE"
             },
             "usage_short": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1939,6 +2003,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Books",
                 "fr": "Vous n'avez pas de livre ultime.",
                 "de": "Du hast kein Universalbuch.",
@@ -1963,6 +2028,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE"
             },
             "invalid_target": {
+                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
                 "en": "Choose a card that is not max level",
                 "fr": "Vous devez choisir une carte n'ayant pas atteint le niveau maximum.",
                 "de": "Wähle eine Karte, die nicht auf dem höchsten Level ist.",
@@ -1977,8 +2043,8 @@
                 "ar": "اختر بطاقة لم تبلغ الحد الأقصى.",
                 "pt": "Escolha uma carta não maximizada.",
                 "cn": "请选择一张未达到满级的卡牌",
-                "cnt": "請選擇一張未滿級的卡牌",
-                "fa": "کارتی رو انتخاب کنین که به سطح حداکثر نرسیده باشه",
+                "cnt": "請選擇一張未滿級且數量未足以升級的卡牌",
+                "fa": "کارتی رو انتخاب کن که به سطح حداکثر نرسیده باشه",
                 "id": "Pilih kartu yang belum mencapai level maksimal",
                 "ms": "Pilih kad yang belum capai tahap maksimum",
                 "th": "เลือกการ์ดที่เลเวลยังไม่เต็ม",
