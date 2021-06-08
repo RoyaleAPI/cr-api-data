@@ -29,14 +29,18 @@ class ChestOrder(BaseGen):
                         chests[name] = []
                         current_name = name
 
-                    if current_name == 'MainCycle':
-                        chests[current_name].append(row["Chest"])
-                    else:
-                        chests[current_name].append({
-                            "chest": row.get("Chest"),
-                            "arena_threshold": row.get("ArenaThreshold"),
-                            "one_time": row.get('OneTime')
-                        })
+                    # 2021-06-07
+                    chests[current_name].append(row["Chest"])
+
+                    # old
+                    # if current_name == 'MainCycle':
+                    #     chests[current_name].append(row["Chest"])
+                    # else:
+                    #     chests[current_name].append({
+                    #         "chest": row.get("Chest"),
+                    #         "arena_threshold": row.get("ArenaThreshold"),
+                    #         "one_time": row.get('OneTime')
+                    #     })
 
         json_path = os.path.join(self.config.json.base, self.config.json.chest_order)
         with open(json_path, 'w') as f:
