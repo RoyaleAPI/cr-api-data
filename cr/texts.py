@@ -14,15 +14,15 @@ class TextsGen(BaseGen):
     def convert_text(self, csv_path, first_key=None):
         data_list = read_csv(csv_path)
 
-        print(first_key)
-        print(first_key == 'do')
         out = []
         for index, row in enumerate(data_list):
             try:
                 row["sc_key"] = row.pop(first_key)
             except KeyError as e:
+                # self patch 2021-06-07
+                row["sc_key"] = row.pop("c")
                 print(e)
-                continue
+
 
             # replace quotes
             for k, v in row.items():
