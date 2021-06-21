@@ -523,7 +523,32 @@
         "spells": [
             "*"
         ],
-        "tid": "TID_SPELL_SET_ALL_RANDOM"
+        "tid": "TID_SPELL_SET_ALL_RANDOM",
+        "text": {
+            "do": "TID_SPELL_SET_ALL_RANDOM",
+            "en": "Personal Choice",
+            "fr": "Choix perso",
+            "de": "Beliebig",
+            "es": "Elección personal",
+            "it": "Opz. personale",
+            "nl": "Persoonlijke keuze",
+            "no": "Personlig valg",
+            "tr": "İsteğine Göre Bir Birim",
+            "jp": "好きなカード",
+            "kr": "무작위",
+            "ru": "Свой выбор",
+            "ar": "اختيار شخصي",
+            "pt": "Escolha pessoal",
+            "cn": "推荐卡牌",
+            "cnt": "推薦卡牌",
+            "fa": "انتخاب شخصی",
+            "id": "Pilihan Pribadi",
+            "ms": "Pilihan Peribadi",
+            "th": "ตัวเลือกตามใจชอบ",
+            "fi": "Oma valinta",
+            "vi": "Lựa chọn Cá nhân",
+            "sc_key": "TID_SPELL_SET_ALL_RANDOM"
+        }
     },
     {
         "name": "Draft_CheapCards",
@@ -3282,7 +3307,32 @@
             "battle-healer",
             "fisherman"
         ],
-        "tid": "TID_SPELL_SET_MINI_TANK"
+        "tid": "TID_SPELL_SET_MINI_TANK",
+        "text": {
+            "do": "TID_SPELL_SET_MINI_TANK",
+            "en": "Mini Tank",
+            "fr": "Mini tank",
+            "de": "Mini-Tank",
+            "es": "Minitanque",
+            "it": "Mini tank",
+            "nl": "Minitank",
+            "no": "Minitanks",
+            "tr": "Hafif Taarruz",
+            "jp": "ミニタンク",
+            "kr": "소형 탱커",
+            "ru": "Мини-танк",
+            "ar": "قوة صامدة صغيرة",
+            "pt": "Minitanque",
+            "cn": "小肉盾",
+            "cnt": "小型肉盾",
+            "fa": "مخزن مینی",
+            "id": "Tank Mini",
+            "ms": "Penahan Mini",
+            "th": "หน่วยแทงค์ขนาดเล็ก",
+            "fi": "Minitankki",
+            "vi": "Đỡ đòn mini",
+            "sc_key": "TID_SPELL_SET_MINI_TANK"
+        }
     },
     {
         "name": "BAD_WinCon",
@@ -3307,7 +3357,32 @@
             "electro-giant",
             "goblin-drill"
         ],
-        "tid": "TID_SPELL_SET_WIN_CON"
+        "tid": "TID_SPELL_SET_WIN_CON",
+        "text": {
+            "do": "TID_SPELL_SET_WIN_CON",
+            "en": "Tower Destroyer",
+            "fr": "Destructeur",
+            "de": "Turmzerstörer",
+            "es": "Destrucción de torres",
+            "it": "Distruggitorri",
+            "nl": "Torenvernietiger",
+            "no": "Tårnknuser",
+            "tr": "Kule Yıkıcı",
+            "jp": "タワー破壊カード",
+            "kr": "공격 카드",
+            "ru": "Разрушитель башен",
+            "ar": "مدمر أبراج",
+            "pt": "Destruidor de torre",
+            "cn": "推塔型卡牌",
+            "cnt": "推塔者",
+            "fa": "ویرانگر برج",
+            "id": "Penghancur Benteng",
+            "ms": "Pembinasa Menara",
+            "th": "หน่วยทำลายหอคอย",
+            "fi": "Tornintuhoaja",
+            "vi": "Phá hủy Tháp",
+            "sc_key": "TID_SPELL_SET_WIN_CON"
+        }
     },
     {
         "name": "BAD_AntiTank",
@@ -3333,7 +3408,32 @@
             "barbarian-hut",
             "goblin-cage"
         ],
-        "tid": "TID_SPELL_SET_ANTI_TANK"
+        "tid": "TID_SPELL_SET_ANTI_TANK",
+        "text": {
+            "do": "TID_SPELL_SET_ANTI_TANK",
+            "en": "Tower Defender",
+            "fr": "Défenseur",
+            "de": "Turmverteidiger",
+            "es": "Defensa de torres",
+            "it": "Difenditorri",
+            "nl": "Torenverdediger",
+            "no": "Tårnforsvarer",
+            "tr": "Kule Savunucu",
+            "jp": "タワー防衛カード",
+            "kr": "방어 카드",
+            "ru": "Защита башен",
+            "ar": "حامي أبراج",
+            "pt": "Defensor de torre",
+            "cn": "护塔型卡牌",
+            "cnt": "防衛者",
+            "fa": "مدافع برج",
+            "id": "Pelindung Benteng",
+            "ms": "Pelindung Menara",
+            "th": "หน่วยป้องกันหอคอย",
+            "fi": "Torninpuolustaja",
+            "vi": "Phòng thủ Tháp",
+            "sc_key": "TID_SPELL_SET_ANTI_TANK"
+        }
     },
     {
         "name": "BAD_AntiAir",
@@ -3363,7 +3463,32 @@
             "skeleton-dragons",
             "mother-witch"
         ],
-        "tid": "TID_SPELL_SET_ANTI_AIR"
+        "tid": "TID_SPELL_SET_ANTI_AIR",
+        "text": {
+            "do": "TID_SPELL_SET_ANTI_AIR",
+            "en": "Anti-Air",
+            "fr": "Anti-air",
+            "de": "Luftkonter",
+            "es": "Antiaéreo",
+            "it": "Antiaerei",
+            "nl": "Luchtafweer",
+            "no": "Antiluft",
+            "tr": "Hava Savunma",
+            "jp": "対空カード",
+            "kr": "대공 카드",
+            "ru": "Против воздуха",
+            "ar": "دفاع جوي",
+            "pt": "Antiaéreo",
+            "cn": "防空型卡牌",
+            "cnt": "防空者",
+            "fa": "ضد هوایی",
+            "id": "Pembasmi Udara",
+            "ms": "Anti-Udara",
+            "th": "หน่วยป้องกันทางอากาศ",
+            "fi": "Ilmatorjunta",
+            "vi": "Không kích",
+            "sc_key": "TID_SPELL_SET_ANTI_AIR"
+        }
     },
     {
         "name": "BAD_Distraction",
@@ -3386,7 +3511,32 @@
             "electro-spirit",
             "goblin-drill"
         ],
-        "tid": "TID_SPELL_SET_DISTRACTION"
+        "tid": "TID_SPELL_SET_DISTRACTION",
+        "text": {
+            "do": "TID_SPELL_SET_DISTRACTION",
+            "en": "Distraction",
+            "fr": "Diversion",
+            "de": "Ablenkung",
+            "es": "Distracción",
+            "it": "Diversivi",
+            "nl": "Afleiding",
+            "no": "Avledning",
+            "tr": "Dikkat Dağıtıcı",
+            "jp": "妨害カード",
+            "kr": "미끼 카드",
+            "ru": "Отвлечение",
+            "ar": "تشتيت انتباه",
+            "pt": "Distração",
+            "cn": "拉扯型卡牌",
+            "cnt": "擾敵者",
+            "fa": "حواس پرت کن",
+            "id": "Pengalih Perhatian",
+            "ms": "Pengeliru",
+            "th": "หน่วยหลอกล่อ",
+            "fi": "Harhautus",
+            "vi": "Quấy nhiễu",
+            "sc_key": "TID_SPELL_SET_DISTRACTION"
+        }
     },
     {
         "name": "BAD_SmallSpell",
@@ -3399,7 +3549,32 @@
             "tornado",
             "royal-delivery"
         ],
-        "tid": "TID_SPELL_SET_SMALL_SPELL"
+        "tid": "TID_SPELL_SET_SMALL_SPELL",
+        "text": {
+            "do": "TID_SPELL_SET_SMALL_SPELL",
+            "en": "Small Spell",
+            "fr": "Petits sorts",
+            "de": "Kleiner Zauber",
+            "es": "Hechizo pequeño",
+            "it": "Incantesimi mini",
+            "nl": "Kleine spreuk",
+            "no": "Liten formel",
+            "tr": "Küçük Büyü",
+            "jp": "小型呪文",
+            "kr": "소형 마법",
+            "ru": "Малое заклинание",
+            "ar": "تعويذة صغيرة",
+            "pt": "Feitiço pequeno",
+            "cn": "小法术",
+            "cnt": "小型法術",
+            "fa": "طلسم کوچک",
+            "id": "Mantra Kecil",
+            "ms": "Sihir Kecil",
+            "th": "หน่วยอาคมเล็ก",
+            "fi": "Pikkuloitsu",
+            "vi": "Thần chú Nhỏ",
+            "sc_key": "TID_SPELL_SET_SMALL_SPELL"
+        }
     },
     {
         "name": "BAD_BigSpell",
@@ -3411,7 +3586,32 @@
             "freeze",
             "earthquake"
         ],
-        "tid": "TID_SPELL_SET_BIG_SPELL"
+        "tid": "TID_SPELL_SET_BIG_SPELL",
+        "text": {
+            "do": "TID_SPELL_SET_BIG_SPELL",
+            "en": "Big Spell",
+            "fr": "Gros sorts",
+            "de": "Großer Zauber",
+            "es": "Hechizo grande",
+            "it": "Incantesimi maxi",
+            "nl": "Grote spreuk",
+            "no": "Stor formel",
+            "tr": "Büyük Büyü",
+            "jp": "大型呪文",
+            "kr": "대형 마법",
+            "ru": "Большое заклинание",
+            "ar": "تعويذة كبيرة",
+            "pt": "Feitiço grande",
+            "cn": "大法术",
+            "cnt": "大型法術",
+            "fa": "طلسم بزرگ",
+            "id": "Mantra Besar",
+            "ms": "Sihir Besar",
+            "th": "หน่วยอาคมใหญ่",
+            "fi": "Suurloitsu",
+            "vi": "Thần chú Lớn",
+            "sc_key": "TID_SPELL_SET_BIG_SPELL"
+        }
     },
     {
         "name": "Event_Shocktober",

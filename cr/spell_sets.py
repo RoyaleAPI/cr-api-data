@@ -35,6 +35,10 @@ class SpellSets(BaseGen):
             row['spells'] = unique_card_keys
 
 
+            tid = row.get('tid')
+            if tid:
+                row['text'] = self.text_all_lang(tid)
+
 
         json_path = os.path.join(self.config.json.base, self.config.json.spell_sets)
         self.save_json(rows, json_path)

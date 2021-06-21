@@ -6426,7 +6426,7 @@
         "deploy_time": 1000,
         "charge_range": 0,
         "speed": 60,
-        "hitpoints": 570,
+        "hitpoints": 569,
         "hit_speed": 1700,
         "load_time": 1200,
         "damage": 0,
@@ -6671,12 +6671,12 @@
         "summon_character_second": null,
         "summon_character_second_count": 0,
         "hitpoints_per_level": [
-            570,
-            627,
-            689,
-            758,
-            832,
-            894
+            569,
+            625,
+            688,
+            756,
+            830,
+            893
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -22054,7 +22054,7 @@
         "pushback": 0,
         "ignore_pushback": false,
         "scale": 100,
-        "collision_radius": 700,
+        "collision_radius": 1,
         "mass": 6,
         "tile_size_override": 0,
         "area_buff": null,
