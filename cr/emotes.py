@@ -16,6 +16,7 @@ class Emotes(BaseGen):
         out = []
         for index, row in enumerate(data_list):
             if row.get('name') is not None:
+                # print(row.get('name'))
                 hi = row.get('index_hi', '')
                 lo = row.get('index_lo', '')
                 sc = row.get('sc_file', '')[3:] # truncate path sc/

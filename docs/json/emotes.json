@@ -2680,22 +2680,40 @@
         "name": "EmoteChronos1",
         "index_hi": 120,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_goblindrill_drive_dl.ogg",
+        "sc_file": "sc/emotes_goblindrill_drive_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
         "key": "emote_120_0",
-        "file_key": ":120:0"
+        "file_key": "emotes_goblindrill_drive_dl.sc:120:0"
     },
     {
         "name": "EmoteChronos2",
         "index_hi": 121,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_bowler_basketball_dl.ogg",
+        "sc_file": "sc/emotes_bowler_basketball_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
         "key": "emote_121_0",
-        "file_key": ":121:0"
+        "file_key": "emotes_bowler_basketball_dl.sc:121:0"
     },
     {
         "name": "EmoteChronos3",
         "index_hi": 122,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_icewizard_meltsweat_dl.ogg",
+        "sc_file": "sc/emotes_icewizard_meltsweat_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
         "key": "emote_122_0",
-        "file_key": ":122:0"
+        "file_key": "emotes_icewizard_meltsweat_dl.sc:122:0"
     },
     {
         "name": "EmoteChronos4",
