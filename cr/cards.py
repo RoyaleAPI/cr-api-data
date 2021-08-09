@@ -115,12 +115,17 @@ class Cards(BaseGen):
                                 description = self.text(row['TID_INFO'], 'EN')
                                 description = description.replace('\\n\\n', ' ')
 
+                                # Heal Spirit hack
+                                card_type = card_config.type
+                                if key == 'heal-spirit':
+                                    card_type = 'Troop'
+
                                 card = {
                                     'key': key,
                                     'name': name_en,
                                     'sc_key': row['Name'],
                                     'elixir': elixir,
-                                    'type': card_config.type,
+                                    'type': card_type,
                                     'rarity': row['Rarity'],
                                     'arena': self.arena_id(row['UnlockArena']),
                                     'description': description,

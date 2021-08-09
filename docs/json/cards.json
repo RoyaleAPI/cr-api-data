@@ -1104,7 +1104,7 @@
         "name": "Heal Spirit",
         "sc_key": "Heal",
         "elixir": 1,
-        "type": "Spell",
+        "type": "Troop",
         "rarity": "Rare",
         "arena": 13,
         "description": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\n\nR.I.P. Heal\n2017 - 2020\nAlas, we hardly used ye.",
