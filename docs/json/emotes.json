@@ -2719,15 +2719,27 @@
         "name": "EmoteChronos4",
         "index_hi": 123,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_executioner_chefskiss_dl.ogg",
+        "sc_file": "sc/emotes_executioner_chefskiss_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
         "key": "emote_123_0",
-        "file_key": ":123:0"
+        "file_key": "emotes_executioner_chefskiss_dl.sc:123:0"
     },
     {
         "name": "EmoteChronos5",
         "index_hi": 124,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_executioner_fruitcake_dl.ogg",
+        "sc_file": "sc/emotes_executioner_fruitcake_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
         "key": "emote_124_0",
-        "file_key": ":124:0"
+        "file_key": "emotes_executioner_fruitcake_dl.sc:124:0"
     },
     {
         "name": "EmoteChronos6",

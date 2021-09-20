@@ -854,7 +854,7 @@
             "damage_reduction": 0,
             "heal_per_second": 0,
             "hit_speed_multiplier": 0,
-            "speed_multiplier": 0,
+            "speed_multiplier": -15,
             "spawn_speed_multiplier": 0,
             "invisible": false,
             "remove_on_attack": false,
