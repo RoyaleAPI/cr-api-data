@@ -1696,7 +1696,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_halloween_01_02_dl.ogg",
         "sc_file": "sc/emotes_halloween_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_50_1",
         "file_key": "emotes_halloween_01_dl.sc:50:1"
@@ -1709,7 +1709,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_halloween_01_03_dl.ogg",
         "sc_file": "sc/emotes_halloween_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_50_2",
         "file_key": "emotes_halloween_01_dl.sc:50:2"
@@ -1722,7 +1722,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_halloween_01_04_dl.ogg",
         "sc_file": "sc/emotes_halloween_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_50_3",
         "file_key": "emotes_halloween_01_dl.sc:50:3"
@@ -1735,7 +1735,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_Halloween_emote_prisongoblnwig_dl.ogg",
         "sc_file": "sc/emotes_halloween_02_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_51_0",
         "file_key": "emotes_halloween_02_dl.sc:51:0"
@@ -1800,7 +1800,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_xmass_santa_giant_dl.ogg",
         "sc_file": "sc/emotes_xmass_santa_giant_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_55_0",
         "file_key": "emotes_xmass_santa_giant_dl.sc:55:0"
@@ -1813,7 +1813,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_xmass_barb_nutcracker_dl.ogg",
         "sc_file": "sc/emotes_xmass_barb_nutcracker_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_56_0",
         "file_key": "emotes_xmass_barb_nutcracker_dl.sc:56:0"
@@ -1837,7 +1837,7 @@
         "index_lo": 0,
         "available": true,
         "default_owned": false,
-        "sfx_file": "sfx/emotes/emotes_lny_01_01_dl.ogg",
+        "sfx_file": "sfx/emotes/emotes_lny_01_dl.ogg",
         "sc_file": "sc/emotes_lny_01_dl.sc",
         "available_for_offer": false,
         "exclusive": true,
@@ -2359,7 +2359,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_megaKnight_01_01_dl.ogg",
         "sc_file": "sc/emotes_megaKnight_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_102_0",
         "file_key": "emotes_megaKnight_01_dl.sc:102:0"
@@ -2372,7 +2372,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_megaKnight_01_02_dl.ogg",
         "sc_file": "sc/emotes_megaKnight_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_102_1",
         "file_key": "emotes_megaKnight_01_dl.sc:102:1"
@@ -2411,7 +2411,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_logmas2020_02_01_dl.ogg",
         "sc_file": "sc/emotes_logmas2020_02_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_104_0",
         "file_key": "emotes_logmas2020_02_dl.sc:104:0"
@@ -2437,7 +2437,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_logmas2020_03_dl.ogg",
         "sc_file": "sc/emotes_logmas2020_03_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_105_0",
         "file_key": "emotes_logmas2020_03_dl.sc:105:0"
@@ -2450,7 +2450,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_logmas2020_04_dl.ogg",
         "sc_file": "sc/emotes_logmas2020_04_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_106_0",
         "file_key": "emotes_logmas2020_04_dl.sc:106:0"
@@ -2489,7 +2489,7 @@
         "default_owned": false,
         "sfx_file": "sfx/emotes/emotes_icewizard_01_03_dl.ogg",
         "sc_file": "sc/emotes_icewizard_01_dl.sc",
-        "available_for_offer": false,
+        "available_for_offer": true,
         "exclusive": false,
         "key": "emote_107_2",
         "file_key": "emotes_icewizard_01_dl.sc:107:2"
@@ -2745,15 +2745,27 @@
         "name": "EmoteChronos6",
         "index_hi": 125,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_bat_embrace_dl.ogg",
+        "sc_file": "sc/emotes_bat_embrace_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
         "key": "emote_125_0",
-        "file_key": ":125:0"
+        "file_key": "emotes_bat_embrace_dl.sc:125:0"
     },
     {
         "name": "EmoteChronos7",
         "index_hi": 126,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_bat_jackobat_dl.ogg",
+        "sc_file": "sc/emotes_bat_jackobat_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
         "key": "emote_126_0",
-        "file_key": ":126:0"
+        "file_key": "emotes_bat_jackobat_dl.sc:126:0"
     },
     {
         "name": "EmoteChronos8",

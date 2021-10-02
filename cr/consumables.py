@@ -20,7 +20,7 @@ class Consumables(BaseGen):
                     'usage': self.text_all_lang(row['usage_tid']),
                     'usage_short': self.text_all_lang(row['usage_short_tid']),
                     'not_available': self.text_all_lang(row['not_available_tid']),
-                    'invalid_target': self.text_all_lang(row['invalid_target_tid']),
+                    # 'invalid_target': self.text_all_lang(row['invalid_target_tid']),
                 }
             })
         return rows

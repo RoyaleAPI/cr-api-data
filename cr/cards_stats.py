@@ -143,12 +143,23 @@ class CharacterBuffs(CardTypes):
 
 class CardStats(BaseGen):
     """Card stats"""
-    max_levels = dict(
-        Common=13,
-        Rare=11,
-        Epic=8,
-        Legendary=5,
-    )
+    max_common_level = 13
+
+    if max_common_level == 13:
+        max_levels = dict(
+            Common=13,
+            Rare=11,
+            Epic=8,
+            Legendary=5,
+        )
+    else:
+        max_levels = dict(
+            Common=14,
+            Rare=12,
+            Epic=9,
+            Legendary=6,
+            Champion=4,
+        )
 
     # total hack from global
     level_multipliers = [
@@ -164,7 +175,8 @@ class CardStats(BaseGen):
         2.33,
         2.56,
         2.81,
-        3.09
+        3.09,
+        3.72,
     ]
 
     def __init__(self, config):
@@ -218,7 +230,13 @@ class CardStats(BaseGen):
             if r.get('name') == rarity:
                 if level == 0:
                     return 100
-                return r['power_level_multiplier'][level - 1]
+                try:
+                    m = r['power_level_multiplier'][level - 1]
+                except IndexError as e:
+                    print(e)
+                    print(f"{level=}")
+                    return 0
+                return m
 
     def calc_per_level(self, items, section=None, per_level_section=None):
         """Calculate hitpoints per level."""

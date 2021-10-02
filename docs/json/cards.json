@@ -887,7 +887,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 2,
-        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 3 more Skeletons! Creepy.",
+        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy.",
         "id": 27000009
     },
     {

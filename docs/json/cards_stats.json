@@ -11484,7 +11484,7 @@
             "elixir": 3,
             "type": "Building",
             "arena": 2,
-            "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 3 more Skeletons! Creepy.",
+            "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy.",
             "id": 27000009,
             "icon_file": "tombstone",
             "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare_empty",
