@@ -18,6 +18,7 @@ csv:
     consumables: ./csv_logic/consumables.csv
     draft_deck: ./csv_logic/draft_deck.csv
     emotes: ./csv_logic/emotes.csv
+    exp_levels: ./csv_logic/exp_levels.csv
     game_modes: ./csv_logic/game_modes.csv
     predefined_decks: ./csv_logic/predefined_decks.csv
     projectiles: ./csv_logic/projectiles.csv
@@ -51,6 +52,7 @@ json:
   consumables: ./consumables.json
   draft_deck: ./draft_deck.json
   emotes: ./emotes.json
+  exp_levels: ./exp_levels.json
   game_modes: ./game_modes.json
   predefined_decks: ./predefined_decks.json
   rarities: ./rarities.json

@@ -1,0 +1,132 @@
+[
+    {
+        "name": "1",
+        "exp_to_next_level": 20,
+        "summoner_level": 1,
+        "tower_level": 1,
+        "troop_level": 1,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "2",
+        "exp_to_next_level": 50,
+        "summoner_level": 2,
+        "tower_level": 2,
+        "troop_level": 2,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "3",
+        "exp_to_next_level": 100,
+        "summoner_level": 3,
+        "tower_level": 3,
+        "troop_level": 3,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "4",
+        "exp_to_next_level": 200,
+        "summoner_level": 4,
+        "tower_level": 4,
+        "troop_level": 4,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "5",
+        "exp_to_next_level": 400,
+        "summoner_level": 5,
+        "tower_level": 5,
+        "troop_level": 5,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "6",
+        "exp_to_next_level": 1000,
+        "summoner_level": 6,
+        "tower_level": 6,
+        "troop_level": 6,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "7",
+        "exp_to_next_level": 2000,
+        "summoner_level": 7,
+        "tower_level": 7,
+        "troop_level": 7,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "8",
+        "exp_to_next_level": 5000,
+        "summoner_level": 8,
+        "tower_level": 8,
+        "troop_level": 8,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "9",
+        "exp_to_next_level": 10000,
+        "summoner_level": 9,
+        "tower_level": 9,
+        "troop_level": 9,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "10",
+        "exp_to_next_level": 30000,
+        "summoner_level": 10,
+        "tower_level": 10,
+        "troop_level": 10,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "11",
+        "exp_to_next_level": 40000,
+        "summoner_level": 11,
+        "tower_level": 11,
+        "troop_level": 11,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "12",
+        "exp_to_next_level": 80000,
+        "summoner_level": 12,
+        "tower_level": 12,
+        "troop_level": 12,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    },
+    {
+        "name": "13",
+        "exp_to_next_level": 100000,
+        "summoner_level": 13,
+        "tower_level": 13,
+        "troop_level": 13,
+        "decks": 1,
+        "summoner_kill_gold": 0,
+        "tower_kill_gold": 0
+    }
+]

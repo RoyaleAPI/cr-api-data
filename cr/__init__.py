@@ -9,6 +9,7 @@ from .clan_chest import ClanChest
 from .consumables import Consumables
 from .draft_deck import DraftDeck
 from .emotes import Emotes
+from .exp_levels import ExperienceLevels
 from .game_mode import GameModes
 from .predefined_decks import PredefinedDecks
 from .rarities import Rarities

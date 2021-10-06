@@ -38,6 +38,7 @@ if __name__ == '__main__':
         BattleTimelines,
         Arenas,
         Rarities,
+        ExperienceLevels,
         PredefinedDecks,
         AllianceBadges,
         GameModes,
