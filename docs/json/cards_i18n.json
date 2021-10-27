@@ -183,7 +183,7 @@
                 "ms": "Tiga penyerang berjarak dekat pantas yang tidak berperisai. Kecil, pantas, hijau dan kejam!",
                 "th": "นักโจมตีระยะประชิดว่องไวไม่สวมเกราะ ตัวเล็กปราดเปรียว แถมยังตัวเขียวและดุร้าย!",
                 "fi": "Kolme nopeaa suojautumatonta lähikontaktihyökkääjää. He ovat pieniä, nopeita, vihreitä ja ilkeitä!",
-                "vi": "Ba tên yêu tinh chuyên tấn công cận chiến nhanh nhẹn và không mặc giáp. Nhỏ nhắn, nhanh nhẹn, xanh xao và xấu tính!",
+                "vi": "3 tên yêu tinh chuyên tấn công cận chiến nhanh nhẹn và không mặc giáp. Nhỏ nhắn, nhanh nhẹn, màu xanh lá và xấu tính!",
                 "sc_key": "TID_SPELL_INFO_GOBLINS"
             }
         }
@@ -554,7 +554,7 @@
                 "ru": "Орда воинов ближнего боя с неухоженными усами и жутким характером.",
                 "ar": "حشد من المهاجمين المشاغبين بشوارب وحشية وحالات مزاجية أكثر شراسة.",
                 "pt": "Uma horda de atacantes especialista em combate corpo a corpo, com bigodes terríveis e um temperamento ainda pior.",
-                "cn": "这些近战战士胡子邋遢，脾气更是暴躁。",
+                "cn": "这些近战勇士胡子邋遢，脾气更是暴躁。",
                 "cnt": "這些近戰戰士鬍子邋遢，脾氣更是暴躁。",
                 "fa": "یک گروه از جنگجویان تن به تن با سبیل‌های خفن و اعصاب خیلی خفن‌تر.",
                 "id": "Segerombolan penyerang jarak dekat dengan kumis bengis dan perangai yang bahkan lebih bengis.",
@@ -666,6 +666,7 @@
                 "sc_key": "TID_SPELL_SKELETONS"
             },
             "description": {
+                "do": "TID_SPELL_INFO_SKELETONS",
                 "en": "Three fast, very weak melee fighters. Surround your enemies with this pile of bones!",
                 "fr": "Trois combattants de mêlée, rapides mais très faibles. Encerclez vos ennemis avec ces tas d'os !",
                 "de": "Drei schnelle aber sehr schwache Nahkämpfer. Umzingle deine Feinde mit diesem Knochenhaufen!",
@@ -684,7 +685,7 @@
                 "fa": "سه جنگجوی سریع و خیلی ضعیف که اهل جنگ تن به تن هستن. با این توده استخوانی دشمنان خودتو احاطه کن!",
                 "id": "Tiga petarung jarak dekat yang cepat dan sangat lemah. Kepung lawan dengan tumpukan tulang ini!",
                 "ms": "Tiga penyerang berjarak dekat pantas dan sangat lemah. Mengelilingi musuh anda dengan timbunan tulang ini!",
-                "th": "นักสู้ระยะประชิดว่องไวแต่อ่อนแอมากสามตน ล้อมศัตรูของท่านด้วยกองกระดูกนี่สิ!",
+                "th": "นักสู้ระยะประชิดว่องไวแต่อ่อนแอมากสี่ตน ล้อมศัตรูของท่านด้วยกองกระดูกนี่สิ!",
                 "fi": "Kolme nopeaa mutta erittäin heikkoa lähikontaktitaistelijaa. Piiritä vihollisesi tällä luukasalla!",
                 "vi": "Bộ ba nhanh nhẹn nhưng rất yếu này chuyên tấn công cận chiến. Hãy bao vây kẻ địch bằng đống xương này!",
                 "sc_key": "TID_SPELL_INFO_SKELETONS"
@@ -868,8 +869,8 @@
                 "ru": "Маленький, почти не защищенный скелет, бросающий бомбы. Наносит урон по области и может уничтожить группу врагов.",
                 "ar": "هيكل عظمي صغير ذو مستوى حماية ضعيف يلقي قنابل بإمكانها إبادة حشد من الأعداء بفعل الضرر الذي تلحقه في المنطقة.",
                 "pt": "Um esqueleto pequeno, levemente protegido, que lança bombas. Causa dano em área que pode eliminar um bando de inimigos.",
-                "cn": "别看这骷髅又小又脆弱，但他投掷的炸弹可会造成范围伤害，能消灭一群敌军。",
-                "cnt": "別看這骷髏又小又脆弱，但他投擲的炸彈可會造成範圍傷害，能消滅一群敵軍。",
+                "cn": "别看这骷髅又小又脆弱，他投掷的炸弹可会造成范围伤害，能消灭一群敌军。",
+                "cnt": "別看這骷髏又小又脆弱，他投擲的炸彈可是會造成範圍傷害，能消滅一群敵軍。",
                 "fa": "اسکلتی کوچک با زرهی نازک که بمب پرتاب می‌کنه. طوری به ناحیه آسیب می‌زنه که می‌تونه یه لشکر از دشمن رو نابود کنه.",
                 "id": "Jerangkong kecil pelempar bom yang mengenakan pelindung ala kadarnya. Menimbulkan kerusakan area yang dapat menyapu sekawanan lawan.",
                 "ms": "Rangka kecil rapuh yang membaling bom. Melakukan kerosakan kawasan yang boleh menghapuskan kerumunan musuh.",
@@ -1183,8 +1184,8 @@
                 "ru": "Никаких бабочек и прочей ерунды! У П.Е.К.К.А. на арене одна цель, и эта цель — разрушение.",
                 "ar": "الساحة منطقة لا مجال للمشتتات فيها إطلاقًا. لن يركز بيكا إلا على التدمير.",
                 "pt": "A arena é comprovadamente uma zona sem borboletas. Nenhuma distração para Mini P.E.K.K.A, só destruição.",
-                "cn": "竞技场可不是追着蝴蝶跑的地方，迷你皮卡不是来消遣的而是来消灭一切的！",
-                "cnt": "競技場可不是追著蝴蝶跑的地方，迷你皮卡不是來消遣的而是來消滅一切的！",
+                "cn": "竞技场可不是追着蝴蝶跑的地方，迷你皮卡不是来消遣的，而是来消灭一切的！",
+                "cnt": "競技場不是追著蝴蝶跑的地方，迷你皮卡不是來消遣的，而是來消滅一切！",
                 "fa": "میدان نبرد یک ناحیه مجاز بدون پروانه هست. هیچ چیزی حواس P.E.K.K.A رو پرت نمی‌کنه، فقط به فکر ویرانیست.",
                 "id": "Arena adalah zona resmi bebas kupu-kupu. Tidak ada pengalih perhatian bagi P.E.K.K.A, yang ada hanya kehancuran.",
                 "ms": "Arena ialah zon yang disahkan bebas rama-rama. Tiada gangguan untuk P.E.K.K.A, hanya kemusnahan.",
@@ -1998,18 +1999,18 @@
                 "no": "Ildånden er på et kamikaze-oppdrag for å gi deg en varm klem. Sikkert behagelig, hadde den ikke stått i full fyr.",
                 "tr": "Ateş Ruhu, içini ısıtacak bir kamikaze görevinde. Alevler içinde olmasa aslında çok sevimli.",
                 "jp": "この火の精霊は、敵に飛びつきたくてウズウズしています。燃えてさえいなければカワイイのですが...",
-                "kr": "파이어 스피릿은 여러분을 따뜻하게 안아주는 척하면서 폭발합니다!",
+                "kr": "파이어 스피릿은 따뜻하게 안아주는 척하면서 폭발합니다! 아레나에 불을 지르지 않는 게 다행이네요.",
                 "ru": "Огненный дух одержим идеей обнять тебя покрепче. Было бы мило, если бы он не горел.",
                 "ar": "روح النار في مهمة انتحارية لمنحك عناقًا دافئًا. لولا أنها من النار، لكان هذا العناق لطيفًا.",
                 "pt": "O Espírito de Fogo está em uma missão kamikaze para dar um abraço quentinho em você. Seria uma delícia se ele não estivesse pegando fogo.",
                 "cn": "烈焰精灵抱着必死的决心，扑向敌方给予他们一个热烈的\"拥抱\"，如果不是因为它整天想对人开火，它其实还挺可爱的。",
-                "cnt": "烈焰精靈抱著必死的決心，撲向敵方給予他們一個熱烈的\"擁抱\"，如果不是因為它們整天想對人開火，它們其實還滿可愛的。",
+                "cnt": "烈焰精靈抱著必死的決心，撲向敵方給予他們一個熱烈的\"擁抱\"，如果不是因為它整天想對人開火，它其實還滿可愛的。",
                 "fa": "این روح آتشی یه مأموریت جانفشانانه برای بغل کردن تو داره. اگر آتشین نبود خیلی صحنه زیبایی می‌شد.",
                 "id": "Roh Api punya tekad berapi-api untuk memberimu pelukan hangat. Terdengar romantis, sayangnya kamu juga akan ikut terbakar!",
                 "ms": "Roh Api ini dalam misi kamikaze untuk memberikan anda pelukan hangat. Ia semestinya comel jika ia tidak berapi.",
                 "th": "วิญญาณไฟจะทำภารกิจพลีชีพเพื่อกอดท่านให้อบอุ่น คงจะน่ารักอยู่หรอกถ้าไฟไม่ลุกท่วมขนาดนี้",
                 "fi": "Tulen henki tulee antamaan sinulle lämpöisen kamikaze-halauksen. Ihana ele muuten, mutta sehän on ilmiliekeissä.",
-                "vi": "Hỏa Tinh Linh này đang trên đường thực hiện nhiệm vụ cảm tử là trao cho bạn một cái ôm thật ấm áp. Nếu Tinh Linh này không cháy hừng hực thế kia thì thật dễ thương biết bao.",
+                "vi": "Nhiệm vụ cảm tử của Hỏa Tinh Linh là trao cho bạn một cái ôm ấm áp. Nếu nhóc Tinh Linh này không cháy hừng hực thế kia thì thật là dễ thương biết bao.",
                 "sc_key": "TID_SPELL_INFO_FIRE_SPIRITS"
             }
         }
@@ -2058,7 +2059,7 @@
                 "es": "El minero es capaz de excavar un túnel para aparecer en cualquier lugar de la arena. No es magia, es una pala. Esta pala es menos efectiva contra las torres de coronas.",
                 "it": "Il minatore può scavare una galleria sotterranea e apparire in un punto qualsiasi dell'arena. Non è magia, è una pala... che infligge danni ridotti alle torri della corona.",
                 "nl": "De mijnwerker graaft zich in en kan overal in de arena weer boven de grond komen. Dat heeft niets met magie te maken, maar alles met een goede schep. Kroontorens lopen minder schade op.",
-                "no": "Graveren kan grave seg vei under bakken og dukke opp hvor som helst i arenaen. Det er ikke magi, det er en spade. En spade som reduserer skaden på kronetårn.",
+                "no": "Graveren kan grave seg vei under bakken og dukke opp hvor som helst i arenaen. Det er ikke magi, det er en spade. En spade som gjør redusert skade på kronetårn.",
                 "tr": "Madenci, yer altında yol açarak Arenanın herhangi bir yerinde belirebilir. Büyü değil, kürek kullanır. Ancak bu kürek, Taç Kulelerine daha az hasar verir.",
                 "jp": "ディガーは地下にトンネルを掘ることでアリーナのどこにでも出現できます。魔法ではなく、ショベルの力です。なお、クラウンタワーに対してはダメージが減少します。",
                 "kr": "광부는 땅을 파고 이동해 아레나 어디에나 나타날 수 있습니다. 마법이 아니라 삽질의 힘이죠. 크라운 타워에는 비교적 적은 피해를 줍니다.",
@@ -2068,11 +2069,11 @@
                 "cn": "掘地矿工可以掘地三尺并在竞技场中的任何位置破土而出。这可不是什么魔法，他靠的是他的铲子。对皇家塔的伤害会大打折扣。",
                 "cnt": "掘地礦工可以掘地三尺並在競技場中的任何位置破土而出。這可不是什麼魔法，他靠的是他的鏟子。對皇家塔造成的傷害較低。",
                 "fa": "معدنچی می‌تونه زیر زمین راه خودش رو درست کنه و هر جا از میدان نبرد که خواست ظاهر بشه. جادویی در کار نیست، فقط یه بیل داره. بیلی که به برج‌های تاج آسیب کمتری وارد می‌کنه.",
-                "id": "Penambang dapat menggali lorong bawah tanah dan muncul di mana saja di Arena. Banyak yang mengira kalau ini berkat sihir, padahal cuma sekop, kok! Sayangnya, sekop ini akan memberikan kerusakan yang lebih kecil pada Benteng Mahkota.",
+                "id": "Penambang dapat menggali lorong bawah tanah dan muncul di mana saja di Arena. Banyak yang mengira dia menggunakan sihir, padahal cuma sekop, kok! Sayangnya, sekop ini akan memberikan kerusakan yang lebih kecil pada Benteng Mahkota.",
                 "ms": "Pelombong boleh mengorek ke bawah tanah dan muncul di mana-mana saja di arena. Ini bukan kuasa ajaib, tapi kehebatan penyodoknya. Penyodok yang melakukan kerosakan kecil ke atas menara mahkota.",
-                "th": "คนงานเหมืองสามารถขุดโพรงหาทางใต้ดิน และปรากฏขึ้นที่ไหนก็ได้ในสนามประลอง ไม่ใช่เวทมนตร์ ก็แค่พลั่ว พลั่วที่ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "th": "คนงานเหมืองสามารถขุดโพรงหาทางใต้ดิน และปรากฏขึ้นที่ไหนก็ได้ในสนามประลอง ไม่ใช่เวทมนตร์ ก็แค่พลั่ว ลดความเสียหายของพลั่วที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Kaivosmies voi kaivaa tiensä maan alitse ja ilmestyä minne päin areenaa tahansa. Siihen ei tarvita taikuutta, lapio riittää. Aiheuttaa kruunutorneille vähemmän vahinkoa kuin muille kohteille.",
-                "vi": "Thợ mỏ có thể đào đường dưới lòng đất và xuất hiện ở bất kỳ vị trí nào trong Đấu trường. Không phải đào bằng phép thuật đâu mà bằng xẻng đấy. Sát thương Xẻng gây ra cho Tháp Vương miện bị giảm.",
+                "vi": "Thợ mỏ có thể đào đường dưới lòng đất và xuất hiện ở bất kỳ vị trí nào trong Đấu trường. Không phải đào bằng phép thuật đâu mà bằng xẻng đấy. Chiếc xẻng này gây ít sát thương hơn lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_MINER"
             }
         }
@@ -2639,7 +2640,7 @@
                 "ms": "Mewujudkan lima Goblin - tiga dengan pisau, dua dengan lembing - pada kos eliksir terdiskaun. Ia seperti Pek Nilai Goblin!",
                 "th": "ให้กำเนิดก็อบลินหกตน สามตนถือมีด อีกสามตนถือหอก โดยใช้น้ำอมฤตลดลงด้วย เหมือนเป็นแพ็คก็อบลินสุดประหยัดเลยนะ!",
                 "fi": "Tähän jengiin kuuluu kolme veitsellä ja kaksi keihäällä varustettua hiittä, jotka kuluttavat yhdessä vähemmän eliksiiriä. Tämähän on kuin alelaarin korttipaketti!",
-                "vi": "Tạo ra sáu Yêu tinh - ba tên cầm dao, hai tên cầm lao - với mức phí Tiên dược thấp. Giống như Gói Giá trị Yêu tinh vậy!",
+                "vi": "Tạo ra 5 Yêu tinh - 3 tên cầm dao, 2 tên cầm lao - với mức phí Tiên dược thấp. Tiết kiệm Tiên dược là thượng sách!",
                 "sc_key": "TID_SPELL_INFO_GOBLIN_GANG"
             }
         }
@@ -3030,7 +3031,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 14,
-        "description": "Summons Bats to do her bidding! If you get too close, she isn’t afraid of pitching in with her mean-looking battle staff.",
+        "description": "Summons Bats to do her bidding! If you get too close, she's not afraid of pitching in with her mean-looking battle staff.",
         "id": 26000048,
         "_lang": {
             "name": {
@@ -3059,7 +3060,8 @@
                 "sc_key": "TID_SPELL_DARK_WITCH"
             },
             "description": {
-                "en": "Summons Bats to do her bidding! If you get too close, she isn’t afraid of pitching in with her mean-looking battle staff.",
+                "do": "TID_SPELL_INFO_DARK_WITCH",
+                "en": "Summons Bats to do her bidding! If you get too close, she's not afraid of pitching in with her mean-looking battle staff.",
                 "fr": "Invoque des chauves-souris qui obéissent à ses ordres et n'hésite pas à se servir de son redoutable bâton si vous l'approchez de trop près.",
                 "de": "Beschwört Fledermäuse, die ihr jeden Wunsch erfüllen. Kommt ihr jemand zu nahe, ist sie sich aber auch nicht zu schade, ihren unheimlichen Stab zu schwingen!",
                 "es": "Invoca murciélagos a sus órdenes. Si te acercas demasiado a ella, no dudará en echar mano de su temible vara.",
@@ -3074,7 +3076,7 @@
                 "pt": "Ela invoca Morcegos para tomarem a dianteira! Se você chegar muito perto, ela mostrará quem manda na parada.",
                 "cn": "她能召唤蝙蝠，只要她一声号令，这些蝙蝠便会为她赴汤蹈火。如果你靠得太近，她可不介意用手中那造型恐怖的法杖教训教训你。",
                 "cnt": "她能召喚蝙蝠，只要她一聲號令，這些蝙蝠便會為她赴湯蹈火。如果你靠得太近，她也不介意用手中那造型恐怖的法杖教訓教訓你。",
-                "fa": "خفاش‌ها رو فرامی‌خونه تا دستوراتش رو عملی کنن! اگر زیادی بهش نزدیک بشی، ابایی نداره از اینکه برای حمله به زیردستای بد جنسش بپیونده.",
+                "fa": "خفاش‌ها رو فرا‌می‌خونه تا دستوراتش رو عملی کنن! اگر زیادی بهش نزدیک بشی، ترسی نداره از اینکه برای حمله به زیر‌دستای بد‌جنسش بپیونده.",
                 "id": "Dia akan memanggil Kelelawar untuk membantunya bertempur! Bersiaplah untuk merasakan hantaman tongkat tempurnya jika kamu terlalu dekat!",
                 "ms": "Seru Kelawar untuk melaksanakan arahannya! Jika anda berada terlalu dekat, dia akan campur tangan dengan tongkat seramnya!",
                 "th": "เรียกค้างคาวมาใช้งานได้! หากท่านเข้าใกล้เกินไป เธอก็ไม่กลัวที่จะจัดการด้วยไม้คฑารบหน้าตาเอาเรื่องของเธอ",
@@ -4219,6 +4221,195 @@
         }
     },
     {
+        "key": "skeleton-king",
+        "name": "Skeleton King",
+        "sc_key": "SkeletonKing",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 0,
+        "description": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
+        "id": 26000069,
+        "_lang": {
+            "name": {
+                "do": "TID_SPELL_SKELETON_KING",
+                "en": "Skeleton King",
+                "fr": "Roi squelette",
+                "de": "Skelettkönig",
+                "es": "Rey esqueleto",
+                "it": "Re degli scheletri",
+                "nl": "Skelettenkoning",
+                "no": "Skjelettkonge",
+                "tr": "İskelet Kral",
+                "jp": "スケルトンキング",
+                "kr": "해골 킹",
+                "ru": "Король скелетов",
+                "ar": "ملك الهياكل العظمية",
+                "pt": "Rei Esqueleto",
+                "cn": "骷髅帝王",
+                "cnt": "骷髏之王",
+                "fa": "پادشاه اسکلتی",
+                "id": "Raja Jerangkong",
+                "ms": "Raja Rangka",
+                "th": "ราชันโครงกระดูก",
+                "fi": "Luurankokuningas",
+                "vi": "Bạch cốt Vương",
+                "sc_key": "TID_SPELL_SKELETON_KING"
+            },
+            "description": {
+                "do": "TID_SPELL_INFO_SKELETON_KING",
+                "en": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
+                "fr": "Le roi des morts-vivants en personne. Quand il se sent seul (peut-être à cause de son physique difficile), il invoque des amis qui combattent avec lui par-delà la mort. Même les gros durs peuvent avoir un cœur tendre !",
+                "de": "Der König der Untoten höchst persönlich. Manchmal ist er einsam (mit einem Gesicht, das nur eine Mutter lieben kann) und ruft Freunde herbei, die auch nach dem Tod noch für ihn kämpfen. Harte Typen haben schließlich auch Gefühle!",
+                "es": "He aquí el rey de los muertos. Cuando se siente solo, invoca a sus amigos para que se unan a él en la batalla tras haber sido derrotados. Aunque parezca un gruñón, ¡también tiene su corazoncito!",
+                "it": "Il re dei non morti in persona! A volte si sente solo, per via del suo aspetto non proprio rassicurante, ma ci mette un attimo a evocare qualche anima per farsi compagnia, pure in battaglia. Anche i duri hanno bisogno di affetto, alla fine.",
+                "nl": "De koning van de ondoden. Wanneer hij zich eenzaam voelt, brengt hij verslagen troepen terug uit de dood om hem gezelschap te houden. Stoere kerels hebben ook gevoelens!",
+                "no": "Selve kongen blant de vandøde. Han føler seg innimellom ensom (kan det ha noe med utseendet å gjøre?), og han kan tilkalle venner til kampen selv når de er døde. Tøffe karer har også følelser!",
+                "tr": "Yaşayan ölülerin Kralı. Kendini bazen yalnız hisseder (göze çok hitap etmediğinden dolayı olabilir) ve savaşta kendisine katılmaları için arkadaşlarını çağırır, ölmüş olsalar bile... Sert adamların da duyguları vardır!",
+                "jp": "その風貌は、まさに黄泉の国の王。思ったことをストレートに言ってしまう性格のせいで孤独を感じることもありますが、ピンチとあらば冥界の友が戦場に駆けつけてくれます。ガイコツにも心があるのですね！",
+                "kr": "언데드의 왕입니다. 아첨을 싫어하는 성격 탓에 간혹 외로움을 느끼기도 하지만, 전투 중에 함께할 영혼의 친구를 소환합니다. 터프가이도 감정은 있답니다!",
+                "ru": "Повелитель мертвых собственной персоной! Иногда ему становится одиноко, и он призывает друзей на помощь в бою — даже после смерти. Несмотря на суровый вид, он бывает очень сентиментален.",
+                "ar": "إنه ملك الموتى الأحياء. يشعر بالوحدة في بعض الأحيان (ربما بسبب مظهره)، وسيستدعي أصدقاء لمساعدته في المعركة حتى بعد الموت؛ فالمشاعر الصادقة لا تموت!",
+                "pt": "O próprio rei dos mortos-vivos. Às vezes, ele se sente solitário e convoca amigos derrotados em batalha para se juntarem a ele na arena. Quem vê a cara de durão não acha que ele é tão carente assim...",
+                "cn": "不死之王本王。有时他会感到孤独（可能是因为他不太招人喜欢），会把死去的朋友召回战场和他并肩作战。硬汉也有柔情！",
+                "cnt": "不死之王本尊。他有時候會感到孤單（可能是因為他不討人喜歡的特點），會把死去的朋友召回戰場和他並肩作戰。鐵漢總有柔情！",
+                "fa": "شخص پادشاه ارواح. گاهی احساس تنهایی می‌کنه (ممکنه به‌خاطر ویژگی‌های غیر‌جذابش باشه) و دوستانش رو دعوت می‌کنه تا حتی پس از مرگ در نبرد بهش بپیوندن. آدمای سرسخت هم احساسات دارن!",
+                "id": "Dialah sang Raja kematian. Meski tidak punya hati, dia sering merasa kesepian dan hampa (mungkin karena memang badannya hampa) dan untuk itu dia akan memanggil rekan-rekannya bahkan setelah tumbang!",
+                "ms": "Dia ialah raja mayat hidup. Kadangkala, dia rasa kesepian (mungkin kerana sifatnya tidak menarik) dan akan menyeru rakan untuk menyertai dia dalam pertempuran walaupun selepas mati. Lelaki kuat juga ada perasaan!",
+                "th": "แม้แต่ราชันแห่งผู้วายชนม์ก็รู้สึกโดดเดี่ยวเป็นบางเวลา (อาจเป็นเพราะรูปลักษณ์ที่ไม่น่าดึงดูดเท่าไหร่) เขาจึงอัญเชิญผองเพื่อนมาต่อสู้ร่วมกับเขา แม้เพื่อนของเขาจะตายไปแล้วก็ตาม เห็นน่ากลัวแบบนี้แต่เขาก็มีหัวใจนะ!",
+                "fi": "Siinähän on itse elävien kuolleiden kuningas! Yksinäisyys vaivaa toisinaan (ehkä hän ei ole helposti lähestyttävän oloinen), joten seuraa on kutsuttava mukaan taisteluun jopa kuolleista. Kyllä kovatkin kaverit saavat tunteilla!",
+                "vi": "Vì là vua của cõi chết nên đôi khi ông ta cảm thấy rất cô đơn (cũng có thể là do vẻ ngoài không ưa nhìn của mình). Ông ta có thể triệu hồi những linh hồn từ lòng đất trở về trợ chiến cho mình. Người đàn ông mạnh mẽ đôi khi cũng biết buồn!",
+                "sc_key": "TID_SPELL_INFO_SKELETON_KING"
+            }
+        }
+    },
+    {
+        "key": "archer-queen",
+        "name": "Archer Queen",
+        "sc_key": "ArcherQueen",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 0,
+        "description": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
+        "id": 26000072,
+        "_lang": {
+            "name": {
+                "do": "TID_SPELL_ARCHER_QUEEN",
+                "en": "Archer Queen",
+                "fr": "Reine des archers",
+                "de": "Bogenschützen-Königin",
+                "es": "Reina arquera",
+                "it": "Regina degli arcieri",
+                "nl": "Boogschutterskoningin",
+                "no": "Bueskytterdronning",
+                "tr": "Okçu Kraliçe",
+                "jp": "アーチャークイーン",
+                "kr": "아처 퀸",
+                "ru": "Королева лучниц",
+                "ar": "الملكة رامية السهام",
+                "pt": "Rainha Arqueira",
+                "cn": "弓箭女皇",
+                "cnt": "弓箭女皇",
+                "fa": "ملکه کماندار",
+                "id": "Ratu Pemanah",
+                "ms": "Permaisuri Pemanah",
+                "th": "ราชินีธนู",
+                "fi": "Jousikuningatar",
+                "vi": "Nữ hoàng Cung thủ",
+                "sc_key": "TID_SPELL_ARCHER_QUEEN"
+            },
+            "description": {
+                "do": "TID_SPELL_INFO_ARCHER_QUEEN",
+                "en": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
+                "fr": "Elle est rapide, mortelle et insaisissable. Attention à ses carreaux d'arbalète et ne clignez pas trop des yeux : vous risqueriez de la rater !",
+                "de": "Sie ist schnell, tödlich und schwer zu erwischen. Hüte dich vor ihren Armbrustbolzen - bloß nicht blinzeln, sonst entwischt sie dir!",
+                "es": "Es rauda, letal y no hay quien la atrape. Cuidadito con las flechas de su ballesta, e intenta no pestañear ¡o la perderás de vista!",
+                "it": "È veloce, ha una balestra letale e non appena ti accorgi di lei... Fum! Va via come un'anguilla!",
+                "nl": "Ze is snel, dodelijk en haast ongrijpbaar. Pas op voor haar kruisboogpijlen en verlies haar geen moment uit het oog!",
+                "no": "Hun er rask, dødbringende og vanskelig å få has på. Pass deg for armbrøsten hennes og ikke blunk. Da kan det være du mister henne av syne!",
+                "tr": "Hızlı, tehlikeli ve yakalaması zor! Pervasızca attığı oklara dikkat et ve sakın bir saniye bile gözünü kırpma, elinden kaçır gider!",
+                "jp": "強く素早い女王を捕らえるのは至難の業です。彼女のクロスボウから放たれる矢を警戒しつつ、まばたきしないように注意しましょう。一瞬の隙に姿を見失ってしまうかもしれません！",
+                "kr": "빠르고 치명적이어서 잡기 어렵습니다. 아처 퀸의 석궁에 조심하고, 쉽게 놓쳐버릴 수 있으니 눈 하나 깜박이지 말고 크게 뜨고 계세요!",
+                "ru": "Быстрая, смертоносная и неуловимая воительница. Берегись ее арбалета и смотри в оба — стоит зазеваться, и упустишь ее из виду!",
+                "ar": "إنها سريعة ومميتة، كما يصعب الإمساك بها. احذر سهام نشابتها السريعة كالبرق.",
+                "pt": "Rápida, astuta e mortal. Tome cuidado com o arco dela e não marque bobeira, pois ela desaparece num piscar de olhos!",
+                "cn": "她快如疾风、危险致命，并且难以捉摸。当心她的箭矢！和她对战别眨眼，不然你可能找不到她！",
+                "cnt": "她迅如疾風、危險致命且難以捉摸。小心她的箭矢，別眨眼，她轉瞬即逝！",
+                "fa": "اون سریع و مرگباره و گرفتنش کار سختیه. مراقب پیکان‌های کمانش باشین و سعی کنین پلک نزنین - ممکنه گمش کنین!",
+                "id": "Cepat, mematikan, dan susah dikejar! Kamu harus waspada dengan busur silang miliknya. Jangan berkedip juga jika kamu tak ingin dia lepas dari penglihatanmu!",
+                "ms": "Dia pantas, berbahaya dan sukar dikejar. Berhati-hati dengan bolt busur silangnya dan jangan mengerdipkan mata - anda mungkin terlepas dia!",
+                "th": "เธอว่องไว อันตราย และหาตัวจับยาก จงระวังลูกศรหน้าไม้ของเธอไว้ให้ดี อย่าได้คลาดสายตาเพราะเธอจะอันตรธานหายไปในทันที!",
+                "fi": "Jousikuningatarta on vaikea saada kiinni, ja kohtaaminen on kohtalokasta. Varo varsijousen nuolia, äläkä räpäytä silmiäsi, jos haluat pysyä kartalla hänen liikkeistään!",
+                "vi": "Cô ta rất nhanh và rất nguy hiểm. Chỉ cần chớp mắt một cái là cô ta sẽ vụt qua bạn như một cơn gió. Nhớ cẩn thận với những mũi tên phóng ra từ cây nỏ của cô ta đấy!",
+                "sc_key": "TID_SPELL_INFO_ARCHER_QUEEN"
+            }
+        }
+    },
+    {
+        "key": "golden-knight",
+        "name": "Golden Knight",
+        "sc_key": "GoldenKnight",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 2,
+        "description": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
+        "id": 26000074,
+        "_lang": {
+            "name": {
+                "do": "TID_SPELL_GOLDEN_KNIGHT",
+                "en": "Golden Knight",
+                "fr": "Chevalier d'or",
+                "de": "Goldener Ritter",
+                "es": "Caballero dorado",
+                "it": "Cavaliere d'oro",
+                "nl": "Gouden ridder",
+                "no": "Gullridder",
+                "tr": "Altın Şövalye",
+                "jp": "ゴールドナイト",
+                "kr": "골드 나이트",
+                "ru": "Золотой рыцарь",
+                "ar": "الفارس الذهبي",
+                "pt": "Cavaleiro Dourado",
+                "cn": "黄金圣骑",
+                "cnt": "金甲騎士",
+                "fa": "شوالیه طلایی",
+                "id": "Kesatria Emas",
+                "ms": "Kesatria Emas",
+                "th": "อัศวินทองคำ",
+                "fi": "Kultainen ritari",
+                "vi": "Hiệp sĩ Giáp vàng",
+                "sc_key": "TID_SPELL_GOLDEN_KNIGHT"
+            },
+            "description": {
+                "do": "TID_SPELL_INFO_GOLDEN_KNIGHT",
+                "en": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
+                "fr": "Un guerrier à la chevelure aussi remarquable que sa souplesse. Il sera ravi de vous faire une démonstration de ses talents de gymnaste.",
+                "de": "Ein außergewöhnlich gelenkiger Krieger mit üppigem Haar. Zeigt jedem stets gerne seine Aerobic-Performance.",
+                "es": "Este guerrero tiene una melena de infarto y una flexibilidad envidiable, y aprovecha cualquier oportunidad para alardear de sus habilidades aeróbicas.",
+                "it": "Un guerriero con dei capelli che farebbero invidia a chiunque e delle doti atletiche che non vede l'ora di mettere in mostra.",
+                "nl": "Een krijger met weelderige haren die geen kans laat liggen om zijn buitengewone lenigheid te tonen.",
+                "no": "En kriger med fyldig hår og fremragende smidighet. Viser frem de akrobatiske ferdighetene sine på bestilling.",
+                "tr": "Gösterişli bir saçı olan, olağanüstü bir esnekliğe sahip bir savaşçı. İstendiği takdirde aerobik becerilerini sergilemekten çekinmez.",
+                "jp": "綺麗な長髪と抜群の柔軟性を持ち合わせた戦士。リクエストすれば、自作のエアロビクスダンスも披露してくれます。",
+                "kr": "아름다운 머릿결과 뛰어난 유연성을 지녔습니다. 필요에 따라 에어로빅 기술을 구사합니다.",
+                "ru": "Воин с роскошной шевелюрой и поразительной гибкостью. Если попросить как следует, он покажет пару акробатических трюков.",
+                "ar": "محارب بشعر مبهر ومرونة فائقة. يستعرض مهاراته في الجمباز حسب الطلب.",
+                "pt": "Um guerreiro com flexibilidade e madeixas invejáveis. Exibe seu porte atlético e suas habilidades sempre que precisam dele.",
+                "cn": "他是一位秀发浓密、身体柔韧的战士。如有需要，他会展示自己的有氧运动技巧。",
+                "cnt": "他是一位長髮飄逸、身體柔軟度超棒的戰士。如果有需要，他會展示自己的有氧運動技巧。",
+                "fa": "جنگجویی با موهای پر‌زرق‌و‌برق و بدنی فوق‌العاده انعطاف‌پذیر. در‌صورت نیاز، مهارت‌های ایروبیکش رو نمایش می‌ده.",
+                "id": "Kesatria dengan rambut indah dan badan yang lentur. Dia suka memamerkan keahlian aerobiknya.",
+                "ms": "Seorang pahlawan dengan rambut yang aggun dan kefleksibelan luar biasa. Dia akan menunjukkan kemahiran aerobiknya atas permintaan.",
+                "th": "นักรบผู้มีเรือนผมงามและร่างกายแสนยืดหยุ่นจะมาแสดงฝีมือกายกรรมให้ดูตามเรียกร้อง",
+                "fi": "Liehuvalettinen soturi, joka on hämmästyttävän ketterä ja esittelee mielellään jumppataitojaan aiheesta kiinnostuneille.",
+                "vi": "Một chiến binh điển trai với mái tóc bồng bềnh và thân thủ cực kỳ linh hoạt. Khi được yêu cầu, anh ta sẵn sàng thể hiện kỹ năng thể dục nhịp điệu vượt trội của mình.",
+                "sc_key": "TID_SPELL_INFO_GOLDEN_KNIGHT"
+            }
+        }
+    },
+    {
         "key": "skeleton-dragons",
         "name": "Skeleton Dragons",
         "sc_key": "SkeletonDragons",
@@ -5045,7 +5236,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 2,
-        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy.",
+        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy!",
         "id": 27000009,
         "_lang": {
             "name": {
@@ -5074,27 +5265,28 @@
                 "sc_key": "TID_SPELL_TOMBSTONE"
             },
             "description": {
-                "en": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy.",
+                "do": "TID_SPELL_INFO_TOMBSTONE",
+                "en": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy!",
                 "fr": "Bâtiment qui déploie régulièrement des squelettes pour affronter l'ennemi. Sa destruction fait surgir 4 squelettes. Terrifiant !",
                 "de": "Gebäude, das in regelmäßigen Abständen Skelette erscheinen lässt, die den Feind angreifen. Bei Zerstörung erscheinen noch einmal 4 Skelette. Wie gruselig!",
                 "es": "Esta estructura genera esqueletos periódicamente. Al ser destruida despliega otros 4 esqueletos. ¡Qué cadavérico!",
-                "it": "Un edificio che schiera periodicamente scheletri per combattere il nemico. Quando viene distrutto, ne genera altri 4. Paura, eh?",
-                "nl": "Gebouw dat om de zoveel tijd skeletten voortbrengt om tegen de vijand te vechten. Als de grafsteen wordt vernietigd, verschijnen er nog 4 skeletten. Griezelig.",
+                "it": "Un edificio che schiera periodicamente scheletri per combattere il nemico. Quando viene distrutto, ne genera altri quattro. Paura, eh?",
+                "nl": "Gebouw dat om de zoveel tijd skeletten voortbrengt om tegen de vijand te vechten. Als de grafsteen wordt vernietigd, verschijnen er nog 4 skeletten. Griezelig!",
                 "no": "Bygning som jevnlig genererer skjeletter som kan slåss mot fienden. Når bygningen ødelegges, spretter det frem 4 skjeletter til. Nifst!",
-                "tr": "Belirli aralıklarla İskeletler çağıran bir bina. Yok edildiğinde de 4 İskelet daha çağırır! Korkunç.",
-                "jp": "一定時間ごとにスケルトンを出撃させる建物です。また、破壊されるとスケルトン4体を召喚します… 不気味ですね！",
+                "tr": "Belirli aralıklarla İskeletler çağıran bir bina. Yok edildiğinde de 4 İskelet daha çağırır! Korkunç!",
+                "jp": "一定時間ごとにスケルトンを出撃させる建物です。また、破壊されるとスケルトン4体を召喚します... 不気味ですね！",
                 "kr": "주기적으로 해골 병사를 내보내 적과 싸우게 합니다. 파괴되면 해골 병사 4마리가 나옵니다. 징그럽게시리!",
-                "ru": "Военное сооружение, из которого периодически выходят на бой с врагами скелеты. Если его уничтожают, выпускает еще 4 скелетов. Жуть какая!",
+                "ru": "Здание, из которого периодически выходят скелеты, чтобы сразиться с врагами. При разрушении на его месте появляются еще 4 скелета. Жуть какая!",
                 "ar": "مبنى يولد الهياكل العظمية بشكل دوري لمقاتلة العدو... وعند تدميره، يولد 4 هياكل عظمية أخرى. يا له من شيء مخيف!",
                 "pt": "Construção que mobiliza Esqueletos periodicamente para lutar contra o inimigo. Ao ser destruída, gera 4 Esqueletos. Sinistro!",
                 "cn": "军队建筑，每隔一会儿放出骷髅兵攻击敌军。被摧毁后会产生4个骷髅兵。有点小恐怖哦！",
-                "cnt": "軍隊建築，每隔一定時間會放出骷髏兵攻擊敵軍。被摧毀後會產生4個骷髏兵。恐怖喔！恐怖到了極點喔！",
-                "fa": "ساختمونی که گاهی برای نبرد با دشمن، اسکلت بیرون می‌ده... و وقتی نابود میشه، 4 تا اسکلت دیگه هم تکثیر می‌کنه. آدم مور مورش میشه.",
-                "id": "Bangunan peleton yang secara berkala mengeluarkan Jerangkong untuk menghadapi lawan. Saat hancur, mengeluarkan 4 Jerangkong lagi! Seram!",
-                "ms": "Bangunan yang mewujudkan Rangka dari semasa ke semasa untuk melawan musuh dan apabila dimusnahkan, ia akan mewujudkan lagi 4 Rangka! Seramnya.",
-                "th": "สิ่งก่อสร้างที่ค่อยๆ ปล่อยโครงกระดูกออกมาสู้กับศัตรู... และเมื่อถูกทำลาย จะปล่อยโครงกระดูกออกมาอีก 4 ตัว! น่ากลัวจัง",
+                "cnt": "軍隊建築，每隔一段時間會放出骷髏兵攻擊敵軍，被摧毀後還會產生4個骷髏兵。恐怖喔！恐怖到了極點喔！",
+                "fa": "ساختمونی که گاهی برای نبرد با دشمن، اسکلت تکثیر می‌کنه... و وقتی نابود می‌شه، 4 تا اسکلت دیگه هم تکثیر می‌کنه. آدم مور‌مورش می‌شه!",
+                "id": "Bangunan peleton yang secara berkala mengeluarkan Jerangkong untuk menghadapi lawan. Saat hancur, Empat Jerangkong lagi akan keluar! Seram!",
+                "ms": "Bangunan yang mewujudkan Rangka dari semasa ke semasa untuk melawan musuh dan apabila dimusnahkan, ia akan mewujudkan lagi 4 Rangka! Seramnya!",
+                "th": "สิ่งก่อสร้างที่ค่อยๆ ปล่อยโครงกระดูกออกมาสู้กับศัตรู... และเมื่อถูกทำลาย จะปล่อยโครงกระดูกออกมาอีก 4 ตัว! น่ากลัวจัง!",
                 "fi": "Tästä rakennuksesta lähtee taisteluun luurankoja tasaisin väliajoin. Sen tuhoutuessa esiin singahtaa vielä 4 luurankoa. Kamalaa!",
-                "vi": "Công trình này tạo ra các Bộ xương theo chu kỳ để chiến đấu với kẻ địch và... khi bị tiêu diệt, nó sẽ tạo ra thêm 4 Bộ xương nữa! Thật đáng sợ!",
+                "vi": "Công trình tạo ra Bộ xương để chiến đấu với kẻ địch... và khi bị tiêu diệt, nó sẽ tạo thêm 4 Bộ xương nữa! Thật đáng sợ!",
                 "sc_key": "TID_SPELL_INFO_TOMBSTONE"
             }
         }
@@ -5143,7 +5335,7 @@
                 "es": "El horno genera un espíritu de fuego cada vez. También es estupendo para preparar tortitas.",
                 "it": "La fornace genera uno spirito del fuoco alla volta. Può anche fabbricare ottimi pancake al forno.",
                 "nl": "De oven brengt één vuurgeest tegelijkertijd voort. Je kunt er ook prima in steengrillen.",
-                "no": "Ildstedet får én ildånd til å yngle om gangen. Det lager også deilige steinovnpannekaker.",
+                "no": "Ildstedet får én ildånd til å spawne om gangen. Det lager også deilige steinovnpannekaker.",
                 "tr": "Fırın, tek seferde bir Ateş Ruhu doğurur. Aynı zamanda harika tuğla fırın krepleri yapar.",
                 "jp": "オーブンは1体ずつファイアスピリットを生み出します。パンケーキもおいしく焼けますよ！",
                 "kr": "용광로는 파이어 스피릿을 한 번에 한 마리씩 생성합니다. 팬케이크를 굽기에도 딱이죠.",
@@ -5157,7 +5349,7 @@
                 "ms": "Relau mewujudkan satu Roh Api pada satu-satu masa. Ia juga merupakan ketuhar bata penkek yang bagus.",
                 "th": "เตาหลอมจะให้กำเนิดวิญญาณไฟครั้งละตน หรือจะใช้เป็นเตาอบแพนเค้กก็ได้นะ",
                 "fi": "Uuni syöksee yhden tulen hengen kerrallaan. Sillä voi myös valmistaa makoisia pannareita.",
-                "vi": "Lò lửa tạo ra mỗi lần một Hỏa Tinh Linh. Bếp lò này cũng làm ra những chiếc bánh kếp ngon tuyệt như được nướng bằng lò gạch.",
+                "vi": "Lò lửa tạo ra mỗi lần một Hỏa Tinh Linh. Bếp lò này còn có thể làm ra những chiếc bánh kếp ngon tuyệt như được nướng bằng lò gạch nữa đấy.",
                 "sc_key": "TID_SPELL_INFO_FIRE_SPIRIT_HUT"
             }
         }
@@ -5239,7 +5431,7 @@
             "name": {
                 "do": "TID_SPELL_GOBLIN_DRILL",
                 "en": "Goblin Drill",
-                "fr": "Foreuse gobelin",
+                "fr": "Foreuse gobeline",
                 "de": "Koboldbohrer",
                 "es": "Excavadora de duendes",
                 "it": "Trivella goblin",
@@ -5250,14 +5442,14 @@
                 "kr": "고블린 드릴",
                 "ru": "Гоблинский бур",
                 "ar": "حفار الغيلان",
-                "pt": "Goblin com Broca",
+                "pt": "Escavadeira de Goblins",
                 "cn": "哥布林钻机",
                 "cnt": "哥布林鑽地機",
                 "fa": "مته گابلین",
                 "id": "Bor Goblin",
                 "ms": "Gerudi Goblin",
                 "th": "สว่านก็อบลิน",
-                "fi": "Hiisisulkeiset",
+                "fi": "Hiisipora",
                 "vi": "Máy khoan Yêu tinh",
                 "sc_key": "TID_SPELL_GOBLIN_DRILL"
             },
@@ -5265,25 +5457,25 @@
                 "do": "TID_SPELL_INFO_GOBLIN_DRILL",
                 "en": "Building capable of burrowing underground and appearing anywhere in the Arena. Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything nearby has been properly stabbed.",
                 "fr": "Bâtiment capable de se frayer un chemin souterrain pour ressurgir n'importe où dans l'arène et invoquer des gobelins un par un. Lorsqu'elle est détruite, la foreuse invoque quelques gobelins de plus, histoire de ne rien laisser au hasard.",
-                "de": "Ein Gebäude, das sich einbuddeln und überall in der Arena wieder auftauchen kann. Es schickt Kobolde einzeln in den Kampf, bis es zerstört wird. Wenn es zerstört wird, erscheinen nochmal ein paar Kobolde, um sicherzugehen, dass alles in der Nähe fachgerecht mit Dolchen bearbeitet wurde.",
+                "de": "Ein Gebäude, das sich einbuddeln und überall in der Arena wieder auftauchen kann. Es schickt Kobolde einzeln in den Kampf, bis es zerstört wird. Wenn es zerstört wird, erscheinen noch einmal ein paar Kobolde, um sicherzugehen, dass alles in der Nähe fachgerecht mit Dolchen bearbeitet wurde.",
                 "es": "Esta estructura es capaz de excavar bajo tierra y aparecer en cualquier sitio de la arena. Genera duendes de uno en uno hasta que es destruida. En ese momento, genera unos cuantos duendes más para garantizar que todo quede hecho pedazos.",
                 "it": "Questo edificio scava un tunnel sotterraneo per apparire in un qualsiasi punto dell'arena, da dove genera un goblin per volta, fino alla distruzione. A quel punto, ne rilascia altri, pronti a terminare l'opera.",
                 "nl": "Dit gebouw kan zich ingraven en overal in de arena weer boven de grond komen. Het brengt één voor één kobolden voort totdat het wordt vernietigd. Vervolgens komen er nog enkele kobolden tevoorschijn om de steekpartij af te maken.",
-                "no": "En bygning som kan grave seg under bakken og dukke opp hvor som helst i arenaen. Når boret ødelegges, yngler det en og en nisse. Deretter dukker det opp noen få til, bare for å være sikker på at alt i nærheten er blitt stukket ordentlig.",
+                "no": "En bygning som kan grave seg under bakken og dukke opp hvor som helst i arenaen. Spawner en og en nisse til boret er ødelagt. Deretter dukker det opp noen få til, bare for å være sikker på at alt i nærheten er blitt stukket ordentlig.",
                 "tr": "Bu bina, yer altında yol açarak Arenanın herhangi bir yerine çıkabilir. Yok edilene kadar içinden teker teker Goblinler çıkar. Yok edilince birkaç Goblin daha çıkartıp etrafındaki düşmanlara son bir ders verir.",
                 "jp": "地中に潜るドリルを装備したこの建物は、アリーナのどこにでも配置することができます。地上に現れるとゴブリンを1体ずつ召喚し、破壊されると一気に数体が飛び出します。周囲のものは、もれなくズタボロにされることでしょう。",
                 "kr": "지하로 이동해 아레나 어디서든 나타날 수 있는 건물입니다. 파괴될 때까지 한 번에 하나씩 고블린을 내보냅니다. 파괴 시 고블린 몇 마리가 나와 주변을 확실하게 찔러봅니다.",
                 "ru": "Здание, которое прячется под землей и появляется где угодно на арене. Выпускает по одному гоблину, пока не окажется разрушено, а затем еще нескольких, чтобы уж точно всем досталось.",
-                "ar": "مبنى بإمكانه النزول تحت الأرض والظهور في أي مكان في الساحة. يولد الغيلان واحدًا تلو الآخر إلى أن يتم تدميره. بعد ذلك ستخرج بضعة غيلان إضافية تحرص على مهاجمة أي أهداف قريبة بسلاحها الأبيض.",
+                "ar": "مبنى بإمكانه الحفر تحت الأرض والظهور في أي مكان في الساحة. يولد الغيلان واحدًا تلو الآخر إلى أن يتم تدميره. بعد ذلك ستخرج بضعة غيلان إضافية تحرص على مهاجمة أي أهداف قريبة بسلاحها الأبيض.",
                 "pt": "Construção capaz de se enterrar e aparecer em qualquer lugar na arena. Gera um Goblin por vez até ser destruída. Por fim, gera alguns Goblins num último suspiro para garantir uma facada em tudo por perto.",
                 "cn": "建筑卡牌，在地底穿行并能从竞技场的任何位置钻出。钻机里每次会跑出一个哥布林，被摧毁时，还会再跑出几个哥布林，手持匕首捅向附近的敌人或建筑。",
                 "cnt": "建築卡牌，在地底穿行並能從競技場的任何位置鑽出。鑽頭裡每次會跑出一個哥布林，被摧毀時，還會再跑出幾個哥布林，手持匕首捅向附近的敵人或建築。",
                 "fa": "تو این ساختمون این قابلیت وجود داره که می‌شه زیر زمین تونل زد و هر جایی تو میدان نبرد ظاهر شد. تا وقتی که نابود نشده، هر بار یه گابلین ایجاد می‌کنه. بعدش چند تای دیگه ایجاد می‌کنه تا مطمئن بشه که هرچی اطرافش هست حسابی با چاقو زخم و زیلی میشه.",
-                "id": "Bangunan ini mampu menggali lorong bawah tanah dan muncul di mana saja di Arena lalu mengerahkan satu Goblin dalam satu waktu. Saat dihancurkan, beberapa Goblin akan dikerahkan untuk menyapu bersih peleton di sekelilingnya.",
+                "id": "Bangunan ini mampu menggali lorong bawah tanah dan muncul di mana saja di Arena lalu mengerahkan satu Goblin dalam satu waktu. Saat dihancurkan, beberapa Goblin akan dikerahkan untuk memberikan perlawanan terakhir.",
                 "ms": "Unit yang boleh mengorek ke bawah tanah dan muncul di mana-mana di arena. Mewujudkan Goblin satu demi satu sehingga musnah. Kemudian, mewujudkan lagi beberapa Goblin untuk memastikan tiada unit yang tinggal di berdekatan.",
-                "th": "สิ่งก่อสร้างที่สามารถขุดพื้นและโผล่ขึ้นมาที่ไหนก็ได้ในสนามประลอง และปล่อยก็อบลินครั้งละตัวจนกว่าจะถูกทำลาย เมื่อถึงเวลานั้นจะปล่อยก็อบลินออกมาอีกสองสามตัวเพื่อแทงทุกสิ่งในบริเวณจนพรุน",
+                "th": "สิ่งก่อสร้างที่สามารถขุดพื้นและโผล่ขึ้นมาที่ไหนก็ได้ในสนามประลอง และปล่อย\nก็อบลินครั้งละตัวจนกว่าจะถูกทำลาย เมื่อถึงเวลานั้นจะปล่อยก็อบลินออกมาอีกสองสามตัวเพื่อแทงทุกสิ่งในบริเวณจนพรุน",
                 "fi": "Rakennus, joka voi kaivautua maan alle ja tulla esiin missä tahansa päin areenaa. Tuottaa hiisiä yhden kerrallaan tuhoutumiseensa saakka, jolloin hiisiä ilmestyy vielä muutama lisää - vain siltä varalta, että areenalla olisi vielä jotakin, jota ei ole pistetty tikarilla ihan tarpeeksi.",
-                "vi": "Công trình này có khả năng đào đường dưới lòng đất và xuất hiện tại bất kỳ vị trí nào trong Đấu trường, đồng thời tạo ra mỗi lần một Yêu tinh cho đến khi bị phá hủy. Sau đó sẽ tạo ra thêm một số Yêu tinh nữa, để đảm bảo mọi thứ xung quanh đều được xử lý triệt để.",
+                "vi": "Chiếc máy khoan này có thể đào đường dưới lòng đất và xuất hiện tại bất kỳ vị trí nào trong Đấu trường, đồng thời tạo ra mỗi lần một Yêu tinh cho đến khi bị phá hủy. Sau đó sẽ tạo ra thêm một số Yêu tinh nữa, để đảm bảo mọi thứ xung quanh đều được xử lý triệt để.",
                 "sc_key": "TID_SPELL_INFO_GOBLIN_DRILL"
             }
         }
@@ -5346,7 +5538,7 @@
                 "ms": "Daaann... Bebola Api. Membakar kawasan kecil, menyebabkan kerosakan besar. Mengurangkan kerosakan terhadap Menara Mahkota..",
                 "th": "แล้วววววก็... ลูกไฟ เผาไหม้บริเวณเล็กๆ สร้างความเสียหายสูง ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Mikäs se sieltä tulee...? Tulipallo! Se polttaa pienen alueen, mutta aiheuttaa sille suurta tuhoa. Kruunutorneille se tosin tekee vähemmän vahinkoa.",
-                "vi": "Vààààà... bắn ra quả cầu lửa. Gây sát thương lớn dù chỉ thiêu đốt trong phạm vi nhỏ. Giảm sát thương gây ra lên Tháp Vương miện.",
+                "vi": "Vààààà... bắn ra quả cầu lửa. Gây sát thương lớn dù chỉ thiêu đốt trong phạm vi nhỏ. Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_FIREBALL"
             }
         }
@@ -5409,7 +5601,7 @@
                 "ms": "Anak panah menghujani kawasan besar, merosakkan semua nilai nyawa musuh. Mengurangkan kerosakan terhadap Menara Mahkota.",
                 "th": "ลูกธนูกระจายในบริเวณกว้าง สร้างความเสียหายแก่ศัตรูทุกตัวที่ยิงโดน ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Nuolet osuvat laajalle alueelle ja vahingoittavat kaikkia joukkoja, joihin osuvat. Kruunutorneille ne aiheuttavat vähemmän vahinkoa.",
-                "vi": "Rải thảm một khu vực lớn bằng mưa tên, gây sát thương cho mọi đối tượng trúng tên. Bị giảm sát thương gây ra lên Tháp Vương miện.",
+                "vi": "Rải thảm một khu vực lớn bằng mưa tên, gây sát thương cho mọi đối tượng trúng tên. Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_ARROWS"
             }
         }
@@ -5535,7 +5727,7 @@
                 "ms": "Menyebabkan kerosakan besar kepada kawasan kecil. Nampak agak hebat melakukannya. Melakukan kerosakan kecil terhadap Menara Mahkota.",
                 "th": "สร้างความเสียหายอย่างสูงแก่บริเวณเล็กๆ ดูเท่ด้วยเวลาทำแบบนั้น ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Raketti aiheuttaa suurta tuhoa pienellä alueella ja tekee sen tyylillä. Kruunutorneille se aiheuttaa vähemmän vahinkoa.",
-                "vi": "Gây sát thương lớn lên một khu vực nhỏ. Cảnh tượng công phá tuyệt đẹp. Bị giảm sát thương gây ra lên Tháp Vương miện.",
+                "vi": "Gây sát thương lớn lên một khu vực nhỏ. Cảnh tượng công phá tuyệt đẹp. Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_ROCKET"
             }
         }
@@ -5598,7 +5790,7 @@
                 "ms": "Mewujudkan tiga Goblin di mana-mana sahaja dalam Arena. Ia akan menjadi tunggangan mendebarkan, ayuh geng!",
                 "th": "ให้กำเนิดก็อบลินที่ไหนก็ได้ในสนามประลอง มันส์แน่ๆ เพื่อนฝูง!",
                 "fi": "Tynnyri lennättää kolme hiittä minne päin areenaa tahansa. Tämä on kovaa kyytiä, pojat!",
-                "vi": "Tạo ra ba tên Yêu tinh ở bất kỳ vị trí nào trong Đấu trường. Chuyến này đi vui lắm đây các cậu ạ!",
+                "vi": "Tạo ra 3 tên Yêu tinh ở bất kỳ vị trí nào trong Đấu trường. Chuyến đi này sẽ vui lắm đấy, các chàng trai!",
                 "sc_key": "TID_SPELL_INFO_GOBLIN_BARREL"
             }
         }
@@ -5657,11 +5849,11 @@
                 "cn": "冻结军队和建筑，使其无法移动或攻击，还能对其造成伤害。瞧，敌人已经瑟瑟发抖了！对皇家塔的伤害会大打折扣。",
                 "cnt": "凍結軍隊和建築，使其無法移動或攻擊，還能對其造成傷害。你看，敵人都已經在瑟瑟發抖了！對皇家塔造成的傷害較低。",
                 "fa": "نیروها و ساختمون‌های دشمن رو منجمد می‌کنه و بهشون آسیب می‌رسونه و باعث میشه دیگه امکان حرکت یا حمله کردن رو نداشته باشن. همه یخ می‌زنن. آسیبی که به برج‌های تاج وارد می‌شه کم شده.",
-                "id": "Anjing Es mampu membekukan dan memberikan kerusakan pada peleton dan bangunan lawan, membuat mereka tak mampu bergerak atau menyerang. Brrrrr! Dia akan memberikan kerusakan lebih kecil pada Benteng Mahkota.",
+                "id": "Mantra Pembeku mampu membekukan, memberikan kerusakan, serta membuat peleton dan bangunan lawan tak mampu bergerak atau menyerang. Brrrrr! Kerusakan yang diberikan pada Benteng Mahkota akan lebih kecil.",
                 "ms": "Membekukan serta merosakkan askar dan bangunan musuh, menghalang mereka bergerak atau menyerang. Melakukan kerosakan kecil ke atas menara mahkota.",
                 "th": "แช่แข็งและสร้างความเสียหายให้กับกองกำลังและสิ่งก่อสร้าง ทำให้ไม่สามารถขยับหรือโจมตีได้ ชิลไปไหน ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Loitsu jäädyttää ja vahingoittaa vihollisjoukkoja ja -rakennuksia ja estää niitä liikkumasta tai hyökkäämästä. Jäitä hattuun! Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
-                "vi": "Đóng băng và gây sát thương lên binh lính và công trình của địch, khiến chúng không thể di chuyển hay tấn công. Hừ hừ... Thật là lạnh! Sát thương gây ra cho Tháp Vương miện bị giảm.",
+                "vi": "Đóng băng và gây sát thương lên binh lính và công trình của địch, khiến chúng không thể di chuyển hay tấn công. Hừ hừ... Thật là lạnh! Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_FREEZE"
             }
         }
@@ -5787,7 +5979,7 @@
                 "ms": "Sambaran petir merosakkan dan memegunkan sehingga tiga askar atau bangunan musuh dengan nilai nyawa paling banyak dalam kawasan sasaran. Melakukan kerosakan kecil terhadap menara mahkota.",
                 "th": "สายฟ้าฟาดสร้างความเสียหายและหยุดชะงักกองกำลังหรือสิ่งก่อสร้างศัตรูมากสุดสามอย่างที่มีพลังชีวิตมากที่สุด ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Salamaniskut vahingoittavat ja jähmettävät vaikutusalueellaan niitä kolmea vihollisen joukkoa tai rakennusta, joilla on korkeimmat elinvoimapisteet. Kruunutorneille niistä koituu vähemmän vahinkoa.",
-                "vi": "Tia sét gây sát thương và làm choáng tối đa ba kẻ địch hoặc công trình có lượng máu cao nhất trong khu vực bị đánh trúng. Bị giảm sát thương gây ra lên Tháp Vương miện.",
+                "vi": "Tia sét gây sát thương và làm choáng tối đa ba kẻ địch hoặc công trình có lượng máu cao nhất trong khu vực bị đánh trúng. Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_LIGHTNING"
             }
         }
@@ -5850,7 +6042,7 @@
                 "ms": "Renjat musuh, memegunnya seketika dan menyebabkan kerosakan dalam kawasan kecil. Mengurangkan kerosakan terhadap Menara Mahkota.",
                 "th": "ช็อตศัตรู ทำให้พวกนั้นชะงักเป็นเวลาสั้นๆ และก่อความเสียหายภายในรัศมีเล็กๆ ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Loitsu antaa sähköiskun, joka hetkellisesti pysäyttää vihollisen ja tekee tuhoa pienellä alueella. Kruunutorneille siitä koituu vähemmän vahinkoa.",
-                "vi": "Giật sét kẻ địch, làm chúng bị choáng trong thời gian ngắn và gây sát thương bên trong phạm vi nhỏ. Bị giảm sát thương gây ra lên Tháp Vương miện.",
+                "vi": "Giật sét kẻ địch, làm chúng bị choáng trong thời gian ngắn và gây sát thương bên trong phạm vi nhỏ. Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_ZAP"
             }
         }
@@ -5913,7 +6105,7 @@
                 "ms": "Meliputi kawasan dengan toksin yang membawa maut, merosakkan askar musuh dan bangunan sedikit demi sedikit. Tetapi rumput kekal hijau dan sihat. Aneh! Melakukan kerosakan kecil ke atas menara mahkota.",
                 "th": "ปกคลุมบริเวณด้วยสารพิษถึงตาย สร้างความเสียหายแก่กองกำลังและสิ่งก่อสร้างตามระยะเวลา แต่ต้นหญ้ายังเขียวชอุ่มเหมือนเดิมนะ เจ๋งไหมล่ะ! ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Kuolettava myrkky tuhoaa hiljalleen vihollisen joukkoja ja rakennuksia. Se kuitenkin jättää areenan ruohon elinvoimaisen vihreäksi, jännä juttu! Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
-                "vi": "Bao phủ một khu vực bằng chất độc cực mạnh, gây sát thương lên binh lính và công trình theo thời gian. Tuy vậy, cỏ cây bị trúng chất độc vẫn tươi tốt. Thử đi rồi sẽ biết! Sát thương gây ra cho Tháp Vương miện bị giảm.",
+                "vi": "Bao phủ một khu vực bằng chất độc cực mạnh, gây sát thương lên binh lính và công trình theo thời gian. Tuy vậy, cỏ cây bị trúng chất độc vẫn tươi tốt. Thử đi rồi sẽ biết! Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_POISON"
             }
         }
@@ -5976,7 +6168,7 @@
                 "ms": "Kejutan! Ia sebuah parti. Parti Rangka, di mana-mana dalam Arena. Yeay!",
                 "th": "เซอร์ไพรส์! ได้เวลาปาร์ตี้แล้ว ปาร์ตี้โครงกระดูก ที่ไหนก็ได้ในสนามประลอง เย้!",
                 "fi": "Yllätyyys! Luurangot pistävät yllätysbileet pystyyn missä päin areenaa tahansa. Jippii!",
-                "vi": "Ngạc nhiên chưa! Cả một bữa tiệc. Một bữa tiệc Bộ xương, ở bất cứ đâu trong Đấu trường. Hoan hô!",
+                "vi": "Ngạc nhiên chưa! Cả một bữa tiệc. Một bữa tiệc Bộ xương, ở bất cứ đâu trong Đấu trường. Yay!",
                 "sc_key": "TID_SPELL_INFO_GRAVEYARD"
             }
         }
@@ -6029,7 +6221,7 @@
                 "tr": "Masum bir ağaç gövdesine yanlışlıkla Öfke büyüsü dökülünce \"Tomruk\" doğdu. Şimdi yoluna çıkan herkesi ezerek intikam alıyor! Taç Kulelerine daha az hasar verir.",
                 "jp": "こぼれたレイジの呪文の影響で、切り倒された樹木が恐ろしい\"ローリングウッド\"に姿を変えました。復讐に燃えながら、転がる先のあらゆる物体を破壊しようとしています！なお、クラウンタワーに対してはダメージが減少します。",
                 "kr": "실수로 쏟은 분노 마법이 나무토막을 \"통나무\"로 바꿔버렸습니다. 통나무는 앞을 가로막는 모든 걸 뭉개버리며 굴러갑니다! 크라운 타워에는 비교적 적은 피해를 줍니다.",
-                "ru": "Случайно разлитая бутылочка ярости превратила обычное упавшее дерево в \"бревно.\" Оно жаждет мести, круша все на своем пути! Наносит пониженный урон королевским башням.",
+                "ru": "Случайно разлитая бутылочка ярости превратила обычное упавшее дерево в БРЕВНО. Оно жаждет мести, круша все на своем пути! Наносит пониженный урон королевским башням.",
                 "ar": "زجاجة غضب منسكب حولت فرع شجرة بريئًا إلى \"الجذع\". الآن، يسعى للانتقام بسحق أي شيء في طريقه! يلحق ضررًا مخفضًا بأبراج التاج.",
                 "pt": "Uma garrafa de Fúria se quebrou e transformou um tronco inocente em... \"O Tronco\"! Agora, ele busca vingança destruindo tudo pelo caminho! Dano reduzido contra as torres da coroa.",
                 "cn": "不小心洒出的狂暴药水将这根无辜的圆木变成了\"复仇滚木\"。现在，它一心复仇，会无情碾过挡在面前的一切！对皇家塔的伤害会大打折扣。",
@@ -6039,7 +6231,7 @@
                 "ms": "Sebotol Sihir Kemarahan tertumpah dan menukarkan batang pokok menjadi \"Kayu Balak\". Sekarang, ia membalas dendam dengan menghancurkan apa jua dalam laluannya! Melakukan kerosakan kecil ke atas menara mahkota.",
                 "th": "ขวดอาคมคลุ้มคลั่งที่หกได้เปลี่ยนขอนไม้ไร้เดียงสาเป็น\"เดอะล็อก\" แล้วตอนนี้มันก็พยายามแก้แค้นโดยการพังทุกอย่างที่ขวางหน้า! ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Rikkinäinen raivoloitsupullo läikkyi harmittoman puunrungon päälle ja muutti sen tukiksi. Nyt tukki raivoaa ympäriinsä jyräten kaiken tieltään! Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
-                "vi": "Một chai phép Cuồng nộ nộ bị đổ đã biến một thân cây vô tội thành \"Khúc gỗ\". Giờ đây, khúc gỗ này tìm cách trả thù bằng cách nghiền nát tất cả mọi thứ cản đường! Sát thương gây ra cho Tháp Vương miện bị giảm.",
+                "vi": "Một chai phép Cuồng nộ bị đổ lên một thân cây vô hại và biến nó thành \"Khúc gỗ\". Giờ đây, khúc gỗ này nghiền nát mọi thứ cản đường nó để trả thù! Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_LOG"
             }
         }
@@ -6400,13 +6592,13 @@
                 "en": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down. Reduced damage to Crown Towers.",
                 "fr": "On dit qu'elle a commencé à rouler du haut du sommet glacé et ne s'est jamais arrêtée depuis, percutant et ralentissant les ennemis sur son chemin... Dégâts réduits sur les tours couronnées.",
                 "de": "Er ist GIGANTISCH! Sobald er auf dem Gefrorenen Gipfel losgerollt war, konnte ihn nichts mehr aufhalten. Getroffene Feinde werden weggestoßen und verlangsamt. Richtet weniger Schaden an Kronentürmen an.",
-                "es": "¡Esta bola de nieve es inmensa! Cuando salió rodando por el Pico helado, no hubo cómo frenarla. Los enemigos recibirán un impacto y el frío les hará ir más lentos. Es menos efectivo contra las torres de coronas.",
+                "es": "¡Esta bola de nieve es inmensa! Cuando salió rodando por el Pico helado, no hubo cómo frenarla. Los enemigos recibirán un impacto y el frío les hará ir más lentos. Es menos efectiva contra las torres de coronas.",
                 "it": "È IMMENSA! Ha iniziato a rotolare giù dal picco ghiacciato e nessuno è riuscito a fermarla. Respinge e rallenta i nemici colpiti, e infligge danni ridotti alle torri della corona.",
                 "nl": "Zodra deze enorme sneeuwbal van de Bevroren bergtop begon te rollen, was er geen houden aan! Vijanden worden teruggeduwd en vertraagd. Kroontorens lopen minder schade op.",
                 "no": "Den er ENORM! Så snart den begynte å trille ned Frossenfjell, var den umulig å stanse. Fiender som blir truffet, slås tilbake og mister fart. Redusert skade på kronetårn.",
                 "tr": "KOCAMAN! Donmuş Zirveden yuvarlanmaya başladığında durdurulması imkansız! Çarptığı düşmanları püskürtür ve yavaşlatır. Taç Kulelerine daha az hasar verir.",
                 "jp": "なんとも巨大です！フローズンピークの峰から転がり始めたら、もう誰にも止められません。ぶつかった敵は押し戻され、スロー状態になります。なお、クラウンタワーに対してはダメージが減少します。",
-                "kr": "거대 눈덩이가 얼음 골짜기에서 굴러떨어지기 시작하면 아무도 멈출 수 없습니다. 맞은 적들은 뒤로 밀려나며 느려집니다. 크라운 타워에는 비교적 적은 피해를 줍니다.",
+                "kr": "얼음 골짜기에서 굴러떨어지기 시작한 거대 눈덩이는 아무도 멈출 수 없습니다! 맞은 적들은 뒤로 밀려나며 느려집니다. 크라운 타워에는 비교적 적은 피해를 줍니다.",
                 "ru": "Он ОГРОМЕН! Когда он покатился с Ледяного пика, его было не остановить. Отбрасывает назад и замедляет врагов. Наносит пониженный урон королевским башням.",
                 "ar": "إنها عملاقة! عندما تبدأ في التدحرج أسفل القمة المتجمدة، لا يمكن إيقافها. عند إصابة الأعداء، تدفعهم للخلف وتبطئ من حركتهم. تلحق ضررًا مخفضًا بأبراج التاج.",
                 "pt": "A Bola de Neve é enorme! Depois que começa a descer rolando pelo Pico Congelado, não tem como parar. Inimigos atingidos são empurrados e perdem velocidade. Dano reduzido contra as torres da coroa.",
@@ -6415,9 +6607,9 @@
                 "fa": "خیلی بزرگه! وقتی از قله یخ‌زده پایین میاد، هیچی جلودارش نیست. ضربه‌های دشمنان رو دفع و سرعتشون رو کم می‌کنه. آسیبی که به برج‌های تاج وارد می‌شه کم شده.",
                 "id": "BESAAAR! Saat mulai menggelinding dari Puncak Beku, tiada yang mampu menghentikannya. Lawan akan terhantam mundur dan akan bergerak lebih lambat. Kerusakan yang diberikan pada Benteng Mahkota lebih kecil.",
                 "ms": "Ia BESAR! Sebaik sahaja ia mula bergolek turun dari Puncak Beku, tiada apa yang boleh menghalangnya. Musuh yang terkena akan ditolak dan diperlahankan. Melakukan kerosakan kecil ke atas menara mahkota.",
-                "th": "มันใหญ่มาก! เมื่อใดที่มันกลิ้งลงมาจากยอดเยือกแข็งแล้วก็ไม่มีทางหยุดยั้ง ศัตรูที่โดนเข้าจะกระเด็นถอยหลังและช้าลง ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
+                "th": "มันใหญ่มาก! เมื่อใดที่มันกลิ้งลงมาจากยอดเขาเยือกแข็งแล้วก็ไม่มีทางหยุดยั้ง ศัตรูที่โดนเข้าจะกระเด็นถอยหลังและช้าลง ลดความเสียหายที่ทำต่อหอคอยมงกุฎ",
                 "fi": "Se on JÄÄTÄVÄN SUURI! Kun pallo lähtee vyörymään alas Hyytävää huippua, sitä ei pysäytä mikään. Tielle osuvat viholliset kaatuvat ja heidän etenemisensä hidastuu. Aiheuttaa kruunutorneille vähemmän tuhoa kuin muille kohteille.",
-                "vi": "Quả cầu tuyết có kích cỡ CỰC LỚN! Một khi đã bắt đầu lăn xuống từ Băng Đỉnh thì không có gì cản lại được. Khi lăn trúng kẻ địch, quả cầu tuyết sẽ đẩy lùi và làm chậm bước tiến của chúng. Sát thương gây ra cho Tháp Vương miện bị giảm.",
+                "vi": "Quả cầu tuyết này có kích cỡ CỰC LỚN! Một khi đã bắt đầu lăn xuống từ Băng Đỉnh thì không có gì cản lại được. Khi lăn trúng kẻ địch, quả cầu tuyết sẽ đẩy lùi và làm chậm bước tiến của chúng. Giảm sát thương lên Tháp Vương miện.",
                 "sc_key": "TID_SPELL_INFO_SNOWBALL"
             }
         }

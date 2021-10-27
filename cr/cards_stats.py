@@ -143,7 +143,7 @@ class CharacterBuffs(CardTypes):
 
 class CardStats(BaseGen):
     """Card stats"""
-    max_common_level = 13
+    max_common_level = 14
 
     if max_common_level == 13:
         max_levels = dict(

@@ -101,7 +101,8 @@
             "Draft_TD_Buildings",
             "Draft_TD_DamageSpells",
             "Draft_TD_AntiAir",
-            "Draft_TD_CheapDudes"
+            "Draft_TD_CheapDudes",
+            "Draft_TD_Champions"
         ]
     },
     {
@@ -161,7 +162,8 @@
             "Draft_RH_MiniTank",
             "Draft_RH_Basic3s",
             "Draft_RH_CycleUnder3",
-            "Draft_RH_CheapAntiAir"
+            "Draft_RH_CheapAntiAir",
+            "Draft_RH_Champions"
         ]
     },
     {

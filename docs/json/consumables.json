@@ -28,7 +28,8 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
             50,
@@ -44,13 +45,14 @@
             800,
             1000,
             2000,
+            5000,
             5000
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": true,
-        "max_amount_in_chronos": 28000,
+        "max_amount_in_chronos": 5000,
         "chronos_gem_value100": 50,
         "on_overflow_gold_value": 5,
         "on_overflow_gem_value": 0,
@@ -61,6 +63,7 @@
         "chest_appear_effect": "wildcard_openChest_get_common",
         "chest_loop_effect": "wildcard_openChest_loop_common",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_COMMON",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON",
@@ -97,8 +100,8 @@
                 "nl": "Gebruik jokers om een kaart sneller te upgraden!",
                 "no": "Bruk jokere for å gi et kort fremdrift til oppgradering!",
                 "tr": "Joker Kartlarla istediğin karta yükseltme puanı ekleyebilirsin!",
-                "jp": "ワイルドカードを使えば、好きなカードを追加してアップグレードを進めることができます！",
-                "kr": "레벨 업그레이드에 필요한 카드를 추가합니다.",
+                "jp": "ワイルドカードを使えば、好きなカードをまとめて入手することができます！",
+                "kr": "레벨 업에 필요한 카드를 추가합니다.",
                 "ru": "Используй карту-джокера, чтобы приблизить улучшение любой карты!",
                 "ar": "استخدم بطاقات جوكر للتقدم في ترقية أي بطاقة.",
                 "pt": "Use curingas para melhorar qualquer carta!",
@@ -193,7 +196,8 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
             20,
@@ -209,13 +213,14 @@
             200,
             400,
             800,
-            1000
+            1000,
+            1250
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": true,
-        "max_amount_in_chronos": 2800,
+        "max_amount_in_chronos": 1250,
         "chronos_gem_value100": 500,
         "on_overflow_gold_value": 50,
         "on_overflow_gem_value": 0,
@@ -226,6 +231,7 @@
         "chest_appear_effect": "wildcard_openChest_get_rare",
         "chest_loop_effect": "wildcard_openChest_loop_rare",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_RARE_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_RARE",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_WILDCARD_RARE",
@@ -262,8 +268,8 @@
                 "nl": "Gebruik jokers om een kaart sneller te upgraden!",
                 "no": "Bruk jokere for å gi et kort fremdrift til oppgradering!",
                 "tr": "Joker Kartlarla istediğin karta yükseltme puanı ekleyebilirsin!",
-                "jp": "ワイルドカードを使えば、好きなカードを追加してアップグレードを進めることができます！",
-                "kr": "레벨 업그레이드에 필요한 카드를 추가합니다.",
+                "jp": "ワイルドカードを使えば、好きなカードをまとめて入手することができます！",
+                "kr": "레벨 업에 필요한 카드를 추가합니다.",
                 "ru": "Используй карту-джокера, чтобы приблизить улучшение любой карты!",
                 "ar": "استخدم بطاقات جوكر للتقدم في ترقية أي بطاقة.",
                 "pt": "Use curingas para melhorar qualquer carta!",
@@ -358,7 +364,8 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
             2,
@@ -374,13 +381,14 @@
             20,
             50,
             100,
+            200,
             200
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": true,
-        "max_amount_in_chronos": 280,
+        "max_amount_in_chronos": 200,
         "chronos_gem_value100": 5000,
         "on_overflow_gold_value": 500,
         "on_overflow_gem_value": 0,
@@ -390,6 +398,7 @@
         "chest_appear_effect": "wildcard_openChest_get_epic",
         "chest_loop_effect": "wildcard_openChest_loop_epic",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_EPIC",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC",
@@ -426,8 +435,8 @@
                 "nl": "Gebruik jokers om een kaart sneller te upgraden!",
                 "no": "Bruk jokere for å gi et kort fremdrift til oppgradering!",
                 "tr": "Joker Kartlarla istediğin karta yükseltme puanı ekleyebilirsin!",
-                "jp": "ワイルドカードを使えば、好きなカードを追加してアップグレードを進めることができます！",
-                "kr": "레벨 업그레이드에 필요한 카드를 추가합니다.",
+                "jp": "ワイルドカードを使えば、好きなカードをまとめて入手することができます！",
+                "kr": "레벨 업에 필요한 카드를 추가합니다.",
                 "ru": "Используй карту-джокера, чтобы приблизить улучшение любой карты!",
                 "ar": "استخدم بطاقات جوكر للتقدم في ترقية أي بطاقة.",
                 "pt": "Use curingas para melhorar qualquer carta!",
@@ -522,7 +531,8 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
             1,
@@ -538,6 +548,7 @@
             2,
             4,
             10,
+            20,
             20
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
@@ -555,6 +566,7 @@
         "chest_appear_effect": "wildcard_openChest_get_legendary",
         "chest_loop_effect": "wildcard_openChest_loop_legendary",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_LEGENDARY",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY",
@@ -591,8 +603,8 @@
                 "nl": "Gebruik jokers om een kaart sneller te upgraden!",
                 "no": "Bruk jokere for å gi et kort fremdrift til oppgradering!",
                 "tr": "Joker Kartlarla istediğin karta yükseltme puanı ekleyebilirsin!",
-                "jp": "ワイルドカードを使えば、好きなカードを追加してアップグレードを進めることができます！",
-                "kr": "레벨 업그레이드에 필요한 카드를 추가합니다.",
+                "jp": "ワイルドカードを使えば、好きなカードをまとめて入手することができます！",
+                "kr": "레벨 업에 필요한 카드를 추가합니다.",
                 "ru": "Используй карту-джокера, чтобы приблизить улучшение любой карты!",
                 "ar": "استخدم بطاقات جوكر للتقدم في ترقية أي بطاقة.",
                 "pt": "Use curingas para melhorar qualquer carta!",
@@ -685,9 +697,11 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -707,7 +721,7 @@
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": false,
-        "max_amount_in_chronos": 3,
+        "max_amount_in_chronos": 2,
         "chronos_gem_value100": 50000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
@@ -715,6 +729,7 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_common_book",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_COMMON",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON",
@@ -752,7 +767,7 @@
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
                 "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
-                "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
+                "kr": "레벨 업에 필요한 카드를 모두 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
                 "pt": "O livro das cartas adiciona instantaneamente as cartas necessárias para a melhoria de um nível.",
@@ -777,7 +792,7 @@
                 "no": "Legg til kort for oppgraderingsnivået",
                 "tr": "Yükseltme Seviyesine Kadar Kart Ekle",
                 "jp": "レベルアップまでカードを追加",
-                "kr": "업그레이드에 필요한 카드 추가",
+                "kr": "레벨 업에 필요한 카드 추가",
                 "ru": "Добавить карты до нового уровня",
                 "ar": "إضافة بطاقات من أجل مستوى الترقية",
                 "pt": "Adiciona cartas para melhoria de nível.",
@@ -845,9 +860,11 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -867,7 +884,7 @@
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": false,
-        "max_amount_in_chronos": 3,
+        "max_amount_in_chronos": 2,
         "chronos_gem_value100": 100000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
@@ -875,6 +892,7 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_rare_book",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_RARE",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE",
@@ -912,7 +930,7 @@
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
                 "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
-                "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
+                "kr": "레벨 업에 필요한 카드를 모두 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
                 "pt": "O livro das cartas adiciona instantaneamente as cartas necessárias para a melhoria de um nível.",
@@ -937,7 +955,7 @@
                 "no": "Legg til kort for oppgraderingsnivået",
                 "tr": "Yükseltme Seviyesine Kadar Kart Ekle",
                 "jp": "レベルアップまでカードを追加",
-                "kr": "업그레이드에 필요한 카드 추가",
+                "kr": "레벨 업에 필요한 카드 추가",
                 "ru": "Добавить карты до нового уровня",
                 "ar": "إضافة بطاقات من أجل مستوى الترقية",
                 "pt": "Adiciona cartas para melhoria de nível.",
@@ -1005,9 +1023,11 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1027,7 +1047,7 @@
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": false,
-        "max_amount_in_chronos": 3,
+        "max_amount_in_chronos": 2,
         "chronos_gem_value100": 185000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
@@ -1035,6 +1055,7 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_epic_book",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_EPIC",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC",
@@ -1072,7 +1093,7 @@
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
                 "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
-                "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
+                "kr": "레벨 업에 필요한 카드를 모두 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
                 "pt": "O livro das cartas adiciona instantaneamente as cartas necessárias para a melhoria de um nível.",
@@ -1097,7 +1118,7 @@
                 "no": "Legg til kort for oppgraderingsnivået",
                 "tr": "Yükseltme Seviyesine Kadar Kart Ekle",
                 "jp": "レベルアップまでカードを追加",
-                "kr": "업그레이드에 필요한 카드 추가",
+                "kr": "레벨 업에 필요한 카드 추가",
                 "ru": "Добавить карты до нового уровня",
                 "ar": "إضافة بطاقات من أجل مستوى الترقية",
                 "pt": "Adiciona cartas para melhoria de nível.",
@@ -1165,9 +1186,11 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1187,7 +1210,7 @@
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": false,
-        "max_amount_in_chronos": 3,
+        "max_amount_in_chronos": 2,
         "chronos_gem_value100": 250000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
@@ -1196,6 +1219,7 @@
         "reward_screen_appear_effect": "consumable_RewardAppear_legendary_book",
         "reward_screen_vignette": "legendary_vignette",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_LEGENDARY",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY",
@@ -1233,7 +1257,7 @@
                 "no": "Kortboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå.",
                 "tr": "Kartlar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler.",
                 "jp": "強化の指南書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。",
-                "kr": "레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
+                "kr": "레벨 업에 필요한 카드를 모두 추가합니다.",
                 "ru": "Книга карт мгновенно добавляет карты, необходимые для улучшения до следующего уровня.",
                 "ar": "يضيف كتاب البطاقات على الفور البطاقات اللازمة لمستوى ترقية.",
                 "pt": "O livro das cartas adiciona instantaneamente as cartas necessárias para a melhoria de um nível.",
@@ -1258,7 +1282,7 @@
                 "no": "Legg til kort for oppgraderingsnivået",
                 "tr": "Yükseltme Seviyesine Kadar Kart Ekle",
                 "jp": "レベルアップまでカードを追加",
-                "kr": "업그레이드에 필요한 카드 추가",
+                "kr": "레벨 업에 필요한 카드 추가",
                 "ru": "Добавить карты до нового уровня",
                 "ar": "إضافة بطاقات من أجل مستوى الترقية",
                 "pt": "Adiciona cartas para melhoria de nível.",
@@ -1325,9 +1349,11 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1347,7 +1373,7 @@
         "usage_short_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": false,
-        "max_amount_in_chronos": 3,
+        "max_amount_in_chronos": 2,
         "chronos_gem_value100": 185000,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
@@ -1356,6 +1382,7 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_coin",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_GOLD_COIN",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_GOLD_COIN",
@@ -1485,7 +1512,8 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
             5,
@@ -1501,6 +1529,7 @@
             7,
             8,
             9,
+            10,
             10
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
@@ -1516,6 +1545,7 @@
         "reward_screen_allow_skip": true,
         "reward_screen_appear_effect": "consumable_RewardAppear_key",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_CHEST_KEY",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_CHEST_KEY",
@@ -1645,9 +1675,11 @@
             10,
             11,
             12,
-            13
+            13,
+            14
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1676,6 +1708,7 @@
         "reward_screen_appear_effect": "consumable_RewardAppear_book_of_books",
         "reward_screen_vignette": "book_of_book_vignette",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_ALL",
         "_lang": {
             "name": {
                 "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL",
@@ -1713,7 +1746,7 @@
                 "no": "Bøkerboken legger øyeblikkelig til kortene som kreves for et oppgraderingsnivå ... for ALLE kortforekomster!",
                 "tr": "Kitaplar Kitabı, bir yükseltme seviyesi için gereken tüm kartları anında ekler. TÜM kart enderliklerinde kullanılabilir!",
                 "jp": "強化の秘伝書を使うと、アップグレードに必要な枚数のカードを瞬時に追加します。レア度は問いません！",
-                "kr": "희귀도와 상관없이 레벨 업그레이드에 필요한 모든 카드를 즉시 추가합니다.",
+                "kr": "희귀도와 상관없이 레벨 업에 필요한 카드를 모두 추가합니다.",
                 "ru": "Книга книг мгновенно добавляет карты, необходимые для улучшения до следующего уровня... для карты ЛЮБОЙ редкости!",
                 "ar": "يضيف الكتاب العجيب على الفور البطاقات اللازمة لمستوى ترقية... إلى أي ندرة.",
                 "pt": "O livro dos livros adiciona instantaneamente as cartas necessárias para a melhoria de uma carta de QUALQUER raridade!",
@@ -1738,7 +1771,7 @@
                 "no": "Legg til kort for oppgraderingsnivået",
                 "tr": "Yükseltme Seviyesine Kadar Kart Ekle",
                 "jp": "レベルアップまでカードを追加",
-                "kr": "업그레이드에 필요한 카드 추가",
+                "kr": "레벨 업에 필요한 카드 추가",
                 "ru": "Добавить карты до нового уровня",
                 "ar": "إضافة بطاقات من أجل مستوى الترقية",
                 "pt": "Adiciona cartas para melhoria de nível.",
@@ -1778,5 +1811,117 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE"
             }
         }
+    },
+    {
+        "name": "Placeholder1",
+        "icon_swf": "sc/ui_spells.sc",
+        "icon_export_name": "icon_consumable_book_cards_all",
+        "icon_export_name_hi_res": "icon_consumable_book_cards_all_hires",
+        "flying_icon_sc_name": "sc/ui_spells.sc",
+        "flying_icon_export_name": "icon_consumable_book_cards_all",
+        "card_image_sc_name": "sc/ui_spells.sc",
+        "card_image_export_name": "card_image_consumable_book_cards_all",
+        "target": "None",
+        "is_enabled": false,
+        "max_amount_king_level": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "max_amount_value": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "allow_in_free_chronos_offers": true,
+        "max_amount_in_chronos": 1,
+        "chronos_gem_value100": 1000,
+        "on_overflow_gold_value": 0,
+        "on_overflow_gem_value": 100,
+        "sort_order": 3,
+        "reward_screen_allow_skip": true,
+        "reward_screen_appear_effect": "consumable_RewardAppear_book_of_books",
+        "reward_screen_vignette": "book_of_book_vignette",
+        "duration_in_hours": 1
+    },
+    {
+        "name": "Placeholder2",
+        "icon_swf": "sc/ui_spells.sc",
+        "icon_export_name": "icon_consumable_book_cards_all",
+        "icon_export_name_hi_res": "icon_consumable_book_cards_all_hires",
+        "flying_icon_sc_name": "sc/ui_spells.sc",
+        "flying_icon_export_name": "icon_consumable_book_cards_all",
+        "card_image_sc_name": "sc/ui_spells.sc",
+        "card_image_export_name": "card_image_consumable_book_cards_all",
+        "target": "Spell",
+        "is_enabled": false,
+        "max_amount_king_level": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "max_amount_value": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "allow_in_free_chronos_offers": true,
+        "max_amount_in_chronos": 1,
+        "chronos_gem_value100": 1000,
+        "on_overflow_gold_value": 0,
+        "on_overflow_gem_value": 100,
+        "sort_order": 3,
+        "reward_screen_allow_skip": true,
+        "reward_screen_appear_effect": "consumable_RewardAppear_book_of_books",
+        "reward_screen_vignette": "book_of_book_vignette",
+        "duration_in_hours": 24
     }
 ]

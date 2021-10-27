@@ -14,15 +14,19 @@ class Consumables(BaseGen):
 
     def parse_tids(self, rows):
         for row in rows:
-            row.update({
-                '_lang': {
-                    'name': self.text_all_lang(row['tid']),
-                    'usage': self.text_all_lang(row['usage_tid']),
-                    'usage_short': self.text_all_lang(row['usage_short_tid']),
-                    'not_available': self.text_all_lang(row['not_available_tid']),
-                    # 'invalid_target': self.text_all_lang(row['invalid_target_tid']),
-                }
-            })
+            try:
+                row.update({
+                    '_lang': {
+                        'name': self.text_all_lang(row['tid']),
+                        'usage': self.text_all_lang(row['usage_tid']),
+                        'usage_short': self.text_all_lang(row['usage_short_tid']),
+                        'not_available': self.text_all_lang(row['not_available_tid']),
+                        # 'invalid_target': self.text_all_lang(row['invalid_target_tid']),
+                    }
+                })
+            except KeyError:
+                print("Consumables parse tid error. row:")
+                print(row)
         return rows
 
     def run(self):

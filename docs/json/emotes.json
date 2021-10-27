@@ -2771,29 +2771,53 @@
         "name": "EmoteChronos8",
         "index_hi": 127,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_arrows_3crowns_dl.ogg",
+        "sc_file": "sc/emotes_arrows_3crowns_dl.sc",
+        "available_for_offer": false,
+        "exclusive": true,
         "key": "emote_127_0",
-        "file_key": ":127:0"
+        "file_key": "emotes_arrows_3crowns_dl.sc:127:0"
     },
     {
         "name": "EmoteChronos9",
         "index_hi": 128,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_skeletonking_victory_dl.ogg",
+        "sc_file": "sc/emotes_skeletonking_victory_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
         "key": "emote_128_0",
-        "file_key": ":128:0"
+        "file_key": "emotes_skeletonking_victory_dl.sc:128:0"
     },
     {
         "name": "EmoteChronos10",
         "index_hi": 129,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_goldenknight_gorgeous_dl.ogg",
+        "sc_file": "sc/emotes_goldenknight_gorgeous_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
         "key": "emote_129_0",
-        "file_key": ":129:0"
+        "file_key": "emotes_goldenknight_gorgeous_dl.sc:129:0"
     },
     {
         "name": "EmoteChronos11",
         "index_hi": 130,
         "index_lo": 0,
+        "available": true,
+        "default_owned": false,
+        "sfx_file": "sfx/emotes/emotes_archerqueen_crown_dl.ogg",
+        "sc_file": "sc/emotes_archerqueen_crown_dl.sc",
+        "available_for_offer": false,
+        "exclusive": false,
         "key": "emote_130_0",
-        "file_key": ":130:0"
+        "file_key": "emotes_archerqueen_crown_dl.sc:130:0"
     },
     {
         "name": "EmoteChronos12",
@@ -2857,5 +2881,75 @@
         "index_lo": 0,
         "key": "emote_139_0",
         "file_key": ":139:0"
+    },
+    {
+        "name": "EmoteChronos21",
+        "index_hi": 140,
+        "index_lo": 0,
+        "key": "emote_140_0",
+        "file_key": ":140:0"
+    },
+    {
+        "name": "EmoteChronos22",
+        "index_hi": 141,
+        "index_lo": 0,
+        "key": "emote_141_0",
+        "file_key": ":141:0"
+    },
+    {
+        "name": "EmoteChronos23",
+        "index_hi": 142,
+        "index_lo": 0,
+        "key": "emote_142_0",
+        "file_key": ":142:0"
+    },
+    {
+        "name": "EmoteChronos24",
+        "index_hi": 143,
+        "index_lo": 0,
+        "key": "emote_143_0",
+        "file_key": ":143:0"
+    },
+    {
+        "name": "EmoteChronos25",
+        "index_hi": 144,
+        "index_lo": 0,
+        "key": "emote_144_0",
+        "file_key": ":144:0"
+    },
+    {
+        "name": "EmoteChronos26",
+        "index_hi": 145,
+        "index_lo": 0,
+        "key": "emote_145_0",
+        "file_key": ":145:0"
+    },
+    {
+        "name": "EmoteChronos27",
+        "index_hi": 146,
+        "index_lo": 0,
+        "key": "emote_146_0",
+        "file_key": ":146:0"
+    },
+    {
+        "name": "EmoteChronos28",
+        "index_hi": 147,
+        "index_lo": 0,
+        "key": "emote_147_0",
+        "file_key": ":147:0"
+    },
+    {
+        "name": "EmoteChronos29",
+        "index_hi": 148,
+        "index_lo": 0,
+        "key": "emote_148_0",
+        "file_key": ":148:0"
+    },
+    {
+        "name": "EmoteChronos30",
+        "index_hi": 149,
+        "index_lo": 0,
+        "key": "emote_149_0",
+        "file_key": ":149:0"
     }
 ]

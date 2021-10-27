@@ -535,7 +535,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 14,
-        "description": "Summons Bats to do her bidding! If you get too close, she isn’t afraid of pitching in with her mean-looking battle staff.",
+        "description": "Summons Bats to do her bidding! If you get too close, she's not afraid of pitching in with her mean-looking battle staff.",
         "id": 26000048
     },
     {
@@ -737,6 +737,39 @@
         "id": 26000068
     },
     {
+        "key": "skeleton-king",
+        "name": "Skeleton King",
+        "sc_key": "SkeletonKing",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 0,
+        "description": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
+        "id": 26000069
+    },
+    {
+        "key": "archer-queen",
+        "name": "Archer Queen",
+        "sc_key": "ArcherQueen",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 0,
+        "description": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
+        "id": 26000072
+    },
+    {
+        "key": "golden-knight",
+        "name": "Golden Knight",
+        "sc_key": "GoldenKnight",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 2,
+        "description": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
+        "id": 26000074
+    },
+    {
         "key": "skeleton-dragons",
         "name": "Skeleton Dragons",
         "sc_key": "SkeletonDragons",
@@ -887,7 +920,7 @@
         "type": "Building",
         "rarity": "Rare",
         "arena": 2,
-        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy.",
+        "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy!",
         "id": 27000009
     },
     {

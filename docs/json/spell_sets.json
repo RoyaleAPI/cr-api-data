@@ -3305,7 +3305,8 @@
             "bandit",
             "royal-ghost",
             "battle-healer",
-            "fisherman"
+            "fisherman",
+            "golden-knight"
         ],
         "tid": "TID_SPELL_SET_MINI_TANK",
         "text": {
@@ -3461,7 +3462,8 @@
             "firecracker",
             "electro-dragon",
             "skeleton-dragons",
-            "mother-witch"
+            "mother-witch",
+            "archer-queen"
         ],
         "tid": "TID_SPELL_SET_ANTI_AIR",
         "text": {
@@ -3509,7 +3511,8 @@
             "heal-spirit",
             "bomber",
             "electro-spirit",
-            "goblin-drill"
+            "goblin-drill",
+            "skeleton-king"
         ],
         "tid": "TID_SPELL_SET_DISTRACTION",
         "text": {
@@ -3969,7 +3972,10 @@
             "electro-spirit",
             "electro-giant",
             "mother-witch",
-            "goblin-drill"
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight"
         ]
     },
     {
@@ -4506,7 +4512,10 @@
             "electro-giant",
             "electro-spirit",
             "mother-witch",
-            "goblin-drill"
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight"
         ]
     },
     {
@@ -4580,7 +4589,10 @@
             "electro-spirit",
             "skeleton-dragons",
             "mother-witch",
-            "goblin-drill"
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight"
         ]
     },
     {
@@ -4824,7 +4836,10 @@
             "royal-delivery",
             "electro-giant",
             "electro-spirit",
-            "mother-witch"
+            "mother-witch",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight"
         ]
     },
     {
@@ -5497,7 +5512,10 @@
             "electro-spirit",
             "electro-giant",
             "mother-witch",
-            "goblin-drill"
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight"
         ]
     },
     {
@@ -5547,5 +5565,55 @@
             "three-musketeers",
             "goblin-drill"
         ]
+    },
+    {
+        "name": "Draft_RH_Champions",
+        "spells": [
+            "golden-knight",
+            "archer-queen",
+            "skeleton-king"
+        ]
+    },
+    {
+        "name": "Draft_TD_Champions",
+        "spells": [
+            "golden-knight",
+            "archer-queen",
+            "skeleton-king"
+        ]
+    },
+    {
+        "name": "BAD_Champions",
+        "spells": [
+            "golden-knight",
+            "archer-queen",
+            "skeleton-king"
+        ],
+        "tid": "TID_SPELL_SET_CHAMPION",
+        "text": {
+            "do": "TID_SPELL_SET_CHAMPION",
+            "en": "Champion",
+            "fr": "Champion",
+            "de": "Champion",
+            "es": "Campeón",
+            "it": "Campione",
+            "nl": "Kampioen",
+            "no": "Mester",
+            "tr": "Şampiyon",
+            "jp": "チャンピオン",
+            "kr": "챔피언",
+            "ru": "Чемпион",
+            "ar": "البطل",
+            "pt": "Campeão",
+            "cn": "英雄",
+            "cnt": "英雄",
+            "fa": "قهرمان",
+            "id": "Jawara",
+            "ms": "Juara",
+            "th": "แชมเปี้ยน",
+            "fi": "Mestari",
+            "vi": "Vô địch",
+            "sc_key": "TID_SPELL_SET_CHAMPION"
+        }
     }
 ]

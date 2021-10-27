@@ -97,7 +97,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -247,6 +248,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "key": "knight",
         "sc_key": "Knight",
@@ -273,7 +278,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -289,7 +295,8 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
@@ -391,7 +398,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -541,6 +549,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Archer",
         "summon_character": "Archer",
         "summon_number": 2,
@@ -560,7 +572,8 @@
             304,
             334,
             367,
-            403
+            403,
+            442
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -663,7 +676,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -813,6 +827,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Goblin",
         "hitpoints_per_level": [
             79,
@@ -828,7 +846,8 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "damage_per_level": [
             47,
@@ -844,7 +863,8 @@
             120,
             132,
             145,
-            159
+            159,
+            174
         ],
         "dps_per_level": null
     },
@@ -946,7 +966,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -1096,6 +1117,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Giant",
         "key": "giant",
         "sc_key": "Giant",
@@ -1120,7 +1145,8 @@
             3945,
             4336,
             4764,
-            5229
+            5229,
+            5750
         ],
         "damage_per_level": [
             120,
@@ -1134,7 +1160,8 @@
             254,
             279,
             307,
-            337
+            337,
+            370
         ],
         "dps_per_level": null
     },
@@ -1236,7 +1263,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -1386,6 +1414,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "P.E.K.K.A",
         "summon_character": "Pekka",
         "summon_number": 0,
@@ -1400,7 +1432,8 @@
             3760,
             4136,
             4535,
-            4982
+            4982,
+            5475
         ],
         "damage_per_level": [
             510,
@@ -1411,7 +1444,8 @@
             816,
             897,
             984,
-            1081
+            1081,
+            1188
         ],
         "dps_per_level": null
     },
@@ -1513,7 +1547,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -1663,6 +1698,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Minion",
         "hitpoints_per_level": [
             90,
@@ -1678,7 +1717,8 @@
             230,
             252,
             278,
-            305
+            305,
+            334
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -1781,7 +1821,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -1931,6 +1972,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Balloon",
         "key": "balloon",
         "sc_key": "Balloon",
@@ -1952,7 +1997,8 @@
             1680,
             1848,
             2026,
-            2226
+            2226,
+            2446
         ],
         "damage_per_level": [
             600,
@@ -1963,7 +2009,8 @@
             960,
             1056,
             1158,
-            1272
+            1272,
+            1398
         ],
         "dps_per_level": null
     },
@@ -2065,7 +2112,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -2215,6 +2263,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Witch",
         "key": "witch",
         "sc_key": "Witch",
@@ -2236,7 +2288,8 @@
             838,
             922,
             1011,
-            1110
+            1110,
+            1220
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -2339,7 +2392,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -2489,6 +2543,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Skeleton",
         "hitpoints_per_level": [
             32,
@@ -2504,7 +2562,8 @@
             81,
             89,
             98,
-            108
+            108,
+            119
         ],
         "damage_per_level": [
             32,
@@ -2520,7 +2579,8 @@
             81,
             89,
             98,
-            108
+            108,
+            119
         ],
         "dps_per_level": null
     },
@@ -2622,7 +2682,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -2772,6 +2833,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Barbarian",
         "hitpoints_per_level": [
             262,
@@ -2787,7 +2852,8 @@
             670,
             736,
             809,
-            888
+            888,
+            974
         ],
         "damage_per_level": [
             75,
@@ -2803,7 +2869,8 @@
             192,
             210,
             231,
-            254
+            254,
+            279
         ],
         "dps_per_level": null
     },
@@ -2905,7 +2972,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -3055,6 +3123,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Golem",
         "key": "golem",
         "sc_key": "Golem",
@@ -3076,7 +3148,8 @@
             5120,
             5632,
             6176,
-            6784
+            6784,
+            7456
         ],
         "damage_per_level": [
             195,
@@ -3087,7 +3160,8 @@
             312,
             343,
             376,
-            413
+            413,
+            454
         ],
         "dps_per_level": null
     },
@@ -3189,7 +3263,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -3339,6 +3414,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Golemite",
         "hitpoints_per_level": [
             650,
@@ -3349,7 +3428,8 @@
             1040,
             1144,
             1254,
-            1378
+            1378,
+            1514
         ],
         "damage_per_level": [
             31,
@@ -3360,7 +3440,8 @@
             49,
             54,
             59,
-            65
+            65,
+            72
         ],
         "dps_per_level": null
     },
@@ -3462,7 +3543,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -3612,6 +3694,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Valkyrie",
         "key": "valkyrie",
         "sc_key": "Valkyrie",
@@ -3636,7 +3722,8 @@
             1992,
             2190,
             2406,
-            2641
+            2641,
+            2904
         ],
         "damage_per_level": [
             126,
@@ -3650,7 +3737,8 @@
             267,
             293,
             322,
-            354
+            354,
+            389
         ],
         "dps_per_level": null
     },
@@ -3752,7 +3840,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -3902,6 +3991,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Bomber",
         "key": "bomber",
         "sc_key": "Bomber",
@@ -3928,7 +4021,8 @@
             332,
             365,
             401,
-            440
+            440,
+            483
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -4031,7 +4125,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -4181,6 +4276,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Musketeer",
         "key": "musketeer",
         "sc_key": "Musketeer",
@@ -4205,7 +4304,8 @@
             720,
             792,
             870,
-            955
+            955,
+            1050
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -4308,7 +4408,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -4458,6 +4559,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Baby Dragon",
         "summon_character": "BabyDragon",
         "summon_number": 0,
@@ -4472,7 +4577,8 @@
             1152,
             1267,
             1389,
-            1526
+            1526,
+            1677
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -4575,7 +4681,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -4725,6 +4832,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Mini P.E.K.K.A",
         "summon_character": "MiniPekka",
         "summon_number": 0,
@@ -4742,7 +4853,8 @@
             1361,
             1495,
             1643,
-            1804
+            1804,
+            1983
         ],
         "damage_per_level": [
             340,
@@ -4756,7 +4868,8 @@
             720,
             792,
             870,
-            955
+            955,
+            1050
         ],
         "dps_per_level": null
     },
@@ -4858,7 +4971,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -5008,6 +5122,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Wizard",
         "key": "wizard",
         "sc_key": "Wizard",
@@ -5032,7 +5150,8 @@
             720,
             792,
             870,
-            955
+            955,
+            1050
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -5135,7 +5254,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -5285,6 +5405,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Prince",
         "key": "prince",
         "sc_key": "Prince",
@@ -5306,7 +5430,8 @@
             2008,
             2208,
             2422,
-            2660
+            2660,
+            2924
         ],
         "damage_per_level": [
             245,
@@ -5317,7 +5442,8 @@
             392,
             431,
             472,
-            519
+            519,
+            570
         ],
         "dps_per_level": null
     },
@@ -5419,7 +5545,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -5569,6 +5696,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Spear Goblin",
         "hitpoints_per_level": [
             52,
@@ -5584,7 +5715,8 @@
             133,
             146,
             160,
-            176
+            176,
+            193
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -5687,7 +5819,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -5837,6 +5970,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Giant Skeleton",
         "summon_character": "GiantSkeleton",
         "summon_number": 1,
@@ -5851,7 +5988,8 @@
             3360,
             3696,
             4053,
-            4452
+            4452,
+            4893
         ],
         "damage_per_level": [
             167,
@@ -5862,7 +6000,8 @@
             267,
             293,
             322,
-            354
+            354,
+            389
         ],
         "dps_per_level": null
     },
@@ -5964,7 +6103,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -6114,6 +6254,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Hog Rider",
         "summon_character": "HogRider",
         "summon_number": 1,
@@ -6131,7 +6275,8 @@
             1696,
             1864,
             2048,
-            2248
+            2248,
+            2472
         ],
         "damage_per_level": [
             150,
@@ -6145,7 +6290,8 @@
             318,
             349,
             384,
-            421
+            421,
+            463
         ],
         "dps_per_level": null
     },
@@ -6247,7 +6393,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -6397,6 +6544,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Archer",
         "hitpoints_per_level": [
             5,
@@ -6412,7 +6563,8 @@
             12,
             14,
             15,
-            16
+            16,
+            18
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -6515,7 +6667,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -6665,6 +6818,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Ice Wizard",
         "summon_character": "IceWizard",
         "summon_number": 0,
@@ -6676,7 +6833,8 @@
             688,
             756,
             830,
-            893
+            910,
+            1001
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -6779,7 +6937,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -6929,6 +7088,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Royal Giant",
         "summon_character": "RoyalGiant",
         "summon_number": 0,
@@ -6948,7 +7111,8 @@
             3072,
             3372,
             3708,
-            4068
+            4068,
+            4464
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -7051,7 +7215,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -7201,6 +7366,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Princess",
         "key": "princess",
         "sc_key": "Princess",
@@ -7219,7 +7388,8 @@
             261,
             287,
             315,
-            339
+            345,
+            380
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -7322,7 +7492,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -7472,6 +7643,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Dark Prince",
         "summon_character": "DarkPrince",
         "summon_number": 0,
@@ -7486,7 +7661,8 @@
             1240,
             1364,
             1495,
-            1643
+            1643,
+            1805
         ],
         "damage_per_level": [
             155,
@@ -7497,7 +7673,8 @@
             248,
             272,
             299,
-            328
+            328,
+            361
         ],
         "dps_per_level": null
     },
@@ -7599,7 +7776,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -7749,6 +7927,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Guard",
         "hitpoints_per_level": [
             51,
@@ -7759,7 +7941,8 @@
             81,
             89,
             98,
-            108
+            108,
+            118
         ],
         "damage_per_level": [
             76,
@@ -7770,7 +7953,8 @@
             121,
             133,
             146,
-            161
+            161,
+            177
         ],
         "dps_per_level": null
     },
@@ -7872,7 +8056,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -8022,6 +8207,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Lava Hound",
         "summon_character": "LavaHound",
         "summon_number": 0,
@@ -8033,7 +8222,8 @@
             3811,
             4189,
             4599,
-            4945
+            5040,
+            5544
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -8136,7 +8326,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -8286,6 +8477,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Lava Pups",
         "hitpoints_per_level": [
             179,
@@ -8293,7 +8488,8 @@
             216,
             238,
             261,
-            281
+            286,
+            315
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -8396,7 +8592,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -8546,6 +8743,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Rage Barbarian",
         "summon_character": "RageBarbarian",
         "summon_number": 1,
@@ -8557,7 +8758,8 @@
             1282,
             1409,
             1547,
-            1664
+            1696,
+            1865
         ],
         "damage_per_level": [
             200,
@@ -8565,7 +8767,8 @@
             242,
             266,
             292,
-            314
+            320,
+            352
         ],
         "dps_per_level": null
     },
@@ -8667,7 +8870,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -8817,6 +9021,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Ice Spirit",
         "summon_character": "IceSpirits",
         "summon_number": 1,
@@ -8836,7 +9044,8 @@
             230,
             252,
             278,
-            305
+            305,
+            334
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -8905,7 +9114,7 @@
         "crowd_effects": false,
         "pushback": 0,
         "ignore_pushback": false,
-        "scale": 120,
+        "scale": 140,
         "collision_radius": 400,
         "mass": 1,
         "tile_size_override": 0,
@@ -8939,7 +9148,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -9089,6 +9299,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Fire Spirit",
         "summon_character": "FireSpirits",
         "summon_number": 1,
@@ -9108,7 +9322,8 @@
             230,
             252,
             278,
-            305
+            305,
+            334
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -9211,7 +9426,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -9361,6 +9577,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Miner",
         "key": "miner",
         "sc_key": "Miner",
@@ -9379,7 +9599,8 @@
             1210,
             1330,
             1460,
-            1570
+            1600,
+            1760
         ],
         "damage_per_level": [
             160,
@@ -9387,7 +9608,8 @@
             193,
             212,
             233,
-            251
+            256,
+            281
         ],
         "dps_per_level": null
     },
@@ -9489,7 +9711,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -9639,6 +9862,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Sparky",
         "summon_character": "ZapMachine",
         "summon_number": 0,
@@ -9650,7 +9877,8 @@
             1452,
             1596,
             1752,
-            1884
+            1920,
+            2112
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -9753,7 +9981,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -9903,6 +10132,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Bowler",
         "key": "bowler",
         "sc_key": "Bowler",
@@ -9924,7 +10157,8 @@
             2080,
             2288,
             2509,
-            2756
+            2756,
+            3029
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -10027,7 +10261,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -10177,6 +10412,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Golemite",
         "summon_character": "IceGolemite",
         "summon_number": 1,
@@ -10194,7 +10433,8 @@
             1197,
             1316,
             1446,
-            1587
+            1587,
+            1745
         ],
         "damage_per_level": [
             40,
@@ -10208,7 +10448,8 @@
             84,
             93,
             102,
-            112
+            112,
+            123
         ],
         "dps_per_level": null
     },
@@ -10310,7 +10551,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -10460,6 +10702,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Mega Minion",
         "summon_character": "MegaMinion",
         "summon_number": 1,
@@ -10477,7 +10723,8 @@
             837,
             920,
             1011,
-            1109
+            1109,
+            1220
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -10580,7 +10827,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -10730,6 +10978,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Inferno Dragon",
         "summon_character": "InfernoDragon",
         "summon_number": 1,
@@ -10741,7 +10993,8 @@
             1294,
             1423,
             1562,
-            1679
+            1712,
+            1883
         ],
         "damage_per_level": [
             30,
@@ -10749,7 +11002,8 @@
             36,
             39,
             43,
-            47
+            48,
+            52
         ],
         "dps_per_level": null
     },
@@ -10851,7 +11105,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -11001,6 +11256,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Battle Ram",
         "summon_character": "BattleRam",
         "summon_number": 1,
@@ -11018,7 +11277,8 @@
             911,
             1001,
             1100,
-            1208
+            1208,
+            1328
         ],
         "damage_per_level": [
             125,
@@ -11032,7 +11292,8 @@
             265,
             291,
             320,
-            351
+            351,
+            386
         ],
         "dps_per_level": null
     },
@@ -11134,7 +11395,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -11284,6 +11546,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Blowdart Goblin",
         "summon_character": "BlowdartGoblin",
         "summon_number": 1,
@@ -11301,7 +11567,8 @@
             260,
             286,
             314,
-            345
+            345,
+            380
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -11404,7 +11671,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -11554,6 +11822,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Electro Wizard",
         "summon_character": "ElectroWizard",
         "summon_number": 1,
@@ -11565,7 +11837,8 @@
             713,
             784,
             861,
-            926
+            944,
+            1038
         ],
         "damage_per_level": [
             91,
@@ -11573,7 +11846,8 @@
             110,
             121,
             132,
-            142
+            145,
+            160
         ],
         "dps_per_level": null
     },
@@ -11675,7 +11949,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -11825,6 +12100,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Elite Barbarian",
         "hitpoints_per_level": [
             524,
@@ -11840,7 +12119,8 @@
             1341,
             1472,
             1619,
-            1776
+            1776,
+            1949
         ],
         "damage_per_level": [
             150,
@@ -11856,7 +12136,8 @@
             384,
             421,
             463,
-            508
+            508,
+            558
         ],
         "dps_per_level": null
     },
@@ -11958,7 +12239,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -12108,6 +12390,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Executioner",
         "summon_character": "AxeMan",
         "summon_number": 1,
@@ -12122,7 +12408,8 @@
             1216,
             1337,
             1466,
-            1611
+            1611,
+            1770
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -12225,7 +12512,8 @@
         "dash_min_range": 3500,
         "dash_max_range": 6000,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -12375,6 +12663,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Bandit",
         "summon_character": "Assassin",
         "summon_number": 1,
@@ -12386,7 +12678,8 @@
             907,
             997,
             1095,
-            1177
+            1200,
+            1320
         ],
         "damage_per_level": [
             160,
@@ -12394,7 +12687,8 @@
             193,
             212,
             233,
-            251
+            256,
+            281
         ],
         "dps_per_level": null
     },
@@ -12496,7 +12790,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -12646,6 +12941,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Royal Ghost",
         "hitpoints_per_level": [
             1000,
@@ -12653,7 +12952,8 @@
             1210,
             1330,
             1460,
-            1570
+            1600,
+            1760
         ],
         "damage_per_level": [
             216,
@@ -12661,7 +12961,8 @@
             261,
             287,
             315,
-            339
+            345,
+            380
         ],
         "dps_per_level": null
     },
@@ -12763,7 +13064,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -12913,6 +13215,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Royal Ghost",
         "summon_character": "Ghost",
         "summon_number": 1,
@@ -12924,7 +13230,8 @@
             1210,
             1330,
             1460,
-            1570
+            1600,
+            1760
         ],
         "damage_per_level": [
             216,
@@ -12932,7 +13239,8 @@
             261,
             287,
             315,
-            339
+            345,
+            380
         ],
         "dps_per_level": null
     },
@@ -13034,7 +13342,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -13184,6 +13493,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Zappies",
         "hitpoints_per_level": [
             250,
@@ -13197,7 +13510,8 @@
             530,
             582,
             640,
-            702
+            702,
+            772
         ],
         "damage_per_level": [
             55,
@@ -13211,7 +13525,8 @@
             116,
             128,
             140,
-            154
+            154,
+            169
         ],
         "dps_per_level": null
     },
@@ -13313,7 +13628,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -13463,6 +13779,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Hunter",
         "key": "hunter",
         "sc_key": "Hunter",
@@ -13484,7 +13804,8 @@
             838,
             922,
             1011,
-            1110
+            1110,
+            1220
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -13587,7 +13908,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -13737,6 +14059,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Night Witch",
         "summon_character": "DarkWitch",
         "summon_number": 1,
@@ -13748,7 +14074,8 @@
             907,
             997,
             1095,
-            1177
+            1200,
+            1320
         ],
         "damage_per_level": [
             260,
@@ -13756,7 +14083,8 @@
             314,
             345,
             379,
-            408
+            416,
+            457
         ],
         "dps_per_level": null
     },
@@ -13858,7 +14186,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -14008,6 +14337,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Bat",
         "hitpoints_per_level": [
             32,
@@ -14023,7 +14356,8 @@
             81,
             89,
             98,
-            108
+            108,
+            119
         ],
         "damage_per_level": [
             32,
@@ -14039,7 +14373,8 @@
             81,
             89,
             98,
-            108
+            108,
+            119
         ],
         "dps_per_level": null
     },
@@ -14141,7 +14476,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -14291,6 +14627,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Royal Recruits",
         "hitpoints_per_level": [
             208,
@@ -14306,7 +14646,8 @@
             532,
             584,
             642,
-            705
+            705,
+            773
         ],
         "damage_per_level": [
             52,
@@ -14322,7 +14663,8 @@
             133,
             146,
             160,
-            176
+            176,
+            193
         ],
         "dps_per_level": null
     },
@@ -14424,7 +14766,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -14574,6 +14917,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Rascal Boy",
         "hitpoints_per_level": [
             715,
@@ -14589,7 +14936,8 @@
             1830,
             2009,
             2209,
-            2423
+            2423,
+            2659
         ],
         "damage_per_level": [
             52,
@@ -14605,7 +14953,8 @@
             133,
             146,
             160,
-            176
+            176,
+            193
         ],
         "dps_per_level": null
     },
@@ -14707,7 +15056,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -14857,6 +15207,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Cannon Cart",
         "summon_character": "MovingCannon",
         "summon_number": 1,
@@ -14871,7 +15225,8 @@
             892,
             982,
             1076,
-            1182
+            1182,
+            1300
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -14974,7 +15329,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -15124,6 +15480,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Cannon Cart",
         "hitpoints_per_level": [
             558,
@@ -15134,7 +15494,8 @@
             892,
             982,
             1076,
-            1182
+            1182,
+            1300
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -15237,7 +15598,8 @@
         "dash_min_range": 3500,
         "dash_max_range": 5000,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -15387,6 +15749,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Mega Knight",
         "summon_character": "MegaKnight",
         "summon_number": 1,
@@ -15398,7 +15764,8 @@
             3993,
             4389,
             4818,
-            5181
+            5280,
+            5808
         ],
         "damage_per_level": [
             222,
@@ -15406,7 +15773,8 @@
             268,
             295,
             324,
-            348
+            355,
+            390
         ],
         "dps_per_level": null
     },
@@ -15508,7 +15876,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -15658,6 +16027,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Rascal Girl",
         "hitpoints_per_level": [
             102,
@@ -15673,7 +16046,8 @@
             261,
             286,
             315,
-            345
+            345,
+            379
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -15776,7 +16150,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -15926,6 +16301,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Balloon",
         "summon_character": "SkeletonBalloon",
         "summon_number": 1,
@@ -15945,7 +16324,8 @@
             532,
             584,
             642,
-            705
+            705,
+            773
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -16048,7 +16428,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -16198,6 +16579,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Blowdart Goblin",
         "summon_character": "DartBarrell",
         "summon_number": 1,
@@ -16215,7 +16600,8 @@
             614,
             675,
             742,
-            814
+            814,
+            896
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -16318,7 +16704,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -16468,6 +16855,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Bomber",
         "hitpoints_per_level": [
             207,
@@ -16478,7 +16869,8 @@
             331,
             364,
             399,
-            438
+            438,
+            482
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -16581,7 +16973,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -16731,6 +17124,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Royal Hogs",
         "hitpoints_per_level": [
             395,
@@ -16744,7 +17141,8 @@
             837,
             920,
             1011,
-            1109
+            1109,
+            1220
         ],
         "damage_per_level": [
             36,
@@ -16758,7 +17156,8 @@
             76,
             83,
             92,
-            101
+            101,
+            111
         ],
         "dps_per_level": null
     },
@@ -16860,7 +17259,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -17010,6 +17410,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Goblin Brawler",
         "hitpoints_per_level": [
             485,
@@ -17023,7 +17427,8 @@
             1028,
             1130,
             1241,
-            1362
+            1362,
+            1498
         ],
         "damage_per_level": [
             159,
@@ -17037,7 +17442,8 @@
             337,
             370,
             407,
-            446
+            446,
+            491
         ],
         "dps_per_level": null
     },
@@ -17139,7 +17545,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -17289,6 +17696,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Giant",
         "summon_character": "GoblinGiant",
         "summon_number": 1,
@@ -17303,7 +17714,8 @@
             3147,
             3461,
             3796,
-            4170
+            4170,
+            4583
         ],
         "damage_per_level": [
             110,
@@ -17314,7 +17726,8 @@
             176,
             193,
             212,
-            233
+            233,
+            256
         ],
         "dps_per_level": null
     },
@@ -17416,7 +17829,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -17566,6 +17980,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Archer",
         "summon_character": "EliteArcher",
         "summon_number": 1,
@@ -17577,7 +17995,8 @@
             532,
             585,
             642,
-            690
+            704,
+            774
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -17680,7 +18099,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -17830,6 +18250,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Spear Goblin",
         "hitpoints_per_level": [
             52,
@@ -17845,7 +18269,8 @@
             133,
             146,
             160,
-            176
+            176,
+            193
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -17948,7 +18373,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -18098,6 +18524,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Hog Rider",
         "hitpoints_per_level": [
             1461,
@@ -18105,7 +18535,8 @@
             1767,
             1943,
             2133,
-            2293
+            2337,
+            2571
         ],
         "damage_per_level": [
             220,
@@ -18113,7 +18544,8 @@
             266,
             292,
             321,
-            345
+            352,
+            387
         ],
         "dps_per_level": null
     },
@@ -18215,7 +18647,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -18365,6 +18798,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Rider",
         "summon_character": "Ram",
         "summon_number": 0,
@@ -18376,7 +18813,8 @@
             592,
             651,
             715,
-            769
+            784,
+            862
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -18479,7 +18917,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -18629,6 +19068,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Musketeer",
         "hitpoints_per_level": [
             340,
@@ -18642,7 +19085,8 @@
             720,
             792,
             870,
-            955
+            955,
+            1050
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -18745,7 +19189,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -18895,6 +19340,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Electro Dragon",
         "summon_character": "ElectroDragon",
         "summon_number": 1,
@@ -18909,7 +19358,8 @@
             950,
             1045,
             1146,
-            1259
+            1259,
+            1384
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -19012,7 +19462,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -19162,6 +19613,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "key": "fisherman",
         "sc_key": "Fisherman",
@@ -19180,7 +19635,8 @@
             871,
             957,
             1051,
-            1130
+            1152,
+            1267
         ],
         "damage_per_level": [
             160,
@@ -19188,7 +19644,8 @@
             193,
             212,
             233,
-            251
+            256,
+            281
         ],
         "dps_per_level": null
     },
@@ -19290,7 +19747,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -19440,6 +19898,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Elixir Golem",
         "hitpoints_per_level": [
             680,
@@ -19453,7 +19915,8 @@
             1441,
             1584,
             1740,
-            1910
+            1910,
+            2101
         ],
         "damage_per_level": [
             120,
@@ -19467,7 +19930,8 @@
             254,
             279,
             307,
-            337
+            337,
+            370
         ],
         "dps_per_level": null
     },
@@ -19569,7 +20033,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -19719,6 +20184,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": true,
         "name_en": "Elixir Golemite",
         "hitpoints_per_level": [
             340,
@@ -19732,7 +20201,8 @@
             720,
             792,
             870,
-            955
+            955,
+            1050
         ],
         "damage_per_level": [
             60,
@@ -19746,7 +20216,8 @@
             127,
             139,
             153,
-            168
+            168,
+            185
         ],
         "dps_per_level": null
     },
@@ -19848,7 +20319,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -19998,6 +20470,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Elixir Blob",
         "hitpoints_per_level": [
             170,
@@ -20011,7 +20487,8 @@
             360,
             396,
             435,
-            477
+            477,
+            525
         ],
         "damage_per_level": [
             30,
@@ -20025,7 +20502,8 @@
             63,
             69,
             76,
-            84
+            84,
+            92
         ],
         "dps_per_level": null
     },
@@ -20127,7 +20605,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -20277,6 +20756,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Ice Spirit",
         "hitpoints_per_level": [
             109,
@@ -20290,7 +20773,8 @@
             231,
             253,
             279,
-            306
+            306,
+            336
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -20393,7 +20877,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -20543,6 +21028,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Skeleton",
         "hitpoints_per_level": [
             32,
@@ -20558,7 +21047,8 @@
             81,
             89,
             98,
-            108
+            108,
+            119
         ],
         "damage_per_level": [
             32,
@@ -20574,7 +21064,8 @@
             81,
             89,
             98,
-            108
+            108,
+            119
         ],
         "dps_per_level": null
     },
@@ -20676,7 +21167,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -20826,6 +21318,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Firecracker",
         "key": "firecracker",
         "sc_key": "Firecracker",
@@ -20852,7 +21348,8 @@
             304,
             334,
             367,
-            403
+            403,
+            442
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -20955,7 +21452,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -21105,6 +21603,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "summon_character": "BattleHealer",
         "summon_number": 1,
@@ -21122,7 +21624,8 @@
             1717,
             1887,
             2073,
-            2276
+            2276,
+            2502
         ],
         "damage_per_level": [
             70,
@@ -21136,7 +21639,8 @@
             148,
             163,
             179,
-            196
+            196,
+            216
         ],
         "dps_per_level": null
     },
@@ -21238,7 +21742,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -21388,6 +21893,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Royal Recruits",
         "hitpoints_per_level": [
             208,
@@ -21403,7 +21912,8 @@
             532,
             584,
             642,
-            705
+            705,
+            773
         ],
         "damage_per_level": [
             52,
@@ -21419,12 +21929,13 @@
             133,
             146,
             160,
-            176
+            176,
+            193
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE1",
+        "name": "NOTINUSE21",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -21521,7 +22032,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -21671,6 +22183,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -21686,7 +22202,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -21702,12 +22219,13 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE2",
+        "name": "NOTINUSE22",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -21804,7 +22322,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -21954,6 +22473,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -21969,7 +22492,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -21985,7 +22509,8 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
@@ -22087,7 +22612,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -22237,6 +22763,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": true,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             1000,
@@ -22247,7 +22777,8 @@
             1600,
             1760,
             1930,
-            2120
+            2120,
+            2330
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -22304,9 +22835,9 @@
         "starting_buff": null,
         "starting_buff_time": 0,
         "mesh": null,
-        "prestige_swf": null,
-        "prestige_export_name2": null,
-        "prestige_export_name3": null,
+        "prestige_swf": "sc/chr_mother_witch_prestige_dl.sc",
+        "prestige_export_name2": "motherwitch_prestige",
+        "prestige_export_name3": "motherwitch_prestige2",
         "prestige_red_export_name2": null,
         "prestige_red_export_name3": null,
         "attached_character": null,
@@ -22350,7 +22881,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -22500,6 +23032,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Mother Witch",
         "summon_character": "WitchMother",
         "summon_number": 0,
@@ -22511,7 +23047,8 @@
             653,
             718,
             788,
-            847
+            864,
+            950
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -22614,7 +23151,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -22764,6 +23302,10 @@
         "ignore_buff": "VoodooCurse",
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Cursed Hog",
         "hitpoints_per_level": [
             520,
@@ -22771,7 +23313,8 @@
             629,
             691,
             759,
-            816
+            832,
+            915
         ],
         "damage_per_level": [
             44,
@@ -22779,7 +23322,8 @@
             53,
             58,
             64,
-            69
+            70,
+            77
         ],
         "dps_per_level": null
     },
@@ -22881,7 +23425,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -23031,6 +23576,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Skeleton Dragons",
         "hitpoints_per_level": [
             208,
@@ -23046,7 +23595,8 @@
             532,
             584,
             642,
-            705
+            705,
+            773
         ],
         "damage_per_level": null,
         "dps_per_level": null
@@ -23149,7 +23699,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -23299,6 +23850,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Baby Dragon",
         "summon_character": "ElectroGiant",
         "summon_number": 1,
@@ -23313,7 +23868,8 @@
             4160,
             4576,
             5018,
-            5512
+            5512,
+            6058
         ],
         "damage_per_level": [
             120,
@@ -23324,7 +23880,8 @@
             192,
             211,
             231,
-            254
+            254,
+            279
         ],
         "dps_per_level": null
     },
@@ -23426,7 +23983,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -23576,6 +24134,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Electro Spirit",
         "summon_character": "ElectroSpirit",
         "summon_number": 1,
@@ -23595,13 +24157,14 @@
             230,
             252,
             278,
-            305
+            305,
+            334
         ],
         "damage_per_level": null,
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE3",
+        "name": "NOTINUSE18",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -23698,7 +24261,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -23848,6 +24412,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -23863,7 +24431,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -23879,23 +24448,24 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE4",
-        "rarity": "Common",
+        "name": "SkeletonKing",
+        "rarity": "Champion",
         "flags": null,
         "tribe": null,
         "sight_range": 5500,
         "deploy_time": 1000,
         "charge_range": 0,
         "speed": 60,
-        "hitpoints": 651,
-        "hit_speed": 1200,
-        "load_time": 700,
-        "damage": 79,
+        "hitpoints": 2300,
+        "hit_speed": 1600,
+        "load_time": 1300,
+        "damage": 180,
         "damage_special": 0,
         "crown_tower_damage_percent": 0,
         "load_first_hit": false,
@@ -23924,7 +24494,7 @@
         "life_time": 0,
         "projectile_special": null,
         "projectile_effect_special": null,
-        "area_damage_radius": 0,
+        "area_damage_radius": 1000,
         "target_only_buildings": false,
         "target_only_troops": false,
         "target_only_towers": false,
@@ -23935,9 +24505,9 @@
         "starting_buff": null,
         "starting_buff_time": 0,
         "mesh": null,
-        "prestige_swf": "sc/chr_prestige4_dl.sc",
-        "prestige_export_name2": "Knight_prestige",
-        "prestige_export_name3": "Knight_prestige2",
+        "prestige_swf": null,
+        "prestige_export_name2": null,
+        "prestige_export_name3": null,
         "prestige_red_export_name2": null,
         "prestige_red_export_name3": null,
         "attached_character": null,
@@ -23947,15 +24517,15 @@
         "crowd_effects": false,
         "pushback": 0,
         "ignore_pushback": false,
-        "scale": 98,
-        "collision_radius": 500,
-        "mass": 6,
+        "scale": 105,
+        "collision_radius": 1200,
+        "mass": 18,
         "tile_size_override": 0,
         "area_buff": null,
         "area_buff_time": 0,
         "area_buff_radius": 0,
         "health_bar": "Medium",
-        "health_bar_offset_y": 35,
+        "health_bar_offset_y": -10,
         "show_health_number": false,
         "flying_height": 0,
         "fly_direct_paths": false,
@@ -23981,7 +24551,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -24130,44 +24701,34 @@
         "move_radius_by_friendly_mass": 0,
         "ignore_buff": null,
         "target_lowest_hp": false,
-        "ability": null,
+        "ability": "SkeletonKing",
+        "ignore_clone": false,
+        "custom_spawn_filter": "filter_champion_skeleton_king",
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
+        "summon_character": "SkeletonKing",
+        "summon_number": 0,
+        "summon_character_second": null,
+        "summon_character_second_count": 0,
         "hitpoints_per_level": [
-            651,
-            716,
-            787,
-            865,
-            950,
-            1041,
-            1145,
-            1256,
-            1380,
-            1516,
-            1666,
-            1829,
-            2011,
-            2206
+            2300,
+            2530,
+            2783,
+            3059,
+            3358
         ],
         "damage_per_level": [
-            79,
-            86,
-            95,
-            105,
-            115,
-            126,
-            139,
-            152,
-            167,
-            184,
-            202,
-            221,
-            244,
-            267
+            180,
+            198,
+            217,
+            239,
+            262
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE5",
+        "name": "NOTINUSE17",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -24264,7 +24825,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -24414,6 +24976,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -24429,7 +24995,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -24445,12 +25012,13 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE6",
+        "name": "NOTINUSE16",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -24547,7 +25115,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -24697,6 +25266,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -24712,7 +25285,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -24728,23 +25302,24 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE7",
-        "rarity": "Common",
+        "name": "SkeletonKingSkeleton",
+        "rarity": "Champion",
         "flags": null,
         "tribe": null,
         "sight_range": 5500,
         "deploy_time": 1000,
         "charge_range": 0,
-        "speed": 60,
-        "hitpoints": 651,
-        "hit_speed": 1200,
-        "load_time": 700,
-        "damage": 79,
+        "speed": 90,
+        "hitpoints": 81,
+        "hit_speed": 1000,
+        "load_time": 500,
+        "damage": 81,
         "damage_special": 0,
         "crown_tower_damage_percent": 0,
         "load_first_hit": false,
@@ -24756,7 +25331,7 @@
         "multiple_projectiles": 0,
         "multiple_targets": 0,
         "all_targets_hit": false,
-        "range": 1200,
+        "range": 500,
         "minimum_range": 0,
         "special_min_range": 0,
         "special_range": 0,
@@ -24784,9 +25359,9 @@
         "starting_buff": null,
         "starting_buff_time": 0,
         "mesh": null,
-        "prestige_swf": "sc/chr_prestige4_dl.sc",
-        "prestige_export_name2": "Knight_prestige",
-        "prestige_export_name3": "Knight_prestige2",
+        "prestige_swf": "sc/chr_prestige2_dl.sc",
+        "prestige_export_name2": "skeleton_prestige",
+        "prestige_export_name3": "skeleton_prestige2",
         "prestige_red_export_name2": null,
         "prestige_red_export_name3": null,
         "attached_character": null,
@@ -24796,15 +25371,15 @@
         "crowd_effects": false,
         "pushback": 0,
         "ignore_pushback": false,
-        "scale": 98,
+        "scale": 130,
         "collision_radius": 500,
-        "mass": 6,
+        "mass": 1,
         "tile_size_override": 0,
         "area_buff": null,
         "area_buff_time": 0,
         "area_buff_radius": 0,
-        "health_bar": "Medium",
-        "health_bar_offset_y": 35,
+        "health_bar": "Small",
+        "health_bar_offset_y": 0,
         "show_health_number": false,
         "flying_height": 0,
         "fly_direct_paths": false,
@@ -24830,7 +25405,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -24876,8 +25452,8 @@
         "spawn_pushback_radius": 0,
         "spawn_area_object": null,
         "spawn_area_object_level_index": 0,
-        "projectile_start_radius": 450,
-        "projectile_start_z": 450,
+        "projectile_start_radius": 350,
+        "projectile_start_z": 350,
         "stop_movement_after_ms": 0,
         "wait_ms": 0,
         "dont_stop_move_anim": false,
@@ -24916,7 +25492,7 @@
         "turret_movement": 0,
         "projectile_y_offset": 0,
         "charge_speed_multiplier": 0,
-        "deploy_delay": 0,
+        "deploy_delay": 400,
         "jump_enabled": false,
         "sight_clip": 0,
         "area_effect_on_dash": null,
@@ -24980,43 +25556,29 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
-        "name_en": "Knight",
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": "filter_skeleton_king_skeletons",
+        "ignore_resurrect": false,
+        "name_en": "Skeleton",
         "hitpoints_per_level": [
-            651,
-            716,
-            787,
-            865,
-            950,
-            1041,
-            1145,
-            1256,
-            1380,
-            1516,
-            1666,
-            1829,
-            2011,
-            2206
+            81,
+            89,
+            98,
+            107,
+            118
         ],
         "damage_per_level": [
-            79,
-            86,
-            95,
-            105,
-            115,
-            126,
-            139,
-            152,
-            167,
-            184,
-            202,
-            221,
-            244,
-            267
+            81,
+            89,
+            98,
+            107,
+            118
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE8",
+        "name": "NOTINUSE19",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -25113,7 +25675,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -25263,6 +25826,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -25278,7 +25845,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -25294,12 +25862,13 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE9",
+        "name": "NOTINUSE20",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -25362,7 +25931,7 @@
         "crowd_effects": false,
         "pushback": 0,
         "ignore_pushback": false,
-        "scale": 98,
+        "scale": 100,
         "collision_radius": 500,
         "mass": 6,
         "tile_size_override": 0,
@@ -25396,7 +25965,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -25546,6 +26116,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -25561,7 +26135,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -25577,23 +26152,24 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE10",
-        "rarity": "Common",
+        "name": "GoldenKnight",
+        "rarity": "Champion",
         "flags": null,
         "tribe": null,
         "sight_range": 5500,
         "deploy_time": 1000,
         "charge_range": 0,
         "speed": 60,
-        "hitpoints": 651,
-        "hit_speed": 1200,
+        "hitpoints": 2000,
+        "hit_speed": 900,
         "load_time": 700,
-        "damage": 79,
+        "damage": 160,
         "damage_special": 0,
         "crown_tower_damage_percent": 0,
         "load_first_hit": false,
@@ -25633,9 +26209,9 @@
         "starting_buff": null,
         "starting_buff_time": 0,
         "mesh": null,
-        "prestige_swf": "sc/chr_prestige4_dl.sc",
-        "prestige_export_name2": "Knight_prestige",
-        "prestige_export_name3": "Knight_prestige2",
+        "prestige_swf": null,
+        "prestige_export_name2": null,
+        "prestige_export_name3": null,
         "prestige_red_export_name2": null,
         "prestige_red_export_name3": null,
         "attached_character": null,
@@ -25646,14 +26222,14 @@
         "pushback": 0,
         "ignore_pushback": false,
         "scale": 98,
-        "collision_radius": 500,
-        "mass": 6,
+        "collision_radius": 800,
+        "mass": 10,
         "tile_size_override": 0,
         "area_buff": null,
         "area_buff_time": 0,
         "area_buff_radius": 0,
         "health_bar": "Medium",
-        "health_bar_offset_y": 35,
+        "health_bar_offset_y": -15,
         "show_health_number": false,
         "flying_height": 0,
         "fly_direct_paths": false,
@@ -25667,23 +26243,24 @@
         "morph_time": 0,
         "morph_keep_target": false,
         "attack_start_effect_special": null,
-        "dash_immune_to_damage_time": 0,
+        "dash_immune_to_damage_time": 100,
         "dash_cooldown": 0,
         "jump_height": 0,
-        "dash_push_back": 0,
+        "dash_push_back": 2000,
         "dash_radius": 0,
-        "dash_damage": 0,
+        "dash_damage": 310,
         "dash_filter": null,
         "dash_constant_time": 0,
-        "dash_landing_time": 0,
+        "dash_landing_time": 200,
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 10,
+        "dash_secondary_range": 6000,
         "dashing_damage": 0,
         "dashing_pushback": 0,
-        "dash_to_target_radius": false,
-        "jump_speed": 0,
+        "dash_to_target_radius": true,
+        "jump_speed": 400,
         "spawn_start_time": 0,
         "spawn_interval": 0,
         "spawn_number": 0,
@@ -25828,67 +26405,57 @@
         "move_radius_by_friendly_mass": 0,
         "ignore_buff": null,
         "target_lowest_hp": false,
-        "ability": null,
+        "ability": "GoldenKnightChain",
+        "ignore_clone": false,
+        "custom_spawn_filter": "filter_champion_golden_knight",
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
+        "summon_character": "GoldenKnight",
+        "summon_number": 0,
+        "summon_character_second": null,
+        "summon_character_second_count": 0,
         "hitpoints_per_level": [
-            651,
-            716,
-            787,
-            865,
-            950,
-            1041,
-            1145,
-            1256,
-            1380,
-            1516,
-            1666,
-            1829,
-            2011,
-            2206
+            2000,
+            2200,
+            2420,
+            2660,
+            2920
         ],
         "damage_per_level": [
-            79,
-            86,
-            95,
-            105,
-            115,
-            126,
-            139,
-            152,
-            167,
-            184,
-            202,
-            221,
-            244,
-            267
+            160,
+            176,
+            193,
+            212,
+            233
         ],
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE11",
-        "rarity": "Common",
+        "name": "ArcherQueen",
+        "rarity": "Champion",
         "flags": null,
         "tribe": null,
         "sight_range": 5500,
         "deploy_time": 1000,
         "charge_range": 0,
         "speed": 60,
-        "hitpoints": 651,
+        "hitpoints": 1000,
         "hit_speed": 1200,
-        "load_time": 700,
-        "damage": 79,
+        "load_time": 1100,
+        "damage": 0,
         "damage_special": 0,
         "crown_tower_damage_percent": 0,
         "load_first_hit": false,
         "load_after_retarget": false,
         "stop_time_after_attack": 0,
         "stop_time_after_special_attack": 0,
-        "projectile": null,
+        "projectile": "ArcherQueenArrow",
         "custom_first_projectile": null,
         "multiple_projectiles": 0,
         "multiple_targets": 0,
         "all_targets_hit": false,
-        "range": 1200,
+        "range": 5000,
         "minimum_range": 0,
         "special_min_range": 0,
         "special_range": 0,
@@ -25896,7 +26463,7 @@
         "special_ignore_buildings": false,
         "special_attacks_to_ignore_list": false,
         "attacks_ground": true,
-        "attacks_air": false,
+        "attacks_air": true,
         "death_damage_radius": 0,
         "death_damage": 0,
         "death_push_back": 0,
@@ -25916,9 +26483,9 @@
         "starting_buff": null,
         "starting_buff_time": 0,
         "mesh": null,
-        "prestige_swf": "sc/chr_prestige4_dl.sc",
-        "prestige_export_name2": "Knight_prestige",
-        "prestige_export_name3": "Knight_prestige2",
+        "prestige_swf": null,
+        "prestige_export_name2": null,
+        "prestige_export_name3": null,
         "prestige_red_export_name2": null,
         "prestige_red_export_name3": null,
         "attached_character": null,
@@ -25928,7 +26495,7 @@
         "crowd_effects": false,
         "pushback": 0,
         "ignore_pushback": false,
-        "scale": 98,
+        "scale": 99,
         "collision_radius": 500,
         "mass": 6,
         "tile_size_override": 0,
@@ -25936,7 +26503,7 @@
         "area_buff_time": 0,
         "area_buff_radius": 0,
         "health_bar": "Medium",
-        "health_bar_offset_y": 35,
+        "health_bar_offset_y": -5,
         "show_health_number": false,
         "flying_height": 0,
         "fly_direct_paths": false,
@@ -25962,7 +26529,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -26008,8 +26576,8 @@
         "spawn_pushback_radius": 0,
         "spawn_area_object": null,
         "spawn_area_object_level_index": 0,
-        "projectile_start_radius": 450,
-        "projectile_start_z": 450,
+        "projectile_start_radius": 1350,
+        "projectile_start_z": 800,
         "stop_movement_after_ms": 0,
         "wait_ms": 0,
         "dont_stop_move_anim": false,
@@ -26111,44 +26679,28 @@
         "move_radius_by_friendly_mass": 0,
         "ignore_buff": null,
         "target_lowest_hp": false,
-        "ability": null,
-        "name_en": "Knight",
+        "ability": "ArcherQueenRapid",
+        "ignore_clone": false,
+        "custom_spawn_filter": "filter_champion_archer_queen",
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
+        "name_en": "Archer",
+        "summon_character": "ArcherQueen",
+        "summon_number": 1,
+        "summon_character_second": null,
+        "summon_character_second_count": 0,
         "hitpoints_per_level": [
-            651,
-            716,
-            787,
-            865,
-            950,
-            1041,
-            1145,
-            1256,
-            1380,
-            1516,
-            1666,
-            1829,
-            2011,
-            2206
+            1000,
+            1100,
+            1210,
+            1330,
+            1460
         ],
-        "damage_per_level": [
-            79,
-            86,
-            95,
-            105,
-            115,
-            126,
-            139,
-            152,
-            167,
-            184,
-            202,
-            221,
-            244,
-            267
-        ],
+        "damage_per_level": null,
         "dps_per_level": null
     },
     {
-        "name": "NOTINUSE12",
+        "name": "NOTINUSE15",
         "rarity": "Common",
         "flags": null,
         "tribe": null,
@@ -26245,7 +26797,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -26395,6 +26948,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -26410,7 +26967,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -26426,7 +26984,8 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
@@ -26528,7 +27087,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -26678,6 +27238,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -26693,7 +27257,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -26709,7 +27274,8 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     },
@@ -26811,7 +27377,8 @@
         "dash_min_range": 0,
         "dash_max_range": 0,
         "dash_distance": 0,
-        "dash_only_once": false,
+        "dash_count": 0,
+        "dash_secondary_range": 0,
         "dashing_damage": 0,
         "dashing_pushback": 0,
         "dash_to_target_radius": false,
@@ -26961,6 +27528,10 @@
         "ignore_buff": null,
         "target_lowest_hp": false,
         "ability": null,
+        "ignore_clone": false,
+        "custom_spawn_filter": null,
+        "custom_clone_filter": null,
+        "ignore_resurrect": false,
         "name_en": "Knight",
         "hitpoints_per_level": [
             651,
@@ -26976,7 +27547,8 @@
             1666,
             1829,
             2011,
-            2206
+            2206,
+            2421
         ],
         "damage_per_level": [
             79,
@@ -26992,7 +27564,8 @@
             202,
             221,
             244,
-            267
+            267,
+            293
         ],
         "dps_per_level": null
     }

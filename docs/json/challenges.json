@@ -3,7 +3,7 @@
         "name": "Gold",
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_tournament_gold",
-        "game_mode": "Challenge",
+        "game_mode": "Challenge_AllCards_EventDeck",
         "wins_icon_export_name": "tournament_open_wins_badge_gold",
         "enabled": true,
         "join_cost": 100,
@@ -43,6 +43,7 @@
         "item_export_name": "tournament_item_open",
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_GOLD",
+        "sort_priority": 2,
         "key": "Gold",
         "id": 65000000,
         "_lang": {
@@ -78,7 +79,7 @@
         "name": "Bronze",
         "icon_swf": "sc/ui.sc",
         "icon_export_name": "icon_tournament_bronze",
-        "game_mode": "Challenge",
+        "game_mode": "Challenge_AllCards_EventDeck",
         "wins_icon_export_name": "tournament_open_wins_badge_bronze",
         "enabled": true,
         "join_cost": 10,
@@ -118,6 +119,7 @@
         "item_export_name": "tournament_item_open",
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_BRONZE",
+        "sort_priority": 1,
         "key": "Bronze",
         "id": 65000001,
         "_lang": {
