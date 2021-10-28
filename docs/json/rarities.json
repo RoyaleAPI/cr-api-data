@@ -48,6 +48,22 @@
             5000,
             0
         ],
+        "original_upgrade_material_count": [
+            2,
+            4,
+            10,
+            20,
+            50,
+            100,
+            200,
+            400,
+            800,
+            1000,
+            2000,
+            5000,
+            0,
+            0
+        ],
         "upgrade_cost": [
             5,
             20,
@@ -148,6 +164,20 @@
             1250,
             0
         ],
+        "original_upgrade_material_count": [
+            2,
+            4,
+            10,
+            20,
+            50,
+            100,
+            200,
+            400,
+            800,
+            1000,
+            0,
+            0
+        ],
         "upgrade_cost": [
             50,
             150,
@@ -239,6 +269,17 @@
             200,
             0
         ],
+        "original_upgrade_material_count": [
+            2,
+            4,
+            10,
+            20,
+            50,
+            100,
+            200,
+            0,
+            0
+        ],
         "upgrade_cost": [
             400,
             2000,
@@ -316,6 +357,14 @@
             6,
             10,
             20,
+            0
+        ],
+        "original_upgrade_material_count": [
+            2,
+            4,
+            10,
+            20,
+            0,
             0
         ],
         "upgrade_cost": [
@@ -408,6 +457,12 @@
             20,
             0
         ],
+        "original_upgrade_material_count": [
+            0,
+            0,
+            0,
+            0
+        ],
         "upgrade_cost": [
             35000,
             75000,
@@ -488,6 +543,14 @@
             10,
             20,
             20,
+            0
+        ],
+        "original_upgrade_material_count": [
+            0,
+            0,
+            0,
+            0,
+            0,
             0
         ],
         "upgrade_cost": [
