@@ -1,9 +1,0 @@
-certifi
-chardet
-idna
-python-box
-PyYAML
-requests
-tabulate
-urllib3
-pydantic
