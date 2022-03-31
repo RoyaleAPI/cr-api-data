@@ -59,6 +59,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Rage"
     },
     {
@@ -121,6 +122,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Freeze"
     },
     {
@@ -183,6 +185,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Poison"
     },
     {
@@ -245,6 +248,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Slowdown"
     },
     {
@@ -307,6 +311,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Stun"
     },
     {
@@ -369,6 +374,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Tornado"
     },
     {
@@ -431,6 +437,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Clone"
     },
     {
@@ -492,7 +499,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "Stun",
@@ -553,7 +561,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "Invisibility",
@@ -614,7 +623,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "RageModeRage",
@@ -676,6 +686,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Rage"
     },
     {
@@ -738,7 +749,71 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Poison"
+    },
+    {
+        "name": "IceWizardCold",
+        "rarity": "Common",
+        "icon_file_name": null,
+        "no_effect_to_crown_towers": false,
+        "building_damage_percent": 0,
+        "crown_tower_damage_percent": 0,
+        "damage_per_second": 0,
+        "hit_frequency": 0,
+        "damage_reduction": 0,
+        "heal_per_second": 0,
+        "hit_speed_multiplier": -35,
+        "speed_multiplier": -35,
+        "spawn_speed_multiplier": -35,
+        "invisible": false,
+        "remove_on_attack": false,
+        "remove_on_heal": false,
+        "remove_on_hit": false,
+        "damage_on_hit": 0,
+        "damage_multiplier": 0,
+        "filter_file": "sc/effects.sc",
+        "filter_affects_transformation": false,
+        "filter_inherit_life_duration": false,
+        "ignore_push_back": false,
+        "audio_pitch_modifier": 75,
+        "portal": false,
+        "attract_percentage": 0,
+        "lateral_push_percentage": 0,
+        "push_mass_factor": 0,
+        "push_speed_factor": 0,
+        "controlled_by_parent": false,
+        "clone": false,
+        "scale": 0,
+        "enable_stacking": false,
+        "chained_buff": null,
+        "chained_buff_time": 0,
+        "charge": false,
+        "spawn_start_time": 0,
+        "spawn_number": 0,
+        "spawn_interval": 0,
+        "spawn_pause_time": 0,
+        "spawn_object": null,
+        "spawn_limit": 0,
+        "spawn_level_index": 0,
+        "hitpoint_multiplier": 0,
+        "shield": 0,
+        "jump": false,
+        "projectile": null,
+        "override_projectile": null,
+        "hit_tick_from_source": false,
+        "morph_target": null,
+        "death_spawn": null,
+        "death_spawn_is_enemy": false,
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
+        "reflect_projectiles": false,
+        "lock_target": false,
+        "rally": false,
+        "not_cloned": false,
+        "level_increase": 0,
+        "name_en": "Deploy Slow"
     },
     {
         "name": "Earthquake",
@@ -799,7 +874,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "BolaSnare",
@@ -813,8 +889,8 @@
         "damage_reduction": 0,
         "heal_per_second": 0,
         "hit_speed_multiplier": 0,
-        "speed_multiplier": -85,
-        "spawn_speed_multiplier": -85,
+        "speed_multiplier": -70,
+        "spawn_speed_multiplier": 0,
         "invisible": false,
         "remove_on_attack": false,
         "remove_on_heal": false,
@@ -861,6 +937,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Snare"
     },
     {
@@ -922,7 +999,132 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": true
+        "not_cloned": true,
+        "level_increase": 0
+    },
+    {
+        "name": "InvisibilityRemoveOnAttack",
+        "rarity": "Epic",
+        "icon_file_name": null,
+        "no_effect_to_crown_towers": false,
+        "building_damage_percent": 0,
+        "crown_tower_damage_percent": 0,
+        "damage_per_second": 0,
+        "hit_frequency": 0,
+        "damage_reduction": 0,
+        "heal_per_second": 0,
+        "hit_speed_multiplier": 0,
+        "speed_multiplier": 0,
+        "spawn_speed_multiplier": 0,
+        "invisible": true,
+        "remove_on_attack": true,
+        "remove_on_heal": false,
+        "remove_on_hit": false,
+        "damage_on_hit": 0,
+        "damage_multiplier": 0,
+        "filter_file": null,
+        "filter_affects_transformation": false,
+        "filter_inherit_life_duration": false,
+        "ignore_push_back": false,
+        "audio_pitch_modifier": 0,
+        "portal": false,
+        "attract_percentage": 0,
+        "lateral_push_percentage": 0,
+        "push_mass_factor": 0,
+        "push_speed_factor": 0,
+        "controlled_by_parent": false,
+        "clone": false,
+        "scale": 0,
+        "enable_stacking": false,
+        "chained_buff": null,
+        "chained_buff_time": 0,
+        "charge": false,
+        "spawn_start_time": 0,
+        "spawn_number": 0,
+        "spawn_interval": 0,
+        "spawn_pause_time": 0,
+        "spawn_object": null,
+        "spawn_limit": 0,
+        "spawn_level_index": 0,
+        "hitpoint_multiplier": 0,
+        "shield": 0,
+        "jump": false,
+        "projectile": null,
+        "override_projectile": null,
+        "hit_tick_from_source": false,
+        "morph_target": null,
+        "death_spawn": null,
+        "death_spawn_is_enemy": false,
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
+        "reflect_projectiles": false,
+        "lock_target": false,
+        "rally": false,
+        "not_cloned": false,
+        "level_increase": 0
+    },
+    {
+        "name": "LevelUp",
+        "rarity": "Epic",
+        "icon_file_name": null,
+        "no_effect_to_crown_towers": false,
+        "building_damage_percent": 0,
+        "crown_tower_damage_percent": 0,
+        "damage_per_second": 0,
+        "hit_frequency": 0,
+        "damage_reduction": 0,
+        "heal_per_second": 0,
+        "hit_speed_multiplier": 0,
+        "speed_multiplier": 0,
+        "spawn_speed_multiplier": 0,
+        "invisible": false,
+        "remove_on_attack": false,
+        "remove_on_heal": false,
+        "remove_on_hit": false,
+        "damage_on_hit": 0,
+        "damage_multiplier": 0,
+        "filter_file": null,
+        "filter_affects_transformation": false,
+        "filter_inherit_life_duration": false,
+        "ignore_push_back": false,
+        "audio_pitch_modifier": 0,
+        "portal": false,
+        "attract_percentage": 0,
+        "lateral_push_percentage": 0,
+        "push_mass_factor": 0,
+        "push_speed_factor": 0,
+        "controlled_by_parent": false,
+        "clone": false,
+        "scale": 0,
+        "enable_stacking": false,
+        "chained_buff": null,
+        "chained_buff_time": 0,
+        "charge": false,
+        "spawn_start_time": 0,
+        "spawn_number": 0,
+        "spawn_interval": 0,
+        "spawn_pause_time": 0,
+        "spawn_object": null,
+        "spawn_limit": 0,
+        "spawn_level_index": 0,
+        "hitpoint_multiplier": 0,
+        "shield": 0,
+        "jump": false,
+        "projectile": null,
+        "override_projectile": null,
+        "hit_tick_from_source": false,
+        "morph_target": null,
+        "death_spawn": null,
+        "death_spawn_is_enemy": false,
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
+        "reflect_projectiles": false,
+        "lock_target": false,
+        "rally": false,
+        "not_cloned": false,
+        "level_increase": 1
     },
     {
         "name": "ContinueFreeze",
@@ -984,6 +1186,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Freeze"
     },
     {
@@ -1045,7 +1248,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "ShieldBoost",
@@ -1092,7 +1296,7 @@
         "spawn_limit": 0,
         "spawn_level_index": 0,
         "hitpoint_multiplier": 0,
-        "shield": 100,
+        "shield": 1,
         "jump": false,
         "projectile": null,
         "override_projectile": null,
@@ -1106,7 +1310,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "DummyCollisionBoostEpic",
@@ -1167,7 +1372,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "FireballProjectile",
@@ -1228,7 +1434,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "DropBomb",
@@ -1289,7 +1496,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "HealSpiritBuff",
@@ -1350,7 +1558,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "ArcherQueenRapid",
@@ -1363,8 +1572,8 @@
         "hit_frequency": 0,
         "damage_reduction": 0,
         "heal_per_second": 0,
-        "hit_speed_multiplier": 300,
-        "speed_multiplier": 0,
+        "hit_speed_multiplier": 280,
+        "speed_multiplier": -25,
         "spawn_speed_multiplier": 0,
         "invisible": true,
         "remove_on_attack": false,
@@ -1411,7 +1620,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": true
+        "not_cloned": true,
+        "level_increase": 0
     },
     {
         "name": "BattleHealerSelf",
@@ -1472,7 +1682,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "VoodooCurse",
@@ -1533,7 +1744,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "BattleHealerAll",
@@ -1594,7 +1806,8 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     },
     {
         "name": "SuperRage",
@@ -1656,6 +1869,7 @@
         "lock_target": false,
         "rally": false,
         "not_cloned": false,
+        "level_increase": 0,
         "name_en": "Rage"
     },
     {
@@ -1717,6 +1931,7 @@
         "reflect_projectiles": false,
         "lock_target": false,
         "rally": false,
-        "not_cloned": false
+        "not_cloned": false,
+        "level_increase": 0
     }
 ]

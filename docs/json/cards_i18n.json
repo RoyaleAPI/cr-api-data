@@ -44,7 +44,7 @@
                 "it": "Un tenace combattente da mischia, nonché il cugino acculturato e affascinante del barbaro. Si dice che sia stato fatto cavaliere per via del suo spettacolare baffo da sparviero.",
                 "nl": "Een taaie mêleestrijder. Het verfijnde, knappe neefje van de barbaar. Naar het schijnt, dankt hij zijn ridderschap enkel en alleen aan zijn ontzagwekkende snor.",
                 "no": "En steinhard nærkampekspert. Barbarens kjekke og dannede fetter. Ifølge ryktene var den sensasjonelt kule barten nok til at han ble han slått til ridder.",
-                "tr": "Güçlü bir yakın dövüş savaşçısı. Barbarın yakışıklı, kültürlü kuzeni. Söylenenlere göre yalnızca bıyıklarının muhteşemliği yüzünden şövalye ilan edilmiş.",
+                "tr": "Güçlü bir yakın dövüş savaşçısı. Barbarın yakışıklı, kültürlü kuzeni. Rivayetlere göre sırf muhteşem bıyıkları sayesinde şövalye ilan edilmiş.",
                 "jp": "タフで接近戦が得意な戦士です。皆様おなじみのバーバリアンが、イケメンになって文明化された感じですね。ウワサによると、ナイトになれたのはヒゲが立派だったからだとか...",
                 "kr": "터프한 근접 전사입니다. 바바리안의 사촌으로 얼굴도 잘생겼고 좀 더 교양이 있죠. 오로지 멋진 콧수염 하나 덕에 기사 작위를 받았다는 소문이 있습니다.",
                 "ru": "Крутой солдат ближнего боя. Милый, окультуренный родственник варвара. Ходят слухи, что его посвятили в рыцари за красивые усы.",
@@ -1499,7 +1499,7 @@
                 "ru": "Аж мурашки по коже! Стреляет во врагов кусочками льда, замедляя скорость передвижения и атаки. Пусть он и ледяной, но у него усы горячего парня.",
                 "ar": "قاذف الثلج هذا يلقي قطع ثلج تبطئ حركة الأعداء وسرعة هجومهم. ورغم برودته الشديدة إلا أنه لديه شارب جذاب للغاية.",
                 "pt": "Lança gelo para diminuir a velocidade de movimento e de ataque dos inimigos. A personalidade é gélida, mas o charme do bigode é \"caliente\"!",
-                "cn": "这位超酷的法师会向敌人发射冰晶，降低他们的移动速度和攻击速度。虽然寒冰法师外表冷酷，但他那迷人的胡子透露出的热情就已经足够让他在皇室TV人气大旺了。",
+                "cn": "这位超酷的法师会向敌人发射冰晶，降低他们的移动速度和攻击速度。虽然寒冰法师外表冷酷，但他那迷人的胡子透露出的热情就足以让他在皇室TV人气大旺了。",
                 "cnt": "這位超酷的法師會向敵人發射冰晶，降低他們的移動速度和攻擊速度。雖然寒冰法師外表冷酷，但他那迷人的鬍子透露出的熱情就已經足夠讓他在皇室TV人氣大旺了。",
                 "fa": "این ریخته‌گر سرما، خرده یخ‌هایی رو پرتاپ می‌کنه که حرکت و سرعت حمله دشمنان رو کند می‌کنه. علیرغم اینکه خیلی سرده، یک سبیل چخماقی داره که برای تلویزیون خیلی داغه.",
                 "id": "Pelempar dingin ini melemparkan keping es yang memperlambat pergerakan dan kecepatan serangan lawan. Meski amat dingin, pesona lengkungan kumisnya bisa mencairkan suasana dengan mudah.",
@@ -4095,6 +4095,69 @@
         }
     },
     {
+        "key": "mighty-miner",
+        "name": "Mighty Miner",
+        "sc_key": "MightyMiner",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 2,
+        "description": "Walk softly... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
+        "id": 26000065,
+        "_lang": {
+            "name": {
+                "do": "TID_SPELL_MIGHTY_MINER",
+                "en": "Mighty Miner",
+                "fr": "Maître mineur",
+                "de": "Großer Gräber",
+                "es": "Gran minero",
+                "it": "Minatore colossale",
+                "nl": "Megamijnwerker",
+                "no": "Gedigen graver",
+                "tr": "Güçlü Madenci",
+                "jp": "マイティディガー",
+                "kr": "능력자 광부",
+                "ru": "Шустрый шахтер",
+                "ar": "عامل المنجم العظيم",
+                "pt": "Mineiro Bombado",
+                "cn": "威猛矿工",
+                "cnt": "威猛礦工",
+                "fa": "معدنچی نیرومند",
+                "id": "Penambang Perkasa",
+                "ms": "Pelombong Unggul",
+                "th": "คนงานเหมืองจอมพลัง",
+                "fi": "Mahtava kaivosmies",
+                "vi": "Thợ mỏ dũng mãnh",
+                "sc_key": "TID_SPELL_MIGHTY_MINER"
+            },
+            "description": {
+                "do": "TID_SPELL_INFO_MIGHTY_MINER",
+                "en": "Walk softly... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
+                "fr": "Il marche lentement... mais sa foreuse est énorme !\n\nCe champion inflige des dégâts croissants à sa cible et peut changer de voie pour fuir le combat ou passer au plan B.\n\nIl n'est pas que du muscle, c'est aussi un cerveau !",
+                "de": "Bewege dich leise vorwärts ... und trage einen riesigen Bohrer!\n\nDieser Champion verursacht erhöhten Schaden an seinem Ziel und kann die Schlachtfeldseite wechseln, um zu entkommen oder seine Angriffspläne zu ändern.\n\nDadurch ist er nicht nur der mächtigste, sondern auch der listigste Tunnelgräber der Arena.",
+                "es": "Camina a paso lento... ¡con una perforadora gigante!\n\nEste campeón inflige cada vez más daño a su objetivo y puede cambiarse de carril para escapar del combate o cambiar su plan de ataque.\n\n¡Un gran minero siempre sabe cuándo escabullirse a tiempo!",
+                "it": "Chi va piano va sano e va lontano... se ha con sé una trivella!\nQuesto campione causa danni crescenti al suo bersaglio e può passare da un lato all'altro dell'arena per sfuggire agli assalti nemici o cambiare strategia di attacco.\nQueste abilità fanno di lui il minatore più possente e subdolo di tutti.",
+                "nl": "Hij loopt stilletjes... en draagt een grote boor!\n\nDeze kampioen brengt toenemende schade toe aan zijn doelwit en kan van kant veranderen om gevechten te ontvluchten of van aanvalsplan te wisselen.\n\nDit maakt hem niet alleen de machtigste maar ook de meest geruisloze mijnwerker van de arena.",
+                "no": "Vær lett på tå, og ta med et stort bor!\n\nDenne mesteren påfører målet økt skade og kan bytte fil for å unnslippe kamper eller endre angrepsplaner.\n\nDette gjør ham ikke bare til den største, men også mest snikete graveren i arenaen.",
+                "tr": "Yürüyüşü yavaş, ama delgisi kocaman!\n\nŞampiyon seviyeli bu birlik, hedefine her vuruşunda daha fazla hasar verir, rakiplerinden kaçmak veya başka bir hücum stratejisi kullanmak için şerit değiştirebilir.\n\nYani kendisi yalnızca Arenadaki en güçlü değil, aynı zamanda da en kurnaz Madencidir!",
+                "jp": "静かに慎重に... 大きなドリルを持ち歩きます！\n\nこのチャンピオンは相手を攻撃するほどダメージが増加し、緊急時や作戦変更の際には地中に潜って逆サイドに移動することができます。\n\nそれゆえに、彼は最強にして最も厄介なディガーでもあるのです。",
+                "kr": "부드러운 발걸음으로 큰 드릴을 들고 다닙니다!\n\n공격 대상에게 점점 더 큰 피해를 입히며, 전투를 피하거나 작전을 변경하기 위해 다른 쪽으로 이동할 수 있습니다.\n\n아레나에서 가장 강력하면서도 영리한 \"능력자\" 광부입니다.",
+                "ru": "Успевает всюду тот, кто не торопится и умеет пользоваться буром.\n\nЭтот чемпион наносит постепенно возрастающий урон и может менять стороны арены, если нужно уйти от сражения.\n\nНепревзойденная комбинация мощи и ловкости!",
+                "ar": "سر بهدوء... واحمل حفارًا كبيرًا!\n\nيلحق هذا البطل ضررًا متزايدًا بهدفه ويمكنه تغيير مساره للهروب من القتال أو تغيير خطط الهجوم.\n\nوهذا ما يجعله أمكر عامل منجم في الساحة وليس الأعظم فحسب.",
+                "pt": "Passos leves e broca pesada!\n\nO dano causado por este campeão a um alvo vai aumentando a cada golpe. Além disso, ele pode ir para o outro lado da arena para fugir do combate ou mudar sua estratégia.\n\nEle é o maior mineiro da arena e também o mais furtivo.",
+                "cn": "轻轻的我来了，扛着巨大的钻机！\n\n这位英雄对目标造成的伤害会不断提升，还能钻到另一路，从激战中脱身或改变攻击目标。\n\n凭着这股\"钻\"劲儿，他成为了竞技场上最威猛、最狡猾的矿工！",
+                "cnt": "身扛巨大鑽機，但依然步履輕盈！\n\n這位英雄對目標造成的傷害會持續遞增，還能鑽到另一路，從激戰中脫身或換路奇襲。\n\n他憑藉這手「掘」技，成為競技場上最威猛、最狡猾的礦工！",
+                "fa": "آهسته راه می‌ره... و یه مته گنده دستشه!\n\nاین قهرمان آسیب فزاینده‌ای به هدفش وارد می‌کنه و می‌تونه خط حرکتش رو برای فرار از مبارزه تغییر بده یا طرح‌های حمله رو عوض کنه.\n\nاین باعث می‌شه که اون نه فقط نیرومندترین، بلکه زیرک‌ترین معدنچی میدان نبرد باشه.",
+                "id": "Dengan langkah mantap serta bor besar, Jawara ini memberikan kerusakan yang bertambah seiring waktu. Selain itu, dia dapat berpindah lajur untuk kabur atau beralih strategi serangan.\n\nKemampuan tersebut tidak hanya menjadikannya Penambang paling perkasa, tetapi juga paling sulit terdeteksi di Arena.",
+                "ms": "Berjalan dengan perlahan... sambil membawa gerudi besar!\n\nJuara ini melakukan kerosakan semakin meningkat pada sasaran dan boleh menukar lorong untuk melarikan diri dari kombat atau menukar rancangan serangan.\n\nIni menjadikannya bukan sahaja paling hebat tetapi juga Pelombong paling licik di arena.",
+                "th": "เดินเยื้องย่าง... พร้อมสว่านอันใหญ่!\n\nแชมเปี้ยนคนนี้สร้างความเสียหายเพิ่มเติมให้กับเป้าหมาย และสามารถเปลี่ยนเลนเพื่อหลบเลี่ยงการต่อสู้หรือเปลี่ยนแผนการโจมตีได้\n\nนี่ไม่เพียงจะทำให้เขาเป็นคนที่ทรงพลังที่สุด แต่ยังทำให้เขาเจ้าเล่ห์ที่สุดในสนามประลองอีกด้วย",
+                "fi": "Etene varoen... ja pidä mukanasi isoa poraa!\n\nTämä mestari aiheuttaa kohteelleen kasvavaa tuhoa ja voi paeta kahakasta tai muuttaa hyökkäyssuunnitelmaa vaihtamalla laitaa.\n\nTämä tekee hänestä areenan mahtavimman ja ovelimman kaivosmiehen.",
+                "vi": "Bước chân nhẹ nhàng... với máy khoan khổng lồ trên tay!\n\nGây sát thương tăng dần lên mục tiêu và có thể chuyển làn đường để tránh chạm trán kẻ địch hoặc thay đổi chiến lược tấn công.\n\nKỹ năng này giúp anh ta trở thành chàng Thợ mỏ không chỉ dũng mãnh nhất mà còn xuất quỷ nhập thần nhất trong Đấu trường.",
+                "sc_key": "TID_SPELL_INFO_MIGHTY_MINER"
+            }
+        }
+    },
+    {
         "key": "elixir-golem",
         "name": "Elixir Golem",
         "sc_key": "ElixirGolem",
@@ -4467,7 +4530,7 @@
                 "ms": "Pasangan rangka ini terbang di atas arena dan menghembuskan api yang melakukan kerosakan kawasan. Mereka juga merupakan pemuzik xilofon sangkar rusuk.",
                 "th": "คู่หูจอมเผาคู่นี้ทำความเสียหายเป็นบริเวณและบินเหนือสนามประลอง แถมทั้งคู่ยังตีกระดูกซี่โครงเป็นทำนองได้เก่งอีกตะหาก",
                 "fi": "Nämä kaksi luisevaa loimuttajaa lentävät areenan yllä ja tekevät aluetuhoa. Ne myös soittavat kylkiluillaan ihan hiillostavan hyviä ksylofonikonsertteja.",
-                "vi": "Bộ đôi xương xẩu này bay lượn lờ trên Đấu trường và phun lửa gây ra Sát thương Diện rộng. Chúng cũng chơi song tấu \"xương cầm\" bằng xương sườn nữa đấy.",
+                "vi": "Bộ đôi xương xẩu này bay lượn lờ trên Đấu trường và phun lửa gây ra sát thương diện rộng. Chúng cũng chơi song tấu \"xương cầm\" bằng xương sườn nữa đấy.",
                 "sc_key": "TID_SPELL_INFO_SKELETONDRAGONS"
             }
         }
@@ -4593,7 +4656,7 @@
                 "ms": "Melompat ke atas musuh, melakukan kerosakan kawasan dan memegun sehingga 9 askar musuh. Tidak habis-habis bersaing dengan Kesatria untuk misai terbaik.",
                 "th": "กระโดดใส่ศัตรู สร้างความเสียหายเป็นบริเวณ และสตันกองกำลังศัตรูสูงสุด 9 กอง เป็นคู่แข่งตลอดกาลของอัศวินในเรื่องหนวดงาม",
                 "fi": "Tämä sähköinen henki hyppii vihollisten päälle aiheuttaen aluetuhoa ja lamauttaen jopa yhdeksän vihollisjoukkoa. Hän on myös ikuisesti kilpasilla ritarin kanssa komeimpien viiksien tittelistä!",
-                "vi": "Nhảy bổ vào kẻ thù, gây ra Sát thương Diện rộng và làm choáng tối đa 9 Binh lính địch. Tinh linh Điện vs Kỵ sĩ - cuộc chiến không có hồi kết để xem ai là người có bộ ria đẹp nhất.",
+                "vi": "Nhảy bổ vào kẻ thù, gây ra sát thương diện rộng và làm choáng tối đa 9 Binh lính địch. Tinh linh Điện vs Kỵ sĩ - cuộc chiến không có hồi kết để xem ai là người có bộ ria đẹp nhất.",
                 "sc_key": "TID_SPELL_INFO_ELECTRO_SPIRIT"
             }
         }
@@ -4602,7 +4665,7 @@
         "key": "electro-giant",
         "name": "Electro Giant",
         "sc_key": "ElectroGiant",
-        "elixir": 8,
+        "elixir": 7,
         "type": "Troop",
         "rarity": "Epic",
         "arena": 11,
@@ -5412,7 +5475,7 @@
                 "ms": "Apabila Kurungan Goblin dimusnahkan, Goblin Pelaga dilepaskan ke dalam Arena! Goblin Pelaga ni tidak melatih kakinya.",
                 "th": "เมื่อกรงขังก็อบลินถูกทำลาย ก็อบลินขาโหดจะถูกปล่อยลงสู่สนามประลอง! ถึงจะขาโหดแต่มันกลับมีขาเล็กนิดเดียว",
                 "fi": "Hiisihäkin tuhoutuessa areenalle ryntää hiisiköriläs! Hän tykkää kyllä esitellä voimiaan, mutta jalkapäivä tuppaa unohtumaan.",
-                "vi": "Khi Lồng Yêu tinh bị phá hủy, một Yêu tinh Đầu gấu sẽ xuất hiện trên Đấu trường! Yêu tinh Đầu gấu không bao giờ tập chân.",
+                "vi": "Khi Lồng Yêu tinh bị phá hủy, một Yêu tinh đầu gấu sẽ xuất hiện trên Đấu trường! Yêu tinh đầu gấu này không bao giờ tập các bài tập chân.",
                 "sc_key": "TID_SPELL_INFO_GOBLINCAGE"
             }
         }
@@ -6672,7 +6735,7 @@
                 "ms": "Tak perlu tandatangan untuk pakej ni!\n\nDijatuhkan dari langit, ia melakukan kerosakan kawasan terhadap askar musuh sebelum keluarnya seorang Rekrut Diraja.\n\nKotak kosong itu juga sesuai untuk pengintipan.",
                 "th": "ไม่จำเป็นต้องเซ็นชื่อรับพัสดุ!\n\nเมื่อร่วงหล่นจากฟ้า พัสดุจะสร้างความเสียหายเป็นบริเวณต่อกองกำลังศัตรู ก่อนส่งทหารเกณฑ์หลวงออกมา\n\nแถมทาสแมวยังใช้กล่องเปล่าใส่นายท่านได้อีกต่างหาก",
                 "fi": "Tätä lähetystä ei tarvitse kuitata!\n\nPudotessaan taivaalta se aiheuttaa aluetuhoa vihollisjoukoille ja vapauttaa sitten kuninkaan soturin.\n\nTyhjä laatikko sopii hyvin myös vakoiluun.",
-                "vi": "Không cần gửi bảo đảm kiện hàng này đâu!\n\nNó sẽ rơi thẳng từ trên trời xuống, gây Sát thương Diện rộng cho Binh lính địch trước khi giải phóng một Tân binh Hoàng gia.\n\nNếu anh ta đi làm gián điệp thì cái thùng rỗng này sẽ rất hữu ích đấy!",
+                "vi": "Không cần gửi bảo đảm kiện hàng này đâu!\n\nNó sẽ rơi thẳng từ trên trời xuống, gây sát thương diện rộng cho Binh lính địch trước khi giải phóng một Tân binh Hoàng gia.\n\nNếu anh ta đi làm gián điệp thì cái thùng rỗng này sẽ rất hữu ích đấy!",
                 "sc_key": "TID_SPELL_INFO_ROYAL_DELIVERY"
             }
         }

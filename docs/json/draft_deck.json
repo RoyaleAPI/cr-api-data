@@ -162,8 +162,7 @@
             "Draft_RH_MiniTank",
             "Draft_RH_Basic3s",
             "Draft_RH_CycleUnder3",
-            "Draft_RH_CheapAntiAir",
-            "Draft_RH_Champions"
+            "Draft_RH_CheapAntiAir"
         ]
     },
     {
@@ -314,6 +313,57 @@
             "BoatDefense_Defenders",
             "BoatDefense_Spells",
             "BoatDefense_Range"
+        ]
+    },
+    {
+        "name": "Draft_ValentinesDay",
+        "required_sets": [
+            "Draft_RH_Valentines_TankUnit",
+            "Draft_RH_Valentines_AntiAir",
+            "Draft_RH_Valentines_Distractions",
+            "Draft_RH_Valentines_DirectDamage",
+            "Draft_RH_Valentines_WinCons",
+            "Draft_RH_Valentines_MagicArcher_and_Princess"
+        ],
+        "optional_sets": [
+            "Draft_RH_Valentines_Investment",
+            "Draft_RH_Valentines_Punish",
+            "Draft_RH_Valentines_HitTower",
+            "Draft_RH_Valentines_VersatileLegs",
+            "Draft_RH_Valentines_TankSupport",
+            "Draft_RH_Valentines_AntiTank",
+            "Draft_RH_Valentines_2ndSpell",
+            "Draft_RH_Valentines_Splash",
+            "Draft_RH_Valentines_MiniTank",
+            "Draft_RH_Valentines_Basic3s",
+            "Draft_RH_Valentines_CycleUnder3",
+            "Draft_RH_Valentines_CheapAntiAir",
+            "Draft_RH_Valentines_Champions"
+        ]
+    },
+    {
+        "name": "Draft_v1_Champions",
+        "required_sets": [
+            "Draft_RH_TankUnit",
+            "Draft_RH_AntiAir",
+            "Draft_RH_Distractions",
+            "Draft_RH_DirectDamage",
+            "Draft_RH_WinCons"
+        ],
+        "optional_sets": [
+            "Draft_RH_Investment",
+            "Draft_RH_Punish",
+            "Draft_RH_HitTower",
+            "Draft_RH_VersatileLegs",
+            "Draft_RH_TankSupport",
+            "Draft_RH_AntiTank",
+            "Draft_RH_2ndSpell",
+            "Draft_RH_Splash",
+            "Draft_RH_MiniTank",
+            "Draft_RH_Basic3s",
+            "Draft_RH_CycleUnder3",
+            "Draft_RH_CheapAntiAir",
+            "Draft_RH_Champions"
         ]
     }
 ]

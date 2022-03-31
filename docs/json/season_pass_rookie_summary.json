@@ -624,5 +624,41 @@
             "emote": 1,
             "resource_Gold": 25000
         }
+    },
+    {
+        "name": "NoTower_WildChampion_Rookie_Rare",
+        "summary": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 2,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "chest_WildChampion_<current_arena>": 1,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 3,
+            "consumable_WildcardRare": 200,
+            "resource_Gold": 25500
+        },
+        "summary_free": {
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 2,
+            "bonus_consumable_WildcardRare": 10,
+            "chest_Star_<current_arena>": 26,
+            "chest_WildChampion_<current_arena>": 1,
+            "consumable_BookCardRare": 1,
+            "resource_Gold": 500
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_WildcardCommon": 500,
+            "consumable_WildcardEpic": 14,
+            "consumable_WildcardLegendary": 3,
+            "consumable_WildcardRare": 200,
+            "resource_Gold": 25000
+        }
     }
 ]

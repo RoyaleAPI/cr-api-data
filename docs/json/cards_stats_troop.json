@@ -1,6 +1,7 @@
 [
     {
         "name": "Knight",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/knight.png",
@@ -84,6 +85,7 @@
     },
     {
         "name": "Archer",
+        "icon_swf_china": null,
         "icon_file": "archers",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/archers.png",
@@ -167,6 +169,7 @@
     },
     {
         "name": "Goblins",
+        "icon_swf_china": null,
         "icon_file": "goblins",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_narrow",
         "highres_image_filename": "image/chr/goblins.png",
@@ -250,6 +253,7 @@
     },
     {
         "name": "Giant",
+        "icon_swf_china": null,
         "icon_file": "giant",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/giant.png",
@@ -333,6 +337,7 @@
     },
     {
         "name": "Pekka",
+        "icon_swf_china": null,
         "icon_file": "pekka",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_wide",
         "highres_image_filename": "image/chr/pekka.png",
@@ -416,6 +421,7 @@
     },
     {
         "name": "Minions",
+        "icon_swf_china": null,
         "icon_file": "minion",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/minions.png",
@@ -499,6 +505,7 @@
     },
     {
         "name": "Balloon",
+        "icon_swf_china": null,
         "icon_file": "chr_balloon",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/balloon.png",
@@ -582,6 +589,7 @@
     },
     {
         "name": "Witch",
+        "icon_swf_china": null,
         "icon_file": "chr_witch",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/witch.png",
@@ -665,6 +673,7 @@
     },
     {
         "name": "Barbarians",
+        "icon_swf_china": null,
         "icon_file": "barbarians",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_narrow",
         "highres_image_filename": "image/chr/barbarians.png",
@@ -748,6 +757,7 @@
     },
     {
         "name": "Golem",
+        "icon_swf_china": null,
         "icon_file": "chr_golem",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_empty",
         "highres_image_filename": null,
@@ -831,6 +841,7 @@
     },
     {
         "name": "Skeletons",
+        "icon_swf_china": null,
         "icon_file": "skeletons",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/skeletons.png",
@@ -914,6 +925,7 @@
     },
     {
         "name": "Valkyrie",
+        "icon_swf_china": null,
         "icon_file": "valkyrie",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/valkyrie.png",
@@ -997,6 +1009,7 @@
     },
     {
         "name": "SkeletonArmy",
+        "icon_swf_china": null,
         "icon_file": "skeleton_horde",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_narrow",
         "highres_image_filename": "image/chr/skeleton_army_dl.png",
@@ -1080,6 +1093,7 @@
     },
     {
         "name": "Bomber",
+        "icon_swf_china": null,
         "icon_file": "bomber",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/bomber.png",
@@ -1163,6 +1177,7 @@
     },
     {
         "name": "Musketeer",
+        "icon_swf_china": null,
         "icon_file": "musketeer",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/musketeer_dl.png",
@@ -1246,6 +1261,7 @@
     },
     {
         "name": "BabyDragon",
+        "icon_swf_china": null,
         "icon_file": "baby_dragon",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/baby_dragon.png",
@@ -1329,6 +1345,7 @@
     },
     {
         "name": "Prince",
+        "icon_swf_china": null,
         "icon_file": "prince",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/prince.png",
@@ -1412,6 +1429,7 @@
     },
     {
         "name": "Wizard",
+        "icon_swf_china": null,
         "icon_file": "wizard",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare_right",
         "highres_image_filename": "image/chr/wizard.png",
@@ -1495,6 +1513,7 @@
     },
     {
         "name": "MiniPekka",
+        "icon_swf_china": null,
         "icon_file": "mini_pekka",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/mini_pekka.png",
@@ -1578,6 +1597,7 @@
     },
     {
         "name": "SpearGoblins",
+        "icon_swf_china": null,
         "icon_file": "goblin_archer",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": "image/chr/spear_goblins.png",
@@ -1661,6 +1681,7 @@
     },
     {
         "name": "GiantSkeleton",
+        "icon_swf_china": null,
         "icon_file": "giant_skeleton",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/giant_skeleton.png",
@@ -1744,6 +1765,7 @@
     },
     {
         "name": "HogRider",
+        "icon_swf_china": null,
         "icon_file": "hog_rider",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/hog_rider_dl.png",
@@ -1827,6 +1849,7 @@
     },
     {
         "name": "MinionHorde",
+        "icon_swf_china": null,
         "icon_file": "minion_horde",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/minions_horde.png",
@@ -1910,6 +1933,7 @@
     },
     {
         "name": "IceWizard",
+        "icon_swf_china": null,
         "icon_file": "ice_wizard",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_empty",
         "highres_image_filename": "image/chr/ice_wizard.png",
@@ -1935,7 +1959,7 @@
         "summon_deploy_delay_second": 0,
         "character_skin": null,
         "character_skin2": null,
-        "radius": 0,
+        "radius": 2500,
         "height": 0,
         "projectile": null,
         "projectile_interval": 0,
@@ -1993,6 +2017,7 @@
     },
     {
         "name": "RoyalGiant",
+        "icon_swf_china": null,
         "icon_file": "royal_giant",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": null,
@@ -2076,6 +2101,7 @@
     },
     {
         "name": "SkeletonWarriors",
+        "icon_swf_china": null,
         "icon_file": "skeleton_warriors",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/guards_dl.png",
@@ -2159,6 +2185,7 @@
     },
     {
         "name": "Princess",
+        "icon_swf_china": null,
         "icon_file": "princess",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_narrow",
         "highres_image_filename": "image/chr/princess.png",
@@ -2242,6 +2269,7 @@
     },
     {
         "name": "DarkPrince",
+        "icon_swf_china": null,
         "icon_file": "dark_prince",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_empty",
         "highres_image_filename": "image/chr/dark_prince_dl.png",
@@ -2325,6 +2353,7 @@
     },
     {
         "name": "ThreeMusketeers",
+        "icon_swf_china": null,
         "icon_file": "three_musketeers",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare_empty",
         "highres_image_filename": "image/chr/three_musketeers.png",
@@ -2408,6 +2437,7 @@
     },
     {
         "name": "LavaHound",
+        "icon_swf_china": null,
         "icon_file": "lava_hound",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_lava_hound",
         "highres_image_filename": "image/chr/lava_hound.png",
@@ -2491,6 +2521,7 @@
     },
     {
         "name": "IceSpirits",
+        "icon_swf_china": null,
         "icon_file": "snow_spirits",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/ice_spirit.png",
@@ -2574,6 +2605,7 @@
     },
     {
         "name": "FireSpirits",
+        "icon_swf_china": null,
         "icon_file": "fire_spirits",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": null,
@@ -2657,6 +2689,7 @@
     },
     {
         "name": "Miner",
+        "icon_swf_china": null,
         "icon_file": "miner",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_narrow",
         "highres_image_filename": "image/chr/miner_dl.png",
@@ -2740,6 +2773,7 @@
     },
     {
         "name": "ZapMachine",
+        "icon_swf_china": null,
         "icon_file": "zapMachine",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_empty",
         "highres_image_filename": "image/chr/sparky_dl.png",
@@ -2823,6 +2857,7 @@
     },
     {
         "name": "Bowler",
+        "icon_swf_china": null,
         "icon_file": "bowler",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/bowler.png",
@@ -2906,6 +2941,7 @@
     },
     {
         "name": "RageBarbarian",
+        "icon_swf_china": null,
         "icon_file": "rage_barbarian",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_empty",
         "highres_image_filename": "image/chr/lumberjack.png",
@@ -2989,6 +3025,7 @@
     },
     {
         "name": "BattleRam",
+        "icon_swf_china": null,
         "icon_file": "battle_ram",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/battle_ram.png",
@@ -3072,6 +3109,7 @@
     },
     {
         "name": "InfernoDragon",
+        "icon_swf_china": null,
         "icon_file": "inferno_dragon",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_empty",
         "highres_image_filename": "image/chr/inferno_dragon.png",
@@ -3155,6 +3193,7 @@
     },
     {
         "name": "IceGolemite",
+        "icon_swf_china": null,
         "icon_file": "ice_golem",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/ice_golem.png",
@@ -3238,6 +3277,7 @@
     },
     {
         "name": "MegaMinion",
+        "icon_swf_china": null,
         "icon_file": "mega_minion",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare_empty",
         "highres_image_filename": null,
@@ -3321,9 +3361,10 @@
     },
     {
         "name": "BlowdartGoblin",
+        "icon_swf_china": null,
         "icon_file": "blowdart_goblin",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
-        "highres_image_filename": "image/chr/dart_goblin.png",
+        "highres_image_filename": "image/chr/dart_goblin_dl.png",
         "unlock_arena": "Arena9",
         "unlock_level": 0,
         "rarity": "Rare",
@@ -3404,6 +3445,7 @@
     },
     {
         "name": "GoblinGang",
+        "icon_swf_china": null,
         "icon_file": "goblin_gang",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": "image/chr/goblins_gang.png",
@@ -3487,6 +3529,7 @@
     },
     {
         "name": "ElectroWizard",
+        "icon_swf_china": null,
         "icon_file": "electro_wizard",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_empty",
         "highres_image_filename": "image/chr/electro_wizard.png",
@@ -3570,6 +3613,7 @@
     },
     {
         "name": "AngryBarbarians",
+        "icon_swf_china": null,
         "icon_file": "angry_barbarian",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": "image/chr/elite_barbarians_dl.png",
@@ -3653,6 +3697,7 @@
     },
     {
         "name": "Hunter",
+        "icon_swf_china": null,
         "icon_file": "hunter",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_wide",
         "highres_image_filename": "image/chr/hunter.png",
@@ -3736,6 +3781,7 @@
     },
     {
         "name": "AxeMan",
+        "icon_swf_china": null,
         "icon_file": "executioner",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic_empty",
         "highres_image_filename": "image/chr/executioner_dl.png",
@@ -3819,6 +3865,7 @@
     },
     {
         "name": "Assassin",
+        "icon_swf_china": null,
         "icon_file": "bandit",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary",
         "highres_image_filename": "image/chr/bandit.png",
@@ -3902,6 +3949,7 @@
     },
     {
         "name": "RoyalRecruits",
+        "icon_swf_china": null,
         "icon_file": "royal_recruits",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/royal_recruits.png",
@@ -3985,6 +4033,7 @@
     },
     {
         "name": "DarkWitch",
+        "icon_swf_china": null,
         "icon_file": "dark_witch",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_narrow",
         "highres_image_filename": "image/chr/night_witch.png",
@@ -4068,6 +4117,7 @@
     },
     {
         "name": "Bats",
+        "icon_swf_china": null,
         "icon_file": "bats",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_narrow",
         "highres_image_filename": "image/chr/bats.png",
@@ -4151,6 +4201,7 @@
     },
     {
         "name": "Ghost",
+        "icon_swf_china": null,
         "icon_file": "ghost",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_royal_ghost",
         "highres_image_filename": "image/chr/royal_ghost.png",
@@ -4234,6 +4285,7 @@
     },
     {
         "name": "RamRider",
+        "icon_swf_china": null,
         "icon_file": "ram_rider",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_ram_rider",
         "highres_image_filename": "image/chr/ram_rider.png",
@@ -4317,6 +4369,7 @@
     },
     {
         "name": "MiniSparkys",
+        "icon_swf_china": null,
         "icon_file": "zappies",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/zappies.png",
@@ -4400,6 +4453,7 @@
     },
     {
         "name": "Rascals",
+        "icon_swf_china": null,
         "icon_file": "rascals",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/rascals.png",
@@ -4483,6 +4537,7 @@
     },
     {
         "name": "MovingCannon",
+        "icon_swf_china": null,
         "icon_file": "cannon_cart",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/cannon_cart.png",
@@ -4566,6 +4621,7 @@
     },
     {
         "name": "MegaKnight",
+        "icon_swf_china": null,
         "icon_file": "mega_knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_mega_knight",
         "highres_image_filename": "image/chr/mega_knight.png",
@@ -4644,22 +4700,30 @@
         "name_en": "Mega Knight",
         "hitpoints_per_level": null,
         "damage_per_level": [
-            444,
-            488,
-            537,
-            590,
-            648,
-            710,
-            781
+            355,
+            390,
+            429,
+            472,
+            518,
+            568,
+            624,
+            688,
+            756,
+            830,
+            912
         ],
         "dps_per_level": [
-            444,
-            488,
-            537,
-            590,
-            648,
-            710,
-            781
+            355,
+            390,
+            429,
+            472,
+            518,
+            568,
+            624,
+            688,
+            756,
+            830,
+            912
         ],
         "projectile_data": {
             "name": "MegaKnightAppear",
@@ -4667,7 +4731,7 @@
             "speed": 1000,
             "homing": false,
             "hit_effect_at_projectile": false,
-            "damage": 444,
+            "damage": 355,
             "pushback": 1000,
             "pushback_all": false,
             "radius": 2200,
@@ -4688,29 +4752,38 @@
             "check_collisions": false,
             "hide_when_delayed": false,
             "damage_per_level": [
-                444,
-                488,
-                537,
-                590,
-                648,
-                710,
-                781
+                355,
+                390,
+                429,
+                472,
+                518,
+                568,
+                624,
+                688,
+                756,
+                830,
+                912
             ],
-            "dps": 444,
+            "dps": 355,
             "dps_per_level": [
-                444,
-                488,
-                537,
-                590,
-                648,
-                710,
-                781
+                355,
+                390,
+                429,
+                472,
+                518,
+                568,
+                624,
+                688,
+                756,
+                830,
+                912
             ]
         },
         "key": "mega-knight"
     },
     {
         "name": "SkeletonBalloon",
+        "icon_swf_china": null,
         "icon_file": "skeleton_balloon",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/skeleton_barrel.png",
@@ -4794,6 +4867,7 @@
     },
     {
         "name": "DartBarrell",
+        "icon_swf_china": null,
         "icon_file": "flying_machine",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/flying_machine.png",
@@ -4877,6 +4951,7 @@
     },
     {
         "name": "Wallbreakers",
+        "icon_swf_china": null,
         "icon_file": "wallbreaker",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/wall_breakers.png",
@@ -4960,6 +5035,7 @@
     },
     {
         "name": "RoyalHogs",
+        "icon_swf_china": null,
         "icon_file": "royal_hog",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/royal_hogs.png",
@@ -5043,6 +5119,7 @@
     },
     {
         "name": "GoblinGiant",
+        "icon_swf_china": null,
         "icon_file": "goblin_giant",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/goblin_giant.png",
@@ -5126,6 +5203,7 @@
     },
     {
         "name": "Fisherman",
+        "icon_swf_china": null,
         "icon_file": "fisherman",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_fisherman",
         "highres_image_filename": "image/chr/fisherman.png",
@@ -5209,6 +5287,7 @@
     },
     {
         "name": "EliteArcher",
+        "icon_swf_china": null,
         "icon_file": "magic_archer",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_narrow",
         "highres_image_filename": "image/chr/magic_archer.png",
@@ -5292,6 +5371,7 @@
     },
     {
         "name": "ElectroDragon",
+        "icon_swf_china": null,
         "icon_file": "electro_dragon",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/electro_dragon.png",
@@ -5375,6 +5455,7 @@
     },
     {
         "name": "Firecracker",
+        "icon_swf_china": null,
         "icon_file": "firecracker",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": "image/chr/firecracker.png",
@@ -5457,22 +5538,23 @@
         "key": "firecracker"
     },
     {
-        "name": "CHAR_DISABLED_1",
-        "icon_file": "knight",
-        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
-        "highres_image_filename": null,
-        "unlock_arena": "Arena_L10",
+        "name": "MightyMiner",
+        "icon_swf_china": null,
+        "icon_file": "mightyminer",
+        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_champions_generic",
+        "highres_image_filename": "image/chr_champions/champion_hires_mighty_miner_dl.png",
+        "unlock_arena": "Arena2",
         "unlock_level": 0,
-        "rarity": "Common",
-        "not_visible": true,
+        "rarity": "Champion",
+        "not_visible": false,
         "tribe": null,
-        "mana_cost": 3,
-        "prestige_count": 3,
+        "mana_cost": 4,
+        "prestige_count": 0,
         "mana_cost_from_summoner_mana": false,
-        "not_in_use": true,
+        "not_in_use": false,
         "mirror": false,
         "custom_deploy_time": 0,
-        "summon_character": "Knight",
+        "summon_character": "MightyMiner",
         "summon_number": 0,
         "summon_character_level_index": 0,
         "summon_character_second": null,
@@ -5511,7 +5593,7 @@
         "touchdown_limited_deploy": false,
         "cast_sound": null,
         "area_effect_object": null,
-        "tid_info": "TID_SPELL_INFO_KNIGHT",
+        "tid_info": "TID_SPELL_INFO_MIGHTY_MINER",
         "indicator_file_name": null,
         "indicator_prestige_swf": null,
         "indicator_prestige_export_name2": null,
@@ -5533,14 +5615,15 @@
         "deploy_start_y": 0,
         "deploy_end_y": 0,
         "pve_defense_type": "Defender",
-        "name_en": "Knight",
+        "name_en": "Mighty Miner",
         "hitpoints_per_level": null,
         "damage_per_level": null,
         "dps_per_level": null,
-        "key": null
+        "key": "mighty-miner"
     },
     {
-        "name": "CHAR_DISABLED_2",
+        "name": "CHAR_DISABLED_39",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -5624,6 +5707,7 @@
     },
     {
         "name": "ElixirGolem",
+        "icon_swf_china": null,
         "icon_file": "elixir_golem",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare_right",
         "highres_image_filename": "image/chr/elixir_golem.png",
@@ -5707,6 +5791,7 @@
     },
     {
         "name": "BattleHealer",
+        "icon_swf_china": null,
         "icon_file": "battle_healer",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_rare",
         "highres_image_filename": "image/chr/battle_healer.png",
@@ -5790,6 +5875,7 @@
     },
     {
         "name": "SkeletonKing",
+        "icon_swf_china": null,
         "icon_file": "skeletonking",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_champions_generic",
         "highres_image_filename": "image/chr_champions/champion_hires_skeleton_king.png",
@@ -5872,22 +5958,23 @@
         "key": "skeleton-king"
     },
     {
-        "name": "CHAR_DISABLED_3",
-        "icon_file": "knight",
-        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
-        "highres_image_filename": null,
-        "unlock_arena": "Arena_L10",
+        "name": "SuperLavaHound",
+        "icon_swf_china": null,
+        "icon_file": "super_lava_hound",
+        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary_lava_hound",
+        "highres_image_filename": "image/chr/lava_hound.png",
+        "unlock_arena": "Arena_L",
         "unlock_level": 0,
-        "rarity": "Common",
+        "rarity": "Legendary",
         "not_visible": true,
         "tribe": null,
-        "mana_cost": 3,
-        "prestige_count": 3,
+        "mana_cost": 8,
+        "prestige_count": 0,
         "mana_cost_from_summoner_mana": false,
         "not_in_use": true,
         "mirror": false,
         "custom_deploy_time": 0,
-        "summon_character": "Knight",
+        "summon_character": "SuperLavaHound",
         "summon_number": 0,
         "summon_character_level_index": 0,
         "summon_character_second": null,
@@ -5926,7 +6013,7 @@
         "touchdown_limited_deploy": false,
         "cast_sound": null,
         "area_effect_object": null,
-        "tid_info": "TID_SPELL_INFO_KNIGHT",
+        "tid_info": "TID_SPELL_INFO_LAVA_HOUND",
         "indicator_file_name": null,
         "indicator_prestige_swf": null,
         "indicator_prestige_export_name2": null,
@@ -5948,7 +6035,7 @@
         "deploy_start_y": 0,
         "deploy_end_y": 0,
         "pve_defense_type": "Defender",
-        "name_en": "Knight",
+        "name_en": "Super Lava Hound",
         "hitpoints_per_level": null,
         "damage_per_level": null,
         "dps_per_level": null,
@@ -5956,6 +6043,7 @@
     },
     {
         "name": "CHAR_DISABLED_36",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6039,6 +6127,7 @@
     },
     {
         "name": "ArcherQueen",
+        "icon_swf_china": null,
         "icon_file": "archerqueen",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_champions_generic",
         "highres_image_filename": "image/chr_champions/champion_hires_archer_queen.png",
@@ -6121,7 +6210,8 @@
         "key": "archer-queen"
     },
     {
-        "name": "CHAR_DISABLED_35",
+        "name": "CHAR_DISABLED_38",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6205,6 +6295,7 @@
     },
     {
         "name": "GoldenKnight",
+        "icon_swf_china": null,
         "icon_file": "goldenknight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_champions_generic",
         "highres_image_filename": "image/chr_champions/champion_hires_golden_knight.png",
@@ -6288,6 +6379,7 @@
     },
     {
         "name": "CHAR_DISABLED_24",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6371,6 +6463,7 @@
     },
     {
         "name": "CHAR_DISABLED_25",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6454,6 +6547,7 @@
     },
     {
         "name": "CHAR_DISABLED_26",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6537,6 +6631,7 @@
     },
     {
         "name": "CHAR_DISABLED_27",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6620,6 +6715,7 @@
     },
     {
         "name": "CHAR_DISABLED_28",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6703,6 +6799,7 @@
     },
     {
         "name": "SkeletonDragons",
+        "icon_swf_china": null,
         "icon_file": "skeletondragon",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": "image/chr/skeleton_dragon.png",
@@ -6786,6 +6883,7 @@
     },
     {
         "name": "CHAR_DISABLED_14",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6869,6 +6967,7 @@
     },
     {
         "name": "CHAR_DISABLED_15",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -6952,6 +7051,7 @@
     },
     {
         "name": "WitchMother",
+        "icon_swf_china": null,
         "icon_file": "motherwitch",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_legendary",
         "highres_image_filename": "image/chr/mother_witch.png",
@@ -7035,6 +7135,7 @@
     },
     {
         "name": "ElectroSpirit",
+        "icon_swf_china": null,
         "icon_file": "electrospirit",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common_empty",
         "highres_image_filename": "image/chr/electro_spirit.png",
@@ -7118,6 +7219,7 @@
     },
     {
         "name": "ElectroGiant",
+        "icon_swf_china": null,
         "icon_file": "electrogiant",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_epic",
         "highres_image_filename": "image/chr/electro_giant.png",
@@ -7126,7 +7228,7 @@
         "rarity": "Epic",
         "not_visible": false,
         "tribe": null,
-        "mana_cost": 8,
+        "mana_cost": 7,
         "prestige_count": 1,
         "mana_cost_from_summoner_mana": false,
         "not_in_use": false,
@@ -7201,6 +7303,7 @@
     },
     {
         "name": "CHAR_DISABLED_29",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -7284,6 +7387,7 @@
     },
     {
         "name": "CHAR_DISABLED_30",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -7367,6 +7471,7 @@
     },
     {
         "name": "CHAR_DISABLED_31",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -7450,6 +7555,7 @@
     },
     {
         "name": "CHAR_DISABLED_32",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -7533,6 +7639,7 @@
     },
     {
         "name": "CHAR_DISABLED_33",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,
@@ -7616,6 +7723,91 @@
     },
     {
         "name": "CHAR_DISABLED_34",
+        "icon_swf_china": null,
+        "icon_file": "knight",
+        "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
+        "highres_image_filename": null,
+        "unlock_arena": "Arena_L10",
+        "unlock_level": 0,
+        "rarity": "Common",
+        "not_visible": true,
+        "tribe": null,
+        "mana_cost": 3,
+        "prestige_count": 3,
+        "mana_cost_from_summoner_mana": false,
+        "not_in_use": true,
+        "mirror": false,
+        "custom_deploy_time": 0,
+        "summon_character": "Knight",
+        "summon_number": 0,
+        "summon_character_level_index": 0,
+        "summon_character_second": null,
+        "summon_character_second_count": 0,
+        "summon_radius": 0,
+        "summon_width": 0,
+        "summon_deploy_delay": 0,
+        "summon_deploy_delay_second": 0,
+        "character_skin": null,
+        "character_skin2": null,
+        "radius": 0,
+        "height": 0,
+        "projectile": null,
+        "projectile_interval": 0,
+        "projectile_angle": 0,
+        "projectile_waves": 0,
+        "projectile_wave_interval": 0,
+        "spell_as_deploy": false,
+        "can_place_on_buildings": false,
+        "can_place_on_water": false,
+        "instant_damage": 0,
+        "duration_seconds": 0,
+        "instant_heal": 0,
+        "heal_per_second": 0,
+        "pushback": 0,
+        "multiple_projectiles": 0,
+        "custom_first_projectile": null,
+        "buff_time": 0,
+        "buff_time_increase_per_level": 0,
+        "buff_number": 0,
+        "buff_type": null,
+        "buff_on_damage": null,
+        "only_own_troops": false,
+        "only_enemies": false,
+        "can_deploy_on_enemy_side": false,
+        "touchdown_limited_deploy": false,
+        "cast_sound": null,
+        "area_effect_object": null,
+        "tid_info": "TID_SPELL_INFO_KNIGHT",
+        "indicator_file_name": null,
+        "indicator_prestige_swf": null,
+        "indicator_prestige_export_name2": null,
+        "indicator_prestige_export_name3": null,
+        "hide_radius_indicator": false,
+        "release_date": null,
+        "elixir_production_stop_time": 0,
+        "dark_mirror": false,
+        "stats_under_info": false,
+        "hero_ability": null,
+        "passive_ability": null,
+        "hp_modifier": 0,
+        "damage_modifier": 0,
+        "deploy_w_tile_margin": 0,
+        "full_lane_deploy": false,
+        "ability_cooldown": 0,
+        "dark_elixir_cost": 0,
+        "next_card_replace": null,
+        "deploy_start_y": 0,
+        "deploy_end_y": 0,
+        "pve_defense_type": "Defender",
+        "name_en": "Knight",
+        "hitpoints_per_level": null,
+        "damage_per_level": null,
+        "dps_per_level": null,
+        "key": null
+    },
+    {
+        "name": "CHAR_DISABLED_37",
+        "icon_swf_china": null,
         "icon_file": "knight",
         "highres_placeholder_asset": "sc/ui_card_info_fx.sc#card_info_fx_common",
         "highres_image_filename": null,

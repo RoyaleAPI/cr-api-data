@@ -94,7 +94,12 @@
             281,
             309,
             339,
-            372
+            372,
+            409,
+            450,
+            495,
+            545,
+            600
         ],
         "refund_gems": 2,
         "tid": "TID_RARITY_COMMON",
@@ -117,7 +122,13 @@
         "token_flying_icon_export_name": "token_common",
         "token_gold_value": 250,
         "npc_trader_reroll_gem_cost": 10,
-        "can_be_in_chests": true
+        "can_be_in_chests": true,
+        "task_exp_reward": [
+            0,
+            25,
+            100,
+            150
+        ]
     },
     {
         "name": "Rare",
@@ -204,7 +215,12 @@
             233,
             256,
             281,
-            309
+            309,
+            340,
+            374,
+            411,
+            452,
+            497
         ],
         "refund_gems": 15,
         "tid": "TID_RARITY_RARE",
@@ -228,7 +244,13 @@
         "token_flying_icon_export_name": "token_rare",
         "token_gold_value": 500,
         "npc_trader_reroll_gem_cost": 10,
-        "can_be_in_chests": true
+        "can_be_in_chests": true,
+        "task_exp_reward": [
+            0,
+            50,
+            125,
+            175
+        ]
     },
     {
         "name": "Epic",
@@ -300,7 +322,12 @@
             176,
             193,
             212,
-            233
+            233,
+            256,
+            282,
+            310,
+            341,
+            375
         ],
         "refund_gems": 300,
         "tid": "TID_RARITY_EPIC",
@@ -324,7 +351,13 @@
         "token_flying_icon_export_name": "token_epic",
         "token_gold_value": 1000,
         "npc_trader_reroll_gem_cost": 10,
-        "can_be_in_chests": true
+        "can_be_in_chests": true,
+        "task_exp_reward": [
+            0,
+            75,
+            125,
+            175
+        ]
     },
     {
         "name": "Legendary",
@@ -381,7 +414,12 @@
             133,
             146,
             160,
-            176
+            176,
+            194,
+            213,
+            234,
+            257,
+            283
         ],
         "refund_gems": 8000,
         "tid": "TID_RARITY_LEGENDARY",
@@ -426,7 +464,13 @@
         "token_gold_value": 2000,
         "npc_trader_reroll_gem_cost": 10,
         "can_be_in_chests": true,
-        "if_chest_chance_over_x_percent_drop_guaranteed": 75
+        "if_chest_chance_over_x_percent_drop_guaranteed": 75,
+        "task_exp_reward": [
+            0,
+            100,
+            150,
+            200
+        ]
     },
     {
         "name": "Champion",
@@ -473,7 +517,12 @@
             110,
             121,
             133,
-            146
+            146,
+            161,
+            177,
+            195,
+            215,
+            237
         ],
         "refund_gems": 8000,
         "tid": "TID_RARITY_CHAMPION",
@@ -510,7 +559,13 @@
         "token_gold_value": 4000,
         "npc_trader_reroll_gem_cost": 10,
         "can_be_in_chests": true,
-        "if_chest_chance_over_x_percent_drop_guaranteed": 90
+        "if_chest_chance_over_x_percent_drop_guaranteed": 90,
+        "task_exp_reward": [
+            0,
+            150,
+            175,
+            200
+        ]
     },
     {
         "name": "Experimental",

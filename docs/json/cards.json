@@ -715,6 +715,17 @@
         "id": 26000064
     },
     {
+        "key": "mighty-miner",
+        "name": "Mighty Miner",
+        "sc_key": "MightyMiner",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 2,
+        "description": "Walk softly... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
+        "id": 26000065
+    },
+    {
         "key": "elixir-golem",
         "name": "Elixir Golem",
         "sc_key": "ElixirGolem",
@@ -806,7 +817,7 @@
         "key": "electro-giant",
         "name": "Electro Giant",
         "sc_key": "ElectroGiant",
-        "elixir": 8,
+        "elixir": 7,
         "type": "Troop",
         "rarity": "Epic",
         "arena": 11,
