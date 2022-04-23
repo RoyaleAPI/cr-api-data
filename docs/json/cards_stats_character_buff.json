@@ -821,7 +821,7 @@
         "icon_file_name": null,
         "no_effect_to_crown_towers": false,
         "building_damage_percent": 350,
-        "crown_tower_damage_percent": -15,
+        "crown_tower_damage_percent": -35,
         "damage_per_second": 39,
         "hit_frequency": 1000,
         "damage_reduction": 0,
