@@ -792,6 +792,17 @@
         "id": 26000080
     },
     {
+        "key": "super-mini-pekka",
+        "name": "Super Mini P.E.K.K.A",
+        "sc_key": "SuperMiniPekka",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 14,
+        "description": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
+        "id": 26000082
+    },
+    {
         "key": "mother-witch",
         "name": "Mother Witch",
         "sc_key": "WitchMother",

@@ -5479,7 +5479,7 @@
             "jp": "チャンピオン",
             "kr": "챔피언",
             "ru": "Чемпион",
-            "ar": "البطل",
+            "ar": "بطل",
             "pt": "Campeão",
             "cn": "英雄",
             "cnt": "英雄",
@@ -6311,6 +6311,665 @@
             "archer-queen",
             "golden-knight",
             "mighty-miner"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_TankUnit",
+        "spells": [
+            "rascals",
+            "giant",
+            "golem",
+            "knight",
+            "lava-hound",
+            "ice-golem",
+            "miner",
+            "royal-giant",
+            "valkyrie",
+            "royal-recruits",
+            "goblin-giant",
+            "elixir-golem",
+            "electro-giant",
+            "goblin-drill"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_AntiAir",
+        "spells": [
+            "archers",
+            "executioner",
+            "bats",
+            "baby-dragon",
+            "dart-goblin",
+            "electro-wizard",
+            "flying-machine",
+            "hunter",
+            "ice-wizard",
+            "inferno-dragon",
+            "mega-minion",
+            "minion-horde",
+            "minions",
+            "musketeer",
+            "spear-goblins",
+            "wizard",
+            "zappies",
+            "electro-dragon",
+            "firecracker",
+            "skeleton-dragons"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_DirectDamage",
+        "spells": [
+            "arrows",
+            "fireball",
+            "lightning",
+            "the-log",
+            "poison",
+            "rocket",
+            "zap",
+            "giant-snowball",
+            "barbarian-barrel",
+            "earthquake",
+            "royal-delivery"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_CycleUnder3",
+        "spells": [
+            "bats",
+            "fire-spirit",
+            "goblins",
+            "ice-golem",
+            "ice-spirit",
+            "skeletons",
+            "spear-goblins",
+            "heal-spirit",
+            "electro-spirit"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_Investment",
+        "spells": [
+            "barbarian-hut",
+            "elixir-collector",
+            "furnace",
+            "goblin-hut",
+            "mortar",
+            "tombstone",
+            "x-bow",
+            "goblin-cage"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_Punish",
+        "spells": [
+            "elite-barbarians",
+            "bandit",
+            "cannon-cart",
+            "prince",
+            "lumberjack",
+            "royal-ghost",
+            "dark-prince",
+            "goblin-barrel",
+            "mortar",
+            "x-bow",
+            "minion-horde",
+            "rascals",
+            "goblin-drill"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_HitTower",
+        "spells": [
+            "prince",
+            "dark-prince",
+            "bandit",
+            "fire-spirit",
+            "royal-ghost",
+            "cannon-cart",
+            "dart-goblin",
+            "flying-machine",
+            "goblin-gang",
+            "spear-goblins"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_CombatTricks",
+        "spells": [
+            "clone",
+            "freeze",
+            "mirror",
+            "rage",
+            "tornado",
+            "royal-delivery"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_VersatileLegs",
+        "spells": [
+            "bandit",
+            "ice-wizard",
+            "electro-wizard",
+            "inferno-dragon",
+            "lumberjack",
+            "royal-ghost",
+            "fisherman",
+            "mother-witch"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_TankSupport",
+        "spells": [
+            "baby-dragon",
+            "executioner",
+            "bowler",
+            "minion-horde",
+            "dark-prince",
+            "flying-machine",
+            "hunter",
+            "mega-minion",
+            "musketeer",
+            "prince",
+            "wizard",
+            "zappies",
+            "cannon-cart",
+            "electro-dragon",
+            "battle-healer",
+            "skeleton-dragons"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_AntiTank",
+        "spells": [
+            "elite-barbarians",
+            "cannon-cart",
+            "barbarians",
+            "bomb-tower",
+            "cannon",
+            "inferno-dragon",
+            "inferno-tower",
+            "mini-pekka",
+            "tesla",
+            "hunter",
+            "rascals",
+            "lumberjack",
+            "pekka",
+            "goblin-cage"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_Distractions",
+        "spells": [
+            "fire-spirit",
+            "goblin-gang",
+            "goblins",
+            "ice-golem",
+            "ice-spirit",
+            "minions",
+            "skeleton-army",
+            "skeletons",
+            "guards",
+            "spear-goblins",
+            "electro-spirit"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_Splash",
+        "spells": [
+            "baby-dragon",
+            "bomber",
+            "bowler",
+            "dark-prince",
+            "fire-spirit",
+            "ice-wizard",
+            "mega-knight",
+            "royal-ghost",
+            "wizard",
+            "hunter",
+            "executioner",
+            "valkyrie",
+            "firecracker",
+            "skeleton-dragons"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_MiniTank",
+        "spells": [
+            "knight",
+            "valkyrie",
+            "mini-pekka",
+            "miner",
+            "dark-prince",
+            "rascals",
+            "prince",
+            "cannon-cart",
+            "goblin-cage",
+            "fisherman",
+            "battle-healer"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_WinCons",
+        "spells": [
+            "graveyard",
+            "giant",
+            "balloon",
+            "battle-ram",
+            "hog-rider",
+            "goblin-giant",
+            "royal-giant",
+            "goblin-barrel",
+            "miner",
+            "royal-hogs",
+            "skeleton-barrel",
+            "ram-rider",
+            "wall-breakers",
+            "elixir-golem",
+            "goblin-drill"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_2ndSpell",
+        "spells": [
+            "arrows",
+            "fireball",
+            "lightning",
+            "the-log",
+            "poison",
+            "rocket",
+            "zap",
+            "giant-snowball",
+            "barbarian-barrel",
+            "tornado",
+            "earthquake",
+            "freeze"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_Basic3s",
+        "spells": [
+            "archers",
+            "mega-minion",
+            "dart-goblin",
+            "bomber",
+            "minions",
+            "goblin-barrel",
+            "goblin-gang",
+            "knight",
+            "skeleton-army",
+            "guards",
+            "bandit",
+            "royal-ghost",
+            "fisherman",
+            "firecracker",
+            "royal-delivery"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_CheapAntiAir",
+        "spells": [
+            "archers",
+            "bats",
+            "baby-dragon",
+            "dart-goblin",
+            "flying-machine",
+            "ice-wizard",
+            "mega-minion",
+            "minions",
+            "musketeer",
+            "spear-goblins",
+            "zappies",
+            "firecracker"
+        ]
+    },
+    {
+        "name": "Draft_RH_WhichWitch_Witch_NightWitch",
+        "spells": [
+            "witch",
+            "night-witch"
+        ]
+    },
+    {
+        "name": "Event_AllCards_but_Witch",
+        "spells": [
+            "knight",
+            "archers",
+            "minions",
+            "arrows",
+            "giant",
+            "musketeer",
+            "mini-pekka",
+            "fireball",
+            "baby-dragon",
+            "skeleton-army",
+            "prince",
+            "goblins",
+            "spear-goblins",
+            "goblin-hut",
+            "hog-rider",
+            "hunter",
+            "goblin-barrel",
+            "bomber",
+            "skeletons",
+            "tombstone",
+            "valkyrie",
+            "giant-skeleton",
+            "balloon",
+            "barbarians",
+            "cannon",
+            "barbarian-hut",
+            "battle-ram",
+            "barbarian-barrel",
+            "golem",
+            "zap",
+            "minion-horde",
+            "inferno-tower",
+            "mega-minion",
+            "lightning",
+            "pekka",
+            "miner",
+            "bats",
+            "fire-spirit",
+            "furnace",
+            "wizard",
+            "poison",
+            "freeze",
+            "graveyard",
+            "skeleton-barrel",
+            "mortar",
+            "flying-machine",
+            "rocket",
+            "x-bow",
+            "cannon-cart",
+            "inferno-dragon",
+            "the-log",
+            "royal-giant",
+            "heal-spirit",
+            "three-musketeers",
+            "dark-prince",
+            "guards",
+            "royal-ghost",
+            "princess",
+            "giant-snowball",
+            "ice-spirit",
+            "ice-golem",
+            "elixir-collector",
+            "tornado",
+            "bowler",
+            "ice-wizard",
+            "lumberjack",
+            "goblin-gang",
+            "rascals",
+            "dart-goblin",
+            "executioner",
+            "bandit",
+            "elite-barbarians",
+            "royal-hogs",
+            "bomb-tower",
+            "rage",
+            "magic-archer",
+            "mega-knight",
+            "tesla",
+            "zappies",
+            "electro-wizard",
+            "sparky",
+            "royal-recruits",
+            "goblin-giant",
+            "earthquake",
+            "electro-dragon",
+            "ram-rider",
+            "fisherman",
+            "goblin-cage",
+            "elixir-golem",
+            "wall-breakers",
+            "battle-healer",
+            "firecracker",
+            "skeleton-dragons",
+            "royal-delivery",
+            "electro-spirit",
+            "electro-giant",
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight",
+            "mighty-miner",
+            "lava-hound"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_BigSpell",
+        "spells": [
+            "fireball",
+            "poison",
+            "rocket",
+            "lightning"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_SmallSpell",
+        "spells": [
+            "barbarian-barrel",
+            "the-log",
+            "giant-snowball",
+            "zap",
+            "arrows",
+            "earthquake"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_GoblinGiant_GiantSkeleton",
+        "spells": [
+            "goblin-giant",
+            "giant-skeleton"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_Goblins_Skeletons",
+        "spells": [
+            "skeletons",
+            "goblins"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_GoblinDrill_SkeletonBalloon",
+        "spells": [
+            "skeleton-barrel",
+            "goblin-drill"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_GoblinHut_Tombstone",
+        "spells": [
+            "goblin-hut",
+            "tombstone"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_GoblinGang_SkeletonArmy",
+        "spells": [
+            "goblin-gang",
+            "skeleton-army"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_GoblinBarrel_Graveyard",
+        "spells": [
+            "goblin-barrel",
+            "graveyard"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_SpearGoblins_Bomber",
+        "spells": [
+            "spear-goblins",
+            "bomber"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_DartGoblin_SkeletonDragons",
+        "spells": [
+            "dart-goblin",
+            "skeleton-dragons"
+        ]
+    },
+    {
+        "name": "Draft_GvsS_DartGoblin_BattleTricks",
+        "spells": [
+            "clone",
+            "freeze",
+            "mirror",
+            "rage",
+            "tornado"
+        ]
+    },
+    {
+        "name": "Event_Goblins_Vs_Skeletons",
+        "spells": [
+            "fireball",
+            "poison",
+            "rocket",
+            "lightning",
+            "the-log",
+            "giant-snowball",
+            "zap",
+            "arrows",
+            "earthquake",
+            "goblin-giant",
+            "giant-skeleton",
+            "skeletons",
+            "goblins",
+            "skeleton-barrel",
+            "goblin-drill",
+            "goblin-hut",
+            "tombstone",
+            "goblin-gang",
+            "skeleton-army",
+            "goblin-barrel",
+            "graveyard",
+            "spear-goblins",
+            "bomber",
+            "dart-goblin",
+            "skeleton-dragons",
+            "clone",
+            "freeze",
+            "mirror",
+            "rage",
+            "tornado",
+            "goblin-cage",
+            "wall-breakers",
+            "skeleton-king",
+            "balloon",
+            "guards",
+            "bomb-tower"
+        ]
+    },
+    {
+        "name": "Event_AllCards_but_MiniPekka",
+        "spells": [
+            "knight",
+            "archers",
+            "minions",
+            "arrows",
+            "giant",
+            "musketeer",
+            "fireball",
+            "baby-dragon",
+            "skeleton-army",
+            "prince",
+            "goblins",
+            "spear-goblins",
+            "goblin-hut",
+            "hog-rider",
+            "hunter",
+            "goblin-barrel",
+            "bomber",
+            "skeletons",
+            "tombstone",
+            "valkyrie",
+            "giant-skeleton",
+            "balloon",
+            "barbarians",
+            "cannon",
+            "barbarian-hut",
+            "battle-ram",
+            "barbarian-barrel",
+            "golem",
+            "zap",
+            "minion-horde",
+            "inferno-tower",
+            "mega-minion",
+            "lightning",
+            "pekka",
+            "miner",
+            "bats",
+            "fire-spirit",
+            "furnace",
+            "wizard",
+            "poison",
+            "freeze",
+            "graveyard",
+            "skeleton-barrel",
+            "mortar",
+            "flying-machine",
+            "rocket",
+            "x-bow",
+            "cannon-cart",
+            "inferno-dragon",
+            "the-log",
+            "royal-giant",
+            "heal-spirit",
+            "three-musketeers",
+            "dark-prince",
+            "guards",
+            "royal-ghost",
+            "princess",
+            "giant-snowball",
+            "ice-spirit",
+            "ice-golem",
+            "elixir-collector",
+            "tornado",
+            "bowler",
+            "ice-wizard",
+            "lumberjack",
+            "goblin-gang",
+            "rascals",
+            "dart-goblin",
+            "executioner",
+            "bandit",
+            "elite-barbarians",
+            "royal-hogs",
+            "bomb-tower",
+            "rage",
+            "magic-archer",
+            "mega-knight",
+            "tesla",
+            "zappies",
+            "electro-wizard",
+            "sparky",
+            "royal-recruits",
+            "goblin-giant",
+            "earthquake",
+            "electro-dragon",
+            "ram-rider",
+            "fisherman",
+            "goblin-cage",
+            "elixir-golem",
+            "wall-breakers",
+            "battle-healer",
+            "firecracker",
+            "skeleton-dragons",
+            "royal-delivery",
+            "electro-spirit",
+            "electro-giant",
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight",
+            "mighty-miner",
+            "lava-hound",
+            "witch",
+            "night-witch",
+            "mother-witch"
         ]
     }
 ]

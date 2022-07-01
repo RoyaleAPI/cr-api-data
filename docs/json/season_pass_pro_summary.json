@@ -1006,5 +1006,49 @@
             "token_Legendary": 1,
             "token_Rare": 1
         }
+    },
+    {
+        "name": "TEST_Banner_Currency",
+        "summary": {
+            "bonus_consumable_CosmeticsToken": 130,
+            "chest_Star_<current_arena>": 24,
+            "chest_WildChampion_<current_arena>": 1,
+            "consumable_BookCardAll": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_ChestKey": 2,
+            "consumable_CosmeticsToken": 50,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 700,
+            "consumable_WildcardEpic": 70,
+            "consumable_WildcardLegendary": 3,
+            "consumable_WildcardRare": 140,
+            "resource_Gold": 41000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        },
+        "summary_free": {
+            "bonus_consumable_CosmeticsToken": 130,
+            "chest_Star_<current_arena>": 24,
+            "chest_WildChampion_<current_arena>": 1,
+            "consumable_BookCardRare": 1,
+            "consumable_CosmeticsToken": 50,
+            "resource_Gold": 1000
+        },
+        "summary_paid": {
+            "consumable_BookCardAll": 1,
+            "consumable_ChestKey": 2,
+            "consumable_GoldCoin": 1,
+            "consumable_WildcardCommon": 700,
+            "consumable_WildcardEpic": 70,
+            "consumable_WildcardLegendary": 3,
+            "consumable_WildcardRare": 140,
+            "resource_Gold": 40000,
+            "token_Common": 1,
+            "token_Epic": 1,
+            "token_Legendary": 1,
+            "token_Rare": 1
+        }
     }
 ]

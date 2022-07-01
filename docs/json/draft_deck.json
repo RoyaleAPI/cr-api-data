@@ -365,5 +365,49 @@
             "Draft_RH_CheapAntiAir",
             "Draft_RH_Champions"
         ]
+    },
+    {
+        "name": "Draft_WhichWitch",
+        "required_sets": [
+            "Draft_RH_WhichWitch_TankUnit",
+            "Draft_RH_WhichWitch_AntiAir",
+            "Draft_RH_WhichWitch_Distractions",
+            "Draft_RH_WhichWitch_DirectDamage",
+            "Draft_RH_WhichWitch_WinCons",
+            "Draft_RH_WhichWitch_Witch_NightWitch"
+        ],
+        "optional_sets": [
+            "Draft_RH_WhichWitch_Investment",
+            "Draft_RH_WhichWitch_Punish",
+            "Draft_RH_WhichWitch_HitTower",
+            "Draft_RH_WhichWitch_VersatileLegs",
+            "Draft_RH_WhichWitch_TankSupport",
+            "Draft_RH_WhichWitch_AntiTank",
+            "Draft_RH_WhichWitch_2ndSpell",
+            "Draft_RH_WhichWitch_Splash",
+            "Draft_RH_WhichWitch_MiniTank",
+            "Draft_RH_WhichWitch_Basic3s",
+            "Draft_RH_WhichWitch_CycleUnder3",
+            "Draft_RH_WhichWitch_CheapAntiAir",
+            "Draft_RH_Champions"
+        ]
+    },
+    {
+        "name": "Draft_Goblins_vs_Skeletons",
+        "required_sets": [
+            "Draft_GvsS_BigSpell",
+            "Draft_GvsS_SmallSpell",
+            "Draft_GvsS_GoblinGiant_GiantSkeleton",
+            "Draft_GvsS_GoblinDrill_SkeletonBalloon",
+            "Draft_GvsS_GoblinBarrel_Graveyard"
+        ],
+        "optional_sets": [
+            "Draft_GvsS_Goblins_Skeletons",
+            "Draft_GvsS_GoblinHut_Tombstone",
+            "Draft_GvsS_GoblinGang_SkeletonArmy",
+            "Draft_GvsS_SpearGoblins_Bomber",
+            "Draft_GvsS_DartGoblin_SkeletonDragons",
+            "Draft_GvsS_DartGoblin_BattleTricks"
+        ]
     }
 ]

@@ -14,7 +14,7 @@
         "gold_conversion_value": 5,
         "max_level_donation_cost": 5,
         "trade_card_amount": 250,
-        "chance_weight": 194,
+        "chance_weight": 1000,
         "balance_multiplier": 100,
         "upgrade_exp": [
             4,
@@ -128,7 +128,8 @@
             25,
             100,
             150
-        ]
+        ],
+        "downgrade_multiplier": 0
     },
     {
         "name": "Rare",
@@ -145,7 +146,7 @@
         "gold_conversion_value": 50,
         "max_level_donation_cost": 50,
         "trade_card_amount": 50,
-        "chance_weight": 10,
+        "chance_weight": 400,
         "balance_multiplier": 130,
         "upgrade_exp": [
             6,
@@ -250,7 +251,9 @@
             50,
             125,
             175
-        ]
+        ],
+        "downgrade_rarity": "Common",
+        "downgrade_multiplier": 1
     },
     {
         "name": "Epic",
@@ -267,7 +270,7 @@
         "gold_conversion_value": 500,
         "max_level_donation_cost": 500,
         "trade_card_amount": 10,
-        "chance_weight": 1,
+        "chance_weight": 40,
         "balance_multiplier": 180,
         "upgrade_exp": [
             25,
@@ -357,7 +360,9 @@
             75,
             125,
             175
-        ]
+        ],
+        "downgrade_rarity": "Rare",
+        "downgrade_multiplier": 1
     },
     {
         "name": "Legendary",
@@ -374,7 +379,7 @@
         "gold_conversion_value": 20000,
         "max_level_donation_cost": 20000,
         "trade_card_amount": 1,
-        "chance_weight": 1,
+        "chance_weight": 10,
         "balance_multiplier": 250,
         "upgrade_exp": [
             250,
@@ -470,7 +475,9 @@
             100,
             150,
             200
-        ]
+        ],
+        "downgrade_rarity": "Epic",
+        "downgrade_multiplier": 1
     },
     {
         "name": "Champion",
@@ -565,7 +572,9 @@
             150,
             175,
             200
-        ]
+        ],
+        "downgrade_rarity": "Legendary",
+        "downgrade_multiplier": 1
     },
     {
         "name": "Experimental",
