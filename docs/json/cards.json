@@ -733,7 +733,7 @@
         "type": "Troop",
         "rarity": "Rare",
         "arena": 14,
-        "description": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. A Blob gives your opponent 1 Elixir when destroyed!",
+        "description": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. Each part of the Elixir Golem gives your opponent some Elixir when destroyed!",
         "id": 26000067
     },
     {
@@ -754,7 +754,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Champion",
-        "arena": 0,
+        "arena": 2,
         "description": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
         "id": 26000069
     },
@@ -765,7 +765,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Champion",
-        "arena": 0,
+        "arena": 2,
         "description": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
         "id": 26000072
     },
@@ -955,6 +955,17 @@
         "arena": 10,
         "description": "The Furnace spawns one Fire Spirit at a time. It also makes great brick-oven pancakes.",
         "id": 27000010
+    },
+    {
+        "key": "barbarian-launcher",
+        "name": "Barbarian Launcher",
+        "sc_key": "BarbarianLauncher",
+        "elixir": 5,
+        "type": "Building",
+        "rarity": "Common",
+        "arena": 6,
+        "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
+        "id": 27000011
     },
     {
         "key": "goblin-cage",

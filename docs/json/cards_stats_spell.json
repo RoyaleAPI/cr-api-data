@@ -1240,7 +1240,7 @@
         "crown_tower_damage_percent": 0,
         "hit_biggest_targets": false,
         "buff": "IceWizardSlowDown",
-        "buff_time": 1000,
+        "buff_time": 1500,
         "buff_time_increase_per_level": 0,
         "buff_time_increase_after_tournament_cap": 0,
         "cap_buff_time_to_area_effect_time": false,

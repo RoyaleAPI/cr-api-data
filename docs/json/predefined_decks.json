@@ -4284,7 +4284,7 @@
             "princess",
             "goblin-gang",
             "goblin-barrel",
-            "knight",
+            "valkyrie",
             "ice-spirit",
             "the-log",
             "inferno-tower",
@@ -4750,13 +4750,13 @@
         "name": "Blind_Classic_RoyalHogs",
         "spells": [
             "royal-hogs",
-            "bandit",
+            "royal-recruits",
             "flying-machine",
-            "bats",
-            "barbarians",
-            "musketeer",
+            "zappies",
+            "goblin-cage",
+            "mother-witch",
             "barbarian-barrel",
-            "giant-snowball"
+            "fireball"
         ],
         "spell_level": [
             1,
@@ -7060,6 +7060,58 @@
                 "fi": "Kuninkaallinen jättikalastaja",
                 "vi": "Khổng nhân Hoàng gia và Ngư Phủ",
                 "sc_key": "TID_CLASSIC15_RG_FISHERMAN_HUNTER"
+            }
+        }
+    },
+    {
+        "name": "Blind_Classic_EgiantDrill",
+        "spells": [
+            "electro-giant",
+            "goblin-drill",
+            "dark-prince",
+            "bomber",
+            "lightning",
+            "tornado",
+            "mother-witch",
+            "inferno-dragon"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "tid": "TID_CLASSIC16_EGIANT_DRILL",
+        "name_en": "Electro Giant Drill",
+        "_lang": {
+            "name": {
+                "do": "TID_CLASSIC16_EGIANT_DRILL",
+                "en": "Electro Giant Drill",
+                "fr": "Foreuse électro-géant",
+                "de": "Elektroriesenbohrer",
+                "es": "Gigante eléctrico con perforadora",
+                "it": "Gigante elettrico e trivella",
+                "nl": "Elektroreuzenboor",
+                "no": "Elektrokjempebor",
+                "tr": "Elektro Dev ve Köstebek",
+                "jp": "エレジャイドリル",
+                "kr": "일렉트로 자이언트 드릴",
+                "ru": "Электрогигант c дрелью",
+                "ar": "حفار العملاق الكهربي",
+                "pt": "Gigante Elétrico com broca",
+                "cn": "电胖钻机",
+                "cnt": "電巨鑽",
+                "fa": "مته غول برقی",
+                "id": "Bor Raksasa Elektro",
+                "ms": "Gergasi Elektro dan Gerudi",
+                "th": "สว่านยักษ์ไฟฟ้า",
+                "fi": "Salamajätin pora",
+                "vi": "Điện Khổng nhân và Máy khoan",
+                "sc_key": "TID_CLASSIC16_EGIANT_DRILL"
             }
         }
     }
