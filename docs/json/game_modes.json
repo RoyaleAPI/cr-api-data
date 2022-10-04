@@ -23473,5 +23473,54 @@
                 "sc_key": "TID_CLAN_WAR_GAME_MODE_INFO_2v2_TOUCHDOWN_DRAFT"
             }
         }
+    },
+    {
+        "name": "YetAnotherBat_Tournament",
+        "tid": "TID_YET_ANOTHER_BATS_SPAWN_2022",
+        "card_level_adjustment": "Friendly",
+        "deck_selection": "Collection",
+        "battle_timeline": "Spawning",
+        "players": "PvP",
+        "icon": "icon_mode_retro",
+        "fixed_arena": "Arena_T",
+        "spawn_character": "YetAnotherBat",
+        "spawn_character_interval": 15000,
+        "spawn_character_count": 1,
+        "spawn_character_start_delay": 6000,
+        "buff_character": "YetAnotherBat",
+        "buff_name": "Invisibility",
+        "valid_challenge_mode": true,
+        "valid_friendly_mode": true,
+        "no_draws": true,
+        "ramp_up_spawn_count": true,
+        "id": 72000322,
+        "name_en": "Totally Normal Game Mode",
+        "_lang": {
+            "tid": {
+                "do": "TID_YET_ANOTHER_BATS_SPAWN_2022",
+                "en": "Totally Normal Game Mode",
+                "fr": "Mode de jeu totalement normal",
+                "de": "Komplett normaler Spielmodus",
+                "es": "Modo de juego totalmente normal",
+                "it": "Modalità di gioco normalissima",
+                "nl": "Volkomen normale spelmodus",
+                "no": "En helt normal spillvariant",
+                "tr": "Gayet Normal Oyun Modu",
+                "jp": "いつも通りのゲームモード",
+                "kr": "\"완전 평범한\" 게임 모드",
+                "ru": "Абсолютно нормальный игровой режим",
+                "ar": "وضع اللعب العادي تمامًا",
+                "pt": "Modo de jogo totalmente normal",
+                "cn": "普通模式不普通",
+                "cnt": "一般模式不一般",
+                "fa": "مدل بازی کاملاً عادی",
+                "id": "Benar-Benar Mode Game Normal",
+                "ms": "Mod Permainan Biasa",
+                "th": "โหมดเกมปกติธรรมดา",
+                "fi": "Aivan tavallinen pelitila",
+                "vi": "Chế độ Game Hoàn toàn Bình thường",
+                "sc_key": "TID_YET_ANOTHER_BATS_SPAWN_2022"
+            }
+        }
     }
 ]

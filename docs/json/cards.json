@@ -458,7 +458,7 @@
         "type": "Troop",
         "rarity": "Common",
         "arena": 9,
-        "description": "Spawns five Goblins - three with knives, two with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
+        "description": "Spawns six Goblins - three with knives, three with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
         "id": 26000041
     },
     {
@@ -894,7 +894,7 @@
         "key": "barbarian-hut",
         "name": "Barbarian Hut",
         "sc_key": "BarbarianHut",
-        "elixir": 7,
+        "elixir": 6,
         "type": "Building",
         "rarity": "Rare",
         "arena": 14,
