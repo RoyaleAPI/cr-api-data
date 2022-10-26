@@ -29,7 +29,7 @@
         "type": "Troop",
         "rarity": "Common",
         "arena": 1,
-        "description": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
+        "description": "Four fast, unarmored melee attackers. Small, fast, green and mean!",
         "id": 26000002
     },
     {
@@ -50,7 +50,7 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 4,
+        "arena": 6,
         "description": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
         "id": 26000004
     },
@@ -72,7 +72,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 6,
+        "arena": 7,
         "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
         "id": 26000006
     },
@@ -83,7 +83,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 5,
+        "arena": 6,
         "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
         "id": 26000007
     },
@@ -138,7 +138,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 6,
         "description": "Spawns an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
         "id": 26000012
     },
@@ -171,7 +171,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 2,
+        "arena": 6,
         "description": "Burps fireballs from the sky that deal area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
         "id": 26000015
     },
@@ -226,7 +226,7 @@
         "elixir": 6,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 4,
+        "arena": 8,
         "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
         "id": 26000020
     },
@@ -259,7 +259,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 8,
+        "arena": 12,
         "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
         "id": 26000023
     },
@@ -281,7 +281,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 12,
+        "arena": 6,
         "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
         "id": 26000025
     },
@@ -292,7 +292,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 5,
+        "arena": 11,
         "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
         "id": 26000026
     },
@@ -325,7 +325,7 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 13,
         "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
         "id": 26000029
     },
@@ -358,7 +358,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 4,
+        "arena": 11,
         "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel. A shovel that deals reduced damage to Crown Towers.",
         "id": 26000032
     },
@@ -413,7 +413,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 9,
+        "arena": 11,
         "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
         "id": 26000037
     },
@@ -567,7 +567,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 10,
+        "arena": 11,
         "description": "Together they charge through the Arena; snaring enemies, knocking down towers ... and chewing grass!?",
         "id": 26000051
     },
@@ -578,7 +578,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 11,
+        "arena": 10,
         "description": "Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.",
         "id": 26000052
     },
@@ -611,7 +611,7 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Legendary",
-        "arena": 7,
+        "arena": 11,
         "description": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
         "id": 26000055
     },
@@ -622,7 +622,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 12,
+        "arena": 9,
         "description": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
         "id": 26000056
     },
@@ -633,7 +633,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 6,
+        "arena": 5,
         "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
         "id": 26000057
     },
@@ -644,7 +644,7 @@
         "elixir": 2,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 5,
+        "arena": 12,
         "description": "A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold and undead heart like blowing up buildings.",
         "id": 26000058
     },
@@ -699,7 +699,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 11,
+        "arena": 12,
         "description": "Spits out bolts of electricity hitting up to three targets. Suffers from middle child syndrome to boot.",
         "id": 26000063
     },
@@ -710,7 +710,7 @@
         "elixir": 3,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 14,
+        "arena": 12,
         "description": "Shoots a firework that explodes upon impact, damaging the target and showering anything directly behind it with sparks. This is what happens when Archers get bored!",
         "id": 26000064
     },
@@ -721,8 +721,8 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Champion",
-        "arena": 2,
-        "description": "Walk softly... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
+        "arena": 17,
+        "description": "Walk softly ... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
         "id": 26000065
     },
     {
@@ -743,7 +743,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Rare",
-        "arena": 15,
+        "arena": 8,
         "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
         "id": 26000068
     },
@@ -754,7 +754,7 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Champion",
-        "arena": 2,
+        "arena": 16,
         "description": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
         "id": 26000069
     },
@@ -765,7 +765,7 @@
         "elixir": 5,
         "type": "Troop",
         "rarity": "Champion",
-        "arena": 2,
+        "arena": 17,
         "description": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
         "id": 26000072
     },
@@ -776,9 +776,20 @@
         "elixir": 4,
         "type": "Troop",
         "rarity": "Champion",
-        "arena": 2,
+        "arena": 16,
         "description": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
         "id": 26000074
+    },
+    {
+        "key": "monk",
+        "name": "Monk",
+        "sc_key": "Monk",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 18,
+        "description": "Monk has spent many isolated years perfecting a new style of combat.\n\nHe fires off a 3-hit combo, with the last blow dealing extra Damage and pushing enemies back!",
+        "id": 26000077
     },
     {
         "key": "skeleton-dragons",
@@ -790,17 +801,6 @@
         "arena": 4,
         "description": "This pair of skeletal scorchers deal Area Damage and fly above the Arena. They also play a mean rib cage xylophone duet.",
         "id": 26000080
-    },
-    {
-        "key": "super-mini-pekka",
-        "name": "Super Mini P.E.K.K.A",
-        "sc_key": "SuperMiniPekka",
-        "elixir": 5,
-        "type": "Troop",
-        "rarity": "Legendary",
-        "arena": 14,
-        "description": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
-        "id": 26000082
     },
     {
         "key": "mother-witch",
@@ -820,7 +820,7 @@
         "elixir": 1,
         "type": "Troop",
         "rarity": "Common",
-        "arena": 11,
+        "arena": 4,
         "description": "Jumps on enemies, dealing Area Damage and stunning up to 9 enemy Troops. Locked in an eternal battle with Knight for the best mustache.",
         "id": 26000084
     },
@@ -831,9 +831,20 @@
         "elixir": 7,
         "type": "Troop",
         "rarity": "Epic",
-        "arena": 11,
+        "arena": 13,
         "description": "He channels electricity through his Zap Pack, a unique device that stuns and damages any Troop attacking him within its range.\n\nDon't tell him that his finger guns aren't real! He'll zap you.",
         "id": 26000085
+    },
+    {
+        "key": "phoenix",
+        "name": "Phoenix",
+        "sc_key": "Phoenix",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 12,
+        "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability.\n\nPhoenix also has a fiery personality! Just kidding, it's a very serious bird. It would disapprove of all these puns.",
+        "id": 26000087
     },
     {
         "key": "cannon",
@@ -853,7 +864,7 @@
         "elixir": 5,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 9,
+        "arena": 1,
         "description": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
         "id": 27000001
     },
@@ -864,7 +875,7 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Common",
-        "arena": 6,
+        "arena": 5,
         "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
         "id": 27000002
     },
@@ -886,7 +897,7 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 12,
+        "arena": 4,
         "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
         "id": 27000004
     },
@@ -897,7 +908,7 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 14,
+        "arena": 9,
         "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
         "id": 27000005
     },
@@ -908,7 +919,7 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Common",
-        "arena": 11,
+        "arena": 10,
         "description": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
         "id": 27000006
     },
@@ -919,7 +930,7 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Rare",
-        "arena": 13,
+        "arena": 15,
         "description": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
         "id": 27000007
     },
@@ -930,7 +941,7 @@
         "elixir": 6,
         "type": "Building",
         "rarity": "Epic",
-        "arena": 6,
+        "arena": 10,
         "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
         "id": 27000008
     },
@@ -957,17 +968,6 @@
         "id": 27000010
     },
     {
-        "key": "barbarian-launcher",
-        "name": "Barbarian Launcher",
-        "sc_key": "BarbarianLauncher",
-        "elixir": 5,
-        "type": "Building",
-        "rarity": "Common",
-        "arena": 6,
-        "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
-        "id": 27000011
-    },
-    {
         "key": "goblin-cage",
         "name": "Goblin Cage",
         "sc_key": "GoblinCage",
@@ -985,7 +985,7 @@
         "elixir": 4,
         "type": "Building",
         "rarity": "Epic",
-        "arena": 13,
+        "arena": 14,
         "description": "Building capable of burrowing underground and appearing anywhere in the Arena. Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything nearby has been properly stabbed.",
         "id": 27000013
     },
@@ -1029,7 +1029,7 @@
         "elixir": 6,
         "type": "Spell",
         "rarity": "Rare",
-        "arena": 6,
+        "arena": 5,
         "description": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
         "id": 28000003
     },
@@ -1040,7 +1040,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 3,
+        "arena": 6,
         "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
         "id": 28000004
     },
@@ -1062,7 +1062,7 @@
         "elixir": 1,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 12,
+        "arena": 15,
         "description": "Mirrors your last card played for +1 Elixir. Does not appear in your starting hand.",
         "id": 28000006
     },
@@ -1117,7 +1117,7 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Legendary",
-        "arena": 6,
+        "arena": 11,
         "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path! Reduced damage to Crown Towers.",
         "id": 28000011
     },
@@ -1161,7 +1161,7 @@
         "elixir": 2,
         "type": "Spell",
         "rarity": "Epic",
-        "arena": 3,
+        "arena": 9,
         "description": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
         "id": 28000015
     },
@@ -1194,7 +1194,7 @@
         "elixir": 3,
         "type": "Spell",
         "rarity": "Common",
-        "arena": 15,
+        "arena": 14,
         "description": "No need to sign for this package!\n\nDropped from the sky, it deals Area Damage to enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
         "id": 28000018
     }
