@@ -129,7 +129,8 @@
             100,
             150
         ],
-        "downgrade_multiplier": 0
+        "downgrade_multiplier": 0,
+        "max_amount_in_chronos_shop_offers": 100000
     },
     {
         "name": "Rare",
@@ -253,7 +254,8 @@
             175
         ],
         "downgrade_rarity": "Common",
-        "downgrade_multiplier": 1
+        "downgrade_multiplier": 1,
+        "max_amount_in_chronos_shop_offers": 10000
     },
     {
         "name": "Epic",
@@ -362,7 +364,8 @@
             175
         ],
         "downgrade_rarity": "Rare",
-        "downgrade_multiplier": 1
+        "downgrade_multiplier": 1,
+        "max_amount_in_chronos_shop_offers": 2000
     },
     {
         "name": "Legendary",
@@ -477,7 +480,8 @@
             200
         ],
         "downgrade_rarity": "Epic",
-        "downgrade_multiplier": 1
+        "downgrade_multiplier": 1,
+        "max_amount_in_chronos_shop_offers": 200
     },
     {
         "name": "Champion",
@@ -574,11 +578,12 @@
             200
         ],
         "downgrade_rarity": "Legendary",
-        "downgrade_multiplier": 1
+        "downgrade_multiplier": 1,
+        "max_amount_in_chronos_shop_offers": 100
     },
     {
         "name": "Experimental",
-        "level_count": 6,
+        "level_count": 7,
         "relative_level": 8,
         "tournament_level_index": 2,
         "mirror_relative_level": 8,
@@ -599,6 +604,7 @@
             800,
             1600,
             1600,
+            2400,
             0
         ],
         "upgrade_material_count": [
@@ -607,9 +613,11 @@
             10,
             20,
             20,
+            20,
             0
         ],
         "original_upgrade_material_count": [
+            0,
             0,
             0,
             0,
@@ -621,6 +629,7 @@
             5000,
             20000,
             50000,
+            100000,
             100000,
             100000,
             0
@@ -675,6 +684,7 @@
         "token_flying_icon_export_name": "token_legendary",
         "token_gold_value": 2000,
         "npc_trader_reroll_gem_cost": 10,
-        "can_be_in_chests": false
+        "can_be_in_chests": false,
+        "max_amount_in_chronos_shop_offers": 1
     }
 ]

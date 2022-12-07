@@ -770,6 +770,17 @@
         "id": 26000072
     },
     {
+        "key": "super-hog-rider",
+        "name": "Super Hog Rider",
+        "sc_key": "SuperHogRider",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 5,
+        "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
+        "id": 26000073
+    },
+    {
         "key": "golden-knight",
         "name": "Golden Knight",
         "sc_key": "GoldenKnight",
@@ -784,7 +795,7 @@
         "key": "monk",
         "name": "Monk",
         "sc_key": "Monk",
-        "elixir": 4,
+        "elixir": 5,
         "type": "Troop",
         "rarity": "Champion",
         "arena": 18,

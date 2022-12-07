@@ -43820,20 +43820,24 @@
         ]
     },
     {
-        "name": "TEST_Banner_Currency",
+        "name": "Xmas_2022_Special",
         "summary": {
-            "bonus_consumable_CosmeticsToken": 130,
-            "chest_Star_<current_arena>": 24,
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 10,
+            "bonus_consumable_WildcardLegendary": 1,
+            "bonus_consumable_WildcardRare": 20,
+            "chest_Star_<current_arena>": 25,
             "chest_WildChampion_<current_arena>": 1,
             "consumable_BookCardAll": 1,
-            "consumable_BookCardRare": 1,
+            "consumable_BookCardLegendary": 1,
             "consumable_ChestKey": 2,
-            "consumable_CosmeticsToken": 50,
             "consumable_GoldCoin": 1,
             "consumable_WildcardCommon": 700,
             "consumable_WildcardEpic": 70,
-            "consumable_WildcardLegendary": 3,
+            "consumable_WildcardLegendary": 1,
             "consumable_WildcardRare": 140,
+            "emote": 1,
             "resource_Gold": 41000,
             "token_Common": 1,
             "token_Epic": 1,
@@ -43841,11 +43845,14 @@
             "token_Rare": 1
         },
         "summary_free": {
-            "bonus_consumable_CosmeticsToken": 130,
-            "chest_Star_<current_arena>": 24,
+            "bonus_consumable_ChestKey": 2,
+            "bonus_consumable_WildcardCommon": 50,
+            "bonus_consumable_WildcardEpic": 10,
+            "bonus_consumable_WildcardLegendary": 1,
+            "bonus_consumable_WildcardRare": 20,
+            "chest_Star_<current_arena>": 25,
             "chest_WildChampion_<current_arena>": 1,
-            "consumable_BookCardRare": 1,
-            "consumable_CosmeticsToken": 50,
+            "consumable_BookCardLegendary": 1,
             "resource_Gold": 1000
         },
         "summary_paid": {
@@ -43854,8 +43861,9 @@
             "consumable_GoldCoin": 1,
             "consumable_WildcardCommon": 700,
             "consumable_WildcardEpic": 70,
-            "consumable_WildcardLegendary": 3,
+            "consumable_WildcardLegendary": 1,
             "consumable_WildcardRare": 140,
+            "emote": 1,
             "resource_Gold": 40000,
             "token_Common": 1,
             "token_Epic": 1,
@@ -43864,7 +43872,7 @@
         },
         "rows": [
             {
-                "name": "TEST_Banner_Currency_0000_1",
+                "name": "Xmas_2022_Special_0000_1",
                 "strikes": null,
                 "crowns": 0,
                 "premium": true,
@@ -43891,7 +43899,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0000_0",
+                "name": "Xmas_2022_Special_0000_0",
                 "strikes": null,
                 "crowns": 0,
                 "premium": null,
@@ -43918,7 +43926,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0005_1",
+                "name": "Xmas_2022_Special_0005_1",
                 "strikes": null,
                 "crowns": 5,
                 "premium": true,
@@ -43945,20 +43953,20 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0005_0",
+                "name": "Xmas_2022_Special_0005_0",
                 "strikes": null,
                 "crowns": 5,
                 "premium": null,
-                "amount": 50,
+                "amount": null,
                 "spell": null,
                 "spell_alt": null,
                 "resource": null,
-                "chest": null,
+                "chest": "Star_<current_arena>",
                 "emote_id_high": null,
                 "emote_id_low": null,
                 "random_spell": null,
                 "token": null,
-                "consumable": "CosmeticsToken",
+                "consumable": null,
                 "featured_draft": null,
                 "skin_set": null,
                 "strike": null,
@@ -43967,12 +43975,12 @@
                 "bonus_emote_id_high": null,
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
-                "bonus_tower_skin": null,
+                "bonus_tower_skin": 32,
                 "bonus_consumable": null,
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0010_1",
+                "name": "Xmas_2022_Special_0010_1",
                 "strikes": null,
                 "crowns": 10,
                 "premium": true,
@@ -43999,7 +44007,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0010_0",
+                "name": "Xmas_2022_Special_0010_0",
                 "strikes": null,
                 "crowns": 10,
                 "premium": null,
@@ -44026,7 +44034,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0015_1",
+                "name": "Xmas_2022_Special_0015_1",
                 "strikes": null,
                 "crowns": 15,
                 "premium": true,
@@ -44053,7 +44061,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0015_0",
+                "name": "Xmas_2022_Special_0015_0",
                 "strikes": null,
                 "crowns": 15,
                 "premium": null,
@@ -44080,7 +44088,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0020_1",
+                "name": "Xmas_2022_Special_0020_1",
                 "strikes": null,
                 "crowns": 20,
                 "premium": true,
@@ -44107,7 +44115,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0020_0",
+                "name": "Xmas_2022_Special_0020_0",
                 "strikes": null,
                 "crowns": 20,
                 "premium": null,
@@ -44134,7 +44142,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0030_1",
+                "name": "Xmas_2022_Special_0030_1",
                 "strikes": null,
                 "crowns": 30,
                 "premium": true,
@@ -44161,7 +44169,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0030_0",
+                "name": "Xmas_2022_Special_0030_0",
                 "strikes": null,
                 "crowns": 30,
                 "premium": null,
@@ -44184,11 +44192,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 20
+                "bonus_consumable": "WildcardEpic",
+                "bonus_consumable_amount": 5
             },
             {
-                "name": "TEST_Banner_Currency_0035_1",
+                "name": "Xmas_2022_Special_0035_1",
                 "strikes": null,
                 "crowns": 35,
                 "premium": true,
@@ -44215,7 +44223,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0035_0",
+                "name": "Xmas_2022_Special_0035_0",
                 "strikes": null,
                 "crowns": 35,
                 "premium": null,
@@ -44242,7 +44250,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0040_1",
+                "name": "Xmas_2022_Special_0040_1",
                 "strikes": null,
                 "crowns": 40,
                 "premium": true,
@@ -44269,7 +44277,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0040_0",
+                "name": "Xmas_2022_Special_0040_0",
                 "strikes": null,
                 "crowns": 40,
                 "premium": null,
@@ -44292,11 +44300,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 20
+                "bonus_consumable": "ChestKey",
+                "bonus_consumable_amount": 1
             },
             {
-                "name": "TEST_Banner_Currency_0045_1",
+                "name": "Xmas_2022_Special_0045_1",
                 "strikes": null,
                 "crowns": 45,
                 "premium": true,
@@ -44323,7 +44331,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0045_0",
+                "name": "Xmas_2022_Special_0045_0",
                 "strikes": null,
                 "crowns": 45,
                 "premium": null,
@@ -44350,7 +44358,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0050_1",
+                "name": "Xmas_2022_Special_0050_1",
                 "strikes": null,
                 "crowns": 50,
                 "premium": true,
@@ -44377,7 +44385,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0050_0",
+                "name": "Xmas_2022_Special_0050_0",
                 "strikes": null,
                 "crowns": 50,
                 "premium": null,
@@ -44404,11 +44412,11 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0060_1",
+                "name": "Xmas_2022_Special_0060_1",
                 "strikes": null,
                 "crowns": 60,
                 "premium": true,
-                "amount": 1,
+                "amount": null,
                 "spell": null,
                 "spell_alt": null,
                 "resource": null,
@@ -44417,9 +44425,9 @@
                 "emote_id_low": null,
                 "random_spell": null,
                 "token": null,
-                "consumable": "WildcardLegendary",
+                "consumable": null,
                 "featured_draft": null,
-                "skin_set": null,
+                "skin_set": 3,
                 "strike": null,
                 "unlocked_on_day": 7,
                 "tier": 1,
@@ -44431,7 +44439,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0060_0",
+                "name": "Xmas_2022_Special_0060_0",
                 "strikes": null,
                 "crowns": 60,
                 "premium": null,
@@ -44458,7 +44466,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0065_1",
+                "name": "Xmas_2022_Special_0065_1",
                 "strikes": null,
                 "crowns": 65,
                 "premium": true,
@@ -44485,7 +44493,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0065_0",
+                "name": "Xmas_2022_Special_0065_0",
                 "strikes": null,
                 "crowns": 65,
                 "premium": null,
@@ -44508,11 +44516,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 20
+                "bonus_consumable": "WildcardRare",
+                "bonus_consumable_amount": 10
             },
             {
-                "name": "TEST_Banner_Currency_0070_1",
+                "name": "Xmas_2022_Special_0070_1",
                 "strikes": null,
                 "crowns": 70,
                 "premium": true,
@@ -44539,7 +44547,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0070_0",
+                "name": "Xmas_2022_Special_0070_0",
                 "strikes": null,
                 "crowns": 70,
                 "premium": null,
@@ -44566,7 +44574,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0075_1",
+                "name": "Xmas_2022_Special_0075_1",
                 "strikes": null,
                 "crowns": 75,
                 "premium": true,
@@ -44593,7 +44601,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0075_0",
+                "name": "Xmas_2022_Special_0075_0",
                 "strikes": null,
                 "crowns": 75,
                 "premium": null,
@@ -44620,7 +44628,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0080_1",
+                "name": "Xmas_2022_Special_0080_1",
                 "strikes": null,
                 "crowns": 80,
                 "premium": true,
@@ -44647,7 +44655,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0080_0",
+                "name": "Xmas_2022_Special_0080_0",
                 "strikes": null,
                 "crowns": 80,
                 "premium": null,
@@ -44674,7 +44682,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0085_1",
+                "name": "Xmas_2022_Special_0085_1",
                 "strikes": null,
                 "crowns": 85,
                 "premium": true,
@@ -44701,7 +44709,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0085_0",
+                "name": "Xmas_2022_Special_0085_0",
                 "strikes": null,
                 "crowns": 85,
                 "premium": null,
@@ -44724,11 +44732,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 20
+                "bonus_consumable": "WildcardCommon",
+                "bonus_consumable_amount": 50
             },
             {
-                "name": "TEST_Banner_Currency_0090_1",
+                "name": "Xmas_2022_Special_0090_1",
                 "strikes": null,
                 "crowns": 90,
                 "premium": true,
@@ -44755,7 +44763,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0090_0",
+                "name": "Xmas_2022_Special_0090_0",
                 "strikes": null,
                 "crowns": 90,
                 "premium": null,
@@ -44782,7 +44790,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0095_1",
+                "name": "Xmas_2022_Special_0095_1",
                 "strikes": null,
                 "crowns": 95,
                 "premium": true,
@@ -44809,7 +44817,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0095_0",
+                "name": "Xmas_2022_Special_0095_0",
                 "strikes": null,
                 "crowns": 95,
                 "premium": null,
@@ -44836,7 +44844,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0100_1",
+                "name": "Xmas_2022_Special_0100_1",
                 "strikes": null,
                 "crowns": 100,
                 "premium": true,
@@ -44863,7 +44871,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0100_0",
+                "name": "Xmas_2022_Special_0100_0",
                 "strikes": null,
                 "crowns": 100,
                 "premium": null,
@@ -44890,7 +44898,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0105_1",
+                "name": "Xmas_2022_Special_0105_1",
                 "strikes": null,
                 "crowns": 105,
                 "premium": true,
@@ -44912,12 +44920,12 @@
                 "bonus_emote_id_high": null,
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
-                "bonus_tower_skin": null,
+                "bonus_tower_skin": 2004,
                 "bonus_consumable": null,
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0105_0",
+                "name": "Xmas_2022_Special_0105_0",
                 "strikes": null,
                 "crowns": 105,
                 "premium": null,
@@ -44940,24 +44948,24 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 20
+                "bonus_consumable": "WildcardEpic",
+                "bonus_consumable_amount": 5
             },
             {
-                "name": "TEST_Banner_Currency_0115_1",
+                "name": "Xmas_2022_Special_0115_1",
                 "strikes": null,
                 "crowns": 115,
                 "premium": true,
-                "amount": 1,
+                "amount": null,
                 "spell": null,
                 "spell_alt": null,
                 "resource": null,
                 "chest": null,
-                "emote_id_high": null,
-                "emote_id_low": null,
+                "emote_id_high": 10,
+                "emote_id_low": 0,
                 "random_spell": null,
                 "token": null,
-                "consumable": "WildcardLegendary",
+                "consumable": null,
                 "featured_draft": null,
                 "skin_set": null,
                 "strike": null,
@@ -44971,7 +44979,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0115_0",
+                "name": "Xmas_2022_Special_0115_0",
                 "strikes": null,
                 "crowns": 115,
                 "premium": null,
@@ -44998,7 +45006,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0120_1",
+                "name": "Xmas_2022_Special_0120_1",
                 "strikes": null,
                 "crowns": 120,
                 "premium": true,
@@ -45025,7 +45033,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0120_0",
+                "name": "Xmas_2022_Special_0120_0",
                 "strikes": null,
                 "crowns": 120,
                 "premium": null,
@@ -45052,7 +45060,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0125_1",
+                "name": "Xmas_2022_Special_0125_1",
                 "strikes": null,
                 "crowns": 125,
                 "premium": true,
@@ -45079,7 +45087,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0125_0",
+                "name": "Xmas_2022_Special_0125_0",
                 "strikes": null,
                 "crowns": 125,
                 "premium": null,
@@ -45102,11 +45110,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 10
+                "bonus_consumable": "ChestKey",
+                "bonus_consumable_amount": 1
             },
             {
-                "name": "TEST_Banner_Currency_0130_1",
+                "name": "Xmas_2022_Special_0130_1",
                 "strikes": null,
                 "crowns": 130,
                 "premium": true,
@@ -45133,7 +45141,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0130_0",
+                "name": "Xmas_2022_Special_0130_0",
                 "strikes": null,
                 "crowns": 130,
                 "premium": null,
@@ -45160,7 +45168,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0135_1",
+                "name": "Xmas_2022_Special_0135_1",
                 "strikes": null,
                 "crowns": 135,
                 "premium": true,
@@ -45187,7 +45195,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0135_0",
+                "name": "Xmas_2022_Special_0135_0",
                 "strikes": null,
                 "crowns": 135,
                 "premium": null,
@@ -45214,7 +45222,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0140_1",
+                "name": "Xmas_2022_Special_0140_1",
                 "strikes": null,
                 "crowns": 140,
                 "premium": true,
@@ -45241,7 +45249,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0140_0",
+                "name": "Xmas_2022_Special_0140_0",
                 "strikes": null,
                 "crowns": 140,
                 "premium": null,
@@ -45264,11 +45272,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
+                "bonus_consumable": "WildcardRare",
                 "bonus_consumable_amount": 10
             },
             {
-                "name": "TEST_Banner_Currency_0145_1",
+                "name": "Xmas_2022_Special_0145_1",
                 "strikes": null,
                 "crowns": 145,
                 "premium": true,
@@ -45295,7 +45303,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0145_0",
+                "name": "Xmas_2022_Special_0145_0",
                 "strikes": null,
                 "crowns": 145,
                 "premium": null,
@@ -45322,7 +45330,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0150_1",
+                "name": "Xmas_2022_Special_0150_1",
                 "strikes": null,
                 "crowns": 150,
                 "premium": true,
@@ -45349,7 +45357,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0150_0",
+                "name": "Xmas_2022_Special_0150_0",
                 "strikes": null,
                 "crowns": 150,
                 "premium": null,
@@ -45376,7 +45384,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0155_1",
+                "name": "Xmas_2022_Special_0155_1",
                 "strikes": null,
                 "crowns": 155,
                 "premium": true,
@@ -45403,7 +45411,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0155_0",
+                "name": "Xmas_2022_Special_0155_0",
                 "strikes": null,
                 "crowns": 155,
                 "premium": null,
@@ -45430,7 +45438,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0160_1",
+                "name": "Xmas_2022_Special_0160_1",
                 "strikes": null,
                 "crowns": 160,
                 "premium": true,
@@ -45457,7 +45465,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0160_0",
+                "name": "Xmas_2022_Special_0160_0",
                 "strikes": null,
                 "crowns": 160,
                 "premium": null,
@@ -45484,7 +45492,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0170_1",
+                "name": "Xmas_2022_Special_0170_1",
                 "strikes": null,
                 "crowns": 170,
                 "premium": true,
@@ -45511,7 +45519,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0170_0",
+                "name": "Xmas_2022_Special_0170_0",
                 "strikes": null,
                 "crowns": 170,
                 "premium": null,
@@ -45538,7 +45546,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0175_1",
+                "name": "Xmas_2022_Special_0175_1",
                 "strikes": null,
                 "crowns": 175,
                 "premium": true,
@@ -45565,7 +45573,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0175_0",
+                "name": "Xmas_2022_Special_0175_0",
                 "strikes": null,
                 "crowns": 175,
                 "premium": null,
@@ -45592,7 +45600,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0180_1",
+                "name": "Xmas_2022_Special_0180_1",
                 "strikes": null,
                 "crowns": 180,
                 "premium": true,
@@ -45619,7 +45627,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0180_0",
+                "name": "Xmas_2022_Special_0180_0",
                 "strikes": null,
                 "crowns": 180,
                 "premium": null,
@@ -45646,7 +45654,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0185_1",
+                "name": "Xmas_2022_Special_0185_1",
                 "strikes": null,
                 "crowns": 185,
                 "premium": true,
@@ -45673,7 +45681,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0185_0",
+                "name": "Xmas_2022_Special_0185_0",
                 "strikes": null,
                 "crowns": 185,
                 "premium": null,
@@ -45700,7 +45708,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0190_1",
+                "name": "Xmas_2022_Special_0190_1",
                 "strikes": null,
                 "crowns": 190,
                 "premium": true,
@@ -45727,7 +45735,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0190_0",
+                "name": "Xmas_2022_Special_0190_0",
                 "strikes": null,
                 "crowns": 190,
                 "premium": null,
@@ -45750,11 +45758,11 @@
                 "bonus_emote_id_low": null,
                 "bonus_gems": null,
                 "bonus_tower_skin": null,
-                "bonus_consumable": "CosmeticsToken",
-                "bonus_consumable_amount": 10
+                "bonus_consumable": "WildcardLegendary",
+                "bonus_consumable_amount": 1
             },
             {
-                "name": "TEST_Banner_Currency_0200_1",
+                "name": "Xmas_2022_Special_0200_1",
                 "strikes": null,
                 "crowns": 200,
                 "premium": true,
@@ -45781,7 +45789,7 @@
                 "bonus_consumable_amount": null
             },
             {
-                "name": "TEST_Banner_Currency_0200_0",
+                "name": "Xmas_2022_Special_0200_0",
                 "strikes": null,
                 "crowns": 200,
                 "premium": null,
@@ -45794,7 +45802,7 @@
                 "emote_id_low": null,
                 "random_spell": null,
                 "token": null,
-                "consumable": "BookCardRare",
+                "consumable": "BookCardLegendary",
                 "featured_draft": null,
                 "skin_set": null,
                 "strike": null,

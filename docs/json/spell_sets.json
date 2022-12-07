@@ -1436,7 +1436,8 @@
             "zappies",
             "electro-dragon",
             "firecracker",
-            "skeleton-dragons"
+            "skeleton-dragons",
+            "phoenix"
         ]
     },
     {
@@ -1565,7 +1566,8 @@
             "cannon-cart",
             "electro-dragon",
             "battle-healer",
-            "skeleton-dragons"
+            "skeleton-dragons",
+            "phoenix"
         ]
     },
     {
@@ -1720,7 +1722,8 @@
             "princess",
             "spear-goblins",
             "zappies",
-            "firecracker"
+            "firecracker",
+            "phoenix"
         ]
     },
     {
@@ -3844,7 +3847,9 @@
             "skeleton-king",
             "archer-queen",
             "golden-knight",
-            "mighty-miner"
+            "mighty-miner",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -4174,7 +4179,8 @@
             "wizard",
             "zappies",
             "electro-dragon",
-            "skeleton-dragons"
+            "skeleton-dragons",
+            "phoenix"
         ]
     },
     {
@@ -4189,7 +4195,8 @@
             "dart-goblin",
             "bats",
             "flying-machine",
-            "firecracker"
+            "firecracker",
+            "phoenix"
         ]
     },
     {
@@ -4385,7 +4392,9 @@
             "skeleton-king",
             "archer-queen",
             "golden-knight",
-            "mighty-miner"
+            "mighty-miner",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -4463,7 +4472,9 @@
             "skeleton-king",
             "archer-queen",
             "golden-knight",
-            "mighty-miner"
+            "mighty-miner",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -5388,7 +5399,9 @@
             "skeleton-king",
             "archer-queen",
             "golden-knight",
-            "mighty-miner"
+            "mighty-miner",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -5445,7 +5458,8 @@
             "golden-knight",
             "archer-queen",
             "skeleton-king",
-            "mighty-miner"
+            "mighty-miner",
+            "monk"
         ]
     },
     {
@@ -5454,7 +5468,8 @@
             "golden-knight",
             "archer-queen",
             "skeleton-king",
-            "mighty-miner"
+            "mighty-miner",
+            "monk"
         ]
     },
     {
@@ -5463,7 +5478,8 @@
             "golden-knight",
             "archer-queen",
             "skeleton-king",
-            "mighty-miner"
+            "mighty-miner",
+            "monk"
         ],
         "tid": "TID_SPELL_SET_CHAMPION",
         "text": {
@@ -6310,7 +6326,9 @@
             "skeleton-king",
             "archer-queen",
             "golden-knight",
-            "mighty-miner"
+            "mighty-miner",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -6733,7 +6751,9 @@
             "archer-queen",
             "golden-knight",
             "mighty-miner",
-            "lava-hound"
+            "lava-hound",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -6969,7 +6989,9 @@
             "lava-hound",
             "witch",
             "night-witch",
-            "mother-witch"
+            "mother-witch",
+            "monk",
+            "phoenix"
         ]
     },
     {
@@ -7078,7 +7100,120 @@
             "witch",
             "night-witch",
             "mother-witch",
-            "mini-pekka"
+            "mini-pekka",
+            "monk",
+            "phoenix"
+        ]
+    },
+    {
+        "name": "Event_AllCards_but_Monk",
+        "spells": [
+            "knight",
+            "archers",
+            "minions",
+            "arrows",
+            "giant",
+            "musketeer",
+            "fireball",
+            "baby-dragon",
+            "skeleton-army",
+            "prince",
+            "goblins",
+            "spear-goblins",
+            "goblin-hut",
+            "hog-rider",
+            "hunter",
+            "goblin-barrel",
+            "bomber",
+            "skeletons",
+            "tombstone",
+            "valkyrie",
+            "giant-skeleton",
+            "balloon",
+            "barbarians",
+            "cannon",
+            "barbarian-hut",
+            "battle-ram",
+            "barbarian-barrel",
+            "golem",
+            "zap",
+            "minion-horde",
+            "inferno-tower",
+            "mega-minion",
+            "lightning",
+            "pekka",
+            "miner",
+            "bats",
+            "fire-spirit",
+            "furnace",
+            "wizard",
+            "poison",
+            "freeze",
+            "graveyard",
+            "skeleton-barrel",
+            "flying-machine",
+            "rocket",
+            "x-bow",
+            "cannon-cart",
+            "inferno-dragon",
+            "the-log",
+            "royal-giant",
+            "heal-spirit",
+            "three-musketeers",
+            "dark-prince",
+            "guards",
+            "royal-ghost",
+            "princess",
+            "giant-snowball",
+            "ice-spirit",
+            "ice-golem",
+            "elixir-collector",
+            "tornado",
+            "bowler",
+            "ice-wizard",
+            "lumberjack",
+            "goblin-gang",
+            "rascals",
+            "dart-goblin",
+            "executioner",
+            "bandit",
+            "elite-barbarians",
+            "royal-hogs",
+            "bomb-tower",
+            "rage",
+            "magic-archer",
+            "mega-knight",
+            "tesla",
+            "zappies",
+            "electro-wizard",
+            "sparky",
+            "royal-recruits",
+            "goblin-giant",
+            "earthquake",
+            "electro-dragon",
+            "ram-rider",
+            "fisherman",
+            "goblin-cage",
+            "elixir-golem",
+            "wall-breakers",
+            "battle-healer",
+            "firecracker",
+            "skeleton-dragons",
+            "royal-delivery",
+            "electro-spirit",
+            "electro-giant",
+            "goblin-drill",
+            "skeleton-king",
+            "archer-queen",
+            "golden-knight",
+            "mighty-miner",
+            "lava-hound",
+            "witch",
+            "night-witch",
+            "mother-witch",
+            "mini-pekka",
+            "phoenix",
+            "mortar"
         ]
     }
 ]

@@ -7114,5 +7114,20 @@
                 "sc_key": "TID_CLASSIC16_EGIANT_DRILL"
             }
         }
+    },
+    {
+        "name": "TutorialDeck7",
+        "spells": [
+            "giant",
+            "goblins",
+            "skeletons",
+            "knight"
+        ],
+        "spell_level": [
+            1,
+            1,
+            1,
+            1
+        ]
     }
 ]
