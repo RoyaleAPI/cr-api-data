@@ -759,6 +759,17 @@
         "id": 26000069
     },
     {
+        "key": "super-magic-archer",
+        "name": "Super Magic Archer",
+        "sc_key": "SuperEliteArcher",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 13,
+        "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
+        "id": 26000071
+    },
+    {
         "key": "archer-queen",
         "name": "Archer Queen",
         "sc_key": "ArcherQueen",
@@ -770,8 +781,8 @@
         "id": 26000072
     },
     {
-        "key": "super-hog-rider",
-        "name": "Super Hog Rider",
+        "key": "santa-hog-rider",
+        "name": "Santa Hog Rider",
         "sc_key": "SuperHogRider",
         "elixir": 5,
         "type": "Troop",
@@ -790,6 +801,17 @@
         "arena": 16,
         "description": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
         "id": 26000074
+    },
+    {
+        "key": "super-ice-golem",
+        "name": "Super Ice Golem",
+        "sc_key": "SuperIceGolemite",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 8,
+        "description": "He's tough, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
+        "id": 26000075
     },
     {
         "key": "monk",
@@ -854,7 +876,7 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 12,
-        "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability.\n\nPhoenix also has a fiery personality! Just kidding, it's a very serious bird. It would disapprove of all these puns.",
+        "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability.\n\n Being born again is tiring, so a hatched Pheonix will have slightly less Hitpoints and Damage (80% of its total).",
         "id": 26000087
     },
     {

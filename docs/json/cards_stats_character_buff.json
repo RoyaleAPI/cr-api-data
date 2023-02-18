@@ -60,6 +60,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Rage"
     },
     {
@@ -123,6 +124,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Freeze"
     },
     {
@@ -186,6 +188,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Poison"
     },
     {
@@ -249,6 +252,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Slowdown"
     },
     {
@@ -312,6 +316,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Stun"
     },
     {
@@ -375,6 +380,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Tornado"
     },
     {
@@ -438,6 +444,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Clone"
     },
     {
@@ -500,7 +507,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "Stun",
@@ -562,7 +570,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "Invisibility",
@@ -624,7 +633,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "RageModeRage",
@@ -687,6 +697,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Rage"
     },
     {
@@ -750,6 +761,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Poison"
     },
     {
@@ -813,6 +825,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Deploy Slow"
     },
     {
@@ -875,7 +888,72 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
+    },
+    {
+        "name": "SuperEliteArcherCharm",
+        "rarity": "Legendary",
+        "icon_file_name": null,
+        "no_effect_to_crown_towers": false,
+        "building_damage_percent": 0,
+        "crown_tower_damage_percent": 0,
+        "damage_per_second": 0,
+        "hit_frequency": 0,
+        "damage_reduction": 0,
+        "heal_per_second": 0,
+        "hit_speed_multiplier": 0,
+        "speed_multiplier": 0,
+        "spawn_speed_multiplier": 0,
+        "invisible": false,
+        "remove_on_attack": false,
+        "remove_on_heal": false,
+        "remove_on_hit": false,
+        "damage_on_hit": 0,
+        "damage_multiplier": 0,
+        "filter_file": "sc/effects.sc",
+        "filter_affects_transformation": false,
+        "filter_inherit_life_duration": false,
+        "ignore_push_back": false,
+        "audio_pitch_modifier": 0,
+        "portal": false,
+        "attract_percentage": 0,
+        "lateral_push_percentage": 0,
+        "push_mass_factor": 0,
+        "push_speed_factor": 0,
+        "controlled_by_parent": false,
+        "clone": false,
+        "scale": 0,
+        "enable_stacking": false,
+        "chained_buff": null,
+        "chained_buff_time": 0,
+        "charge": false,
+        "spawn_start_time": 0,
+        "spawn_number": 0,
+        "spawn_interval": 0,
+        "spawn_pause_time": 0,
+        "spawn_object": null,
+        "spawn_limit": 0,
+        "spawn_level_index": 0,
+        "hitpoint_multiplier": 0,
+        "shield": 0,
+        "jump": false,
+        "projectile": null,
+        "override_projectile": null,
+        "hit_tick_from_source": false,
+        "morph_target": null,
+        "death_spawn": null,
+        "death_spawn_is_enemy": false,
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
+        "lock_target": false,
+        "rally": false,
+        "not_cloned": false,
+        "level_increase": 0,
+        "apply_fear": false,
+        "switch_team": true,
+        "name_en": "Rage"
     },
     {
         "name": "BolaSnare",
@@ -938,6 +1016,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Snare"
     },
     {
@@ -1000,7 +1079,8 @@
         "rally": false,
         "not_cloned": true,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "InvisibilityRemoveOnAttack",
@@ -1062,7 +1142,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "LevelUp",
@@ -1124,7 +1205,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 1,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "TripleDamage",
@@ -1187,6 +1269,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Rage"
     },
     {
@@ -1249,7 +1332,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "ContinueFreeze",
@@ -1312,6 +1396,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Freeze"
     },
     {
@@ -1375,6 +1460,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Stun"
     },
     {
@@ -1437,7 +1523,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "ShieldBoost",
@@ -1499,7 +1586,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "DummyCollisionBoostEpic",
@@ -1561,7 +1649,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "FireballProjectile",
@@ -1623,7 +1712,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "DropBomb",
@@ -1685,7 +1775,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "HealSpiritBuff",
@@ -1747,7 +1838,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "ArcherQueenRapid",
@@ -1809,7 +1901,8 @@
         "rally": false,
         "not_cloned": true,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "PancakesCurse",
@@ -1871,7 +1964,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "BattleHealerSelf",
@@ -1933,7 +2027,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "VoodooCurse",
@@ -1995,7 +2090,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "BattleHealerAll",
@@ -2057,7 +2153,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "SuperRage",
@@ -2120,6 +2217,7 @@
         "not_cloned": false,
         "level_increase": 0,
         "apply_fear": false,
+        "switch_team": false,
         "name_en": "Rage"
     },
     {
@@ -2182,7 +2280,8 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
     },
     {
         "name": "SuperMiniPekkaPancakesHeal",
@@ -2244,6 +2343,70 @@
         "rally": false,
         "not_cloned": false,
         "level_increase": 0,
-        "apply_fear": false
+        "apply_fear": false,
+        "switch_team": false
+    },
+    {
+        "name": "InvisibilityTemp",
+        "rarity": "Epic",
+        "icon_file_name": null,
+        "no_effect_to_crown_towers": false,
+        "building_damage_percent": 0,
+        "crown_tower_damage_percent": 0,
+        "damage_per_second": 0,
+        "hit_frequency": 0,
+        "damage_reduction": 0,
+        "heal_per_second": 0,
+        "hit_speed_multiplier": 0,
+        "speed_multiplier": 0,
+        "spawn_speed_multiplier": 0,
+        "invisible": true,
+        "remove_on_attack": false,
+        "remove_on_heal": false,
+        "remove_on_hit": false,
+        "damage_on_hit": 0,
+        "damage_multiplier": 0,
+        "filter_file": null,
+        "filter_affects_transformation": false,
+        "filter_inherit_life_duration": false,
+        "ignore_push_back": false,
+        "audio_pitch_modifier": 0,
+        "portal": false,
+        "attract_percentage": 0,
+        "lateral_push_percentage": 0,
+        "push_mass_factor": 0,
+        "push_speed_factor": 0,
+        "controlled_by_parent": false,
+        "clone": false,
+        "scale": 0,
+        "enable_stacking": false,
+        "chained_buff": null,
+        "chained_buff_time": 0,
+        "charge": false,
+        "spawn_start_time": 0,
+        "spawn_number": 0,
+        "spawn_interval": 0,
+        "spawn_pause_time": 0,
+        "spawn_object": null,
+        "spawn_limit": 0,
+        "spawn_level_index": 0,
+        "hitpoint_multiplier": 0,
+        "shield": 0,
+        "jump": false,
+        "projectile": null,
+        "override_projectile": null,
+        "hit_tick_from_source": false,
+        "morph_target": null,
+        "death_spawn": null,
+        "death_spawn_is_enemy": false,
+        "death_spawn_count": 0,
+        "death_spawn_deploy_delay": false,
+        "ignore_buildings": false,
+        "lock_target": false,
+        "rally": false,
+        "not_cloned": false,
+        "level_increase": 0,
+        "apply_fear": false,
+        "switch_team": false
     }
 ]

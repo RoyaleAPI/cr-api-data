@@ -776,7 +776,7 @@
         "homing": false,
         "hit_effect_at_projectile": false,
         "damage": 700,
-        "crown_tower_damage_percent": -70,
+        "crown_tower_damage_percent": -75,
         "pushback": 1800,
         "pushback_all": false,
         "radius": 2000,
@@ -1237,6 +1237,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Stun"
         }
     },
@@ -1423,6 +1424,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Slowdown"
         }
     },
@@ -1450,6 +1452,7 @@
         "drag_back_as_attractor": false,
         "check_collisions": false,
         "hide_when_delayed": false,
+        "deflect_behaviour": "IgnoreHeight",
         "damage_per_level": [
             120,
             132,
@@ -2048,6 +2051,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Freeze"
         }
     },
@@ -2091,7 +2095,7 @@
         "hit_effect_at_projectile": false,
         "damage": 240,
         "crown_tower_damage_percent": -80,
-        "pushback": 1000,
+        "pushback": 700,
         "pushback_all": true,
         "aoe_to_air": false,
         "aoe_to_ground": true,
@@ -2983,6 +2987,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Stun"
         }
     },
@@ -3332,6 +3337,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Slowdown"
         }
     },
@@ -3451,6 +3457,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Snare"
         }
     },
@@ -3577,6 +3584,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Stun"
         }
     },
@@ -3776,6 +3784,130 @@
             585,
             642
         ]
+    },
+    {
+        "name": "SuperEliteArcherArrow",
+        "rarity": "Legendary",
+        "speed": 1000,
+        "homing": false,
+        "homing_time": 100,
+        "homing_min_distance": 5000,
+        "hit_effect_at_projectile": false,
+        "damage": 1,
+        "pushback_all": false,
+        "radius": 250,
+        "aoe_to_air": true,
+        "aoe_to_ground": true,
+        "only_enemies": true,
+        "only_own_troops": false,
+        "spawn_const_priority": false,
+        "target_buff": "SuperEliteArcherCharm",
+        "buff_time": 4000,
+        "apply_buff_before_damage": false,
+        "projectile_radius": 250,
+        "projectile_start_extra_radius": 400,
+        "projectile_range": 11000,
+        "use360_frames": false,
+        "spawn_axis_x": false,
+        "spawn_axis_y": false,
+        "constant_height": 2000,
+        "height_from_target_radius": false,
+        "target_to_edge": false,
+        "shakes_targets": true,
+        "drag_back_as_attractor": false,
+        "check_collisions": false,
+        "hide_when_delayed": false,
+        "damage_per_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "dps": 1,
+        "dps_per_level": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "target_buff_data": {
+            "name": "SuperEliteArcherCharm",
+            "rarity": "Legendary",
+            "icon_file_name": null,
+            "no_effect_to_crown_towers": false,
+            "building_damage_percent": 0,
+            "crown_tower_damage_percent": 0,
+            "damage_per_second": 0,
+            "hit_frequency": 0,
+            "damage_reduction": 0,
+            "heal_per_second": 0,
+            "hit_speed_multiplier": 0,
+            "speed_multiplier": 0,
+            "spawn_speed_multiplier": 0,
+            "invisible": false,
+            "remove_on_attack": false,
+            "remove_on_heal": false,
+            "remove_on_hit": false,
+            "damage_on_hit": 0,
+            "damage_multiplier": 0,
+            "filter_file": "sc/effects.sc",
+            "filter_affects_transformation": false,
+            "filter_inherit_life_duration": false,
+            "ignore_push_back": false,
+            "audio_pitch_modifier": 0,
+            "portal": false,
+            "attract_percentage": 0,
+            "lateral_push_percentage": 0,
+            "push_mass_factor": 0,
+            "push_speed_factor": 0,
+            "controlled_by_parent": false,
+            "clone": false,
+            "scale": 0,
+            "enable_stacking": false,
+            "chained_buff": null,
+            "chained_buff_time": 0,
+            "charge": false,
+            "spawn_start_time": 0,
+            "spawn_number": 0,
+            "spawn_interval": 0,
+            "spawn_pause_time": 0,
+            "spawn_object": null,
+            "spawn_limit": 0,
+            "spawn_level_index": 0,
+            "hitpoint_multiplier": 0,
+            "shield": 0,
+            "jump": false,
+            "projectile": null,
+            "override_projectile": null,
+            "hit_tick_from_source": false,
+            "morph_target": null,
+            "death_spawn": null,
+            "death_spawn_is_enemy": false,
+            "death_spawn_count": 0,
+            "death_spawn_deploy_delay": false,
+            "ignore_buildings": false,
+            "lock_target": false,
+            "rally": false,
+            "not_cloned": false,
+            "level_increase": 0,
+            "apply_fear": false,
+            "switch_team": true,
+            "name_en": "Rage"
+        }
     },
     {
         "name": "AirBowProjectile",
@@ -4093,6 +4225,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Slowdown"
         }
     },
@@ -4401,6 +4534,7 @@
         "drag_back_as_attractor": false,
         "check_collisions": false,
         "hide_when_delayed": false,
+        "deflect_behaviour": "InvertDirection",
         "damage_per_level": [
             25,
             27,
@@ -4548,6 +4682,7 @@
         "drag_back_as_attractor": false,
         "check_collisions": false,
         "hide_when_delayed": false,
+        "deflect_behaviour": "NoDeflect",
         "damage_per_level": [
             52,
             57,
@@ -4753,7 +4888,8 @@
             "rally": false,
             "not_cloned": false,
             "level_increase": 0,
-            "apply_fear": false
+            "apply_fear": false,
+            "switch_team": false
         }
     },
     {
@@ -5009,7 +5145,8 @@
             "rally": false,
             "not_cloned": false,
             "level_increase": 0,
-            "apply_fear": false
+            "apply_fear": false,
+            "switch_team": false
         }
     },
     {
@@ -5146,6 +5283,7 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
+            "switch_team": false,
             "name_en": "Stun"
         }
     },

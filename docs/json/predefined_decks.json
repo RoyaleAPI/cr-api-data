@@ -20,7 +20,7 @@
         "spells": [
             "knight",
             "goblins",
-            "skeletons"
+            "archers"
         ],
         "spell_level": [
             1,
@@ -33,7 +33,7 @@
         "spells": [
             "knight",
             "goblins",
-            "skeletons",
+            "minions",
             "archers"
         ],
         "spell_level": [
@@ -48,9 +48,9 @@
         "spells": [
             "knight",
             "goblins",
-            "skeletons",
+            "minions",
             "archers",
-            "bomber"
+            "spear-goblins"
         ],
         "spell_level": [
             1,
@@ -65,9 +65,9 @@
         "spells": [
             "knight",
             "goblins",
-            "skeletons",
+            "minions",
             "archers",
-            "bomber",
+            "spear-goblins",
             "arrows"
         ],
         "spell_level": [
@@ -84,9 +84,9 @@
         "spells": [
             "knight",
             "goblins",
-            "skeletons",
+            "minions",
             "archers",
-            "bomber",
+            "spear-goblins",
             "arrows",
             "fireball",
             "giant"
@@ -112,7 +112,7 @@
             "giant",
             "goblin-hut",
             "fireball",
-            "baby-dragon"
+            "arrows"
         ],
         "spell_level": [
             2,
@@ -122,7 +122,7 @@
             1,
             1,
             2,
-            1
+            3
         ]
     },
     {
@@ -135,7 +135,7 @@
             "giant",
             "goblin-hut",
             "arrows",
-            "skeleton-army"
+            "musketeer"
         ],
         "spell_level": [
             2,
@@ -155,7 +155,7 @@
             "archers",
             "goblins",
             "skeletons",
-            "prince",
+            "bomber",
             "spear-goblins",
             "arrows",
             "fireball"
@@ -165,7 +165,7 @@
             3,
             2,
             2,
-            1,
+            3,
             3,
             3,
             1
@@ -176,7 +176,7 @@
         "spells": [
             "valkyrie",
             "archers",
-            "witch",
+            "tombstone",
             "skeletons",
             "bomber",
             "minions",
@@ -201,17 +201,17 @@
             "archers",
             "goblins",
             "skeletons",
-            "bomb-tower",
+            "bomber",
             "minions",
             "tombstone",
-            "balloon"
+            "battle-ram"
         ],
         "spell_level": [
             3,
             3,
             3,
             4,
-            2,
+            4,
             2,
             2,
             1
@@ -221,17 +221,17 @@
         "name": "BasicDeck13",
         "spells": [
             "barbarians",
-            "barbarian-hut",
-            "skeleton-army",
+            "archers",
+            "mega-minion",
             "skeletons",
-            "witch",
+            "musketeer",
             "fireball",
             "cannon",
             "arrows"
         ],
         "spell_level": [
             3,
-            1,
+            4,
             2,
             4,
             1,
@@ -245,10 +245,10 @@
         "spells": [
             "musketeer",
             "bomber",
-            "barbarian-hut",
+            "spear-goblins",
             "goblins",
             "giant",
-            "balloon",
+            "mini-pekka",
             "archers",
             "fireball"
         ],
@@ -270,8 +270,8 @@
             "bomber",
             "mini-pekka",
             "goblins",
-            "prince",
-            "balloon",
+            "barbarians",
+            "battle-ram",
             "archers",
             "fireball"
         ],
@@ -280,8 +280,8 @@
             5,
             3,
             4,
-            1,
-            1,
+            5,
+            3,
             4,
             4
         ]
@@ -291,7 +291,7 @@
         "spells": [
             "knight",
             "archers",
-            "skeleton-army",
+            "bomb-tower",
             "goblins",
             "fireball",
             "giant",
@@ -312,12 +312,12 @@
     {
         "name": "BasicDeck17",
         "spells": [
-            "hog-rider",
+            "giant",
             "inferno-tower",
             "cannon",
             "knight",
             "spear-goblins",
-            "prince",
+            "wizard",
             "archers",
             "fireball"
         ],
@@ -327,7 +327,7 @@
             6,
             5,
             6,
-            2,
+            3,
             6,
             3
         ]
@@ -335,18 +335,18 @@
     {
         "name": "BasicDeck18",
         "spells": [
-            "witch",
-            "pekka",
+            "valkyrie",
+            "mini-pekka",
             "goblins",
             "spear-goblins",
-            "zap",
+            "electro-spirit",
             "wizard",
             "archers",
             "arrows"
         ],
         "spell_level": [
-            2,
-            2,
+            3,
+            3,
             6,
             6,
             6,
@@ -359,7 +359,7 @@
         "name": "BasicDeck19",
         "spells": [
             "musketeer",
-            "minion-horde",
+            "bats",
             "rocket",
             "goblins",
             "giant",
@@ -381,13 +381,13 @@
     {
         "name": "BasicDeck20",
         "spells": [
-            "barbarian-hut",
+            "flying-machine",
             "tombstone",
             "bomb-tower",
             "goblins",
             "giant",
             "spear-goblins",
-            "prince",
+            "hog-rider",
             "fireball"
         ],
         "spell_level": [
@@ -397,7 +397,7 @@
             6,
             4,
             7,
-            2,
+            5,
             4
         ]
     },
@@ -406,20 +406,20 @@
         "spells": [
             "goblins",
             "spear-goblins",
-            "skeleton-army",
+            "mini-pekka",
             "skeletons",
             "knight",
-            "witch",
-            "fireball",
+            "musketeer",
+            "rocket",
             "arrows"
         ],
         "spell_level": [
             6,
             7,
-            2,
+            5,
             7,
             6,
-            2,
+            5,
             4,
             6
         ]
@@ -434,8 +434,7 @@
             "fireball",
             "hog-rider",
             "goblin-barrel",
-            "minion-horde",
-            "prince"
+            "flying-machine"
         ],
         "spell_level": [
             2,
@@ -445,28 +444,27 @@
             4,
             4,
             2,
-            6,
-            2
+            5
         ]
     },
     {
         "name": "BasicDeck23",
         "spells": [
-            "lightning",
+            "zap",
             "hog-rider",
             "mini-pekka",
             "spear-goblins",
-            "arrows",
+            "fireball",
             "baby-dragon",
             "skeleton-army",
             "skeletons"
         ],
         "spell_level": [
-            2,
+            7,
             4,
             4,
             7,
-            7,
+            4,
             2,
             2,
             7
@@ -481,8 +479,8 @@
             "spear-goblins",
             "arrows",
             "hog-rider",
-            "minion-horde",
-            "prince"
+            "witch",
+            "guards"
         ],
         "spell_level": [
             7,
@@ -491,7 +489,7 @@
             7,
             7,
             4,
-            7,
+            2,
             2
         ]
     },
@@ -499,8 +497,8 @@
         "name": "BasicDeck25",
         "spells": [
             "minions",
-            "minion-horde",
-            "balloon",
+            "bats",
+            "pekka",
             "baby-dragon",
             "arrows",
             "fireball",
@@ -544,7 +542,7 @@
     {
         "name": "BasicDeck27",
         "spells": [
-            "lightning",
+            "balloon",
             "prince",
             "musketeer",
             "mini-pekka",
@@ -616,20 +614,20 @@
             "knight",
             "goblins",
             "bomber",
-            "spear-goblins",
+            "lightning",
             "arrows",
             "hog-rider",
-            "minion-horde",
+            "giant-skeleton",
             "prince"
         ],
         "spell_level": [
             8,
             8,
             8,
-            8,
+            3,
             8,
             5,
-            8,
+            3,
             3
         ]
     },
@@ -665,7 +663,7 @@
             "goblins",
             "goblin-barrel",
             "minions",
-            "minion-horde",
+            "arrows",
             "baby-dragon"
         ],
         "spell_level": [
@@ -708,21 +706,21 @@
             "ice-spirit",
             "ice-golem",
             "freeze",
-            "ice-wizard",
-            "bowler",
+            "giant-snowball",
+            "goblin-giant",
             "spear-goblins",
-            "lumberjack",
-            "mirror"
+            "goblin-gang",
+            "goblin-hut"
         ],
         "spell_level": [
             8,
             5,
             3,
-            1,
+            8,
             3,
             8,
-            1,
-            3
+            8,
+            6
         ]
     },
     {
@@ -730,17 +728,17 @@
         "spells": [
             "spear-goblins",
             "archers",
-            "minion-horde",
+            "poison",
             "arrows",
             "barbarians",
             "giant",
             "hog-rider",
-            "elixir-collector"
+            "barbarian-hut"
         ],
         "spell_level": [
             8,
             8,
-            8,
+            4,
             8,
             8,
             6,
@@ -752,8 +750,8 @@
         "name": "BasicDeck36",
         "spells": [
             "giant-skeleton",
-            "graveyard",
-            "bowler",
+            "elite-barbarians",
+            "zappies",
             "hog-rider",
             "spear-goblins",
             "arrows",
@@ -762,12 +760,12 @@
         ],
         "spell_level": [
             4,
-            1,
-            4,
+            9,
+            7,
             7,
             9,
             9,
-            9,
+            8,
             9
         ]
     },
@@ -798,10 +796,10 @@
         "name": "BasicDeck38",
         "spells": [
             "prince",
-            "knight",
+            "minions",
             "pekka",
             "goblins",
-            "princess",
+            "hunter",
             "mini-pekka",
             "arrows",
             "dark-prince"
@@ -811,7 +809,7 @@
             10,
             5,
             10,
-            2,
+            5,
             8,
             10,
             5
@@ -822,7 +820,7 @@
         "spells": [
             "goblin-barrel",
             "golem",
-            "sparky",
+            "hunter",
             "spear-goblins",
             "ice-golem",
             "rocket",
@@ -832,7 +830,7 @@
         "spell_level": [
             6,
             6,
-            3,
+            5,
             11,
             9,
             9,
@@ -890,8 +888,8 @@
         "name": "BasicDeck42",
         "spells": [
             "elite-barbarians",
-            "clone",
-            "hog-rider",
+            "tesla",
+            "ram-rider",
             "minions",
             "battle-ram",
             "dart-goblin",
@@ -900,8 +898,8 @@
         ],
         "spell_level": [
             11,
-            6,
-            10,
+            11,
+            3,
             12,
             10,
             10,
@@ -917,7 +915,7 @@
             "hog-rider",
             "fireball",
             "ice-spirit",
-            "tornado",
+            "inferno-dragon",
             "wizard",
             "goblins"
         ],
@@ -927,7 +925,7 @@
             10,
             9,
             11,
-            6,
+            3,
             11,
             12
         ]
@@ -958,8 +956,8 @@
     {
         "name": "BasicDeck45",
         "spells": [
-            "executioner",
-            "tornado",
+            "firecracker",
+            "graveyard",
             "the-log",
             "princess",
             "wizard",
@@ -968,8 +966,8 @@
             "ice-golem"
         ],
         "spell_level": [
-            6,
-            7,
+            11,
+            3,
             3,
             3,
             10,
@@ -988,7 +986,7 @@
             "archers",
             "spear-goblins",
             "mega-minion",
-            "bowler"
+            "zap"
         ],
         "spell_level": [
             3,
@@ -998,26 +996,26 @@
             11,
             11,
             10,
-            7
+            12
         ]
     },
     {
         "name": "BasicDeck47",
         "spells": [
-            "night-witch",
+            "minion-horde",
             "hunter",
             "baby-dragon",
-            "executioner",
+            "elite-barbarians",
             "sparky",
             "mega-knight",
             "dark-prince",
             "royal-ghost"
         ],
         "spell_level": [
-            3,
+            12,
             6,
             7,
-            6,
+            11,
             3,
             3,
             6,
@@ -1027,7 +1025,7 @@
     {
         "name": "BasicDeck48",
         "spells": [
-            "cannon-cart",
+            "electro-giant",
             "flying-machine",
             "baby-dragon",
             "inferno-dragon",
@@ -7120,7 +7118,7 @@
         "spells": [
             "giant",
             "goblins",
-            "skeletons",
+            "archers",
             "knight"
         ],
         "spell_level": [
