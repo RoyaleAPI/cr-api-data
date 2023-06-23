@@ -1,21 +1,19 @@
 [
     {
         "name": "Common",
-        "level_count": 14,
+        "level_count": 15,
         "relative_level": 0,
         "tournament_level_index": 10,
-        "mirror_relative_level": 0,
-        "clone_relative_level": 0,
         "donate_capacity": 1,
         "sort_capacity": 1,
         "donate_reward": 5,
         "donate_xp": 1,
         "overflow_prestige": 1,
         "gold_conversion_value": 5,
+        "elite_wildcards_conversion_value": 2,
         "max_level_donation_cost": 5,
         "trade_card_amount": 250,
         "chance_weight": 1000,
-        "balance_multiplier": 100,
         "upgrade_exp": [
             4,
             5,
@@ -30,6 +28,7 @@
             800,
             1600,
             2000,
+            50000,
             0
         ],
         "upgrade_material_count": [
@@ -46,6 +45,7 @@
             1500,
             3000,
             5000,
+            50000,
             0
         ],
         "original_upgrade_material_count": [
@@ -61,6 +61,7 @@
             1000,
             2000,
             5000,
+            0,
             0,
             0
         ],
@@ -78,6 +79,7 @@
             35000,
             75000,
             100000,
+            0,
             0
         ],
         "power_level_multiplier": [
@@ -130,25 +132,31 @@
             150
         ],
         "downgrade_multiplier": 0,
-        "max_amount_in_chronos_shop_offers": 100000
+        "max_amount_in_chronos_shop_offers": 100000,
+        "overflow_card_per_shard": 1000,
+        "evo_level_color": [
+            "249-90-255",
+            "255-255-255",
+            "249-90-255",
+            "255-255-255",
+            "249-90-255"
+        ]
     },
     {
         "name": "Rare",
-        "level_count": 12,
+        "level_count": 13,
         "relative_level": 2,
         "tournament_level_index": 8,
-        "mirror_relative_level": 2,
-        "clone_relative_level": 2,
         "donate_capacity": 10,
         "sort_capacity": 7,
         "donate_reward": 50,
         "donate_xp": 10,
         "overflow_prestige": 10,
         "gold_conversion_value": 50,
+        "elite_wildcards_conversion_value": 10,
         "max_level_donation_cost": 50,
         "trade_card_amount": 50,
         "chance_weight": 400,
-        "balance_multiplier": 130,
         "upgrade_exp": [
             6,
             10,
@@ -161,6 +169,7 @@
             800,
             1600,
             2000,
+            50000,
             0
         ],
         "upgrade_material_count": [
@@ -175,6 +184,7 @@
             500,
             750,
             1250,
+            50000,
             0
         ],
         "original_upgrade_material_count": [
@@ -188,6 +198,7 @@
             400,
             800,
             1000,
+            0,
             0,
             0
         ],
@@ -203,6 +214,7 @@
             35000,
             75000,
             100000,
+            0,
             0
         ],
         "power_level_multiplier": [
@@ -218,11 +230,11 @@
             256,
             281,
             309,
-            340,
-            374,
-            411,
-            452,
-            497
+            339,
+            372,
+            409,
+            450,
+            495
         ],
         "refund_gems": 15,
         "tid": "TID_RARITY_RARE",
@@ -255,25 +267,31 @@
         ],
         "downgrade_rarity": "Common",
         "downgrade_multiplier": 1,
-        "max_amount_in_chronos_shop_offers": 10000
+        "max_amount_in_chronos_shop_offers": 10000,
+        "overflow_card_per_shard": 250,
+        "evo_level_color": [
+            "249-90-255",
+            "255-255-255",
+            "249-90-255",
+            "255-255-255",
+            "249-90-255"
+        ]
     },
     {
         "name": "Epic",
-        "level_count": 9,
+        "level_count": 10,
         "relative_level": 5,
         "tournament_level_index": 5,
-        "mirror_relative_level": 5,
-        "clone_relative_level": 5,
         "donate_capacity": 10,
         "sort_capacity": 80,
         "donate_reward": 500,
         "donate_xp": 10,
         "overflow_prestige": 100,
         "gold_conversion_value": 500,
+        "elite_wildcards_conversion_value": 50,
         "max_level_donation_cost": 500,
         "trade_card_amount": 10,
         "chance_weight": 40,
-        "balance_multiplier": 180,
         "upgrade_exp": [
             25,
             100,
@@ -283,6 +301,7 @@
             800,
             1600,
             2000,
+            50000,
             0
         ],
         "upgrade_material_count": [
@@ -294,6 +313,7 @@
             50,
             100,
             200,
+            50000,
             0
         ],
         "original_upgrade_material_count": [
@@ -304,6 +324,7 @@
             50,
             100,
             200,
+            0,
             0,
             0
         ],
@@ -316,6 +337,7 @@
             35000,
             75000,
             100000,
+            0,
             0
         ],
         "power_level_multiplier": [
@@ -329,10 +351,10 @@
             212,
             233,
             256,
-            282,
-            310,
-            341,
-            375
+            281,
+            309,
+            339,
+            372
         ],
         "refund_gems": 300,
         "tid": "TID_RARITY_EPIC",
@@ -365,31 +387,38 @@
         ],
         "downgrade_rarity": "Rare",
         "downgrade_multiplier": 1,
-        "max_amount_in_chronos_shop_offers": 2000
+        "max_amount_in_chronos_shop_offers": 2000,
+        "overflow_card_per_shard": 40,
+        "evo_level_color": [
+            "249-90-255",
+            "255-255-255",
+            "249-90-255",
+            "255-255-255",
+            "249-90-255"
+        ]
     },
     {
         "name": "Legendary",
-        "level_count": 6,
+        "level_count": 7,
         "relative_level": 8,
         "tournament_level_index": 2,
-        "mirror_relative_level": 8,
-        "clone_relative_level": 8,
         "donate_capacity": 4000,
         "sort_capacity": 2000,
         "donate_reward": 500,
         "donate_xp": 25,
         "overflow_prestige": 1000,
         "gold_conversion_value": 20000,
+        "elite_wildcards_conversion_value": 200,
         "max_level_donation_cost": 20000,
         "trade_card_amount": 1,
         "chance_weight": 10,
-        "balance_multiplier": 250,
         "upgrade_exp": [
             250,
             600,
             800,
             1600,
             2000,
+            50000,
             0
         ],
         "upgrade_material_count": [
@@ -398,6 +427,7 @@
             6,
             10,
             20,
+            50000,
             0
         ],
         "original_upgrade_material_count": [
@@ -405,6 +435,7 @@
             4,
             10,
             20,
+            0,
             0,
             0
         ],
@@ -414,6 +445,7 @@
             35000,
             75000,
             100000,
+            0,
             0
         ],
         "power_level_multiplier": [
@@ -423,11 +455,11 @@
             146,
             160,
             176,
-            194,
-            213,
-            234,
-            257,
-            283
+            193,
+            212,
+            233,
+            256,
+            281
         ],
         "refund_gems": 8000,
         "tid": "TID_RARITY_LEGENDARY",
@@ -481,38 +513,47 @@
         ],
         "downgrade_rarity": "Epic",
         "downgrade_multiplier": 1,
-        "max_amount_in_chronos_shop_offers": 200
+        "max_amount_in_chronos_shop_offers": 200,
+        "overflow_card_per_shard": 4,
+        "evo_level_color": [
+            "249-90-255",
+            "255-255-255",
+            "249-90-255",
+            "255-255-255",
+            "249-90-255"
+        ]
     },
     {
         "name": "Champion",
-        "level_count": 4,
+        "level_count": 5,
         "relative_level": 10,
         "tournament_level_index": 0,
-        "mirror_relative_level": 10,
-        "clone_relative_level": 10,
         "donate_capacity": 4000,
         "sort_capacity": 4000,
         "donate_reward": 1000,
         "donate_xp": 50,
         "overflow_prestige": 2000,
         "gold_conversion_value": 40000,
+        "elite_wildcards_conversion_value": 500,
         "max_level_donation_cost": 40000,
         "trade_card_amount": 1,
         "chance_weight": 1,
-        "balance_multiplier": 250,
         "upgrade_exp": [
             800,
             1600,
             2000,
+            50000,
             0
         ],
         "upgrade_material_count": [
             2,
             8,
             20,
+            50000,
             0
         ],
         "original_upgrade_material_count": [
+            0,
             0,
             0,
             0,
@@ -522,6 +563,7 @@
             35000,
             75000,
             100000,
+            0,
             0
         ],
         "power_level_multiplier": [
@@ -529,11 +571,11 @@
             121,
             133,
             146,
-            161,
-            177,
-            195,
-            215,
-            237
+            160,
+            176,
+            193,
+            212,
+            233
         ],
         "refund_gems": 8000,
         "tid": "TID_RARITY_CHAMPION",
@@ -579,31 +621,38 @@
         ],
         "downgrade_rarity": "Legendary",
         "downgrade_multiplier": 1,
-        "max_amount_in_chronos_shop_offers": 100
+        "max_amount_in_chronos_shop_offers": 100,
+        "overflow_card_per_shard": 4,
+        "evo_level_color": [
+            "249-90-255",
+            "255-255-255",
+            "249-90-255",
+            "255-255-255",
+            "249-90-255"
+        ]
     },
     {
         "name": "Experimental",
-        "level_count": 7,
+        "level_count": 8,
         "relative_level": 8,
         "tournament_level_index": 2,
-        "mirror_relative_level": 8,
-        "clone_relative_level": 8,
         "donate_capacity": 4000,
         "sort_capacity": 2000,
         "donate_reward": 50,
         "donate_xp": 25,
         "overflow_prestige": 1000,
         "gold_conversion_value": 20000,
+        "elite_wildcards_conversion_value": 100,
         "max_level_donation_cost": 20000,
         "trade_card_amount": 1,
         "chance_weight": 1,
-        "balance_multiplier": 250,
         "upgrade_exp": [
             250,
             600,
             800,
             1600,
             1600,
+            2400,
             2400,
             0
         ],
@@ -614,9 +663,11 @@
             20,
             20,
             20,
+            50000,
             0
         ],
         "original_upgrade_material_count": [
+            0,
             0,
             0,
             0,
@@ -632,6 +683,7 @@
             100000,
             100000,
             100000,
+            0,
             0
         ],
         "power_level_multiplier": [
@@ -640,7 +692,8 @@
             133,
             146,
             160,
-            176
+            176,
+            193
         ],
         "refund_gems": 8000,
         "tid": "TID_RARITY_LEGENDARY",
@@ -685,6 +738,14 @@
         "token_gold_value": 2000,
         "npc_trader_reroll_gem_cost": 10,
         "can_be_in_chests": false,
-        "max_amount_in_chronos_shop_offers": 1
+        "max_amount_in_chronos_shop_offers": 1,
+        "overflow_card_per_shard": 0,
+        "evo_level_color": [
+            "249-90-255",
+            "255-255-255",
+            "249-90-255",
+            "255-255-255",
+            "249-90-255"
+        ]
     }
 ]

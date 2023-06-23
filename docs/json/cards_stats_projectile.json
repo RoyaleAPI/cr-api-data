@@ -27,7 +27,7 @@
         "check_collisions": false,
         "hide_when_delayed": false,
         "deflect_behaviour": "UseSpellsTowerDamageMul",
-        "deflect_radius": 600,
+        "deflect_radius": 700,
         "damage_per_level": [
             325,
             357,
@@ -42,10 +42,10 @@
             832,
             913,
             1004,
-            1105,
-            1215,
-            1335,
-            1469
+            1101,
+            1209,
+            1329,
+            1462
         ],
         "dps": 541,
         "dps_per_level": [
@@ -62,10 +62,10 @@
             1384,
             1520,
             1671,
-            1839,
-            2023,
-            2223,
-            2445
+            1833,
+            2012,
+            2212,
+            2434
         ]
     },
     {
@@ -610,8 +610,8 @@
             195,
             215,
             236,
-            260,
-            286
+            259,
+            284
         ],
         "dps": 140,
         "dps_per_level": [
@@ -626,9 +626,9 @@
             296,
             326,
             358,
-            394,
-            434,
-            477
+            393,
+            432,
+            474
         ]
     },
     {
@@ -739,10 +739,10 @@
             268,
             295,
             324,
-            357,
-            392,
-            431,
-            474
+            355,
+            390,
+            429,
+            472
         ],
         "dps": 210,
         "dps_per_level": [
@@ -759,10 +759,10 @@
             537,
             590,
             648,
-            714,
-            785,
-            863,
-            949
+            711,
+            781,
+            858,
+            945
         ]
     },
     {
@@ -812,10 +812,10 @@
             1792,
             1967,
             2163,
-            2380,
-            2618,
-            2877,
-            3164
+            2373,
+            2604,
+            2863,
+            3150
         ],
         "dps": 2000,
         "dps_per_level": [
@@ -832,10 +832,10 @@
             5120,
             5620,
             6180,
-            6800,
-            7480,
-            8220,
-            9040
+            6780,
+            7440,
+            8180,
+            9000
         ]
     },
     {
@@ -854,7 +854,6 @@
         "only_enemies": true,
         "only_own_troops": false,
         "gravity": 40,
-        "spawn_character_level_index": 5,
         "spawn_character_deploy_time": 1100,
         "spawn_character": "Goblin",
         "spawn_const_priority": true,
@@ -910,10 +909,10 @@
             263,
             289,
             318,
-            350,
-            385,
-            423,
-            465
+            349,
+            383,
+            421,
+            463
         ],
         "dps": 103,
         "dps_per_level": [
@@ -930,10 +929,10 @@
             263,
             289,
             318,
-            350,
-            385,
-            423,
-            465
+            349,
+            383,
+            421,
+            463
         ]
     },
     {
@@ -973,9 +972,9 @@
             212,
             233,
             256,
-            282,
-            310,
-            341
+            281,
+            309,
+            339
         ],
         "dps": 200,
         "dps_per_level": [
@@ -990,9 +989,9 @@
             424,
             466,
             512,
-            564,
-            620,
-            682
+            562,
+            618,
+            678
         ]
     },
     {
@@ -1033,10 +1032,10 @@
             340,
             373,
             410,
-            452,
-            497,
-            546,
-            601
+            450,
+            494,
+            543,
+            598
         ],
         "dps": 221,
         "dps_per_level": [
@@ -1053,10 +1052,10 @@
             565,
             621,
             682,
-            751,
-            826,
-            908,
-            998
+            749,
+            822,
+            903,
+            994
         ]
     },
     {
@@ -1155,9 +1154,9 @@
             1399,
             1537,
             1689,
-            1861,
-            2046,
-            2250
+            1854,
+            2039,
+            2237
         ],
         "dps": 1320,
         "dps_per_level": [
@@ -1172,9 +1171,9 @@
             2798,
             3075,
             3379,
-            3722,
-            4092,
-            4501
+            3709,
+            4078,
+            4474
         ],
         "target_buff_data": {
             "name": "ZapFreeze",
@@ -1187,6 +1186,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -100,
             "speed_multiplier": -100,
             "spawn_speed_multiplier": -100,
@@ -1202,6 +1202,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -1212,14 +1214,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -1238,6 +1239,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Stun"
         }
     },
@@ -1344,9 +1347,9 @@
             109,
             120,
             132,
-            145,
+            144,
             159,
-            175,
+            174,
             192
         ],
         "dps": 107,
@@ -1358,10 +1361,10 @@
             156,
             171,
             188,
-            207,
-            227,
-            250,
-            274
+            206,
+            226,
+            249,
+            273
         ],
         "target_buff_data": {
             "name": "IceWizardSlowDown",
@@ -1374,6 +1377,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -35,
             "speed_multiplier": -35,
             "spawn_speed_multiplier": -35,
@@ -1389,6 +1393,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 75,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -1399,14 +1405,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -1425,6 +1430,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Slowdown"
         }
     },
@@ -1531,10 +1538,10 @@
             204,
             224,
             246,
-            271,
-            298,
-            327,
-            359
+            270,
+            296,
+            326,
+            358
         ],
         "dps": 233,
         "dps_per_level": [
@@ -1545,10 +1552,10 @@
             340,
             372,
             410,
-            452,
-            496,
-            545,
-            598
+            449,
+            493,
+            542,
+            596
         ]
     },
     {
@@ -1609,9 +1616,9 @@
             65,
             72,
             79,
-            87,
+            86,
             95,
-            105,
+            104,
             115
         ],
         "dps": 112,
@@ -1623,10 +1630,10 @@
             163,
             179,
             197,
-            217,
-            238,
-            262,
-            287
+            216,
+            237,
+            260,
+            286
         ]
     },
     {
@@ -1661,9 +1668,9 @@
             109,
             120,
             132,
-            145,
+            144,
             159,
-            175,
+            174,
             192
         ],
         "dps": 150,
@@ -1675,10 +1682,10 @@
             219,
             240,
             264,
-            291,
-            319,
-            351,
-            385
+            289,
+            318,
+            349,
+            384
         ]
     },
     {
@@ -1783,10 +1790,10 @@
             1606,
             1760,
             1936,
-            2134,
-            2343,
-            2574,
-            2827
+            2123,
+            2332,
+            2563,
+            2816
         ],
         "dps": 785,
         "dps_per_level": [
@@ -1797,10 +1804,10 @@
             1146,
             1256,
             1381,
-            1522,
-            1672,
-            1836,
-            2017
+            1515,
+            1664,
+            1829,
+            2009
         ]
     },
     {
@@ -1835,10 +1842,10 @@
             94,
             104,
             114,
-            126,
-            138,
-            152,
-            167
+            125,
+            137,
+            151,
+            166
         ],
         "dps": 72,
         "dps_per_level": [
@@ -1849,10 +1856,10 @@
             105,
             115,
             126,
-            139,
-            153,
-            168,
-            185
+            138,
+            152,
+            167,
+            184
         ]
     },
     {
@@ -1897,9 +1904,9 @@
             381,
             419,
             460,
-            507,
-            558,
-            613
+            505,
+            556,
+            610
         ],
         "dps": 1058,
         "dps_per_level": [
@@ -1914,9 +1921,9 @@
             2242,
             2465,
             2708,
-            2983,
-            3279,
-            3607
+            2972,
+            3269,
+            3586
         ]
     },
     {
@@ -1935,7 +1942,7 @@
         "gravity": 400,
         "spawn_const_priority": false,
         "target_buff": "Freeze",
-        "buff_time": 1300,
+        "buff_time": 1200,
         "apply_buff_before_damage": false,
         "use360_frames": true,
         "spawn_axis_x": false,
@@ -2001,6 +2008,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -100,
             "speed_multiplier": -100,
             "spawn_speed_multiplier": -100,
@@ -2016,6 +2024,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -2026,14 +2036,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -2052,6 +2061,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Freeze"
         }
     },
@@ -2125,10 +2136,10 @@
             350,
             384,
             422,
-            465,
-            511,
-            561,
-            616
+            463,
+            508,
+            559,
+            614
         ],
         "dps": 1200,
         "dps_per_level": [
@@ -2139,10 +2150,10 @@
             1752,
             1920,
             2112,
-            2328,
-            2556,
-            2808,
-            3084
+            2316,
+            2544,
+            2796,
+            3072
         ]
     },
     {
@@ -2182,10 +2193,10 @@
             376,
             413,
             454,
-            499,
-            549,
-            604,
-            664
+            498,
+            546,
+            601,
+            661
         ],
         "dps": 147,
         "dps_per_level": [
@@ -2202,10 +2213,10 @@
             376,
             413,
             454,
-            499,
-            549,
-            604,
-            664
+            498,
+            546,
+            601,
+            661
         ]
     },
     {
@@ -2247,9 +2258,9 @@
             174,
             191,
             210,
-            231,
-            254,
-            280
+            230,
+            253,
+            279
         ],
         "dps": 77,
         "dps_per_level": [
@@ -2267,9 +2278,9 @@
             216,
             237,
             261,
-            287,
-            316,
-            348
+            286,
+            314,
+            346
         ]
     },
     {
@@ -2313,9 +2324,9 @@
             224,
             246,
             271,
-            298,
-            328,
-            361
+            297,
+            327,
+            359
         ],
         "dps": 192,
         "dps_per_level": [
@@ -2330,9 +2341,9 @@
             407,
             447,
             491,
-            541,
-            595,
-            654
+            539,
+            593,
+            650
         ]
     },
     {
@@ -2433,10 +2444,10 @@
             321,
             352,
             387,
-            426,
-            468,
-            514,
-            565
+            424,
+            466,
+            512,
+            563
         ],
         "dps": 220,
         "dps_per_level": [
@@ -2447,10 +2458,10 @@
             321,
             352,
             387,
-            426,
-            468,
-            514,
-            565
+            424,
+            466,
+            512,
+            563
         ]
     },
     {
@@ -2488,9 +2499,9 @@
             281,
             309,
             340,
-            375,
-            412,
-            453
+            373,
+            410,
+            450
         ],
         "dps": 133,
         "dps_per_level": [
@@ -2505,9 +2516,9 @@
             281,
             309,
             340,
-            375,
-            412,
-            453
+            373,
+            410,
+            450
         ]
     },
     {
@@ -2548,10 +2559,10 @@
             207,
             227,
             250,
-            275,
-            302,
-            332,
-            366
+            274,
+            301,
+            331,
+            364
         ],
         "dps": 101,
         "dps_per_level": [
@@ -2568,10 +2579,10 @@
             258,
             283,
             312,
-            343,
-            377,
-            415,
-            456
+            342,
+            375,
+            413,
+            454
         ]
     },
     {
@@ -2609,10 +2620,10 @@
             518,
             568,
             624,
-            688,
-            756,
-            830,
-            912
+            685,
+            752,
+            827,
+            908
         ],
         "dps": 355,
         "dps_per_level": [
@@ -2623,10 +2634,10 @@
             518,
             568,
             624,
-            688,
-            756,
-            830,
-            912
+            685,
+            752,
+            827,
+            908
         ]
     },
     {
@@ -2679,7 +2690,6 @@
         "aoe_to_ground": true,
         "only_enemies": true,
         "only_own_troops": false,
-        "spawn_character_level_index": 5,
         "spawn_character_deploy_time": 500,
         "spawn_deploy_base_anim": "filter_deploy_unit_miner",
         "spawn_character": "Barbarian",
@@ -2711,9 +2721,9 @@
             320,
             351,
             386,
-            425,
-            468,
-            514
+            424,
+            466,
+            511
         ],
         "dps": 755,
         "dps_per_level": [
@@ -2728,9 +2738,9 @@
             1600,
             1759,
             1932,
-            2129,
-            2340,
-            2574
+            2121,
+            2332,
+            2559
         ]
     },
     {
@@ -2771,10 +2781,10 @@
             162,
             177,
             195,
-            215,
-            236,
-            259,
-            285
+            214,
+            235,
+            258,
+            284
         ],
         "dps": 111,
         "dps_per_level": [
@@ -2785,10 +2795,10 @@
             162,
             177,
             195,
-            215,
-            236,
-            259,
-            285
+            214,
+            235,
+            258,
+            284
         ]
     },
     {
@@ -2833,9 +2843,9 @@
             112,
             123,
             135,
-            149,
-            164,
-            180
+            148,
+            163,
+            179
         ],
         "dps": 96,
         "dps_per_level": [
@@ -2850,9 +2860,9 @@
             203,
             223,
             245,
-            270,
-            297,
-            327
+            269,
+            296,
+            325
         ]
     },
     {
@@ -2937,6 +2947,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -100,
             "speed_multiplier": -100,
             "spawn_speed_multiplier": -100,
@@ -2952,6 +2963,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -2962,14 +2975,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -2988,6 +3000,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Stun"
         }
     },
@@ -3232,7 +3246,7 @@
         "check_collisions": false,
         "hide_when_delayed": false,
         "deflect_behaviour": "UseSpellsTowerDamageMul",
-        "deflect_radius": 600,
+        "deflect_radius": 700,
         "damage_per_level": [
             75,
             82,
@@ -3287,6 +3301,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -35,
             "speed_multiplier": -35,
             "spawn_speed_multiplier": -35,
@@ -3302,6 +3317,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 75,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -3312,14 +3329,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -3338,6 +3354,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Slowdown"
         }
     },
@@ -3377,10 +3395,10 @@
             125,
             137,
             151,
-            166,
-            183,
-            201,
-            221
+            165,
+            182,
+            200,
+            220
         ],
         "dps": 143,
         "dps_per_level": [
@@ -3391,10 +3409,10 @@
             208,
             228,
             251,
-            277,
-            304,
-            334,
-            367
+            275,
+            303,
+            333,
+            366
         ],
         "target_buff_data": {
             "name": "BolaSnare",
@@ -3407,6 +3425,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": 0,
             "speed_multiplier": -70,
             "spawn_speed_multiplier": 0,
@@ -3422,6 +3441,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -3432,14 +3453,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -3458,6 +3478,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Snare"
         }
     },
@@ -3502,9 +3524,9 @@
             254,
             279,
             307,
-            338,
-            372,
-            409
+            337,
+            370,
+            406
         ],
         "dps": 60,
         "dps_per_level": [
@@ -3519,9 +3541,9 @@
             127,
             139,
             153,
-            169,
-            186,
-            204
+            168,
+            185,
+            203
         ],
         "target_buff_data": {
             "name": "ZapFreeze",
@@ -3534,6 +3556,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -100,
             "speed_multiplier": -100,
             "spawn_speed_multiplier": -100,
@@ -3549,6 +3572,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -3559,14 +3584,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -3585,6 +3609,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Stun"
         }
     },
@@ -3734,7 +3760,7 @@
         "speed": 600,
         "homing": false,
         "hit_effect_at_projectile": false,
-        "damage": 150,
+        "damage": 135,
         "crown_tower_damage_percent": -70,
         "pushback": 2000,
         "pushback_all": false,
@@ -3758,31 +3784,31 @@
         "hide_when_delayed": false,
         "deflect_behaviour": "NoDeflect",
         "damage_per_level": [
-            150,
-            165,
-            181,
-            199,
-            219,
-            240,
-            264,
-            291,
-            319,
-            351,
-            385
+            135,
+            148,
+            163,
+            179,
+            197,
+            216,
+            237,
+            260,
+            286,
+            314,
+            345
         ],
-        "dps": 250,
+        "dps": 225,
         "dps_per_level": [
-            250,
-            275,
-            302,
-            332,
-            365,
-            400,
-            440,
-            485,
-            532,
-            585,
-            642
+            225,
+            247,
+            272,
+            299,
+            328,
+            360,
+            396,
+            434,
+            477,
+            524,
+            576
         ]
     },
     {
@@ -3855,6 +3881,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": 0,
             "speed_multiplier": 0,
             "spawn_speed_multiplier": 0,
@@ -3870,6 +3897,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -3880,14 +3909,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -3906,8 +3934,170 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": true,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Rage"
         }
+    },
+    {
+        "name": "GoblinProjectile",
+        "rarity": "Legendary",
+        "speed": 100,
+        "homing": false,
+        "hit_effect_at_projectile": false,
+        "pushback_all": false,
+        "aoe_to_air": false,
+        "aoe_to_ground": false,
+        "only_enemies": false,
+        "only_own_troops": false,
+        "spawn_character_deploy_time": 100,
+        "spawn_character": "Goblin",
+        "spawn_const_priority": true,
+        "apply_buff_before_damage": false,
+        "use360_frames": false,
+        "spawn_axis_x": false,
+        "spawn_axis_y": false,
+        "height_from_target_radius": false,
+        "target_to_edge": false,
+        "shakes_targets": false,
+        "drag_back_as_attractor": false,
+        "check_collisions": false,
+        "hide_when_delayed": false,
+        "damage_per_level": null,
+        "dps_per_level": null
+    },
+    {
+        "name": "GoblinMorphProjectile",
+        "rarity": "Legendary",
+        "speed": 350,
+        "homing": false,
+        "hit_effect_at_projectile": false,
+        "pushback_all": false,
+        "aoe_to_air": false,
+        "aoe_to_ground": false,
+        "only_enemies": false,
+        "only_own_troops": false,
+        "gravity": 50,
+        "spawn_area_effect_object": "GoblinMorphAOEFriend",
+        "spawn_const_priority": false,
+        "apply_buff_before_damage": false,
+        "use360_frames": true,
+        "spawn_axis_x": false,
+        "spawn_axis_y": false,
+        "height_from_target_radius": false,
+        "target_to_edge": false,
+        "shakes_targets": false,
+        "drag_back_as_attractor": false,
+        "check_collisions": false,
+        "hide_when_delayed": false,
+        "deflect_behaviour": "UseSpellsTowerDamageMul",
+        "deflect_radius": 1000,
+        "damage_per_level": null,
+        "dps_per_level": null
+    },
+    {
+        "name": "BlowdartGoblinProjectileParty",
+        "rarity": "Legendary",
+        "speed": 800,
+        "homing": true,
+        "hit_effect_at_projectile": false,
+        "damage": 109,
+        "pushback_all": false,
+        "aoe_to_air": false,
+        "aoe_to_ground": false,
+        "only_enemies": true,
+        "only_own_troops": false,
+        "gravity": 120,
+        "spawn_const_priority": false,
+        "apply_buff_before_damage": false,
+        "use360_frames": false,
+        "spawn_axis_x": false,
+        "spawn_axis_y": false,
+        "height_from_target_radius": false,
+        "target_to_edge": false,
+        "shakes_targets": false,
+        "drag_back_as_attractor": false,
+        "check_collisions": false,
+        "hide_when_delayed": false,
+        "damage_per_level": [
+            109,
+            119,
+            131,
+            144,
+            159,
+            174,
+            191,
+            210,
+            231,
+            253,
+            279
+        ],
+        "dps": 136,
+        "dps_per_level": [
+            136,
+            149,
+            164,
+            180,
+            198,
+            217,
+            239,
+            262,
+            288,
+            316,
+            348
+        ]
+    },
+    {
+        "name": "SpearGoblinPartyProjectile",
+        "rarity": "Legendary",
+        "speed": 500,
+        "homing": true,
+        "hit_effect_at_projectile": false,
+        "damage": 67,
+        "pushback_all": false,
+        "aoe_to_air": false,
+        "aoe_to_ground": false,
+        "only_enemies": true,
+        "only_own_troops": false,
+        "gravity": 150,
+        "spawn_const_priority": false,
+        "apply_buff_before_damage": false,
+        "use360_frames": true,
+        "spawn_axis_x": false,
+        "spawn_axis_y": false,
+        "height_from_target_radius": false,
+        "target_to_edge": false,
+        "shakes_targets": false,
+        "drag_back_as_attractor": false,
+        "check_collisions": false,
+        "hide_when_delayed": false,
+        "damage_per_level": [
+            67,
+            73,
+            81,
+            89,
+            97,
+            107,
+            117,
+            129,
+            142,
+            156,
+            171
+        ],
+        "dps": 134,
+        "dps_per_level": [
+            134,
+            147,
+            162,
+            178,
+            195,
+            214,
+            235,
+            258,
+            284,
+            312,
+            343
+        ]
     },
     {
         "name": "AirBowProjectile",
@@ -3942,7 +4132,7 @@
             119,
             131,
             144,
-            159,
+            158,
             174
         ],
         "dps": 48,
@@ -3954,10 +4144,10 @@
             70,
             76,
             84,
-            93,
-            102,
-            112,
-            123
+            92,
+            101,
+            111,
+            122
         ]
     },
     {
@@ -3976,7 +4166,6 @@
         "only_enemies": true,
         "only_own_troops": false,
         "gravity": 40,
-        "spawn_character_level_index": 5,
         "spawn_character_deploy_time": 1200,
         "spawn_character": "Goblin",
         "spawn_const_priority": true,
@@ -4038,10 +4227,10 @@
             307,
             337,
             370,
-            408,
-            448,
-            493,
-            542
+            406,
+            446,
+            490,
+            540
         ],
         "dps": 200,
         "dps_per_level": [
@@ -4058,10 +4247,10 @@
             512,
             562,
             618,
-            680,
-            748,
-            822,
-            904
+            678,
+            744,
+            818,
+            900
         ]
     },
     {
@@ -4106,10 +4295,10 @@
             307,
             337,
             370,
-            408,
-            448,
-            493,
-            542
+            406,
+            446,
+            490,
+            540
         ],
         "dps": 200,
         "dps_per_level": [
@@ -4126,10 +4315,10 @@
             512,
             562,
             618,
-            680,
-            748,
-            822,
-            904
+            678,
+            744,
+            818,
+            900
         ]
     },
     {
@@ -4175,6 +4364,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -35,
             "speed_multiplier": -35,
             "spawn_speed_multiplier": -35,
@@ -4190,6 +4380,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 75,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -4200,14 +4392,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -4226,6 +4417,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Slowdown"
         }
     },
@@ -4268,9 +4461,9 @@
             519,
             570,
             627,
-            690,
-            759,
-            835
+            688,
+            757,
+            830
         ],
         "dps": 245,
         "dps_per_level": [
@@ -4285,9 +4478,9 @@
             519,
             570,
             627,
-            690,
-            759,
-            835
+            688,
+            757,
+            830
         ]
     },
     {
@@ -4301,7 +4494,6 @@
         "aoe_to_ground": false,
         "only_enemies": true,
         "only_own_troops": false,
-        "spawn_character_level_index": 5,
         "spawn_character_deploy_time": 2500,
         "spawn_character": "CommonBomb",
         "spawn_const_priority": true,
@@ -4330,7 +4522,6 @@
         "aoe_to_ground": false,
         "only_enemies": true,
         "only_own_troops": false,
-        "spawn_character_level_index": 5,
         "spawn_character_deploy_time": 1000,
         "spawn_character": "ThrownBomb",
         "spawn_const_priority": true,
@@ -4359,7 +4550,6 @@
         "aoe_to_ground": false,
         "only_enemies": true,
         "only_own_troops": false,
-        "spawn_character_level_index": 5,
         "spawn_character_deploy_time": 1000,
         "spawn_character": "ThrownBomb",
         "spawn_const_priority": true,
@@ -4609,10 +4799,10 @@
             272,
             299,
             328,
-            362,
-            398,
-            438,
-            483
+            360,
+            396,
+            434,
+            477
         ],
         "dps": 281,
         "dps_per_level": [
@@ -4621,10 +4811,10 @@
             340,
             373,
             410,
-            452,
-            497,
-            547,
-            604
+            449,
+            494,
+            542,
+            595
         ]
     },
     {
@@ -4652,6 +4842,40 @@
         "drag_back_as_attractor": false,
         "check_collisions": false,
         "hide_when_delayed": false,
+        "damage_per_level": null,
+        "dps_per_level": null
+    },
+    {
+        "name": "SuperArcherChargeArrow",
+        "rarity": "Legendary",
+        "speed": 400,
+        "homing": false,
+        "homing_time": 100,
+        "homing_min_distance": 5000,
+        "hit_effect_at_projectile": false,
+        "pushback_all": false,
+        "radius": 250,
+        "aoe_to_air": true,
+        "aoe_to_ground": true,
+        "only_enemies": true,
+        "only_own_troops": false,
+        "spawn_area_effect_object": "SuperArcherChargePull",
+        "spawn_const_priority": false,
+        "apply_buff_before_damage": false,
+        "projectile_radius": 250,
+        "projectile_start_extra_radius": 400,
+        "projectile_range": 10000,
+        "use360_frames": false,
+        "spawn_axis_x": false,
+        "spawn_axis_y": false,
+        "constant_height": 2000,
+        "height_from_target_radius": false,
+        "target_to_edge": false,
+        "shakes_targets": true,
+        "drag_back_as_attractor": false,
+        "check_collisions": false,
+        "hide_when_delayed": false,
+        "deflect_behaviour": "NoDeflect",
         "damage_per_level": null,
         "dps_per_level": null
     },
@@ -4698,9 +4922,9 @@
             146,
             160,
             176,
-            194,
-            213,
-            235
+            193,
+            212,
+            234
         ],
         "dps": 130,
         "dps_per_level": [
@@ -4717,10 +4941,10 @@
             332,
             365,
             401,
-            442,
-            486,
-            534,
-            587
+            440,
+            483,
+            531,
+            585
         ]
     },
     {
@@ -4756,10 +4980,10 @@
             393,
             432,
             474,
-            523,
-            575,
-            633,
-            698
+            520,
+            572,
+            627,
+            689
         ],
         "dps": 541,
         "dps_per_level": [
@@ -4768,10 +4992,10 @@
             654,
             719,
             789,
-            871,
-            957,
-            1054,
-            1163
+            865,
+            952,
+            1044,
+            1146
         ]
     },
     {
@@ -4809,10 +5033,10 @@
             160,
             176,
             193,
-            213,
-            234,
-            257,
-            282
+            212,
+            233,
+            256,
+            281
         ],
         "dps": 183,
         "dps_per_level": [
@@ -4823,10 +5047,10 @@
             267,
             292,
             322,
-            355,
-            389,
-            428,
-            470
+            353,
+            387,
+            426,
+            468
         ],
         "target_buff_data": {
             "name": "VoodooCurse",
@@ -4839,6 +5063,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": 0,
             "speed_multiplier": 0,
             "spawn_speed_multiplier": 0,
@@ -4854,6 +5079,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -4864,14 +5091,13 @@
             "enable_stacking": true,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -4889,7 +5115,9 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
-            "switch_team": false
+            "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false
         }
     },
     {
@@ -5058,6 +5286,7 @@
         "drag_back_as_attractor": false,
         "check_collisions": false,
         "hide_when_delayed": false,
+        "deflect_behaviour": "NoDeflect",
         "damage_per_level": [
             99999,
             109998,
@@ -5066,10 +5295,10 @@
             145998,
             159998,
             175998,
-            193998,
-            212997,
-            233997,
-            256997
+            192998,
+            211997,
+            232997,
+            255997
         ],
         "dps": 33333,
         "dps_per_level": [
@@ -5080,10 +5309,10 @@
             48666,
             53332,
             58666,
-            64666,
-            70999,
-            77999,
-            85665
+            64332,
+            70665,
+            77665,
+            85332
         ],
         "target_buff_data": {
             "name": "PancakesCurse",
@@ -5096,6 +5325,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": 0,
             "speed_multiplier": 0,
             "spawn_speed_multiplier": 0,
@@ -5111,6 +5341,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -5121,14 +5353,13 @@
             "enable_stacking": true,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -5146,7 +5377,9 @@
             "not_cloned": false,
             "level_increase": 0,
             "apply_fear": false,
-            "switch_team": false
+            "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false
         }
     },
     {
@@ -5233,6 +5466,7 @@
             "hit_frequency": 0,
             "damage_reduction": 0,
             "heal_per_second": 0,
+            "allowed_over_heal_perc": 0,
             "hit_speed_multiplier": -100,
             "speed_multiplier": -100,
             "spawn_speed_multiplier": -100,
@@ -5248,6 +5482,8 @@
             "ignore_push_back": false,
             "audio_pitch_modifier": 0,
             "portal": false,
+            "attract_min_angle": 0,
+            "attract_max_angle": 0,
             "attract_percentage": 0,
             "lateral_push_percentage": 0,
             "push_mass_factor": 0,
@@ -5258,14 +5494,13 @@
             "enable_stacking": false,
             "chained_buff": null,
             "chained_buff_time": 0,
-            "charge": false,
+            "override_charge_range": 0,
             "spawn_start_time": 0,
             "spawn_number": 0,
             "spawn_interval": 0,
             "spawn_pause_time": 0,
             "spawn_object": null,
             "spawn_limit": 0,
-            "spawn_level_index": 0,
             "hitpoint_multiplier": 0,
             "shield": 0,
             "jump": false,
@@ -5284,6 +5519,8 @@
             "level_increase": 0,
             "apply_fear": false,
             "switch_team": false,
+            "on_start_action": null,
+            "add_as_individual_buff": false,
             "name_en": "Stun"
         }
     },

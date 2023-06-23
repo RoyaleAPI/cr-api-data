@@ -43,12 +43,12 @@
         "item_export_name": "tournament_item_open",
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_GOLD",
-        "sort_priority": 2,
+        "sort_priority": 3,
         "key": "Gold",
         "id": 65000000,
         "_lang": {
             "tid": {
-                "do": "TID_PUBLIC_TOURNAMENT_GOLD",
+                "name": "TID_PUBLIC_TOURNAMENT_GOLD",
                 "en": "Grand Challenge",
                 "fr": "Super défi",
                 "de": "Große Herausforderung",
@@ -124,7 +124,7 @@
         "id": 65000001,
         "_lang": {
             "tid": {
-                "do": "TID_PUBLIC_TOURNAMENT_BRONZE",
+                "name": "TID_PUBLIC_TOURNAMENT_BRONZE",
                 "en": "Classic Challenge",
                 "fr": "Défi classique",
                 "de": "Klassische Herausforderung",
@@ -939,7 +939,7 @@
         "id": 65000016,
         "_lang": {
             "tid": {
-                "do": "TID_PRACTICE_SURVIVAL_MODE",
+                "name": "TID_PRACTICE_SURVIVAL_MODE",
                 "en": "Practice Your Deck",
                 "fr": "Essayez votre deck",
                 "de": "Übe dein Deck",
@@ -964,7 +964,7 @@
                 "sc_key": "TID_PRACTICE_SURVIVAL_MODE"
             },
             "description_tid": {
-                "do": "TID_PRACTICE_SURVIVAL_MODE_DESCRIPTION",
+                "name": "TID_PRACTICE_SURVIVAL_MODE_DESCRIPTION",
                 "en": "This is the perfect place to try out new cards and strategies!",
                 "fr": "L'endroit parfait pour essayer des nouvelles cartes et stratégies !",
                 "de": "Dies ist der perfekte Ort, um neue Karten und Strategien auszuprobieren!",
@@ -990,5 +990,82 @@
             }
         },
         "name_en": "Practice Your Deck"
+    },
+    {
+        "name": "Megadraft",
+        "icon_swf": "sc/ui.sc",
+        "icon_export_name": "icon_mega_draft",
+        "game_mode": "PickMode",
+        "wins_icon_export_name": "tournament_open_wins_badge_gold",
+        "enabled": true,
+        "join_cost": 50,
+        "join_cost_resource": "Diamonds",
+        "max_wins": 12,
+        "max_loss": 3,
+        "reward_cards": [
+            10,
+            15,
+            25,
+            42,
+            62,
+            92,
+            125,
+            165,
+            210,
+            265,
+            335,
+            430,
+            550
+        ],
+        "reward_gold": [
+            700,
+            950,
+            1250,
+            1600,
+            2000,
+            2500,
+            3100,
+            3800,
+            4650,
+            5750,
+            7100,
+            8750,
+            11000
+        ],
+        "item_export_name": "tournament_item_open",
+        "confirm_export_name": "popup_tournament_open_confirm",
+        "tid": "TID_DRAFT_PICK_CHALLENGE",
+        "sort_priority": 2,
+        "num_evo_slots": 0,
+        "key": "Megadraft",
+        "id": 65000017,
+        "_lang": {
+            "tid": {
+                "name": "TID_DRAFT_PICK_CHALLENGE",
+                "en": "Mega Draft Challenge",
+                "fr": "Défi Méga tirage",
+                "de": "Mega-Auswahlherausforderung",
+                "es": "Desafío de megaelección",
+                "it": "Sfida megastrategica",
+                "nl": "Megakeuze-uitdaging",
+                "no": "Mega-utvalgsutfordring",
+                "tr": "Mega Çekilişli Mücadele",
+                "jp": "メガドラフトチャレンジ",
+                "kr": "메가 드래프트 도전",
+                "ru": "Мегаиспытание с выбором карт",
+                "ar": "تحدي السحب الهائل",
+                "pt": "Megadesafio estratégico",
+                "cn": "超级选卡挑战",
+                "cnt": "超級選卡挑戰",
+                "fa": "مِگا چالش انتخاب کارت",
+                "id": "Tantangan Draf Mega",
+                "ms": "Cabaran Bertaktik Mega",
+                "th": "ความท้าทายดราฟต์เมก้า",
+                "fi": "Megavaihtoehtohaaste",
+                "vi": "Thử thách Tuyển chọn Siêu cấp",
+                "sc_key": "TID_DRAFT_PICK_CHALLENGE"
+            }
+        },
+        "name_en": "Mega Draft Challenge"
     }
 ]

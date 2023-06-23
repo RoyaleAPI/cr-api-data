@@ -29,7 +29,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
             50,
@@ -45,6 +46,7 @@
             800,
             1000,
             2000,
+            5000,
             5000,
             5000
         ],
@@ -65,9 +67,11 @@
         "chest_loop_effect": "wildcard_openChest_loop_common",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_COMMON",
+        "conversion_fixed_received_amount": 2,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -92,7 +96,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_COMMON"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -117,7 +121,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -142,7 +146,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -198,7 +202,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
             20,
@@ -215,6 +220,7 @@
             400,
             800,
             1000,
+            1250,
             1250
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
@@ -234,9 +240,11 @@
         "chest_loop_effect": "wildcard_openChest_loop_rare",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_RARE_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_RARE",
+        "conversion_fixed_received_amount": 10,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_RARE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_RARE",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -261,7 +269,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_RARE"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -286,7 +294,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -311,7 +319,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -367,7 +375,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
             2,
@@ -383,6 +392,7 @@
             20,
             50,
             100,
+            200,
             200,
             200
         ],
@@ -402,9 +412,11 @@
         "chest_loop_effect": "wildcard_openChest_loop_epic",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_EPIC",
+        "conversion_fixed_received_amount": 50,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -429,7 +441,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_EPIC"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -454,7 +466,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -479,7 +491,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -535,7 +547,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
             1,
@@ -551,6 +564,7 @@
             2,
             4,
             10,
+            20,
             20,
             20
         ],
@@ -571,9 +585,11 @@
         "chest_loop_effect": "wildcard_openChest_loop_legendary",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_LEGENDARY",
+        "conversion_fixed_received_amount": 200,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -598,7 +614,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_LEGENDARY"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -623,7 +639,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -648,7 +664,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -702,9 +718,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -724,9 +742,9 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 20,
-        "chronos_gem_value100": 50000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
@@ -735,9 +753,11 @@
         "reward_screen_appear_effect": "consumable_RewardAppear_common_book",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_COMMON",
+        "conversion_fixed_received_amount": 5000,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -762,7 +782,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_COMMON"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -787,7 +807,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -812,7 +832,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -866,9 +886,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -888,9 +910,9 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 20,
-        "chronos_gem_value100": 100000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
@@ -899,9 +921,11 @@
         "reward_screen_appear_effect": "consumable_RewardAppear_rare_book",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_RARE",
+        "conversion_fixed_received_amount": 5000,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -926,7 +950,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_RARE"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -951,7 +975,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -976,7 +1000,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -1030,9 +1054,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1052,9 +1078,9 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 20,
-        "chronos_gem_value100": 185000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
@@ -1063,9 +1089,11 @@
         "reward_screen_appear_effect": "consumable_RewardAppear_epic_book",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_EPIC",
+        "conversion_fixed_received_amount": 5000,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -1090,7 +1118,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_EPIC"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -1115,7 +1143,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1140,7 +1168,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -1194,9 +1222,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1216,9 +1246,9 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 20,
-        "chronos_gem_value100": 250000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
@@ -1228,9 +1258,11 @@
         "reward_screen_vignette": "legendary_vignette",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_LEGENDARY",
+        "conversion_fixed_received_amount": 5000,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY",
                 "en": "Book of Cards",
                 "fr": "Livre des cartes",
                 "de": "Buch der Karten",
@@ -1255,7 +1287,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_LEGENDARY"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE",
                 "en": "The Book of Cards instantly adds the cards required for an upgrade level.",
                 "fr": "Le livre des cartes ajoute instantanément les cartes nécessaires pour un niveau d'amélioration.",
                 "de": "Das Buch der Karten fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen.",
@@ -1280,7 +1312,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1305,7 +1337,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Cards",
                 "fr": "Vous n'avez pas de livre des cartes.",
                 "de": "Du hast kein Buch der Karten.",
@@ -1358,9 +1390,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1380,9 +1414,9 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 20,
-        "chronos_gem_value100": 185000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_GOLD_COIN_INVALID_TARGET",
@@ -1393,7 +1427,7 @@
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_GOLD_COIN",
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN",
+                "name": "TID_ITEM_CONSUMABLE_GOLD_COIN",
                 "en": "Magic Coin",
                 "fr": "Écu magique",
                 "de": "Magische Münze",
@@ -1418,15 +1452,15 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
-                "en": "A Magic Coin instantly upgrades a card without spending your gold.",
+                "name": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE",
+                "en": "A Magic Coin instantly upgrades a card without spending your Gold.",
                 "fr": "Un écu magique améliore instantanément une carte sans vous faire dépenser d'or.",
                 "de": "Eine Magische Münze verbessert eine Karte sofort, ohne dein Gold zu verbrauchen.",
                 "es": "Una moneda mágica mejora una carta instantáneamente sin tener que gastar nada de oro.",
                 "it": "La moneta magica migliora subito una carta senza spendere oro.",
                 "nl": "Met een magische munt kun je onmiddellijk een kaart upgraden zonder goud uit te geven.",
                 "no": "En magisk mynt oppgraderer øyeblikkelig et kort uten at du må bruke gull.",
-                "tr": "Büyülü Para ile altın kullanmadan bir kartı anında yükseltebilirsin.",
+                "tr": "Büyülü para sayesinde bir kartı altın harcamadan anında yükseltebilirsin.",
                 "jp": "魔法のコインを使うと、ゴールドを消費することなくカードが瞬時にアップグレードされます。",
                 "kr": "골드를 소모하지 않고 카드를 즉시 업그레이드합니다.",
                 "ru": "Волшебная монета мгновенно улучшает карту, не тратя твое золото.",
@@ -1438,12 +1472,12 @@
                 "id": "Koin Sihir akan secara instan meningkatkan kartu tanpa harus menggunakan Emas.",
                 "ms": "Syiling Ajaib serta-merta menaik taraf kad tanpa menggunakan emas anda.",
                 "th": "เหรียญเวทมนตร์จะอัปเกรดการ์ดได้ในทันทีโดยที่ไม่ต้องใช้ทองคำ",
-                "fi": "Taikakolikko päivittää kortin välittömästi käyttämättä kultaasi.",
-                "vi": "Với Đồng xu Ma thuật, bạn có thể ngay lập tức nâng cấp một thẻ mà không cần tốn vàng.",
+                "fi": "Taikakolikolla päivität kortin välittömästi käyttämättä kultaasi.",
+                "vi": "Với Đồng xu Ma thuật, bạn có thể ngay lập tức nâng cấp một thẻ mà không cần tốn Vàng.",
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT",
                 "en": "Skip Upgrade Cost",
                 "fr": "Améliorer sans dépenser d'or",
                 "de": "Verbesserungskosten überspringen",
@@ -1468,7 +1502,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_GOLD_COIN_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_GOLD_COIN_NOT_AVAILABLE",
                 "en": "You don´t have any Magic Coins",
                 "fr": "Vous n'avez aucun écu magique.",
                 "de": "Du hast keine Magischen Münzen.",
@@ -1521,7 +1555,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
             5,
@@ -1538,12 +1573,13 @@
             8,
             9,
             10,
+            10,
             10
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 100,
         "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 100,
@@ -1556,7 +1592,7 @@
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_CHEST_KEY",
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY",
+                "name": "TID_ITEM_CONSUMABLE_CHEST_KEY",
                 "en": "Chest Key",
                 "fr": "Clé de coffre",
                 "de": "Truhenschlüssel",
@@ -1581,7 +1617,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE",
                 "en": "This magical Chest Key opens any chest instantly.",
                 "fr": "Cette clé de coffre magique ouvre instantanément n'importe quel coffre.",
                 "de": "Dieser magische Truhenschlüssel öffnet jede Truhe sofort.",
@@ -1606,7 +1642,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT",
                 "en": "Open a chest instantly",
                 "fr": "Ouvrir un coffre instantanément",
                 "de": "Öffne eine Truhe sofort",
@@ -1631,7 +1667,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_CHEST_KEY_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_CHEST_KEY_NOT_AVAILABLE",
                 "en": "You don´t have any Chest Keys",
                 "fr": "Vous n'avez aucune clé de coffre.",
                 "de": "Du hast keine Truhenschlüssel.",
@@ -1684,9 +1720,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            1,
             1,
             1,
             1,
@@ -1708,7 +1746,7 @@
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 10,
-        "chronos_gem_value100": 250000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 0,
         "on_overflow_gem_value": 100,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_INVALID_TARGET",
@@ -1718,9 +1756,11 @@
         "reward_screen_vignette": "book_of_book_vignette",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOK_CARD_ALL",
+        "conversion_fixed_received_amount": 5000,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL",
                 "en": "Book of Books",
                 "fr": "Livre ultime",
                 "de": "Universalbuch",
@@ -1745,7 +1785,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE",
                 "en": "The Book of Books instantly adds the cards required for an upgrade level... to ANY card rarity!",
                 "fr": "Le livre ultime ajoute instantanément les cartes nécessaires pour améliorer une carte d'un niveau... quelle que soit la rareté !",
                 "de": "Das Universalbuch fügt sofort die Karten hinzu, die noch für die nächste Verbesserungsstufe fehlen ... und das bei JEDEM Kartenseltenheitsgrad!",
@@ -1770,7 +1810,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT",
                 "en": "Add Cards For Upgrade Level",
                 "fr": "Améliorer en ajoutant des cartes",
                 "de": "Karten für nächste Verbesserung hinzufügen",
@@ -1795,7 +1835,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOK_CARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_BOOK_CARD_ALL_NOT_AVAILABLE",
                 "en": "You don´t have a Book of Books",
                 "fr": "Vous n'avez pas de livre ultime.",
                 "de": "Du hast kein Universalbuch.",
@@ -1849,9 +1889,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            200,
             200,
             200,
             200,
@@ -1910,7 +1952,8 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
             1,
@@ -1927,6 +1970,7 @@
             1,
             2,
             8,
+            20,
             20
         ],
         "usage_tid": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
@@ -1934,7 +1978,7 @@
         "not_available_tid": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
         "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 200,
-        "chronos_gem_value100": 100000,
+        "chronos_gem_value100": 2500,
         "on_overflow_gold_value": 20000,
         "on_overflow_gem_value": 0,
         "invalid_target_tid": "TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",
@@ -1945,9 +1989,11 @@
         "chest_loop_effect": "wildcard_openChest_loop_champion",
         "reward_description_tid": "TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION_REWARD_DESCRIPTION",
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_WILDCARD_CHAMPION",
+        "conversion_fixed_received_amount": 500,
+        "require_max_cards_for_conversion": true,
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION",
                 "en": "Wild Card",
                 "fr": "Joker",
                 "de": "Joker",
@@ -1972,7 +2018,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_CHAMPION"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE",
                 "en": "Use Wild Cards to add upgrade progress to any card!",
                 "fr": "Utilisez des jokers pour faire avancer l'amélioration de n'importe quelle carte !",
                 "de": "Verwende Joker, um Verbesserungs-\nfortschritt zu beliebigen Karten hinzuzufügen!",
@@ -1997,7 +2043,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT",
                 "en": "Add Wild Cards",
                 "fr": "Ajouter des jokers",
                 "de": "Joker hinzufügen",
@@ -2022,7 +2068,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_NOT_AVAILABLE",
                 "en": "You don´t have any Wild Cards",
                 "fr": "Vous n'avez aucun joker.",
                 "de": "Du hast keine Joker.",
@@ -2076,9 +2122,11 @@
             11,
             12,
             13,
-            14
+            14,
+            15
         ],
         "max_amount_value": [
+            8,
             8,
             8,
             8,
@@ -2098,7 +2146,7 @@
         "usage_tid": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE",
         "usage_short_tid": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE_SHORT",
         "not_available_tid": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_NOT_AVAILABLE",
-        "allow_in_free_chronos_offers": false,
+        "allow_in_free_chronos_offers": true,
         "max_amount_in_chronos": 5,
         "chronos_gem_value100": 0,
         "on_overflow_gold_value": 500,
@@ -2111,11 +2159,11 @@
         "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_BOOST_SINGLE_CARD",
         "_lang": {
             "name": {
-                "do": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD",
+                "name": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD",
                 "en": "Card Boost Potion",
                 "fr": "Potion boostante",
                 "de": "Kartenboost-Trank",
-                "es": "Pócima potenciadora de cartas",
+                "es": "Pócima potenciadora",
                 "it": "Pozione potenziacarte",
                 "nl": "Boostdrankje",
                 "no": "Kortboostdrikk",
@@ -2136,7 +2184,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD"
             },
             "usage": {
-                "do": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE",
+                "name": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE",
                 "en": "This potion boosts a card to your Tower Power temporarily.",
                 "fr": "Cette potion améliore une carte au niveau de votre puissance de tour pendant un certain temps.",
                 "de": "Dieser Trank boostet eine Karte vorübergehend auf deine Turmstärke.",
@@ -2146,7 +2194,7 @@
                 "no": "Denne drikken styrker et kort til tårnstyrken din midlertidig.",
                 "tr": "Bu iksir, kartlarından birini bir süreliğine kulenin güç seviyesine yükseltir.",
                 "jp": "ブーストポーションを使うと、カードが一時的にタワーパワーと同じレベルまで強化されます。",
-                "kr": "이 포션을 사용해 일시적으로 카드의 레벨을 타워 파워까지 올릴 수 있습니다.",
+                "kr": "일시적으로 카드의 레벨을 타워 파워까지 올릴 수 있습니다.",
                 "ru": "Это зелье на время повышает уровень карты до уровня силы башни.",
                 "ar": "تعزز هذه الجرعة بطاقة إلى قوة برجك مؤقتًا.",
                 "pt": "Essa poção leva uma carta à potência de torre temporariamente.",
@@ -2161,7 +2209,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE"
             },
             "usage_short": {
-                "do": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE_SHORT",
+                "name": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE_SHORT",
                 "en": "Boosts a Card",
                 "fr": "Permet de booster une carte.",
                 "de": "Boostet eine Karte.",
@@ -2171,7 +2219,7 @@
                 "no": "Styrker et kort",
                 "tr": "Bir kartı güçlendirir",
                 "jp": "カードをブースト",
-                "kr": "카드 강화",
+                "kr": "카드를 강화합니다.",
                 "ru": "Усиливает карту",
                 "ar": "تعزز بطاقة",
                 "pt": "Melhora uma carta",
@@ -2186,7 +2234,7 @@
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_USAGE_SHORT"
             },
             "not_available": {
-                "do": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_NOT_AVAILABLE",
+                "name": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_NOT_AVAILABLE",
                 "en": "You don´t have a Card Boost Potion!",
                 "fr": "Vous n'avez pas de potion boostante !",
                 "de": "Du hast keinen Kartenboost-Trank!",
@@ -2209,6 +2257,408 @@
                 "fi": "Sinulla ei ole kortintehostusrohtoa.",
                 "vi": "Bạn không có Thuốc Cường hóa Thẻ!",
                 "sc_key": "TID_ITEM_CONSUMABLE_BOOST_SINGLE_CARD_NOT_AVAILABLE"
+            }
+        }
+    },
+    {
+        "name": "SeasonalToken",
+        "tid": "TID_ITEM_SEASONAL_TOKEN",
+        "icon_swf": "sc/ui_spells.sc",
+        "icon_export_name": "icon_consumable_season_token",
+        "icon_export_name_hi_res": "icon_consumable_season_token_hires",
+        "flying_icon_sc_name": "sc/ui_spells.sc",
+        "flying_icon_export_name": "icon_consumable_season_token",
+        "card_image_sc_name": "sc/ui_spells.sc",
+        "card_image_export_name": "card_image_consumable_season_token",
+        "target": "None",
+        "is_enabled": true,
+        "hide_in_collection_page": true,
+        "max_amount_king_level": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "max_amount_value": [
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999,
+            9999999
+        ],
+        "hide_max_amount": true,
+        "allow_in_free_chronos_offers": true,
+        "max_amount_in_chronos": 100000,
+        "chronos_gem_value100": 1,
+        "on_overflow_gold_value": 100,
+        "on_overflow_gem_value": 0,
+        "never_overflow": true,
+        "sort_order": 1000,
+        "reward_screen_allow_skip": true,
+        "reward_screen_appear_effect": "consumable_RewardAppear_CosmeticsToken",
+        "reward_description_tid": "TID_ITEM_SEASON_TOKEN_USAGE",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_SEASON_TOKEN"
+    },
+    {
+        "name": "WildcardElite",
+        "tid": "TID_ITEM_CONSUMABLE_WILDCARD_ELITE",
+        "icon_swf": "sc/ui_spells.sc",
+        "icon_export_name": "icon_consumable_elite_card",
+        "icon_export_name_hi_res": "icon_consumable_elite_card_hires",
+        "flying_icon_sc_name": "sc/ui_spells.sc",
+        "flying_icon_export_name": "icon_consumable_elite_card",
+        "card_image_sc_name": "sc/ui_spells.sc",
+        "card_image_export_name": "icon_consumable_elitecard_front",
+        "front_icon_sc_name": "sc/ui_chest.sc",
+        "front_icon_export_name": "icon_consumable_elitecard_front",
+        "target": "Spell",
+        "is_enabled": true,
+        "max_amount_king_level": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "max_amount_value": [
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000,
+            400000
+        ],
+        "hide_max_amount": true,
+        "usage_tid": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_USAGE",
+        "usage_short_tid": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_USAGE_SHORT",
+        "not_available_tid": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_NOT_AVAILABLE",
+        "allow_in_free_chronos_offers": true,
+        "max_amount_in_chronos": 999999999,
+        "chronos_gem_value100": 0,
+        "on_overflow_gold_value": 0,
+        "on_overflow_gem_value": 0,
+        "invalid_target_tid": "TID_ITEM_CONSUMABLE_WILDCARD_INVALID_TARGET",
+        "sort_order": 23,
+        "reward_screen_allow_skip": true,
+        "reward_screen_appear_effect": "consumable_rewardAppear_legendary_wildcard",
+        "reward_screen_vignette": "legendary_vignette",
+        "chest_appear_effect": "wildcard_openChest_get_legendary",
+        "chest_loop_effect": "wildcard_openChest_loop_legendary",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_ELITE_WILDCARD",
+        "_lang": {
+            "name": {
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_ELITE",
+                "en": "Elite Wild Card",
+                "fr": "Joker d'élite",
+                "de": "Elitejoker",
+                "es": "Comodín de élite",
+                "it": "Jolly élite",
+                "nl": "Elitejoker",
+                "no": "Elitejoker",
+                "tr": "Elit Joker Kart",
+                "jp": "エリートワイルドカード",
+                "kr": "엘리트 와일드카드",
+                "ru": "Элитная карта-джокер",
+                "ar": "بطاقة جوكر متميزة",
+                "pt": "Curinga de elite",
+                "cn": "超凡魔法外卡",
+                "cnt": "精英魔法外卡",
+                "fa": "اَبَرکارت نخبه",
+                "id": "Kartu Joker Elite",
+                "ms": "Kad Bebas Elit",
+                "th": "การ์ดโจ๊กเกอร์อีลีท",
+                "fi": "Eliittijokeri",
+                "vi": "Thẻ bài Thần kỳ Ưu tú",
+                "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_ELITE"
+            },
+            "usage": {
+                "name": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_USAGE",
+                "en": "Used to add Elite Level progress to any Level 14 card!\n\nCollected by earning cards that you have upgraded to Level 14.",
+                "fr": "Pour progresser vers le niveau d'élite de n'importe quelle carte niveau 14 !\n\nGagnez des cartes que vous avez déjà au niveau 14 pour en récupérer.",
+                "de": "Fügt einer beliebigen Level-14-Karte Elitelevel-Fortschritt hinzu!\n\nDu bekommst sie, indem du Exemplare von Karten, die du auf Level 14 verbessert hast, einsammelst.",
+                "es": "Sirve para añadir progreso del nivel de élite a cualquier carta de nivel 14.\n\nSe consigue al obtener cartas que hayas mejorado al nivel 14.",
+                "it": "Accumulane il numero necessario per migliorare una carta di livello 14 a quello élite!\n\nOttieni dei jolly élite ogni volta che ricevi copie di una carta di livello 14.",
+                "nl": "Elitejokers dragen bij aan de upgradevoortgang van kaarten van level 14!\n\nVerzamel ze door exemplaren van kaarten van level 14 te verdienen.",
+                "no": "Brukes til å legge elitenivåfremgang til ethvert kort på nivå 14!\n\nFås ved å skaffe kort som du har oppgradert til nivå 14.",
+                "tr": "14. seviye kartları elit seviyeye yükseltmek için kullanılır.\n\n14. seviye kartların fazlaları elit joker karta dönüştürülür.",
+                "jp": "レベル14のカードのアップグレードを進めることができます！\n\nレベル14に到達したカードの余剰分がエリートワイルドカードに変換されます。",
+                "kr": "14레벨 카드를 엘리트 레벨로\n업그레이드하는 데 필요한 카드를 추가합니다!\n\n14레벨까지 올린 카드를 획득하여 모을 수 있습니다.",
+                "ru": "Используй с любой картой 14-го уровня, чтобы приблизить ее к элитному уровню!\n\nСобирай, получая копии карт 14-го уровня.",
+                "ar": "تُستخدم لإضافة تقدم مستوى متميز إلى أي بطاقة من المستوى 14.\n\nجُمعت عن طريق ربح البطاقات التي قمت بترقيتها إلى المستوى 14.",
+                "pt": "Estas cartas podem ser usadas em qualquer carta de nível 14 para avançar rumo ao nível de elite!\n\nPara conseguir curingas de elite, obtenha cartas já no nível 14.",
+                "cn": "可用于推进任意14级卡牌升至超凡等级的进度！\n\n超凡魔法外卡可通过收集14级卡牌获得。",
+                "cnt": "可用於推進任意14級卡牌升至精英等級的進度！\n\n精英魔法外卡可透過收集已升至14級的卡牌獲得。",
+                "fa": "برای اضافه کردن پیشرفت سطح نخبه به هر کارت سطح 14 استفاده می‌شه!\n\nبا کسب کارت‌هایی که به سطح 14 ارتقا دادین جمع‌آوری می‌شه.",
+                "id": "Digunakan untuk menambahkan progres pada Kartu Level 14 hingga mencapai Level Elite.\n\nRaih dengan mendapatkan Kartu yang sudah ditingkatkan ke Level 14.",
+                "ms": "Digunakan untuk menambah kemajuan tahap Elit ke sebarang kad tahap 14!\n\nDikumpul dengan memperoleh kad yang anda naik taraf kepada tahap 14.",
+                "th": "ใช้เพื่อเพิ่มความคืบหน้าการอัปเกรดเลเวลอีลีทให้กับการ์ดเลเวล 14 ใดก็ได้!\n\nสะสมโดยรับจากการ์ดที่ท่านได้อัปเกรดเป็นเลเวล 14 แล้ว",
+                "fi": "Tällä voi lisätä eliittitason edistymistä mihin tahansa tason 14 korttiin.\n\nKerätään ansaitsemalla kortteja, jotka olet päivittänyt tasolle 14.",
+                "vi": "Dùng để bổ sung tiến trình Cấp Ưu tú cho thẻ cấp 14 bất kỳ!\n\nThu thập bằng cách kiếm thêm các thẻ mà bạn đã nâng lên cấp 14.",
+                "sc_key": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_USAGE"
+            },
+            "usage_short": {
+                "name": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_USAGE_SHORT",
+                "en": "Used to add Elite Level progress to any Level 14 card!",
+                "fr": "Pour progresser vers le niveau d'élite de n'importe quelle carte niveau 14 !",
+                "de": "Fügt einer beliebigen Level-14-Karte Elitelevel-Fortschritt hinzu!",
+                "es": "Sirve para añadir progreso del nivel de élite a cualquier carta de nivel 14.",
+                "it": "Accumulane il numero necessario per migliorare una carta di livello 14 a quello élite!",
+                "nl": "Draagt bij aan de upgradevoortgang van kaarten van level 14!",
+                "no": "Brukes til å legge elitenivåfremgang til ethvert kort på nivå 14!",
+                "tr": "14. seviye kartları elit seviyeye yükseltmek için kullanılır.",
+                "jp": "レベル14のカードのアップグレードに使用することができます！",
+                "kr": "14레벨 카드를 엘리트 레벨로 업그레이드하는 데 필요한 카드를 추가합니다!",
+                "ru": "Используй с любой картой 14-го уровня, чтобы приблизить ее к элитному уровню!",
+                "ar": "تُستخدم لإضافة تقدم مستوى متميز إلى أي بطاقة من المستوى 14.",
+                "pt": "Usadas para melhorar qualquer carta de nível 14 para o nível de elite!",
+                "cn": "可用于推进任意14级卡牌升至超凡等级的进度！",
+                "cnt": "可用於推進任意14級卡牌升至精英等級的進度！",
+                "fa": "برای اضافه کردن پیشرفت سطح نخبه به هر کارت سطح 14 استفاده می‌شه!",
+                "id": "Digunakan untuk menambahkan progres pada Kartu Level 14 hingga mencapai Level Elite.",
+                "ms": "Digunakan untuk menambah kemajuan tahap Elit ke sebarang kad tahap 14!",
+                "th": "ใช้เพื่อเพิ่มความคืบหน้าการอัปเกรดเลเวลอีลีทให้กับการ์ดเลเวล 14 ใดก็ได้!",
+                "fi": "Tällä voi lisätä eliittitason edistymistä mihin tahansa tason 14 korttiin.",
+                "vi": "Dùng để bổ sung tiến trình Cấp Ưu tú cho thẻ cấp 14 bất kỳ!",
+                "sc_key": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_USAGE_SHORT"
+            },
+            "not_available": {
+                "name": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_NOT_AVAILABLE",
+                "en": "Elite Wild Card unavailable",
+                "fr": "Joker d'élite indisponible",
+                "de": "Elitejoker nicht verfügbar",
+                "es": "No tienes comodines de élite.",
+                "it": "Jolly élite non disponibile.",
+                "nl": "Elitejoker niet beschikbaar",
+                "no": "Elitejoker utilgjengelig",
+                "tr": "Elit joker kart mevcut değil.",
+                "jp": "エリートワイルドカード利用不可",
+                "kr": "엘리트 와일드카드 사용 불가",
+                "ru": "Элитная карта-джокер недоступна",
+                "ar": "بطاقة الجوكر المتميزة غير متاحة",
+                "pt": "Curinga de elite não disponível",
+                "cn": "超凡魔法外卡不可用",
+                "cnt": "精英魔法外卡無法使用",
+                "fa": "اَبَرکارت نخبه موجود نیس",
+                "id": "Kartu Joker Elite tidak tersedia",
+                "ms": "Tiada Kad Bebas Elit",
+                "th": "การ์ดโจ๊กเกอร์อีลีทไม่สามารถใช้งานได้",
+                "fi": "Eliittijokeri ei ole saatavilla.",
+                "vi": "Thẻ bài Thần kỳ Ưu tú chưa khả dụng",
+                "sc_key": "TID_ITEM_CONSUMABLE_ELITE_WILDCARD_NOT_AVAILABLE"
+            }
+        }
+    },
+    {
+        "name": "WildcardShard",
+        "tid": "TID_ITEM_CONSUMABLE_WILDCARD_SHARD",
+        "icon_swf": "sc/ui_evolution_shards.sc",
+        "icon_export_name": "icon_consumable_wild_shard",
+        "icon_export_name_hi_res": "icon_consumable_wild_shard_hires",
+        "flying_icon_sc_name": "sc/ui_evolution_shards.sc",
+        "flying_icon_export_name": "icon_consumable_wild_shard",
+        "card_image_sc_name": "sc/ui_evolution_shards.sc",
+        "card_image_export_name": "icon_consumable_wild_shard_hires",
+        "front_icon_sc_name": "sc/ui_evolution_shards.sc",
+        "front_icon_export_name": "icon_consumable_wild_shard_hires",
+        "target": "Shard",
+        "is_enabled": true,
+        "max_amount_king_level": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "max_amount_value": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "usage_tid": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_USAGE",
+        "usage_short_tid": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_USAGE_SHORT",
+        "not_available_tid": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_NOT_AVAILABLE",
+        "allow_in_free_chronos_offers": true,
+        "max_amount_in_chronos": 200,
+        "chronos_gem_value100": 100,
+        "on_overflow_gold_value": 0,
+        "on_overflow_gem_value": 0,
+        "invalid_target_tid": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_INVALID_TARGET",
+        "sort_order": 24,
+        "reward_screen_allow_skip": true,
+        "reward_screen_appear_effect": "consumable_rewardAppear_legendary_wildcard",
+        "chest_appear_effect": "wildcard_openChest_get_legendary",
+        "chest_loop_effect": "wildcard_openChest_loop_legendary",
+        "reward_description_tid": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_REWARD_DESCRIPTION",
+        "shop_offer_info_tid": "TID_SHOP_OFFER_INFO_CONSUMABLE_SHARD_WILDCARD",
+        "_lang": {
+            "name": {
+                "name": "TID_ITEM_CONSUMABLE_WILDCARD_SHARD",
+                "en": "Wild Shard",
+                "fr": "Fragment joker",
+                "de": "Jokerfragment",
+                "es": "Fragmento de comodín",
+                "it": "Frammento jolly",
+                "nl": "Jokerscherf",
+                "no": "Jokerskår",
+                "tr": "Joker Parça",
+                "jp": "ワイルドシャード",
+                "kr": "와일드 조각",
+                "ru": "Фрагмент-джокер",
+                "ar": "قطعة جوكر",
+                "pt": "Fragmento curinga",
+                "cn": "魔法碎片",
+                "cnt": "魔法碎片",
+                "fa": "اَبَر قطعه",
+                "id": "Keping Joker",
+                "ms": "Syard Bebas",
+                "th": "ชิ้นส่วนโจ๊กเกอร์",
+                "fi": "Jokerisirpale",
+                "vi": "Mảnh ghép thần kỳ",
+                "sc_key": "TID_ITEM_CONSUMABLE_WILDCARD_SHARD"
+            },
+            "usage": {
+                "name": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_USAGE",
+                "en": "Used to add 1 Evolution Shard to ANY Card Evolution!",
+                "fr": "Utilisé pour ajouter 1 fragment d'évolution à n'importe quelle évolution de carte !",
+                "de": "Mit Jokerfragmenten kannst du einer BELIEBIGEN Kartenentwicklung 1 Entwicklungsfragment hinzufügen!",
+                "es": "Sirve para añadir un fragmento de evolución a cualquier evolución de una carta.",
+                "it": "Aggiunge un frammento d'evoluzione all'evoluzione di QUALSIASI carta!",
+                "nl": "Met jokerscherven kun je 1 evolutiescherf toevoegen aan een kaartevolutie.",
+                "no": "Brukes til å legge 1 evolusjonskår til ENHVER kortevolusjon!",
+                "tr": "Herhangi bir kart evrimine bir adet evrim parçası eklemek için kullanılır.",
+                "jp": "カードに限界突破シャードを1つ追加します。",
+                "kr": "카드 진화에 진화 조각 1개를 추가하는 데 사용됩니다!",
+                "ru": "Используй, чтобы добавить 1 фрагмент эволюции к ЛЮБОЙ эволюции карты!",
+                "ar": "تُستخدم لإضافة قطعة تطوّر إلى أي تطوّر بطاقة.",
+                "pt": "Adiciona 1 fragmento de evolução a QUALQUER evolução de carta!",
+                "cn": "可为任意卡牌觉醒添加1个觉醒碎片！",
+                "cnt": "可為任意卡牌進化增加1個進化碎片！",
+                "fa": "برای اضافه کردن 1 قطعه تکامل به هر تکامل کارت استفاده می‌شه!",
+                "id": "Berguna untuk menambahkan 1 Keping Evolusi pada Evolusi Kartu MANA SAJA!",
+                "ms": "Digunakan untuk menambah 1 syard evolusi ke SEBARANG evolusi kad!",
+                "th": "ใช้เพื่อเติมชิ้นส่วนวิวัฒนาการ 1 ชิ้นให้กับวิวัฒนาการการ์ดใดก็ได้!",
+                "fi": "Tällä voi lisätä 1 evoluutiosirpaleen minkä tahansa kortin evoluutioon.",
+                "vi": "Dùng để thêm 1 Mảnh ghép tiến hóa cho quá trình tiến hóa thẻ BẤT KỲ!",
+                "sc_key": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_USAGE"
+            },
+            "usage_short": {
+                "name": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_USAGE_SHORT",
+                "en": "Adds 1 Evolution Shard to a Card Evolution",
+                "fr": "Ajoute 1 fragment d'évolution à une évolution de carte.",
+                "de": "Fügt einer beliebigen Kartenentwicklung 1 Entwicklungsfragment hinzu",
+                "es": "Añade un fragmento de evolución a una evolución de una carta.",
+                "it": "Aggiunge un frammento d'evoluzione all'evoluzione di una carta.",
+                "nl": "Voegt 1 evolutiescherf toe aan een kaartevolutie.",
+                "no": "Legger 1 evolusjonskår til en kortevolusjon",
+                "tr": "Kart evrimine bir evrim parçası ekler.",
+                "jp": "限界突破に向けて、限界突破シャードを1つ追加します",
+                "kr": "카드 진화에 진화 조각 1개를 추가합니다.",
+                "ru": "Добавляет 1 фрагмент эволюции к эволюции карты",
+                "ar": "لإضافة قطعة تطوّر إلى تطوّر بطاقة.",
+                "pt": "Adiciona 1 fragmento de evolução a uma evolução de carta",
+                "cn": "为卡牌觉醒添加1个觉醒碎片",
+                "cnt": "為卡牌進化增加1個進化碎片",
+                "fa": "1 قطعه تکامل به تکامل کارت اضافه می‌کنه",
+                "id": "Menambahkan 1 Keping Evolusi pada Evolusi Kartu",
+                "ms": "Menambah 1 syard evolusi ke evolusi kad",
+                "th": "เติมชิ้นส่วนวิวัฒนาการ 1 ชิ้นให้กับวิวัฒนาการการ์ด!",
+                "fi": "Lisää 1 evoluutiosirpaleen kortin evoluutioon.",
+                "vi": "Thêm 1 Mảnh ghép tiến hóa cho quá trình tiến hóa thẻ",
+                "sc_key": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_USAGE_SHORT"
+            },
+            "not_available": {
+                "name": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_NOT_AVAILABLE",
+                "en": "Wild Shard not currently available",
+                "fr": "Fragment joker actuellement indisponible",
+                "de": "Jokerfragment momentan nicht verfügbar",
+                "es": "No tienes fragmentos de comodines.",
+                "it": "Frammento jolly non disponibile al momento.",
+                "nl": "Jokerscherf momenteel niet beschikbaar",
+                "no": "Jokerskåret er ikke tilgjengelig nå",
+                "tr": "Joker parça şu anda mevcut değil.",
+                "jp": "ワイルドシャード利用不可",
+                "kr": "와일드 조각 사용 불가",
+                "ru": "Фрагмент-джокер сейчас недоступен",
+                "ar": "قطعة الجوكر غير متوفرة حاليًا",
+                "pt": "Fragmento curinga não disponível no momento",
+                "cn": "魔法碎片当前不可用",
+                "cnt": "魔法碎片目前無法使用",
+                "fa": "اَبَر قطعه الان موجود نیس",
+                "id": "Keping Joker saat ini tak tersedia",
+                "ms": "Syard Bebas tidak tersedia sekarang",
+                "th": "ชิ้นส่วนโจ๊กเกอร์ไม่สามารถใช้ได้ในตอนนี้",
+                "fi": "Jokerisirpale ei ole nyt saatavilla.",
+                "vi": "Mảnh ghép thần kỳ hiện không khả dụng",
+                "sc_key": "TID_ITEM_CONSUMABLE_SHARD_WILDCARD_NOT_AVAILABLE"
             }
         }
     }

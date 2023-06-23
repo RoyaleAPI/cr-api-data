@@ -8,7 +8,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-        "id": 26000000
+        "id": 26000000,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "archers",
@@ -19,7 +21,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
-        "id": 26000001
+        "id": 26000001,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblins",
@@ -30,7 +34,9 @@
         "rarity": "Common",
         "arena": 1,
         "description": "Four fast, unarmored melee attackers. Small, fast, green and mean!",
-        "id": 26000002
+        "id": 26000002,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "giant",
@@ -41,7 +47,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
-        "id": 26000003
+        "id": 26000003,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "pekka",
@@ -52,7 +60,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
-        "id": 26000004
+        "id": 26000004,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "minions",
@@ -63,7 +73,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
-        "id": 26000005
+        "id": 26000005,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "balloon",
@@ -74,7 +86,9 @@
         "rarity": "Epic",
         "arena": 7,
         "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
-        "id": 26000006
+        "id": 26000006,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "witch",
@@ -85,7 +99,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
-        "id": 26000007
+        "id": 26000007,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "barbarians",
@@ -96,7 +112,9 @@
         "rarity": "Common",
         "arena": 3,
         "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
-        "id": 26000008
+        "id": 26000008,
+        "evolved_spells_sc_key": "Barbarians_EV1",
+        "is_evolved": false
     },
     {
         "key": "golem",
@@ -107,7 +125,9 @@
         "rarity": "Epic",
         "arena": 10,
         "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
-        "id": 26000009
+        "id": 26000009,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "skeletons",
@@ -118,7 +138,9 @@
         "rarity": "Common",
         "arena": 2,
         "description": "Three fast, very weak melee fighters. Surround your enemies with this pile of bones!",
-        "id": 26000010
+        "id": 26000010,
+        "evolved_spells_sc_key": "Skeletons_EV1",
+        "is_evolved": false
     },
     {
         "key": "valkyrie",
@@ -129,7 +151,9 @@
         "rarity": "Rare",
         "arena": 2,
         "description": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
-        "id": 26000011
+        "id": 26000011,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "skeleton-army",
@@ -140,7 +164,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Spawns an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
-        "id": 26000012
+        "id": 26000012,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "bomber",
@@ -151,7 +177,9 @@
         "rarity": "Common",
         "arena": 2,
         "description": "Small, lightly protected skeleton who throws bombs. Deals area damage that can wipe out a swarm of enemies.",
-        "id": 26000013
+        "id": 26000013,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "musketeer",
@@ -162,7 +190,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
-        "id": 26000014
+        "id": 26000014,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "baby-dragon",
@@ -173,7 +203,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Burps fireballs from the sky that deal area damage. Baby dragons hatch cute, hungry and ready for a barbeque.",
-        "id": 26000015
+        "id": 26000015,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "prince",
@@ -184,7 +216,9 @@
         "rarity": "Epic",
         "arena": 7,
         "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
-        "id": 26000016
+        "id": 26000016,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "wizard",
@@ -195,7 +229,9 @@
         "rarity": "Rare",
         "arena": 4,
         "description": "The most awesome man to ever set foot in the Arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
-        "id": 26000017
+        "id": 26000017,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "mini-pekka",
@@ -206,7 +242,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
-        "id": 26000018
+        "id": 26000018,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "spear-goblins",
@@ -217,7 +255,9 @@
         "rarity": "Common",
         "arena": 1,
         "description": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!? Who thought that was a good idea?!",
-        "id": 26000019
+        "id": 26000019,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "giant-skeleton",
@@ -228,7 +268,9 @@
         "rarity": "Epic",
         "arena": 8,
         "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
-        "id": 26000020
+        "id": 26000020,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "hog-rider",
@@ -239,7 +281,9 @@
         "rarity": "Rare",
         "arena": 5,
         "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
-        "id": 26000021
+        "id": 26000021,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "minion-horde",
@@ -250,7 +294,9 @@
         "rarity": "Common",
         "arena": 10,
         "description": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
-        "id": 26000022
+        "id": 26000022,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "ice-wizard",
@@ -261,7 +307,9 @@
         "rarity": "Legendary",
         "arena": 12,
         "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
-        "id": 26000023
+        "id": 26000023,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "royal-giant",
@@ -272,7 +320,9 @@
         "rarity": "Common",
         "arena": 7,
         "description": "Destroying enemy buildings with his massive cannon is his job; making a raggedy blond beard look good is his passion.",
-        "id": 26000024
+        "id": 26000024,
+        "evolved_spells_sc_key": "RoyalGiant_EV1",
+        "is_evolved": false
     },
     {
         "key": "guards",
@@ -283,7 +333,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
-        "id": 26000025
+        "id": 26000025,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "princess",
@@ -294,7 +346,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
-        "id": 26000026
+        "id": 26000026,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "dark-prince",
@@ -305,7 +359,9 @@
         "rarity": "Epic",
         "arena": 7,
         "description": "The Dark Prince deals area damage and lets his spiked club do the talking for him - because when he does talk, it sounds like he has a bucket on his head.",
-        "id": 26000027
+        "id": 26000027,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "three-musketeers",
@@ -316,7 +372,9 @@
         "rarity": "Rare",
         "arena": 7,
         "description": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!",
-        "id": 26000028
+        "id": 26000028,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "lava-hound",
@@ -327,7 +385,9 @@
         "rarity": "Legendary",
         "arena": 13,
         "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
-        "id": 26000029
+        "id": 26000029,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "ice-spirit",
@@ -338,7 +398,9 @@
         "rarity": "Common",
         "arena": 8,
         "description": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
-        "id": 26000030
+        "id": 26000030,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "fire-spirit",
@@ -349,7 +411,9 @@
         "rarity": "Common",
         "arena": 4,
         "description": "The Fire Spirit is on a kamikaze mission to give you a warm hug. It'd be adorable if it wasn't on fire.",
-        "id": 26000031
+        "id": 26000031,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "miner",
@@ -360,7 +424,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel. A shovel that deals reduced damage to Crown Towers.",
-        "id": 26000032
+        "id": 26000032,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "sparky",
@@ -371,7 +437,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
-        "id": 26000033
+        "id": 26000033,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "bowler",
@@ -382,7 +450,9 @@
         "rarity": "Epic",
         "arena": 13,
         "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
-        "id": 26000034
+        "id": 26000034,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "lumberjack",
@@ -393,7 +463,9 @@
         "rarity": "Legendary",
         "arena": 14,
         "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
-        "id": 26000035
+        "id": 26000035,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "battle-ram",
@@ -404,7 +476,9 @@
         "rarity": "Rare",
         "arena": 3,
         "description": "Two Barbarians holding a big log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!",
-        "id": 26000036
+        "id": 26000036,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "inferno-dragon",
@@ -415,7 +489,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
-        "id": 26000037
+        "id": 26000037,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "ice-golem",
@@ -426,7 +502,9 @@
         "rarity": "Rare",
         "arena": 8,
         "description": "He's tough, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
-        "id": 26000038
+        "id": 26000038,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "mega-minion",
@@ -437,7 +515,9 @@
         "rarity": "Rare",
         "arena": 3,
         "description": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
-        "id": 26000039
+        "id": 26000039,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "dart-goblin",
@@ -448,7 +528,9 @@
         "rarity": "Rare",
         "arena": 9,
         "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouthful of Double Trouble Gum? Years of didgeridoo lessons.",
-        "id": 26000040
+        "id": 26000040,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblin-gang",
@@ -459,7 +541,9 @@
         "rarity": "Common",
         "arena": 9,
         "description": "Spawns six Goblins - three with knives, three with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
-        "id": 26000041
+        "id": 26000041,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "electro-wizard",
@@ -470,7 +554,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
-        "id": 26000042
+        "id": 26000042,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "elite-barbarians",
@@ -481,7 +567,9 @@
         "rarity": "Common",
         "arena": 10,
         "description": "Spawns a pair of leveled up Barbarians. They're like regular Barbarians, only harder, better, faster and stronger.",
-        "id": 26000043
+        "id": 26000043,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "hunter",
@@ -492,7 +580,9 @@
         "rarity": "Epic",
         "arena": 10,
         "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
-        "id": 26000044
+        "id": 26000044,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "executioner",
@@ -503,7 +593,9 @@
         "rarity": "Epic",
         "arena": 14,
         "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose an arm.",
-        "id": 26000045
+        "id": 26000045,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "bandit",
@@ -514,7 +606,9 @@
         "rarity": "Legendary",
         "arena": 13,
         "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her identity safe, and gives her bonus cool points!",
-        "id": 26000046
+        "id": 26000046,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "royal-recruits",
@@ -525,7 +619,9 @@
         "rarity": "Common",
         "arena": 7,
         "description": "Deploys a line of recruits armed with spears, shields and wooden buckets. They dream of ponies and one day wearing metal buckets.",
-        "id": 26000047
+        "id": 26000047,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "night-witch",
@@ -536,7 +632,9 @@
         "rarity": "Legendary",
         "arena": 14,
         "description": "Summons Bats to do her bidding! If you get too close, she's not afraid of pitching in with her mean-looking battle staff.",
-        "id": 26000048
+        "id": 26000048,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "bats",
@@ -547,7 +645,9 @@
         "rarity": "Common",
         "arena": 5,
         "description": "Spawns a handful of tiny flying creatures. Think of them as sweet, purple... balls of DESTRUCTION!",
-        "id": 26000049
+        "id": 26000049,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "royal-ghost",
@@ -558,7 +658,9 @@
         "rarity": "Legendary",
         "arena": 12,
         "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
-        "id": 26000050
+        "id": 26000050,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "ram-rider",
@@ -569,7 +671,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "Together they charge through the Arena; snaring enemies, knocking down towers ... and chewing grass!?",
-        "id": 26000051
+        "id": 26000051,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "zappies",
@@ -580,7 +684,9 @@
         "rarity": "Rare",
         "arena": 10,
         "description": "Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.",
-        "id": 26000052
+        "id": 26000052,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "rascals",
@@ -591,7 +697,9 @@
         "rarity": "Common",
         "arena": 13,
         "description": "Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind... with slingshots full of Double Trouble Gum!",
-        "id": 26000053
+        "id": 26000053,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "cannon-cart",
@@ -602,7 +710,9 @@
         "rarity": "Epic",
         "arena": 15,
         "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
-        "id": 26000054
+        "id": 26000054,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "mega-knight",
@@ -613,7 +723,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
-        "id": 26000055
+        "id": 26000055,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "skeleton-barrel",
@@ -624,7 +736,9 @@
         "rarity": "Common",
         "arena": 9,
         "description": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
-        "id": 26000056
+        "id": 26000056,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "flying-machine",
@@ -635,7 +749,9 @@
         "rarity": "Rare",
         "arena": 5,
         "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
-        "id": 26000057
+        "id": 26000057,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "wall-breakers",
@@ -646,7 +762,9 @@
         "rarity": "Epic",
         "arena": 12,
         "description": "A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold and undead heart like blowing up buildings.",
-        "id": 26000058
+        "id": 26000058,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "royal-hogs",
@@ -657,7 +775,9 @@
         "rarity": "Rare",
         "arena": 7,
         "description": "The King's personal pets are loose! They love to chomp on apples and towers alike - who let the hogs out?!",
-        "id": 26000059
+        "id": 26000059,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblin-giant",
@@ -668,7 +788,9 @@
         "rarity": "Epic",
         "arena": 9,
         "description": "This jolly green Goblin Giant stomps towards enemy buildings. He carries two Spear Goblins everywhere he goes. It's a weird but functional arrangement.",
-        "id": 26000060
+        "id": 26000060,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "fisherman",
@@ -679,7 +801,9 @@
         "rarity": "Legendary",
         "arena": 15,
         "description": "His Ranged Attack can pull enemies towards him, and pull himself to enemy buildings. He's also mastered the ancient art of 'Fish Slapping'.",
-        "id": 26000061
+        "id": 26000061,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "magic-archer",
@@ -690,7 +814,9 @@
         "rarity": "Legendary",
         "arena": 13,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
-        "id": 26000062
+        "id": 26000062,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "electro-dragon",
@@ -701,7 +827,9 @@
         "rarity": "Epic",
         "arena": 12,
         "description": "Spits out bolts of electricity hitting up to three targets. Suffers from middle child syndrome to boot.",
-        "id": 26000063
+        "id": 26000063,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "firecracker",
@@ -712,7 +840,9 @@
         "rarity": "Common",
         "arena": 12,
         "description": "Shoots a firework that explodes upon impact, damaging the target and showering anything directly behind it with sparks. This is what happens when Archers get bored!",
-        "id": 26000064
+        "id": 26000064,
+        "evolved_spells_sc_key": "Firecracker_EV1",
+        "is_evolved": false
     },
     {
         "key": "mighty-miner",
@@ -723,7 +853,22 @@
         "rarity": "Champion",
         "arena": 17,
         "description": "Walk softly ... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
-        "id": 26000065
+        "id": 26000065,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "super-witch",
+        "name": "Super Witch",
+        "sc_key": "SuperWitch",
+        "elixir": 6,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 5,
+        "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
+        "id": 26000066,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "elixir-golem",
@@ -734,7 +879,9 @@
         "rarity": "Rare",
         "arena": 14,
         "description": "Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. Each part of the Elixir Golem gives your opponent some Elixir when destroyed!",
-        "id": 26000067
+        "id": 26000067,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "battle-healer",
@@ -745,7 +892,9 @@
         "rarity": "Rare",
         "arena": 8,
         "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
-        "id": 26000068
+        "id": 26000068,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "skeleton-king",
@@ -756,7 +905,22 @@
         "rarity": "Champion",
         "arena": 16,
         "description": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
-        "id": 26000069
+        "id": 26000069,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "super-lava-hound",
+        "name": "Super Lava Hound",
+        "sc_key": "SuperLavaHound",
+        "elixir": 8,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 10,
+        "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
+        "id": 26000070,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "super-magic-archer",
@@ -767,7 +931,9 @@
         "rarity": "Legendary",
         "arena": 13,
         "description": "Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages all enemies in its path. It's not a trick, it's magic!",
-        "id": 26000071
+        "id": 26000071,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "archer-queen",
@@ -778,7 +944,9 @@
         "rarity": "Champion",
         "arena": 17,
         "description": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
-        "id": 26000072
+        "id": 26000072,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "santa-hog-rider",
@@ -789,7 +957,9 @@
         "rarity": "Legendary",
         "arena": 5,
         "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.",
-        "id": 26000073
+        "id": 26000073,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "golden-knight",
@@ -800,7 +970,9 @@
         "rarity": "Champion",
         "arena": 16,
         "description": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
-        "id": 26000074
+        "id": 26000074,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "super-ice-golem",
@@ -811,7 +983,9 @@
         "rarity": "Legendary",
         "arena": 8,
         "description": "He's tough, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
-        "id": 26000075
+        "id": 26000075,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "monk",
@@ -822,7 +996,22 @@
         "rarity": "Champion",
         "arena": 18,
         "description": "Monk has spent many isolated years perfecting a new style of combat.\n\nHe fires off a 3-hit combo, with the last blow dealing extra Damage and pushing enemies back!",
-        "id": 26000077
+        "id": 26000077,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "super-archers",
+        "name": "Super Archers",
+        "sc_key": "SuperArcher",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 24,
+        "description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
+        "id": 26000078,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "skeleton-dragons",
@@ -833,7 +1022,35 @@
         "rarity": "Common",
         "arena": 4,
         "description": "This pair of skeletal scorchers deal Area Damage and fly above the Arena. They also play a mean rib cage xylophone duet.",
-        "id": 26000080
+        "id": 26000080,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "terry",
+        "name": "Terry",
+        "sc_key": "SuperHogRiderTerry",
+        "elixir": 4,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 16,
+        "description": "Terry and his trusty companion Pim Pim bring their unconventional Hog Riding skills to the Arena!",
+        "id": 26000081,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "super-mini-pekka",
+        "name": "Super Mini P.E.K.K.A",
+        "sc_key": "SuperMiniPekka",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Legendary",
+        "arena": 14,
+        "description": "The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
+        "id": 26000082,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "mother-witch",
@@ -844,7 +1061,9 @@
         "rarity": "Legendary",
         "arena": 15,
         "description": "Places a curse on enemy Troops with each attack. When a cursed Troop is destroyed, it turns into a building-targeting Hog that fights alongside the Mother Witch!\n\nShe also bakes great cookies.",
-        "id": 26000083
+        "id": 26000083,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "electro-spirit",
@@ -855,7 +1074,9 @@
         "rarity": "Common",
         "arena": 4,
         "description": "Jumps on enemies, dealing Area Damage and stunning up to 9 enemy Troops. Locked in an eternal battle with Knight for the best mustache.",
-        "id": 26000084
+        "id": 26000084,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "electro-giant",
@@ -866,7 +1087,9 @@
         "rarity": "Epic",
         "arena": 13,
         "description": "He channels electricity through his Zap Pack, a unique device that stuns and damages any Troop attacking him within its range.\n\nDon't tell him that his finger guns aren't real! He'll zap you.",
-        "id": 26000085
+        "id": 26000085,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "phoenix",
@@ -876,8 +1099,10 @@
         "type": "Troop",
         "rarity": "Legendary",
         "arena": 12,
-        "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability.\n\n Being born again is tiring, so a hatched Pheonix will have slightly less Hitpoints and Damage (80% of its total).",
-        "id": 26000087
+        "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability.\n\nBeing born again is tiring, so a hatched Phoenix will have slightly less Hitpoints and Damage (80% of its total).",
+        "id": 26000087,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "cannon",
@@ -888,7 +1113,9 @@
         "rarity": "Common",
         "arena": 3,
         "description": "Defensive building. Shoots cannonballs with deadly effect, but cannot target flying troops.",
-        "id": 27000000
+        "id": 27000000,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblin-hut",
@@ -899,7 +1126,9 @@
         "rarity": "Rare",
         "arena": 1,
         "description": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
-        "id": 27000001
+        "id": 27000001,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "mortar",
@@ -910,7 +1139,9 @@
         "rarity": "Common",
         "arena": 5,
         "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
-        "id": 27000002
+        "id": 27000002,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "inferno-tower",
@@ -921,7 +1152,9 @@
         "rarity": "Rare",
         "arena": 4,
         "description": "Defensive building, roasts targets for damage that increases over time. Burns through even the biggest and toughest enemies!",
-        "id": 27000003
+        "id": 27000003,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "bomb-tower",
@@ -932,7 +1165,9 @@
         "rarity": "Rare",
         "arena": 4,
         "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
-        "id": 27000004
+        "id": 27000004,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "barbarian-hut",
@@ -943,7 +1178,9 @@
         "rarity": "Rare",
         "arena": 9,
         "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
-        "id": 27000005
+        "id": 27000005,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "tesla",
@@ -954,7 +1191,9 @@
         "rarity": "Common",
         "arena": 10,
         "description": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
-        "id": 27000006
+        "id": 27000006,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "elixir-collector",
@@ -965,7 +1204,9 @@
         "rarity": "Rare",
         "arena": 15,
         "description": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
-        "id": 27000007
+        "id": 27000007,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "x-bow",
@@ -976,7 +1217,9 @@
         "rarity": "Epic",
         "arena": 10,
         "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
-        "id": 27000008
+        "id": 27000008,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "tombstone",
@@ -987,7 +1230,9 @@
         "rarity": "Rare",
         "arena": 2,
         "description": "Building that periodically spawns Skeletons to fight the enemy... and when destroyed, spawns 4 more Skeletons! Creepy!",
-        "id": 27000009
+        "id": 27000009,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "furnace",
@@ -998,7 +1243,9 @@
         "rarity": "Rare",
         "arena": 10,
         "description": "The Furnace spawns one Fire Spirit at a time. It also makes great brick-oven pancakes.",
-        "id": 27000010
+        "id": 27000010,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblin-cage",
@@ -1009,7 +1256,9 @@
         "rarity": "Rare",
         "arena": 1,
         "description": "When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler always skips leg day.",
-        "id": 27000012
+        "id": 27000012,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblin-drill",
@@ -1020,7 +1269,22 @@
         "rarity": "Epic",
         "arena": 14,
         "description": "Building capable of burrowing underground and appearing anywhere in the Arena. Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything nearby has been properly stabbed.",
-        "id": 27000013
+        "id": 27000013,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "party-hut",
+        "name": "Party Hut",
+        "sc_key": "GoblinPartyHut",
+        "elixir": 5,
+        "type": "Building",
+        "rarity": "Legendary",
+        "arena": 10,
+        "description": "Building that spawns Spear Goblins. Don't look inside... you don't want to see how they're made.",
+        "id": 27000014,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "fireball",
@@ -1031,7 +1295,9 @@
         "rarity": "Rare",
         "arena": 0,
         "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
-        "id": 28000000
+        "id": 28000000,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "arrows",
@@ -1042,7 +1308,9 @@
         "rarity": "Common",
         "arena": 0,
         "description": "Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.",
-        "id": 28000001
+        "id": 28000001,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "rage",
@@ -1053,7 +1321,9 @@
         "rarity": "Epic",
         "arena": 14,
         "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
-        "id": 28000002
+        "id": 28000002,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "rocket",
@@ -1064,7 +1334,9 @@
         "rarity": "Rare",
         "arena": 5,
         "description": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
-        "id": 28000003
+        "id": 28000003,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "goblin-barrel",
@@ -1075,7 +1347,9 @@
         "rarity": "Epic",
         "arena": 6,
         "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
-        "id": 28000004
+        "id": 28000004,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "freeze",
@@ -1086,7 +1360,9 @@
         "rarity": "Epic",
         "arena": 8,
         "description": "Freezes and damages enemy troops and buildings, making them unable to move or attack. Everybody chill. Reduced damage to Crown Towers.",
-        "id": 28000005
+        "id": 28000005,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "mirror",
@@ -1097,7 +1373,9 @@
         "rarity": "Epic",
         "arena": 15,
         "description": "Mirrors your last card played for +1 Elixir. Does not appear in your starting hand.",
-        "id": 28000006
+        "id": 28000006,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "lightning",
@@ -1108,7 +1386,9 @@
         "rarity": "Epic",
         "arena": 8,
         "description": "Bolts of lightning damage and stun up to three enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
-        "id": 28000007
+        "id": 28000007,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "zap",
@@ -1119,7 +1399,9 @@
         "rarity": "Common",
         "arena": 5,
         "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
-        "id": 28000008
+        "id": 28000008,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "poison",
@@ -1130,7 +1412,9 @@
         "rarity": "Epic",
         "arena": 9,
         "description": "Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure! Reduced damage to Crown Towers.",
-        "id": 28000009
+        "id": 28000009,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "graveyard",
@@ -1141,7 +1425,9 @@
         "rarity": "Legendary",
         "arena": 12,
         "description": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
-        "id": 28000010
+        "id": 28000010,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "the-log",
@@ -1152,7 +1438,9 @@
         "rarity": "Legendary",
         "arena": 11,
         "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now, it seeks revenge by crushing anything in its path! Reduced damage to Crown Towers.",
-        "id": 28000011
+        "id": 28000011,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "tornado",
@@ -1163,7 +1451,9 @@
         "rarity": "Epic",
         "arena": 15,
         "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet.",
-        "id": 28000012
+        "id": 28000012,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "clone",
@@ -1174,7 +1464,9 @@
         "rarity": "Epic",
         "arena": 15,
         "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
-        "id": 28000013
+        "id": 28000013,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "earthquake",
@@ -1185,7 +1477,9 @@
         "rarity": "Rare",
         "arena": 12,
         "description": "Deals Damage per second to Troops and Crown Towers. Deals huge Building Damage! Does not affect flying units (it is an EARTHquake, after all).",
-        "id": 28000014
+        "id": 28000014,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "barbarian-barrel",
@@ -1196,7 +1490,9 @@
         "rarity": "Epic",
         "arena": 9,
         "description": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
-        "id": 28000015
+        "id": 28000015,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "heal-spirit",
@@ -1207,7 +1503,9 @@
         "rarity": "Rare",
         "arena": 13,
         "description": "A mischievous Spirit that leaps at enemies, dealing Damage and leaving behind a powerful healing effect that restores Hitpoints to friendly Troops!\n\nR.I.P. Heal\n2017 - 2020\nAlas, we hardly used ye.",
-        "id": 28000016
+        "id": 28000016,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "giant-snowball",
@@ -1218,7 +1516,9 @@
         "rarity": "Common",
         "arena": 8,
         "description": "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed down. Reduced damage to Crown Towers.",
-        "id": 28000017
+        "id": 28000017,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     },
     {
         "key": "royal-delivery",
@@ -1229,6 +1529,21 @@
         "rarity": "Common",
         "arena": 14,
         "description": "No need to sign for this package!\n\nDropped from the sky, it deals Area Damage to enemy Troops before delivering a Royal Recruit.\n\nThe empty box is also handy for espionage.",
-        "id": 28000018
+        "id": 28000018,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
+        "key": "party-rocket",
+        "name": "Party Rocket",
+        "sc_key": "GoblinPartyRocket",
+        "elixir": 5,
+        "type": "Spell",
+        "rarity": "Legendary",
+        "arena": 15,
+        "description": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
+        "id": 28000020,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     }
 ]

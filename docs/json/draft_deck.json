@@ -409,5 +409,26 @@
             "Draft_GvsS_DartGoblin_SkeletonDragons",
             "Draft_GvsS_DartGoblin_BattleTricks"
         ]
+    },
+    {
+        "name": "Draft_Competitive_SuperCards",
+        "required_sets": [
+            "Draft_Comp_SuperCards",
+            "Draft_Comp_WinCon",
+            "Draft_Comp_SmallSpell",
+            "Draft_Comp_BigSpell",
+            "Draft_Comp_AntiAir",
+            "Draft_Comp_CheapAntiAir"
+        ],
+        "optional_sets": [
+            "Draft_Comp_TankSupport",
+            "Draft_Comp_AntiTank",
+            "Draft_Comp_MiniTank",
+            "Draft_Comp_Distractions"
+        ]
+    },
+    {
+        "name": "Draft_Evo_Test",
+        "required_sets": "Draft_Evo_Test"
     }
 ]
