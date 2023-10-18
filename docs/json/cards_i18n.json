@@ -9,7 +9,7 @@
         "arena": 0,
         "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
         "id": 26000000,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "Knight_EV1",
         "is_evolved": false,
         "_lang": {
             "name": {
@@ -3064,7 +3064,7 @@
         "arena": 7,
         "description": "Deploys a line of recruits armed with spears, shields and wooden buckets. They dream of ponies and one day wearing metal buckets.",
         "id": 26000047,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "RoyalRecruits_EV1",
         "is_evolved": false,
         "_lang": {
             "name": {
@@ -3194,7 +3194,7 @@
         "arena": 5,
         "description": "Spawns a handful of tiny flying creatures. Think of them as sweet, purple... balls of DESTRUCTION!",
         "id": 26000049,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "Bats_EV1",
         "is_evolved": false,
         "_lang": {
             "name": {
@@ -5460,6 +5460,71 @@
         }
     },
     {
+        "key": "raging-prince",
+        "name": "Raging Prince",
+        "sc_key": "PrinceBuff",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 7,
+        "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
+        "id": 26000086,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false,
+        "_lang": {
+            "name": {
+                "name": "TID_SPELL_PRINCE_BUFF",
+                "en": "Raging Prince",
+                "fr": "Prince enragé",
+                "de": "Wütender Prinz",
+                "es": "Príncipe enfurecido",
+                "it": "Principe furioso",
+                "nl": "Woedende prins",
+                "no": "Rasende prins",
+                "tr": "Öfkeli Prens",
+                "jp": "ブチギレプリンス",
+                "kr": "분노한 프린스",
+                "ru": "Яростный принц",
+                "ar": "الأمير الغاضب",
+                "pt": "Príncipe furioso",
+                "cn": "狂暴王子",
+                "cnt": "狂暴王子",
+                "fa": "شاهزاده خشمگین",
+                "id": "Pangeran Mengamuk",
+                "ms": "Putera Berang",
+                "th": "เจ้าชายคลุ้มคลั่ง",
+                "fi": "Raivoisa prinssi",
+                "vi": "Hoàng tử nổi giận",
+                "sc_key": "TID_SPELL_PRINCE_BUFF"
+            },
+            "description": {
+                "name": "TID_SPELL_INFO_PRINCE",
+                "en": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
+                "fr": "Ne vous laissez pas berner par son petit poney. Une fois le prince lancé, vous risquez fort de vous faire piétiner. Les dégâts infligés doublent quand il charge.",
+                "de": "Lass dich von dem kleinen Pony nicht beirren. Hat der Prinz erst mal Tempo drauf, wirst du zertrampelt. Wenn er heranstürmt, richtet er doppelten Schaden an.",
+                "es": "Que no te despiste su encantador poni: cuando el príncipe lo espolee, ¡pasará por encima de ti sin piedad! Inflige el doble de daño una vez iniciada la carga.",
+                "it": "Il suo destriero sarà anche un semplice mini pony, ma se comincia a galoppare, ti TRAVOLGERÀ. Infligge danno doppio una volta partito alla carica.",
+                "nl": "Laat je niet misleiden door die kleine pony. Als de prins hem op het juiste moment de sporen geeft, VERTRAPT hij je. Veroorzaakt twee keer zoveel schade als hij aanvalt.",
+                "no": "Ikke la den lille ponnien lure deg. Så snart prinsen får opp tempoet, blir du trampet ned. Påfører dobbel skade når han angriper.",
+                "tr": "Küçük midillinin seni kandırmasına izin verme. Prens dört nala geldiğinde ÇİĞNENECEKSİN. Koşmaya başladığında iki kat hasar verir.",
+                "jp": "かわいらしいポニーに乗っていても、彼を見くびってはなりません。プリンスが走り出したら相手はタダでは済まないでしょう...突撃中はダメージが2倍です！",
+                "kr": "말이 작다고 방심하지 마세요. 달리기 시작하면 장난이 아니니까요. 돌격하면 2배의 피해를 줍니다.",
+                "ru": "Не смейся над крошкой-пони! Ты ОЧЕНЬ удивишься, когда принц вступит в бой. Наносит двойной урон при штурме.",
+                "ar": "لا تدع المُهر يخدعك. بمجرد بداية ركض الأمير، سيتم دهسك. يسبب ضررًا مضاعفًا بمجرد انطلاقه.",
+                "pt": "Não se engane com a carinha do pequeno pônei. Quando o Príncipe começar a correr, você será atropelado. Causa o dobro de dano ao atacar correndo.",
+                "cn": "不要因为王子骑的是匹小马就小瞧他哦。一旦王子开始往前冲，你就知道他有多厉害了。王子冲锋时会造成双倍伤害。",
+                "cnt": "別被王子騎小馬的樣子騙了。一旦王子發起衝鋒，你就能知道他有多厲害了。他衝鋒時會對首個目標造成雙倍傷害。",
+                "fa": "نذار این اسب کوچولو گولت بزنه. وقتی شاهزاده دورخیز بکنه، داغون میشی. وقتی به سمت هدف یورش می‌بره، آسیبش دو برابر میشه.",
+                "id": "Jangan tertipu dengan kuda kecilnya. Begitu Pangeran mulai berlari, kamu AKAN terinjak-injak. Menimbulkan kerusakan ganda begitu dia lari menyerbu.",
+                "ms": "Jangan biarkan kuda padi kecil memperbodohkan anda. Apabila Putera mula bergerak, anda AKAN terpijak. Melakukan kerosakan berganda apabila dia mula memecut.",
+                "th": "อย่าให้ม้าแคระหลอกท่าน เมื่อไหร่ก็ตามที่เจ้าชายเริ่มควบม้าวิ่ง ท่านจะถูกเหยียบแน่นอน สร้างความเสียหายสองเท่าเมื่อเขาทำการพุ่งชาร์จ",
+                "fi": "Älä anna söpön pikku ponin hämätä. Kun prinssi pääsee vauhtiin, sinun on paras juosta pois alta! Hän tekee kaksin verroin tuhoa iskiessään kohteeseensa laukaten.",
+                "vi": "Đừng để chú ngựa nhỏ làm bạn nhầm tưởng. Một khi Hoàng tử đã bắt đầu thúc được ngựa, bạn SẼ bị giày xéo dưới vó ngựa. Gây sát thương gấp đôi sau khi bắt đầu thúc ngựa xung phong.",
+                "sc_key": "TID_SPELL_INFO_PRINCE"
+            }
+        }
+    },
+    {
         "key": "phoenix",
         "name": "Phoenix",
         "sc_key": "Phoenix",
@@ -5664,7 +5729,7 @@
         "arena": 5,
         "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
         "id": 27000002,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "Mortar_EV1",
         "is_evolved": false,
         "_lang": {
             "name": {

@@ -44,6 +44,7 @@
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_GOLD",
         "sort_priority": 3,
+        "num_evo_slots": 1,
         "key": "Gold",
         "id": 65000000,
         "_lang": {
@@ -120,6 +121,7 @@
         "confirm_export_name": "popup_tournament_open_confirm",
         "tid": "TID_PUBLIC_TOURNAMENT_BRONZE",
         "sort_priority": 1,
+        "num_evo_slots": 1,
         "key": "Bronze",
         "id": 65000001,
         "_lang": {
@@ -935,6 +937,7 @@
         "tid": "TID_PRACTICE_SURVIVAL_MODE",
         "sort_priority": 0,
         "description_tid": "This is the perfect place to try out new cards and strategies!",
+        "num_evo_slots": 1,
         "key": "Practice",
         "id": 65000016,
         "_lang": {

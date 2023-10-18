@@ -428,7 +428,28 @@
         ]
     },
     {
-        "name": "Draft_Evo_Test",
-        "required_sets": "Draft_Evo_Test"
+        "name": "Draft_V2_EVO",
+        "required_sets": [
+            "Draft_V2_EVO",
+            "Draft_V2_TankUnit",
+            "Draft_V2_AntiAir",
+            "Draft_V2_Distractions",
+            "Draft_V2_DirectDamage",
+            "Draft_V2_WinCons"
+        ],
+        "optional_sets": [
+            "Draft_V2_Investment",
+            "Draft_V2_Punish",
+            "Draft_V2_HitTower",
+            "Draft_V2_VersatileLegs",
+            "Draft_V2_TankSupport",
+            "Draft_V2_AntiTank",
+            "Draft_V2_2ndSpell",
+            "Draft_V2_Splash",
+            "Draft_V2_MiniTank",
+            "Draft_V2_Basic3s",
+            "Draft_V2_CycleUnder3",
+            "Draft_V2_CheapAntiAir"
+        ]
     }
 ]

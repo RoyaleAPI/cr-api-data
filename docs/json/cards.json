@@ -9,7 +9,7 @@
         "arena": 0,
         "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
         "id": 26000000,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "Knight_EV1",
         "is_evolved": false
     },
     {
@@ -620,7 +620,7 @@
         "arena": 7,
         "description": "Deploys a line of recruits armed with spears, shields and wooden buckets. They dream of ponies and one day wearing metal buckets.",
         "id": 26000047,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "RoyalRecruits_EV1",
         "is_evolved": false
     },
     {
@@ -646,7 +646,7 @@
         "arena": 5,
         "description": "Spawns a handful of tiny flying creatures. Think of them as sweet, purple... balls of DESTRUCTION!",
         "id": 26000049,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "Bats_EV1",
         "is_evolved": false
     },
     {
@@ -1092,6 +1092,19 @@
         "is_evolved": false
     },
     {
+        "key": "raging-prince",
+        "name": "Raging Prince",
+        "sc_key": "PrinceBuff",
+        "elixir": 5,
+        "type": "Troop",
+        "rarity": "Epic",
+        "arena": 7,
+        "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
+        "id": 26000086,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
+    },
+    {
         "key": "phoenix",
         "name": "Phoenix",
         "sc_key": "Phoenix",
@@ -1140,7 +1153,7 @@
         "arena": 5,
         "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get too close!",
         "id": 27000002,
-        "evolved_spells_sc_key": "",
+        "evolved_spells_sc_key": "Mortar_EV1",
         "is_evolved": false
     },
     {

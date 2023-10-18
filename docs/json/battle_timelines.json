@@ -563,5 +563,46 @@
         "section_flags": "No60sWarning",
         "id": 72000015,
         "name_en": "ClanWar_BoatBattle"
+    },
+    {
+        "name": "DoubleToTripleElixir",
+        "section_length": [
+            180,
+            120
+        ],
+        "section_type": [
+            "Normal",
+            "Overtime"
+        ],
+        "starting_elixir": [
+            3,
+            0
+        ],
+        "elixir_rate_length": [
+            180,
+            120
+        ],
+        "elixir_full_bar_ms": [
+            14000,
+            9300
+        ],
+        "elixir_rate_visible": [
+            20,
+            30
+        ],
+        "elixir_notify_change": [
+            true,
+            true
+        ],
+        "next_spell_cooldown_length": [
+            300,
+            300
+        ],
+        "next_spell_cooldown_ms": [
+            500,
+            350
+        ],
+        "id": 72000016,
+        "name_en": "DoubleToTripleElixir"
     }
 ]
