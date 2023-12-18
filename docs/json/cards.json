@@ -1558,5 +1558,18 @@
         "id": 28000020,
         "evolved_spells_sc_key": "",
         "is_evolved": false
+    },
+    {
+        "key": "little-prince",
+        "name": "Little Prince",
+        "sc_key": "LittlePrince",
+        "elixir": 3,
+        "type": "Troop",
+        "rarity": "Champion",
+        "arena": 18,
+        "description": "Who let their nephew into the Arena?! This mischievous Royal gains Hit Speed when firing, as long as he stands still! He may look weak, but he's always being watched over from afar...",
+        "id": 26000093,
+        "evolved_spells_sc_key": "",
+        "is_evolved": false
     }
 ]
